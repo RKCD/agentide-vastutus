@@ -123,13 +123,20 @@ def test_vana_olek_kustutatakse():
     assert list(radar.lae_olek()["nähtud"]) == ["b"]
 
 
-def test_kontrolli_allikaid():
+def test_kontrolli_allikaid(monkeypatch):
+    # oma konfi, et test ei sõltuks päris allikate nimekirjast
+    monkeypatch.setattr(radar, "lae_konf", lambda: [
+        {"id": "hea", "nimi": "H", "tüüp": "html", "url": "https://ex.ee/", "lubatud": True},
+        {"id": "katki", "nimi": "K", "tüüp": "html", "url": "https://ex.ee/katki", "lubatud": True},
+        {"id": "väljas", "nimi": "V", "tüüp": "html", "url": "", "lubatud": False, "märkus": "x"},
+    ])
+
     def lae_ühe_veaga(url):
-        if "riigiteataja" in url:
+        if url.endswith("/katki"):
             raise OSError("403")
         return HTML
     tabel = "\n".join(radar.kontrolli_allikaid(lae_ühe_veaga))
-    assert "OK" in tabel and "VIGA" in tabel and "välja lülitatud" in tabel
+    assert "| hea | OK" in tabel and "| katki | VIGA" in tabel and "| väljas | välja lülitatud" in tabel
 
 
 def test_pärisfailid_laevad():

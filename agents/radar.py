@@ -243,9 +243,12 @@ def kogu(allikad: list[dict], lae=lae_http) -> tuple[list[Kirje], list[str]]:
     return kirjed, vead
 
 
+def lae_konf() -> list[dict]:
+    return yaml.safe_load((ROOT / "config" / "allikad.yaml").read_text(encoding="utf-8"))["allikad"]
+
+
 def lae_allikad() -> list[dict]:
-    kõik = yaml.safe_load((ROOT / "config" / "allikad.yaml").read_text(encoding="utf-8"))["allikad"]
-    return [a for a in kõik if a.get("lubatud") and a.get("url")]
+    return [a for a in lae_konf() if a.get("lubatud") and a.get("url")]
 
 
 def käivita(*, klient, täna: dt.date, lagi: int, kuiv=False, seed=False, lae=lae_http) -> dict:
@@ -294,7 +297,7 @@ def käivita(*, klient, täna: dt.date, lagi: int, kuiv=False, seed=False, lae=l
 
 def kontrolli_allikaid(lae=lae_http) -> list[str]:
     rida = ["| Allikas | Tulemus |", "|---|---|"]
-    for a in yaml.safe_load((ROOT / "config" / "allikad.yaml").read_text(encoding="utf-8"))["allikad"]:
+    for a in lae_konf():
         if not a.get("lubatud") or not a.get("url"):
             rida.append(f"| {a['id']} | välja lülitatud ({puhasta(a.get('märkus', ''), 80)}) |")
             continue
