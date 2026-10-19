@@ -1,0 +1,4 @@
+anthropic==1.15.0
+beautifulsoup4==4.13.4
+defusedxml==0.7.1
+PyYAML==6.0.2

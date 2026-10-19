@@ -1,0 +1,81 @@
+# Radari allikad. Lihtne muuta: lisa/eemalda kirje, pane `lubatud: false`, et peatada.
+#
+# tüüp:
+#   rss   - RSS või Atom voog (url on voo aadress)
+#   html  - tavaline leht; Radar võtab sealt välja piisavalt pikad lingid
+#
+# NB! Ühtegi allikat pole siit keskkonnast veel kontrollida saanud (võrk blokeeritud).
+# Kontrolli neid GitHub Actionsis: Actions -> Radar -> Run workflow -> toiming: kontrolli_allikaid.
+# Mittetöötavad märgi `lubatud: false` ja kirjuta põhjus märkusesse.
+
+allikad:
+  - id: riigiteataja
+    nimi: Riigi Teataja
+    tüüp: html
+    url: https://www.riigiteataja.ee/
+    tase: EE
+    lubatud: true
+    märkus: Avaleht. Eraldi RSS-i ei ole kontrollitud.
+
+  - id: eelnoud
+    nimi: Eelnõude infosüsteem
+    tüüp: html
+    url: https://eelnoud.valitsus.ee/main
+    tase: EE
+    lubatud: true
+    märkus: Võib vajada JavaScripti. Kui kontroll ei leia linke, vaheta RSS-i vastu.
+
+  - id: ria
+    nimi: RIA uudised
+    tüüp: html
+    url: https://www.ria.ee/uudised
+    tase: EE
+    lubatud: true
+
+  - id: aki
+    nimi: Andmekaitse Inspektsioon
+    tüüp: html
+    url: https://www.aki.ee/
+    tase: EE
+    lubatud: true
+
+  - id: ttja-ai
+    nimi: TTJA tehisintellektisüsteemid
+    tüüp: html
+    url: https://ttja.ee/ariklient/ohutus/tooted-teenused/tehisintellektisusteemid
+    tase: EE
+    lubatud: true
+
+  - id: edpb
+    nimi: EDPB
+    tüüp: html
+    url: https://www.edpb.europa.eu/
+    tase: EL
+    lubatud: true
+    märkus: Avaleht. Uudiste lehe täpne aadress kontrollimata.
+
+  - id: eurlex
+    nimi: EUR-Lex (uued õigusaktid)
+    tüüp: rss
+    url: ""
+    tase: EL
+    lubatud: false
+    märkus: >-
+      EUR-Lexi RSS-voo loob kasutaja ise EUR-Lexi kontol (otsing -> RSS). Lisa siia
+      selle voo aadress ja pane lubatud: true.
+
+  - id: aruaid
+    nimi: Aruaid projekti leht
+    tüüp: html
+    url: ""
+    tase: EE
+    lubatud: false
+    märkus: Aadress teadmata. Lisa, kui see on olemas.
+
+  - id: ec-ai-office
+    nimi: Euroopa Komisjon, AI Office ja digistrateegia
+    tüüp: html
+    url: ""
+    tase: EL
+    lubatud: false
+    märkus: Uudiste lehe aadress kontrollimata. Lisa, kui see on olemas.

@@ -1,0 +1,25 @@
+# Märksõnafilter enne LLM-i. Võrdlus on tõstutundetu ja otsib sõna algust
+# (nt "tehisintellekt" tabab ka "tehisintellekti").
+märksõnad:
+  - agent
+  - autonoomn
+  - agentic
+  - autonomous
+  - tehisintellekt
+  - tehisaru
+  - artificial intelligence
+  - "AI "
+  - "AI-"
+  - tehisintellekti määrus
+  - AI Act
+  - vastutus
+  - liability
+  - automaatne otsus
+  - automaatne haldus
+  - automated decision
+  - tootevastutus
+  - product liability
+  - algoritm
+  - masinõpe
+  - machine learning
+  - omnibus

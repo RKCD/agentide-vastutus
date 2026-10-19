@@ -1,0 +1,63 @@
+name: Radar
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+    inputs:
+      toiming:
+        description: "radar = tavajooks, seed = märgi praegused kirjed nähtuks (LLM-ita), kuiv = näita mis läheks hindamisele, kontrolli_allikaid = testi allikaid"
+        type: choice
+        default: radar
+        options: [radar, seed, kuiv, kontrolli_allikaid]
+      max_calls:
+        description: "LLM-kõnede lagi"
+        default: "50"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements-agents.txt
+      - run: pip install -r requirements-agents.txt
+      - run: python -m pip install pytest==8.4.1 && python -m pytest -q tests
+
+      - name: Käivita
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          RADAR_MAX_CALLS: ${{ inputs.max_calls || '50' }}
+          TOIMING: ${{ inputs.toiming || 'radar' }}
+        run: |
+          case "$TOIMING" in
+            kontrolli_allikaid) python agents/radar.py --kontrolli-allikaid | tee -a "$GITHUB_STEP_SUMMARY" ;;
+            seed) python agents/radar.py --seed | tee -a "$GITHUB_STEP_SUMMARY" ;;
+            kuiv) python agents/radar.py --kuiv | tee -a "$GITHUB_STEP_SUMMARY" ;;
+            *)    python agents/radar.py | tee -a "$GITHUB_STEP_SUMMARY" ;;
+          esac
+
+      # Inbox on toormaterjal, mitte avalik sisu: commit otse main'i. Tühja jooksu ei commit'i.
+      - name: Commit inbox ja olek
+        run: |
+          git config user.name "radar[bot]"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add inbox state
+          if git diff --cached --quiet; then
+            echo "Muudatusi pole, commit'i ei tehta."
+          else
+            git commit -m "Radar $(date -u +%F)"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

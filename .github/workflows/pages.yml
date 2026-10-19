@@ -3,6 +3,7 @@ name: Ehita ja avalda leht
 on:
   push:
     branches: [main]
+    paths-ignore: [inbox/**, state/**, drafts/**]
   workflow_dispatch:
 
 permissions:
