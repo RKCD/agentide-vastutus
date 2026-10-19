@@ -83,3 +83,16 @@ allikad:
     tase: EL
     lubatud: false
     märkus: Uudiste lehe aadress kontrollimata. Lisa, kui see on olemas.
+
+# Proovid: aadressid, mida allikakontroll ainult mõõdab (Radar neid ei loe).
+# Eesmärk on teada saada, kas ametlik API või ELI-link töötab paremini kui HTML-leht.
+proovid:
+  - id: proov-rt-api
+    url: https://www.riigiteataja.ee/public-api/api/v1/akt/131122024048/txt
+    märkus: Riigi Teataja avalik API, TsÜS tekst (aadress pärineb veebiotsingust)
+  - id: proov-rt-akt
+    url: https://www.riigiteataja.ee/akt/109072026012
+    märkus: Riigi Teataja akti leht, HMS muutmise seadus
+  - id: proov-eurlex-eli
+    url: https://eur-lex.europa.eu/eli/reg/2024/1689/oj
+    märkus: EUR-Lex ELI-link, AI-määrus

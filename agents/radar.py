@@ -21,6 +21,7 @@ import json
 import os
 import re
 import sys
+import urllib.error
 import urllib.request
 from dataclasses import dataclass
 from pathlib import Path
@@ -296,17 +297,64 @@ def käivita(*, klient, täna: dt.date, lagi: int, kuiv=False, seed=False, lae=l
             "peatatud": peatatud, "kõnesid": hindaja.kõned, "hind_usd": round(hindaja.hind_usd, 4)}
 
 
-def kontrolli_allikaid(lae=lae_http) -> list[str]:
-    rida = ["| Allikas | Tulemus |", "|---|---|"]
-    for a in lae_konf():
-        if not a.get("lubatud") or not a.get("url"):
-            rida.append(f"| {a['id']} | välja lülitatud ({puhasta(a.get('märkus', ''), 80)}) |")
+KAITSE_MÄRGID = ("captcha", "cf-chl", "challenge-platform", "awswaf", "access denied",
+                 "request rejected", "enable javascript", "javascript is required", "bot detection")
+
+
+def diagnoos(url: str) -> dict:
+    """Mõõdab, mida aadress tegelikult tagastab: kood, tüüp, maht, tekst, kaitsemärgid."""
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "*/*"})
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            kood, tüüp, keha = r.status, r.headers.get("Content-Type", ""), r.read(LUBATUD_MAHT)
+    except urllib.error.HTTPError as e:
+        kood, tüüp, keha = e.code, e.headers.get("Content-Type", ""), e.read(200_000)
+    except Exception as e:
+        return {"viga": f"{type(e).__name__}: {puhasta(str(e), 100)}"}
+    tulemus = {"kood": kood, "tüüp": tüüp.split(";")[0], "baite": len(keha)}
+    if "html" in tüüp:
+        soup = BeautifulSoup(keha, "html.parser")
+        tekst = puhasta(soup.get_text(" "), 10**7)
+        tulemus |= {"teksti": len(tekst), "skripte": len(soup.find_all("script")),
+                    "linke": len(soup.find_all("a", href=True)),
+                    "pealkiri": puhasta(soup.title.get_text() if soup.title else "", 60)}
+    else:
+        tekst = keha[:200_000].decode("utf-8", "replace")
+        tulemus["teksti"] = len(tekst)
+    madal = tekst.lower()
+    tulemus["kaitse"] = [m for m in KAITSE_MÄRGID if m in madal]
+    return tulemus
+
+
+def hinnang_diagnoosile(d: dict) -> str:
+    if "viga" in d:
+        return "ühendus ebaõnnestus"
+    if d["kood"] in (401, 403, 429) or d["kaitse"]:
+        return "robotikaitse või keeld"
+    if d["kood"] >= 400:
+        return f"HTTP {d['kood']}"
+    if d.get("skripte", 0) > 5 and d.get("teksti", 0) < 1500:
+        return "tühi JavaScripti kest"
+    return "loetav"
+
+
+def kontrolli_allikaid(lae=lae_http, diag=diagnoos) -> list[str]:
+    rida = ["| Allikas | Kirjeid | Järeldus | Mõõdetud |", "|---|---|---|---|"]
+    konf = yaml.safe_load((ROOT / "config" / "allikad.yaml").read_text(encoding="utf-8"))
+    for a in lae_konf() + konf.get("proovid", []):
+        if not a.get("url"):
+            rida.append(f"| {a['id']} | – | aadress puudub | {puhasta(a.get('märkus', ''), 60)} |")
             continue
-        try:
-            n = len(lae_allikas(a, lae))
-            rida.append(f"| {a['id']} | {'OK' if n else 'HOIATUS'}: {n} kirjet |")
-        except Exception as e:
-            rida.append(f"| {a['id']} | VIGA: {type(e).__name__}: {puhasta(str(e), 120)} |")
+        n = "–"
+        if a.get("lubatud") and a.get("tüüp") in ("rss", "html"):
+            try:
+                n = str(len(lae_allikas(a, lae)))
+            except Exception as e:
+                n = f"viga: {type(e).__name__}"
+        d = diag(a["url"])
+        mõõt = ", ".join(f"{k}={v}" for k, v in d.items() if v not in ("", []))
+        olek = "" if a.get("lubatud") else " (väljas)"
+        rida.append(f"| {a['id']}{olek} | {n} | {hinnang_diagnoosile(d)} | {mõõt} |")
     return rida
 
 

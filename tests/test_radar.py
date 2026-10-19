@@ -135,8 +135,22 @@ def test_kontrolli_allikaid(monkeypatch):
         if url.endswith("/katki"):
             raise OSError("403")
         return HTML
-    tabel = "\n".join(radar.kontrolli_allikaid(lae_ühe_veaga))
-    assert "| hea | OK" in tabel and "| katki | VIGA" in tabel and "| väljas | välja lülitatud" in tabel
+    def diag(url):
+        return {"kood": 403, "tüüp": "text/html", "kaitse": []} if url.endswith("/katki") else \
+            {"kood": 200, "tüüp": "text/html", "teksti": 5000, "skripte": 1, "kaitse": []}
+    tabel = "\n".join(radar.kontrolli_allikaid(lae_ühe_veaga, diag))
+    assert "| hea | 1 | loetav" in tabel
+    assert "| katki | viga: OSError | robotikaitse või keeld" in tabel
+    assert "| väljas | – | aadress puudub" in tabel
+
+
+def test_hinnang_diagnoosile():
+    h = radar.hinnang_diagnoosile
+    assert h({"viga": "x"}) == "ühendus ebaõnnestus"
+    assert h({"kood": 200, "kaitse": ["captcha"]}) == "robotikaitse või keeld"
+    assert h({"kood": 404, "kaitse": []}) == "HTTP 404"
+    assert h({"kood": 200, "kaitse": [], "skripte": 12, "teksti": 300}) == "tühi JavaScripti kest"
+    assert h({"kood": 200, "kaitse": [], "skripte": 2, "teksti": 9000}) == "loetav"
 
 
 def test_pärisfailid_laevad():
