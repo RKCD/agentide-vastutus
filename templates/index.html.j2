@@ -1,0 +1,185 @@
+{%- set m = k.meta -%}
+{%- set staatus_silt = {"kehtib": "kehtib", "kohaldub_alates": "kohaldub alates", "eelnõu": "eelnõu", "tühistatud": "tühistatud / tagasi võetud"} -%}
+{%- macro norm(n) -%}
+<li class="norm">
+  <div class="norm-pea">
+    <span class="tase tase-{{ n.tase }}">{{ n.tase }}</span>
+    <strong>{{ n.akt }}</strong>
+    <span class="sate">{{ n["säte"] }}</span>
+  </div>
+  <p>{{ n["mida_ütleb"] }}</p>
+  <div class="norm-jalg">
+    <span class="staatus st-{{ n.staatus }}">{{ staatus_silt[n.staatus] }}{% if n.get("alates") %} {{ n["alates"].strftime("%d.%m.%Y") }}{% endif %}</span>
+    <a href="{{ n.allika_url }}" rel="noopener">Allikas</a>
+  </div>
+</li>
+{%- endmacro -%}
+<!doctype html>
+<html lang="{{ m.keel }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ m.pealkiri }}</title>
+<meta name="description" content="{{ m.alapealkiri | trim }}">
+<link rel="icon" href="{{ '' if m.keel == 'et' else '../' }}favicon.svg" type="image/svg+xml">
+<style>
+:root {
+  --bg: #fbfaf7; --pind: #ffffff; --tekst: #1d1d1b; --nork: #5c5a55;
+  --joon: #e3e0d8; --rõhk: #1f5f8b; --hoiatus-bg: #fff4d6; --hoiatus: #7a5300;
+  --ee: #0a6b5a; --el: #2a4f9e; --lahtine-bg: #f1eefb; --lahtine: #4b3a8c;
+  --raadius: 10px;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #15171a; --pind: #1d2024; --tekst: #e8e6e1; --nork: #a19e97;
+    --joon: #33373d; --rõhk: #7fb6e0; --hoiatus-bg: #3a2f12; --hoiatus: #f0c96a;
+    --ee: #5fc7b2; --el: #94b2f2; --lahtine-bg: #27223a; --lahtine: #c3b6f2;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #15171a; --pind: #1d2024; --tekst: #e8e6e1; --nork: #a19e97;
+  --joon: #33373d; --rõhk: #7fb6e0; --hoiatus-bg: #3a2f12; --hoiatus: #f0c96a;
+  --ee: #5fc7b2; --el: #94b2f2; --lahtine-bg: #27223a; --lahtine: #c3b6f2;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--tekst);
+  font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+.wrap { max-width: 860px; margin: 0 auto; padding: 0 16px; }
+a { color: var(--rõhk); }
+header { padding: 40px 0 16px; }
+h1 { font-size: clamp(1.6rem, 4vw, 2.2rem); line-height: 1.2; margin: 0 0 8px; letter-spacing: -0.01em; }
+h2 { font-size: 1.25rem; margin: 40px 0 12px; }
+h3 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--nork); margin: 20px 0 8px; }
+.ala { color: var(--nork); margin: 0 0 12px; max-width: 65ch; }
+.meta { font-size: 0.875rem; color: var(--nork); display: flex; gap: 16px; flex-wrap: wrap; align-items: center; }
+.teema { margin-left: auto; background: none; border: 1px solid var(--joon); color: var(--tekst);
+  border-radius: 999px; padding: 4px 12px; font: inherit; cursor: pointer; }
+.loobumine { background: var(--hoiatus-bg); color: var(--hoiatus); border-radius: var(--raadius);
+  padding: 12px 16px; margin: 16px 0 0; font-size: 0.95rem; }
+.loobumine strong { color: inherit; }
+details.st { background: var(--pind); border: 1px solid var(--joon); border-radius: var(--raadius); margin: 0 0 12px; }
+details.st > summary { list-style: none; cursor: pointer; padding: 16px 44px 16px 16px; position: relative; }
+details.st > summary::-webkit-details-marker { display: none; }
+details.st > summary::after { content: "+"; position: absolute; right: 16px; top: 14px; font-size: 1.4rem; color: var(--nork); }
+details.st[open] > summary::after { content: "−"; }
+.st-pealkiri { font-weight: 600; font-size: 1.05rem; display: block; }
+.st-kirjeldus { color: var(--nork); display: block; margin-top: 4px; }
+.margid { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 8px; }
+.mark { font-size: 0.75rem; padding: 2px 8px; border-radius: 999px; border: 1px solid var(--joon); color: var(--nork); }
+.mark.kontrollimata { background: var(--hoiatus-bg); color: var(--hoiatus); border-color: transparent; font-weight: 600; }
+.sisu { padding: 0 16px 16px; border-top: 1px solid var(--joon); }
+.naide { border-left: 3px solid var(--joon); padding: 4px 12px; color: var(--nork); font-style: italic; margin: 16px 0 0; }
+ul.normid { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
+.norm { border: 1px solid var(--joon); border-radius: 8px; padding: 10px 12px; }
+.norm p { margin: 6px 0; }
+.norm-pea { display: flex; gap: 8px; flex-wrap: wrap; align-items: baseline; }
+.sate { color: var(--nork); font-size: 0.9rem; }
+.tase { font-size: 0.7rem; font-weight: 700; padding: 1px 6px; border-radius: 4px; color: var(--pind); }
+.tase-EE { background: var(--ee); } .tase-EL { background: var(--el); }
+.norm-jalg { display: flex; gap: 12px; align-items: center; font-size: 0.85rem; flex-wrap: wrap; }
+.staatus { color: var(--nork); }
+.st-eelnõu, .st-kohaldub_alates { color: var(--hoiatus); font-weight: 600; }
+.st-tühistatud { text-decoration: line-through; }
+dl.rollid { margin: 0; } dl.rollid dt { font-weight: 600; } dl.rollid dd { margin: 0 0 8px; color: var(--nork); }
+.lahtine { background: var(--lahtine-bg); color: var(--lahtine); border-radius: 8px; padding: 10px 12px 10px 32px; margin: 0; }
+.lahtine li { margin: 4px 0; }
+.uuendatud { font-size: 0.8rem; color: var(--nork); margin-top: 16px; }
+.muutus { background: var(--pind); border: 1px dashed var(--joon); border-radius: var(--raadius); padding: 12px 16px; color: var(--nork); }
+.changelog { font-size: 0.95rem; }
+.changelog h2 { font-size: 1rem; margin: 16px 0 4px; }
+footer { border-top: 1px solid var(--joon); margin-top: 48px; padding: 24px 0 48px; font-size: 0.9rem; color: var(--nork); }
+footer p { margin: 4px 0; }
+@media print {
+  .teema { display: none; }
+  body { background: #fff; color: #000; }
+  details.st { break-inside: avoid; }
+  details.st > summary::after { display: none; }
+  a[href^="http"]::after { content: " (" attr(href) ")"; font-size: 0.75em; word-break: break-all; }
+}
+</style>
+<script>
+try { var t = localStorage.getItem("teema"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+</script>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1>{{ m.pealkiri }}</h1>
+  <p class="ala">{{ m.alapealkiri }}</p>
+  <div class="meta">
+    <span>Versioon {{ m.versioon }}</span>
+    <span>Viimati uuendatud {{ m.viimati_uuendatud.strftime("%d.%m.%Y") }}</span>
+    <button class="teema" type="button" aria-label="Vaheta heledat ja tumedat režiimi">Hele / tume</button>
+  </div>
+  <p class="loobumine"><strong>See ei ole õigusnõuanne.</strong> Kaart on orienteeriv ülevaade. Iga väite juures on link allikale. Väited, mida autor pole veel esmaallikast üle kontrollinud, on märgitud sildiga <em>kontrollimata</em>. Konkreetses olukorras pea nõu juristiga.</p>
+</header>
+
+<main>
+<h2>Olukorrad</h2>
+{% for s in k.stsenaariumid %}
+<details class="st" id="{{ s.id }}">
+  <summary>
+    <span class="st-pealkiri">{{ s.pealkiri }}</span>
+    <span class="st-kirjeldus">{{ s["lühikirjeldus"] }}</span>
+    <span class="margid">
+      {% if not s.kontrollitud %}<span class="mark kontrollimata">kontrollimata</span>{% endif %}
+      <span class="mark">{{ s.normid | length }} normi</span>
+      <span class="mark">{{ s["lahtised_küsimused"] | length }} lahtist küsimust</span>
+    </span>
+  </summary>
+  <div class="sisu">
+    <p class="naide">Näide: {{ s["näide"] }}</p>
+    <h3>Normid</h3>
+    <ul class="normid">{% for n in s.normid %}{{ norm(n) }}{% endfor %}</ul>
+    <h3>Kes vastutab</h3>
+    <dl class="rollid">{% for r in s.kes_vastutab %}<dt>{{ r.roll }}</dt><dd>{{ r.selgitus }}</dd>{% endfor %}</dl>
+    <h3>Kuhu teatada</h3>
+    <dl class="rollid">{% for t in s.kuhu_teatada %}<dt><a href="{{ t.link }}" rel="noopener">{{ t.asutus }}</a></dt><dd>{{ t.millal }}</dd>{% endfor %}</dl>
+    {% if s["lahtised_küsimused"] %}
+    <h3>Lahtised küsimused</h3>
+    <ul class="lahtine">{% for q in s["lahtised_küsimused"] %}<li>{{ q }}</li>{% endfor %}</ul>
+    {% endif %}
+    <p class="uuendatud">Viimati uuendatud {{ s.viimati_uuendatud.strftime("%d.%m.%Y") }}.{% if s.kontrollitud %} Kontrollitud {{ s.kontrollitud.strftime("%d.%m.%Y") }}.{% else %} Kontrollimata.{% endif %}</p>
+  </div>
+</details>
+{% endfor %}
+
+<h2>Taust: normid, mis puudutavad kõiki olukordi</h2>
+<ul class="normid">{% for n in k.taust %}{{ norm(n) }}{% endfor %}</ul>
+
+<h2>Mis muutus sel nädalal</h2>
+{% if k.nadala_muutused %}
+<ul>{% for c in k.nadala_muutused %}<li>{{ c.tekst }} <a href="{{ c.allika_url }}" rel="noopener">Allikas</a></li>{% endfor %}</ul>
+{% else %}
+<p class="muutus">See on esimene versioon (v{{ m.versioon }}). Alates järgmisest nädalast on siin lühike ülevaade uutest õigusaktidest, eelnõudest ja juhenditest.</p>
+{% endif %}
+
+<h2>Muudatuste ajalugu</h2>
+<div class="changelog">{{ changelog_html | safe }}</div>
+</main>
+
+<footer>
+  <p><strong>{{ m.autor.nimi }}</strong>. {{ m.autor.taust }}</p>
+  <p>Mis siit puudu on? Kirjuta: <a href="mailto:{{ m.autor.kontakt }}">{{ m.autor.kontakt }}</a></p>
+  <p>Leht ehitatud {{ ehitatud }}.</p>
+</footer>
+</div>
+<script>
+document.querySelector(".teema").addEventListener("click", function () {
+  var r = document.documentElement;
+  var tume = r.dataset.theme ? r.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+  r.dataset.theme = tume ? "light" : "dark";
+  try { localStorage.setItem("teema", r.dataset.theme); } catch (e) {}
+});
+var avatud = [];
+addEventListener("beforeprint", function () {
+  document.querySelectorAll("details.st").forEach(function (d) { if (!d.open) { avatud.push(d); d.open = true; } });
+});
+addEventListener("afterprint", function () { avatud.forEach(function (d) { d.open = false; }); avatud = []; });
+if (location.hash) { var d = document.getElementById(location.hash.slice(1)); if (d && d.tagName === "DETAILS") d.open = true; }
+</script>
+</body>
+</html>

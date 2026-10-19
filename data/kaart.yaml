@@ -1,0 +1,524 @@
+# Agentide vastutuse kaart Eestis — andmefail
+#
+# Iga väide peab omama allikalinki (allika_url). build.py keeldub lehte
+# ehitamast, kui mõnel normil link puudub.
+#
+# Väljad:
+#   staatus: kehtib | kohaldub_alates | eelnõu | tühistatud
+#   alates:  kuupäev (kohustuslik, kui staatus on kohaldub_alates)
+#   tase:    EL | EE
+#   kontrollida: (valikuline) mida Robert peab esmaallikast üle vaatama
+#   kontrollitud: false | YYYY-MM-DD   (vaikimisi false)
+
+meta:
+  pealkiri: Agentide vastutuse kaart Eestis
+  alapealkiri: >-
+    Millised Eesti ja EL-i normid rakenduvad, kui AI-agent eksib, kes vastutab
+    ja kuhu teatada. Ülevaade on koostatud olukordade, mitte seaduste kaupa.
+  versioon: "0.1"
+  viimati_uuendatud: 2026-10-19
+  keel: et
+  autor:
+    nimi: Robert Kond
+    taust: >-
+      Endine kliima- ja taastuvenergia spetsialist ministeeriumis. Ehitab
+      Claude'i agente EL-i regulatsiooni jaoks.
+    kontakt: acceleratedigitaltwin@gmail.com
+
+# Täidab Tõlk-agent (Etapp 3). Tühi loend = kuvatakse v0.1 märge.
+nadala_muutused: []
+
+# Üldised taustanormid, mis puudutavad kõiki stsenaariume.
+taust:
+  - akt: Tehisintellekti määrus (EL) 2024/1689
+    säte: art 113 (kohaldamise algus)
+    mida_ütleb: >-
+      Määrus jõustus 2024. aastal ja hakkab kohalduma etapiviisiliselt.
+      Keelatud tavad kohalduvad alates 2.02.2025, üldotstarbelise AI mudelite
+      reeglid alates 2.08.2025, läbipaistvuskohustused (art 50) alates 2.08.2026.
+    allika_url: https://eur-lex.europa.eu/eli/reg/2024/1689/oj
+    tase: EL
+    staatus: kehtib
+    kontrollida: Kuupäevad art 113-st. Kas omnibus muutis ka art 50 kohaldamist.
+  - akt: Digi-omnibus AI kohta, määrus (EL) 2026/1744
+    säte: AI-määruse art 113 muudatused
+    mida_ütleb: >-
+      Lükkab suure riskiga süsteemide nõuded edasi. III lisa süsteemid (nt töö,
+      haridus, avalikud teenused): 2.12.2027. I lisa tooted: 2.08.2028.
+      Avaldatud ELT-s 24.07.2026, jõus 27.07.2026.
+    allika_url: https://eur-lex.europa.eu/eli/reg/2026/1744/oj
+    tase: EL
+    staatus: kehtib
+    kontrollida: >-
+      Määruse number ja kuupäevad pärinevad teisestest allikatest (Orrick,
+      ActuIA, Cooley). Kontrolli ELT tekstist. Kontrolli ka, kas omnibus muutis
+      art 4 (AI-kirjaoskus) kohustust.
+  - akt: AI vastutuse direktiivi ettepanek (COM(2022) 496)
+    säte: kogu ettepanek
+    mida_ütleb: >-
+      Komisjon võttis ettepaneku tagasi. Eraldi EL-i AI-vastutuse reeglit seega
+      ei tule. Lepinguväline vastutus jääb riigisisese õiguse ja uue
+      tootevastutuse direktiivi kanda.
+    allika_url: https://eapil.org/2025/10/09/european-commission-withdraws-two-proposals-assignments-of-claims-regulation-and-ai-liability-directive/
+    tase: EL
+    staatus: tühistatud
+    kontrollida: >-
+      Allikas on teisene (EAPIL blogi). Leia ELT teade tagasivõtmise kohta
+      (6.10.2025) ja asenda link.
+  - akt: Tootevastutuse direktiiv (EL) 2024/2853
+    säte: art 4 (toote mõiste), art 22 (ülevõtmine)
+    mida_ütleb: >-
+      Tarkvara, sh AI-süsteem, loetakse tooteks. Puudusega tootest tekkinud
+      kahju eest vastutab tootja ka ilma süüta. Liikmesriigid peavad direktiivi
+      üle võtma hiljemalt 9.12.2026.
+    allika_url: https://eur-lex.europa.eu/eli/dir/2024/2853/oj
+    tase: EL
+    staatus: kohaldub_alates
+    alates: 2026-12-09
+    kontrollida: Artiklite numbrid (tarkvara kui toode, ülevõtmise tähtaeg).
+  - akt: Võlaõigusseaduse muutmise eelnõu (tootevastutus)
+    säte: VÕS tootevastutuse sätted (§ 1061 jj)
+    mida_ütleb: >-
+      Justiits- ja Digiministeerium on koostanud eelnõu uue tootevastutuse
+      direktiivi ülevõtmiseks. Eesmärk on laiendada vastutavate ettevõtjate
+      ringi ja hõlmata tarkvara.
+    allika_url: https://www.e-kaubanduseliit.ee/uudised/puudusega-toote-eest-vastutavate-ettevotjate-ring-laieneb
+    tase: EE
+    staatus: eelnõu
+    kontrollida: >-
+      Allikas on teisene. Leia eelnõu EIS-ist või Riigikogu lehelt, märgi
+      eelnõu number ja menetlusetapp. Paragrahvide vahemik vajab kontrolli.
+
+stsenaariumid:
+
+  - id: tehing
+    pealkiri: Agent teeb kliendi nimel tehingu, mis läheb valesti
+    lühikirjeldus: >-
+      Agent tellib, ostab või maksab kellegi nimel ja teeb seda valesti: vale
+      kogus, vale hind, tehing, mida klient ei soovinud.
+    näide: >-
+      Ettevõtte ostuagent tellib tarnijalt 1000 ühikut 100 asemel. Tarnija
+      nõuab tasu. Ettevõte ütleb, et ta ei soovinud seda tellimust.
+    normid:
+      - akt: Tsiviilseadustiku üldosa seadus (TsÜS)
+        säte: § 115 jj (esindus)
+        mida_ütleb: >-
+          Esindaja teeb tehingu esindatava nimel ja see seob esindatavat, kui
+          esindajal oli esindusõigus. Esindajaks saab olla isik. AI-agent ei ole
+          isik.
+        allika_url: https://www.riigiteataja.ee/akt/131122024048
+        tase: EE
+        staatus: kehtib
+        kontrollida: >-
+          Link viitab 1.01.2025 redaktsioonile, kontrolli kehtivat. Kontrolli
+          § 115 ja § 129 (esindusõiguseta tehing) sõnastust.
+      - akt: Võlaõigusseadus (VÕS)
+        säte: § 103 (vastutus kohustuse rikkumise eest), § 115 (kahju hüvitamine)
+        mida_ütleb: >-
+          Kui teenuse osutaja rikub lepingut (nt agent ei tee seda, mis
+          kokku lepiti), vastutab ta kliendi ees lepingu alusel. Vastutusest
+          vabaneb ta vaid siis, kui rikkumine on vabandatav.
+        allika_url: https://www.riigiteataja.ee/akt/V%C3%95S
+        tase: EE
+        staatus: kehtib
+        kontrollida: >-
+          Paragrahvide numbrid on mälu järgi, kontrolli. URL on tuletatud
+          Riigi Teataja lühendilingi mustrist (sama muster töötab KüTS-il).
+      - akt: Makseteenuste direktiiv (EL) 2015/2366 (PSD2)
+        säte: art 64 (nõusolek), art 73 (volitamata makse)
+        mida_ütleb: >-
+          Makse on volitatud ainult siis, kui maksja on selleks nõusoleku
+          andnud. Volitamata makse peab makseteenuse pakkuja üldjuhul
+          tagastama.
+        allika_url: https://eur-lex.europa.eu/eli/dir/2015/2366/oj
+        tase: EL
+        staatus: kehtib
+        kontrollida: >-
+          Artiklite numbrid. Eesti ülevõttev säte (VÕS makseteenuste osa).
+          Kas PSD3/makseteenuste määrus on vahepeal vastu võetud.
+      - akt: Digitaalse tegevuskerksuse määrus (EL) 2022/2554 (DORA)
+        säte: art 19 (IKT-intsidendist teatamine)
+        mida_ütleb: >-
+          Kui tehingut teeb finantsasutuse süsteem, kehtivad finantsasutusele
+          IKT-riski ja intsidentidest teatamise nõuded.
+        allika_url: https://eur-lex.europa.eu/eli/reg/2022/2554/oj
+        tase: EL
+        staatus: kehtib
+        kontrollida: Artikli number ja kas see stsenaarium üldse kuulub DORA alla.
+    kes_vastutab:
+      - roll: Agendi kasutaja (kelle nimel tehing tehti)
+        selgitus: >-
+          Kolmanda isiku ees on lähtekoht, et agendi kaudu tehtud tehing seob
+          kasutajat, sest agent on tema tööriist. Piirid on lahtised.
+      - roll: Agendi teenuse osutaja
+        selgitus: >-
+          Vastutab kasutaja ees lepingu alusel, kui agent ei toiminud nii, nagu
+          lubati.
+      - roll: Makseteenuse pakkuja
+        selgitus: Vastutab volitamata makse eest PSD2 reeglite järgi.
+    kuhu_teatada:
+      - asutus: Finantsinspektsioon
+        millal: Kui tehing puudutab finantsteenust või makset.
+        link: https://www.fi.ee
+      - asutus: Tarbijakaitse ja Tehnilise Järelevalve Amet (TTJA)
+        millal: Kui kahju sai tarbija.
+        link: https://ttja.ee
+    lahtised_küsimused:
+      - >-
+        Kas agendi tehtud tahteavaldust saab lugeda kasutaja enda
+        tahteavalduseks või on see esindus analoogia korras? Eesti kohtupraktikat
+        ei leidnud.
+      - >-
+        Kas makse, mille agent algatas kasutaja üldise volituse alusel, on
+        PSD2 mõttes "volitatud", kui konkreetne summa oli vale?
+      - Kas teine pool peab teadma, et suhtleb agendiga, ja mis juhtub, kui ei tea?
+    kontrollitud: false
+    viimati_uuendatud: 2026-10-19
+
+  - id: isikuandmed
+    pealkiri: Agent töötleb või lekitab isikuandmeid
+    lühikirjeldus: >-
+      Agent saab ligipääsu isikuandmetele ja kasutab neid valel eesmärgil või
+      saadab need valele saajale.
+    näide: >-
+      Klienditoe agent saadab vastuse koos teise kliendi lepingu andmetega
+      valele e-posti aadressile.
+    normid:
+      - akt: Isikuandmete kaitse üldmäärus (EL) 2016/679 (GDPR)
+        säte: art 5, art 24, art 28
+        mida_ütleb: >-
+          Vastutav töötleja (agenti kasutav organisatsioon) vastutab
+          töötlemise õiguspärasuse eest. Agendi pakkuja on tavaliselt volitatud
+          töötleja ja vajab lepingut (art 28).
+        allika_url: https://eur-lex.europa.eu/eli/reg/2016/679/oj
+        tase: EL
+        staatus: kehtib
+      - akt: Isikuandmete kaitse üldmäärus (EL) 2016/679 (GDPR)
+        säte: art 33, art 34
+        mida_ütleb: >-
+          Isikuandmetega seotud rikkumisest tuleb teatada järelevalveasutusele
+          põhjendamatu viivituseta ja võimaluse korral 72 tunni jooksul. Kui
+          risk inimestele on suur, tuleb teavitada ka neid.
+        allika_url: https://www.edpb.europa.eu/sme/assess-the-risks/data-breaches_et
+        tase: EL
+        staatus: kehtib
+        kontrollida: Link on EDPB juhend, mitte määruse tekst. Lisa vajadusel ELT link.
+      - akt: Isikuandmete kaitse üldmäärus (EL) 2016/679 (GDPR)
+        säte: art 82
+        mida_ütleb: >-
+          Inimene, kes sai rikkumise tõttu kahju, võib nõuda hüvitist nii
+          vastutavalt kui volitatud töötlejalt.
+        allika_url: https://eur-lex.europa.eu/eli/reg/2016/679/oj
+        tase: EL
+        staatus: kehtib
+      - akt: Isikuandmete kaitse seadus (IKS)
+        säte: üldsätted, järelevalve
+        mida_ütleb: >-
+          Täpsustab GDPR-i rakendamist Eestis. Järelevalvet teeb Andmekaitse
+          Inspektsioon.
+        allika_url: https://www.riigiteataja.ee/akt/IKS
+        tase: EE
+        staatus: kehtib
+        kontrollida: >-
+          URL on tuletatud lühendilingi mustrist. Kontrolli, milline IKS-i säte
+          on agendi stsenaariumi jaoks asjakohane.
+    kes_vastutab:
+      - roll: Vastutav töötleja (agenti kasutav organisatsioon)
+        selgitus: Vastutab rikkumise ja teatamise eest.
+      - roll: Volitatud töötleja (agendi pakkuja)
+        selgitus: >-
+          Vastutab, kui rikkus oma kohustusi või tegutses juhiste vastaselt.
+          Peab vastutavat töötlejat rikkumisest viivitamata teavitama.
+    kuhu_teatada:
+      - asutus: Andmekaitse Inspektsioon
+        millal: Rikkumisest teadasaamisest 72 tunni jooksul.
+        link: https://www.aki.ee
+    lahtised_küsimused:
+      - >-
+        Kui agent kasutab väliseid tööriistu (MCP-serverid, pluginad), kes on
+        nende tööriistade pakkuja GDPR-i mõttes? Volitatud töötleja,
+        alamtöötleja või eraldi vastutav töötleja?
+      - >-
+        Millal on organisatsioon rikkumisest "teada saanud", kui rikkumine on
+        näha ainult agendi logides, mida keegi ei loe?
+    kontrollitud: false
+    viimati_uuendatud: 2026-10-19
+
+  - id: avalik-sektor
+    pealkiri: Agent osaleb avaliku sektori otsuses
+    lühikirjeldus: >-
+      Agent valmistab ette või teeb haldusotsuse: toetus, luba, menetluse
+      käik.
+    näide: >-
+      Toetuse taotlus lükatakse tagasi automaatselt, sest agent luges
+      taotluse lisa valesti.
+    normid:
+      - akt: Haldusmenetluse seaduse ja avaliku teabe seaduse muutmise seadus
+        säte: HMS § 7¹ (automaatne haldusmenetlus)
+        mida_ütleb: >-
+          Lubab haldusorganil anda haldusakti või teha toimingu automaatselt,
+          ilma ametniku otsese osaluseta. Kui menetlusosaline kasutab
+          ärakuulamisõigust, jätkub menetlus ametnikuga. Kohaldub menetlustele,
+          mis algavad alates 1.07.2027.
+        allika_url: https://www.riigiteataja.ee/akt/109072026012
+        tase: EE
+        staatus: kohaldub_alates
+        alates: 2027-07-01
+        kontrollida: >-
+          Seaduse jõustumise säte (§ 3) jäi otsingus nägemata. Kontrolli
+          kaalutlusotsuste piirang ja märgistamise nõue.
+      - akt: Riigivastutuse seadus (RVastS)
+        säte: § 7
+        mida_ütleb: >-
+          Avaliku võimu kandja peab hüvitama õigusvastase tegevusega tekitatud
+          kahju. Eelduseks on muu hulgas, et esmased õiguskaitsevahendid
+          (vaie, kaebus) on kasutatud.
+        allika_url: https://www.riigiteataja.ee/akt/RVastS
+        tase: EE
+        staatus: kehtib
+        kontrollida: URL on tuletatud lühendilingi mustrist. Tingimused pärinevad kohtulahendist.
+      - akt: Isikuandmete kaitse üldmäärus (EL) 2016/679 (GDPR)
+        säte: art 22
+        mida_ütleb: >-
+          Inimesel on õigus, et tema kohta ei tehtaks ainult automatiseeritud
+          töötlusel põhinevat õiguslikku otsust, välja arvatud seaduses
+          lubatud juhtudel ja kaitsemeetmetega.
+        allika_url: https://eur-lex.europa.eu/eli/reg/2016/679/oj
+        tase: EL
+        staatus: kehtib
+      - akt: Tehisintellekti määrus (EL) 2024/1689
+        säte: III lisa p 5, art 26, art 27
+        mida_ütleb: >-
+          Avalike hüvitiste ja teenuste saamise hindamiseks kasutatav AI on
+          suure riskiga. Avalik-õiguslikust juurutajast tuleb enne kasutamist
+          teha põhiõiguste mõjuhinnang.
+        allika_url: https://eur-lex.europa.eu/eli/reg/2024/1689/oj
+        tase: EL
+        staatus: kohaldub_alates
+        alates: 2027-12-02
+        kontrollida: Kuupäev omnibusi järgi. Lisa punkti ja artiklite numbrid.
+    kes_vastutab:
+      - roll: Haldusorgan
+        selgitus: >-
+          Vastutab otsuse eest täielikult, sõltumata sellest, kas otsuse tegi
+          ametnik või süsteem.
+      - roll: Süsteemi tarnija
+        selgitus: >-
+          Vastutab haldusorgani ees lepingu alusel. Kodaniku ees otse
+          tavaliselt ei vastuta.
+    kuhu_teatada:
+      - asutus: Haldusorgan ise (vaie)
+        millal: Haldusakti vaidlustamise tähtaja jooksul.
+        link: https://www.riigiteataja.ee/akt/109072026012
+      - asutus: Õiguskantsler
+        millal: Kui on kahtlus, et põhiõigusi rikuti.
+        link: https://www.oiguskantsler.ee
+      - asutus: Andmekaitse Inspektsioon
+        millal: Kui rikuti GDPR art 22 õigusi.
+        link: https://www.aki.ee
+    lahtised_küsimused:
+      - >-
+        Kas otsus, mille koostab agent ja ametnik ainult kinnitab, on HMS § 7¹
+        mõttes automaatne? Kui palju peab ametnik ise otsuse sisu kontrollima?
+      - >-
+        Riigikohus küsis eelnõu arvamuses, kas § 7¹ annab üldise loa
+        automatiseerimiseks valdkonna seadusest sõltumata. Kuidas see
+        lõppversioonis lahendati?
+    kontrollitud: false
+    viimati_uuendatud: 2026-10-19
+
+  - id: too
+    pealkiri: Agent teeb tööalase otsuse inimese kohta
+    lühikirjeldus: >-
+      Agent sõelub kandidaate, hindab töötajate tulemusi või jagab ülesandeid.
+    näide: >-
+      Värbamisagent jätab kõrvale kõik kandidaadid, kelle CV-s on lünk.
+      Kandidaat küsib, miks ta vestlusele ei saanud.
+    normid:
+      - akt: Tehisintellekti määrus (EL) 2024/1689
+        säte: III lisa p 4, art 26
+        mida_ütleb: >-
+          Värbamiseks, töötajate hindamiseks ja ülesannete jagamiseks kasutatav
+          AI on suure riskiga. Tööandja kui juurutaja peab süsteemi kasutama
+          juhendi järgi, tagama inimjärelevalve ja teavitama töötajaid.
+        allika_url: https://eur-lex.europa.eu/eli/reg/2024/1689/oj
+        tase: EL
+        staatus: kohaldub_alates
+        alates: 2027-12-02
+        kontrollida: Kuupäev omnibusi järgi. Art 26 lõiked (töötajate teavitamine).
+      - akt: Tehisintellekti määrus (EL) 2024/1689
+        säte: art 86
+        mida_ütleb: >-
+          Inimesel, kelle kohta tehti suure riskiga AI väljundil põhinev otsus,
+          on õigus saada juurutajalt selgitus AI rolli kohta otsuses.
+        allika_url: https://eur-lex.europa.eu/eli/reg/2024/1689/oj
+        tase: EL
+        staatus: kohaldub_alates
+        alates: 2027-12-02
+        kontrollida: Art 86 tekst ja kohaldumise kuupäev ei tulnud otsingus välja.
+      - akt: Isikuandmete kaitse üldmäärus (EL) 2016/679 (GDPR)
+        säte: art 22
+        mida_ütleb: >-
+          Ainult automatiseeritud otsus, millel on inimesele oluline mõju, on
+          lubatud ainult erandjuhtudel ja inimesel on õigus nõuda inimese
+          sekkumist.
+        allika_url: https://eur-lex.europa.eu/eli/reg/2016/679/oj
+        tase: EL
+        staatus: kehtib
+    kes_vastutab:
+      - roll: Tööandja (juurutaja)
+        selgitus: Vastutab otsuse ja selle põhjendamise eest kandidaadi või töötaja ees.
+      - roll: Süsteemi pakkuja
+        selgitus: >-
+          Vastutab suure riskiga süsteemi nõuetele vastavuse eest (andmed,
+          dokumentatsioon, logimine).
+    kuhu_teatada:
+      - asutus: Andmekaitse Inspektsioon
+        millal: Kui rikuti isikuandmete või art 22 õigusi.
+        link: https://www.aki.ee
+      - asutus: Soolise võrdõiguslikkuse ja võrdse kohtlemise volinik
+        millal: Kui otsus võib olla diskrimineeriv.
+        link: https://www.volinik.ee
+    lahtised_küsimused:
+      - >-
+        Kes on Eestis AI-määruse järgi suure riskiga tööalaste süsteemide
+        turujärelevalveasutus? Ametlikku määramist ei leidnud.
+      - >-
+        Kas kandidaat saab tööandjalt kahju nõuda, kui AI-põhine sõelumine oli
+        diskrimineeriv, kuid tööandja ei teadnud süsteemi loogikat?
+    kontrollitud: false
+    viimati_uuendatud: 2026-10-19
+
+  - id: turvaintsident
+    pealkiri: Agent tekitab turvaintsidendi
+    lühikirjeldus: >-
+      Agendil on liiga laiad volitused, kaugligipääs või ta kasutab
+      tööriista, mille kaudu ründaja pääseb süsteemi.
+    näide: >-
+      Arendusagent installib kompromiteeritud paketi ja ründaja saab ligipääsu
+      ettevõtte serverile.
+    normid:
+      - akt: Küberturvalisuse seadus (KüTS)
+        säte: intsidendist teavitamine
+        mida_ütleb: >-
+          NIS2 üle võttes laienes seadus 1.01.2026 umbes 3000 uuele
+          ettevõttele ja asutusele. Olulistest intsidentidest tuleb teavitada
+          Riigi Infosüsteemi Ametit.
+        allika_url: https://www.riigiteataja.ee/akt/130122025004
+        tase: EE
+        staatus: kehtib
+        kontrollida: >-
+          Lisa paragrahvi number ja teavitamise tähtajad KüTS-i kehtivast
+          tekstist. Seadusele lisandus muudatus, mis jõustus 1.10.2026, sisu
+          teadmata.
+      - akt: NIS2 direktiiv (EL) 2022/2555
+        säte: art 23
+        mida_ütleb: >-
+          Olulisest intsidendist tuleb anda varajane hoiatus 24 tunni jooksul,
+          teade 72 tunni jooksul ja lõpparuanne ühe kuu jooksul.
+        allika_url: https://eur-lex.europa.eu/eli/dir/2022/2555/oj
+        tase: EL
+        staatus: kehtib
+        kontrollida: Tähtajad on mälu järgi, kontrolli art 23 tekstist.
+      - akt: Küberkerksuse määrus (EL) 2024/2847 (CRA)
+        säte: art 14 (teavitamiskohustus)
+        mida_ütleb: >-
+          Digitaalsete elementidega toodete (sh tarkvara) tootjad peavad
+          teatama aktiivselt ära kasutatud haavatavustest ja tõsistest
+          intsidentidest. Teavitamiskohustus kohaldub alates 11.09.2026, muud
+          nõuded hiljem.
+        allika_url: https://eur-lex.europa.eu/eli/reg/2024/2847/oj
+        tase: EL
+        staatus: kehtib
+        kontrollida: Artikli number ja kuupäevad on mälu järgi, kontrolli.
+    kes_vastutab:
+      - roll: Agenti kasutav organisatsioon
+        selgitus: >-
+          Kui on KüTS-i subjekt, vastutab riskijuhtimise ja teavitamise eest.
+          Volituste andmine agendile on tema otsus.
+      - roll: Agendi või tööriista tootja
+        selgitus: >-
+          Vastutab CRA järgi turvanõuete ja haavatavustest teavitamise eest
+          ning tootevastutuse kaudu puudusega toote eest.
+    kuhu_teatada:
+      - asutus: RIA / CERT-EE
+        millal: KüTS-i subjektid NIS2 tähtaegade järgi. Teised vabatahtlikult.
+        link: https://www.ria.ee/uudised/uuest-aastast-laienes-kuberturvalisuse-seadus
+      - asutus: Andmekaitse Inspektsioon
+        millal: Kui intsident puudutas isikuandmeid, 72 tunni jooksul.
+        link: https://www.aki.ee
+    lahtised_küsimused:
+      - >-
+        Kas agendile antud liiga laiad õigused on organisatsiooni enda
+        hooletus või tootja puudus (nt ebaturvalised vaikeseaded)?
+      - >-
+        Kas agendi kasutatav väline tööriist (MCP-server, plugin) on CRA mõttes
+        eraldi toode ja kes on selle tootja, kui see on avatud lähtekoodiga?
+    kontrollitud: false
+    viimati_uuendatud: 2026-10-19
+
+  - id: vale-info
+    pealkiri: Agent annab vale info, millele klient tugineb
+    lühikirjeldus: >-
+      Klienditoe või nõustamise agent ütleb midagi valesti ja klient teeb
+      selle põhjal otsuse.
+    näide: >-
+      Lennufirma vestlusagent lubab kliendile tagasimakset, mida
+      tingimustes ei ole. Klient ostab pileti selle lubaduse alusel.
+    normid:
+      - akt: Tehisintellekti määrus (EL) 2024/1689
+        säte: art 50
+        mida_ütleb: >-
+          Inimestega suhtlev AI-süsteem peab olema kujundatud nii, et inimene
+          teab, et suhtleb AI-ga, kui see pole ilmne.
+        allika_url: https://eur-lex.europa.eu/eli/reg/2024/1689/oj
+        tase: EL
+        staatus: kehtib
+        kontrollida: Kas art 50 lg 1 kohaldub alates 2.08.2026 muutmata kujul.
+      - akt: Võlaõigusseadus (VÕS)
+        säte: lepingueelsed kohustused ja lepingu rikkumine
+        mida_ütleb: >-
+          Ettevõtja vastutab oma esindajate ja abiliste antud teabe eest.
+          Agendi antud lubadus võib siduda ettevõtjat.
+        allika_url: https://www.riigiteataja.ee/akt/V%C3%95S
+        tase: EE
+        staatus: kehtib
+        kontrollida: >-
+          Täpsed paragrahvid puuduvad, lisa need. URL on tuletatud
+          lühendilingi mustrist.
+      - akt: Tootevastutuse direktiiv (EL) 2024/2853
+        säte: art 4, art 6
+        mida_ütleb: >-
+          Kui vale info põhjustas tervisekahju või asja kahju, võib tarkvara
+          tootja vastutada puudusega toote eest. Puhas varaline kahju ei ole
+          direktiiviga kaetud.
+        allika_url: https://eur-lex.europa.eu/eli/dir/2024/2853/oj
+        tase: EL
+        staatus: kohaldub_alates
+        alates: 2026-12-09
+        kontrollida: Artikli numbrid ja kahjuliikide loetelu.
+    kes_vastutab:
+      - roll: Agenti kasutav ettevõtja
+        selgitus: >-
+          Kliendi ees vastutab ettevõtja, kelle nimel agent suhtleb. Ta ei saa
+          vastutust lükata agendile kui "eraldi üksusele".
+      - roll: Agendi tarnija
+        selgitus: Vastutab ettevõtja ees lepingu alusel.
+    kuhu_teatada:
+      - asutus: Tarbijakaitse ja Tehnilise Järelevalve Amet (TTJA)
+        millal: Kui kahju sai tarbija või puudub AI-märgistus.
+        link: https://ttja.ee/ariklient/ohutus/tooted-teenused/tehisintellektisusteemid
+      - asutus: Finantsinspektsioon
+        millal: Kui vale info puudutas finantsteenust.
+        link: https://www.fi.ee
+    lahtised_küsimused:
+      - >-
+        Eestis ei leidnud kohtulahendit, kus ettevõtja vastutus vestlusagendi
+        lubaduse eest oleks läbi vaieldud. Kas kohus kohtleks seda nagu
+        töötaja antud lubadust?
+      - >-
+        Kas ettevõtja saab vastutust piirata tingimusega "agendi vastused ei
+        ole siduvad"? Tarbijalepingus tõenäoliselt mitte, kuid see vajab
+        kontrolli.
+    kontrollitud: false
+    viimati_uuendatud: 2026-10-19
