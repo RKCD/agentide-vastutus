@@ -149,7 +149,8 @@ def test_hinnang_diagnoosile():
     assert h({"viga": "x"}) == "ühendus ebaõnnestus"
     assert h({"kood": 200, "kaitse": ["captcha"]}) == "robotikaitse või keeld"
     assert h({"kood": 404, "kaitse": []}) == "HTTP 404"
-    assert h({"kood": 200, "kaitse": [], "skripte": 12, "teksti": 300}) == "tühi JavaScripti kest"
+    assert h({"kood": 200, "kaitse": [], "skripte": 4, "teksti": 123}) == "tühi JavaScripti kest"
+    assert h({"kood": 202, "kaitse": [], "baite": 0, "teksti": 3}).startswith("tühi 202")
     assert h({"kood": 200, "kaitse": [], "skripte": 2, "teksti": 9000}) == "loetav"
 
 

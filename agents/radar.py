@@ -333,7 +333,9 @@ def hinnang_diagnoosile(d: dict) -> str:
         return "robotikaitse või keeld"
     if d["kood"] >= 400:
         return f"HTTP {d['kood']}"
-    if d.get("skripte", 0) > 5 and d.get("teksti", 0) < 1500:
+    if d["kood"] == 202 and d.get("baite", 0) == 0:
+        return "tühi 202-vastus (tõenäoliselt robotikaitse)"
+    if d.get("teksti", 0) < 500:
         return "tühi JavaScripti kest"
     return "loetav"
 
