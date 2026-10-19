@@ -7,6 +7,7 @@ Kasutus:
     python agents/radar.py --kuiv               # ei kutsu LLM-i, ei kirjuta midagi
     python agents/radar.py --seed               # märgib praegused kirjed nähtuks, LLM-i ei kutsu
     python agents/radar.py --kontrolli-allikaid # kontrollib iga allika kättesaadavust
+    python agents/radar.py --kontrolli-api      # üks päris Haiku-kõne, kinnitab API-võtme
 
 Keskkonnamuutujad:
     ANTHROPIC_API_KEY  (kohustuslik tavajooksul)
@@ -309,11 +310,22 @@ def kontrolli_allikaid(lae=lae_http) -> list[str]:
     return rida
 
 
+def kontrolli_api(klient) -> dict:
+    """Üks odav Haiku-kõne päris API vastu: kinnitab võtme ja päringu kuju."""
+    h = Hindaja(klient, 1)
+    tulemus = h.hinda(Kirje("test", "Komisjon avaldas AI-agentide vastutuse suunised",
+                            "https://example.com/test", "API-test",
+                            "Suunised selgitavad, kes vastutab, kui tehisintellektiagent teeb kliendi nimel vea."))
+    return {"ok": True, "mudel": MUDEL, "hinnang": tulemus["hinnang"], "sisend_tokenid": h.sisse,
+            "väljund_tokenid": h.välja, "hind_usd": round(h.hind_usd, 6)}
+
+
 def main() -> int:
     p = argparse.ArgumentParser()
     p.add_argument("--kuiv", action="store_true")
     p.add_argument("--seed", action="store_true")
     p.add_argument("--kontrolli-allikaid", action="store_true")
+    p.add_argument("--kontrolli-api", action="store_true")
     a = p.parse_args()
 
     if a.kontrolli_allikaid:
@@ -321,12 +333,15 @@ def main() -> int:
         return 0
 
     klient = None
-    if not (a.kuiv or a.seed):
+    if not (a.kuiv or a.seed):  # kontrolli_api vajab samuti klienti
         if not os.environ.get("ANTHROPIC_API_KEY"):
             print("ANTHROPIC_API_KEY puudub (lisa GitHubi secretina).", file=sys.stderr)
             return 2
         import anthropic
         klient = anthropic.Anthropic()
+        if a.kontrolli_api:
+            print(json.dumps(kontrolli_api(klient), ensure_ascii=False, indent=2))
+            return 0
 
     lagi = int(os.environ.get("RADAR_MAX_CALLS") or VAIKIMISI_LAGI)
     tulemus = käivita(klient=klient, täna=dt.datetime.now(dt.timezone.utc).date(),

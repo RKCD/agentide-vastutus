@@ -6,10 +6,10 @@ on:
   workflow_dispatch:
     inputs:
       toiming:
-        description: "radar = tavajooks, seed = märgi praegused kirjed nähtuks (LLM-ita), kuiv = näita mis läheks hindamisele, kontrolli_allikaid = testi allikaid"
+        description: "radar = tavajooks, seed = märgi praegused kirjed nähtuks (LLM-ita), kuiv = näita mis läheks hindamisele, kontrolli_allikaid = testi allikaid, kontrolli_api = üks päris Haiku-kõne"
         type: choice
         default: radar
-        options: [radar, seed, kuiv, kontrolli_allikaid]
+        options: [radar, seed, kuiv, kontrolli_allikaid, kontrolli_api]
       max_calls:
         description: "LLM-kõnede lagi"
         default: "50"
@@ -43,6 +43,7 @@ jobs:
         run: |
           case "$TOIMING" in
             kontrolli_allikaid) python agents/radar.py --kontrolli-allikaid | tee -a "$GITHUB_STEP_SUMMARY" ;;
+            kontrolli_api) python agents/radar.py --kontrolli-api | tee -a "$GITHUB_STEP_SUMMARY" ;;
             seed) python agents/radar.py --seed | tee -a "$GITHUB_STEP_SUMMARY" ;;
             kuiv) python agents/radar.py --kuiv | tee -a "$GITHUB_STEP_SUMMARY" ;;
             *)    python agents/radar.py | tee -a "$GITHUB_STEP_SUMMARY" ;;

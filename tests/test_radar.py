@@ -143,3 +143,8 @@ def test_pärisfailid_laevad():
     # config on päris, mitte monkeypatchitud
     assert radar.lae_märksõnad().search("Tehisintellekti määrus")
     assert not radar.lae_märksõnad().search("kohvik")
+
+
+def test_kontrolli_api():
+    t = radar.kontrolli_api(Klient())
+    assert t["ok"] and t["mudel"] == "claude-haiku-5-5" and t["sisend_tokenid"] == 1000
