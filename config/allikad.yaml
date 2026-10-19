@@ -14,23 +14,27 @@ allikad:
     tüüp: html
     url: https://www.riigiteataja.ee/
     tase: EE
-    lubatud: true
-    märkus: Avaleht. Eraldi RSS-i ei ole kontrollitud.
+    lubatud: false
+    märkus: >-
+      Kontrollitud 19.10.2026 Actionsis: avalehelt ei tule HTML-ist ühtegi piisavalt pikka linki (0 kirjet). Vajab muud lehte või RSS-i, aadress teadmata.
 
   - id: eelnoud
     nimi: Eelnõude infosüsteem
     tüüp: html
     url: https://eelnoud.valitsus.ee/main
     tase: EE
-    lubatud: true
-    märkus: Võib vajada JavaScripti. Kui kontroll ei leia linke, vaheta RSS-i vastu.
+    lubatud: false
+    märkus: >-
+      Kontrollitud 19.10.2026 Actionsis: 0 kirjet, leht vajab tõenäoliselt JavaScripti. Vajab RSS-i või API-d, aadress teadmata.
 
   - id: ria
     nimi: RIA uudised
     tüüp: html
     url: https://www.ria.ee/uudised
     tase: EE
-    lubatud: true
+    lubatud: false
+    märkus: >-
+      Kontrollitud 19.10.2026 Actionsis: https://www.ria.ee/uudised annab 404. Õige uudiste aadress teadmata.
 
   - id: aki
     nimi: Andmekaitse Inspektsioon
