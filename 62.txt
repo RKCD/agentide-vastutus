@@ -1,0 +1,410 @@
+# jooks 62
+# urlid: https://cdn.ca9.uscourts.gov/datastore/opinions/2026/08/04/26-1444.pdf https://www.courthousenews.com/wp-content/uploads/2026/08/amazon-v-perplexity-ninth-circuit-opinion.pdf
+# otsi: QQmarkoigus_valeinfo7 || FOR PUBLICATION || No\. 26-1444 || (VACATE|REVERSE|AFFIRM)[^.]{0,80}
+
+##### https://cdn.ca9.uscourts.gov/datastore/opinions/2026/08/04/26-1444.pdf
+kood=200 lõpp-URL=https://cdn.ca9.uscourts.gov/datastore/opinions/2026/08/04/26-1444.pdf tüüp=application/pdf baite=278416 teksti=34084
+--- algus ---
+FOR PUBLICATION 
+UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+AMAZON.COM SERVICES, LLC, 
+                     Plaintiff - Appellee, 
+   v. 
+PERPLEXITY AI, INC., 
+                     Defendant - Appellant. 
+ No. 26-1444 
+D.C. No. 
+3:25-cv-09514-
+MMC 
+OPINION 
+Appeal from the United States District Court  
+for the Northern District of California 
+Maxine M. Chesney, District Judge, Presiding 
+Argued and Submitted June 11, 2026 
+Seattle, Washington 
+August 4, 2026 
+Before: MILAN D. SMITH, JR. AND ERIC C. TUNG, 
+Circuit Judges, and JOHN CHARLES HINDERAKER, 
+District Judge.* 
+* The Honorable John Charles Hinderaker, United States District Judge 
+for the District of Arizona, sitting by designation. 
+2 AMAZON.COM SERVICES, LLC V. PERPLEXITY AI 
+Opinion by Judge Milan D. Smith, Jr. 
+SUMMARY** 
+Computer Fraud and Abuse Act 
+The panel (1)  vacated the district court’s preliminary 
+injunction requested by Amazon.com Services, LLC, against 
+Perplexity AI, Inc., an artificial intelligence company, to 
+prevent the use of Perplexity’s agentic web browser AI tool 
+on Amazon.com in violation of the federal Computer Fraud 
+and Abuse Act (CFAA) and its California state law 
+analogue, the Comprehensive Computer Data Access and 
+Fraud Act (CDAFA); and (2)  remanded for further 
+proceedings. 
+To succeed on a claim under the CFAA, a plaintiff must 
+show that the defendant (1)  intentionally accessed a 
+computer, (2) without authorization or exceeding authorized 
+access, and that the defendant (3)  thereby obtained 
+information (4)  from any protected computer, and that 
+(5) there was loss to one or more persons during any one -
+year period aggregating at least $5,000 in value.   
+The panel concluded that Amazon was not entitled to a 
+preliminary injunction because it was unlikely to succeed on 
+the merits of its CFAA claims by showing that Perplexity 
+“accessed” Amazon computers for CFAA purposes.  On the 
+facts before the panel, it concluded that Perplexity did not 
+** This summary constitutes no part of the opinion of the court.  It has 
+been prepared by court staff for the convenience of the reader. 
+ AMAZON.COM SERVICES, LLC V. PERPLEXITY AI 3 
+use a tool to “access” Amazon’s computers.   Rather, it was 
+the user who “accessed” Amazon’s computers, with the help 
+of Perplexity’s AI agent, the “Assistant,” to carry out 
+specific acts on Amazon.com.   The panel concluded that 
+Amazon was unlikely to succeed on the merits of its CDAFA 
+claim for the same reason that Amazon was unlikely to 
+succeed on the merits of its CFAA claim: the user (not 
+Perplexity) accessed Amazon using the Assistant as an AI 
+tool.   
+The panel held that the district court erred in concluding 
+that the remaining equitable factors favored Amazon.   The 
+remaining equitable factors favored Perplexity because 
+(1) the potential harms Amazon faces do not weigh in favor 
+of an injunction, (2)  the balance of the equities favors 
+Perplexity and weighs against an injunction, and (3)  an 
+injunction against conduct that likely does not violate the 
+CFAA or the CDAFA would not serve the public 
+interest.  The panel therefore vacated the preliminary 
+injunction and remanded for further proceedings. 
+COUNSEL 
+Hagan Scotten (argued), Hueston Hennigan LLP, New 
+York, New York; Christine M. Woodin, Moez M. Kaba, and 
+Billy J. McLain, Hueston Hennigan LLP, Los Angeles, 
+California; for Plaintiff-Appellee. 
+Christopher G. Michel (argued), Quinn Emanuel Urquhart & 
+Sullivan LLP, Washington, D.C.; Lucas A. Hammill and 
+Renita N. Sharma, Quinn Emanuel Urquhart & Sullivan 
+LLP, New York, New York; Daniel C. Posner, Jonathan H. 
+Kim, and John B. Quinn, Quinn Emanuel U rquhart & 
+4 AMAZON.COM SERVICES, LLC V. PERPLEXITY AI 
+Sullivan LLP, Los Angeles, California; Andrew H. 
+Schapiro, Quinn Emanuel Urquhart & Sullivan LLP, 
+Chicago, Illinois; for Defendant-Appellant. 
+Esha Bhandari and Lauren Yu, American Civil Liberties 
+Union Foundation, New York, New York; Jake Karr, Ramya 
+Krishnan, and Alex Abdo, Knight First Amendment 
+Institute, Columbia University, New York, New York; for 
+Amici Curiae American Civil Liberties Union , American 
+Civil Liberties Union of Northern California, and Knight 
+First Amendment Institute at Columbia University. 
+Corynne McSherry, Victoria Noble, and Andrew Crocker, 
+Electronic Frontier Foundation, San Francisco, California, 
+for Amici Curiae Electronic Frontier Foundation, Alliance 
+for Responsible Data Collection, Mozilla Corporation, 
+Digital Medusa, and Eleutherai. 
+Tod Cohen and Annie Nguyen, Manatt Phelps & Phillips 
+LLP, San Francisco, California, for Amicus Curiae Software 
+& Information Industry Association. 
+David M. Gossett, Davis Wright Tremaine LLP, 
+Washington, D.C.; Alexandra Perloff -Giles, Davis Wright 
+Tremaine LLP, New York, New York; for Amicus Curiae 
+National Retail Federation. 
+Karl Huth, Matthew Reynolds, J. Lee Hill, and Jack 
+Mitchell, Huth Reynolds LLP, Huntington, New York, for 
+Amicus Curiae Digital Context Next. 
+Michael S. Elkin and Sean R. Anderson, Winston and 
+Strawn LLP, New York, New York; Jennifer A. Golinveaux 
+and Thomas J. Kearney, Winston and Strawn LLP, San 
+Francisco, California; for Amicus Curiae News/Media 
+Alliance. 
+ AMAZON.COM SERVICES, LLC V. PERPLEXITY AI 5 
+A. Jeff Ifrah and Robert W. Ward, Ifrah PLLC, Washington, 
+D.C., for Amicus Curiae Air Transport Association of 
+America Inc. d/b/a Airlines for America. 
+OPINION 
+M. SMITH, Circuit Judge: 
+This case concerns a preliminary injunction requested by 
+Amazon.com Services, LLC (Amazon) against Perplexity 
+AI, Inc. (Perplexity), an artificial intelligence (AI) company, 
+to prevent the use of Perplexity’s agentic web browser AI 
+tool on Amazon.com in violation of the federal Computer 
+Fraud and Abuse Act (CFAA) and its California state law 
+analogue.  Because Amazon is unlikely to succeed in 
+showing that Perplexity “accessed” Amazon computers for 
+CFAA purposes, we vacate the district court’s preliminary 
+injunction and remand for further proceedings. 
+BACKGROUND 
+I. Statutory Background 
+Congress originally enacted the CFAA as part of the 
+Counterfeit Access Device and Computer Fraud and Abuse 
+Act of 1984.   Pub. L. No. 98 -473, tit. II, ch.  XXI, 98 Stat. 
+1837, 2190–92 (codified as amended at 18 U.S.C. §  1030).  
+In enacting the CFAA, Congress aimed “to prevent 
+intentional intrusion onto someone else ’s computer —
+specifically, computer hacking.”  hiQ Labs, Inc. v. LinkedIn 
+Corp., 31  F.4th 1180, 1196 (9th Cir. 2022).  This initial 
+version of the CFAA was limited to computers “containing 
+national security information or financial data and those 
+operated by or on behalf of the government.”  Id. at 1197.  In 
+6 AMAZON.COM SERVICES, LLC V. PERPLEXITY AI 
+1996, Congress expanded the CFAA’s scope to any 
+“protected computer.”  Id.  Now, § 1030 defines “protected 
+computer” to include a computer (A) exclusively used by the 
+federal government or a financial institution , (B) “used in or 
+affecting interstate or foreign commerce or communication,” 
+or (C) used in a voting system either (I) to support a federal 
+election, or ( II) that “has moved in or otherwise affects 
+interstate or foreign commerce .”  See 18 U.S.C. 
+§ 1030(e)(2).  The CFAA also includes a private cause of 
+action for anyone who “suffers damage or loss” aggregating 
+at least $5,000 per year  “by reason of a violation” of the 
+statute’s criminal provisions.  See id. §§ 1030(c)(4)(A)(i)(I), 
+(e)(11), (g). 
+California enacted the Comprehensive Computer Data 
+Access and Fraud Act (CDAFA), a similar computer access 
+law, in 1987.  See Cal. Penal Code §  502.  The state 
+legislature’s goal in passing the CDAFA was “to expand the 
+degree of protection afforded to individuals, businesses, and 
+governmental agencies from tampering, interference, 
+damage, and unauthorized access to lawfully created 
+computer data a nd computer systems.”  Id. § 502(a).  The 
+CDAFA criminalizes “[k]nowingly and without permission 
+access[ing] or caus[ing] to be accessed any computer, 
+computer system, or computer network,” and also provides 
+a private cause of action.  Id. §§ 502(c)(7), (e)(1). 
+II. Factual Background 
+a. Perplexity and the Comet Browser 
+Perplexity is an AI startup and the creator of an AI -
+enabled web browser, Comet.  After acquiring another 
+browser company, Sidekick, Perplexity developed Comet 
+and publicly released it in 2025.  Comet is a web browser 
+that operates like Google Chrome, running locally on a 
+ AMAZON.COM SERVICES, LLC V. PERPLEXITY AI 7 
+user’s machine and enabling the user to navigate the Internet.  
+According to Perplexity, Comet’s differentiating feature is 
+an optional AI “agent” (the Assistant) that “can perform 
+tasks at the user’s direction, such as browsing websites like 
+Amazon.com to shop for requested goods.” 
+When a Comet user directs the Assistant to locate an item 
+on Amazon.com, the Assistant takes screenshot s of the 
+browser view, sends those screenshots  from the us
+--- /QQmarkoigus_valeinfo7/ : 0 vastet ---
+--- /FOR PUBLICATION/ : 1 vastet ---
+…FOR PUBLICATION  ⏎ UNITED STATES COURT OF APPEALS  ⏎ FOR THE NINTH CIRCUIT  ⏎ AMAZON.COM SERVICES, LLC,  ⏎                      Plaintiff - Appellee,  ⏎    v.  ⏎ PERPLEXITY AI, INC.,  ⏎                      Defendant - Appellant.  ⏎  No. 26-1444  ⏎ D.C. No.  ⏎ 3:25-cv-09514- ⏎ MMC  ⏎ OPINION  ⏎ Appeal from the United States District Court   ⏎ for the Northern District of California  ⏎ Maxine M. Chesney, District Judge, Presiding  ⏎ Argued and Submitted June 11, 2026  ⏎ Seattle, Washington  ⏎ August 4, 2026  ⏎ Before: MILAN D. SMITH, JR. AND ERIC C. TUNG,  ⏎ Circuit Judges, and JOHN CHARLES HINDERAKER,  ⏎ District Judge.*  ⏎ * The Honorable John Charles Hinderaker, United States District Judge  ⏎ for the District of Arizona, sitting by designation.  ⏎ 2 AMAZON.COM SERVICES, LLC V. PERPLEXITY AI  ⏎ Opinion by Judge Milan D. Smith, Jr.  ⏎ SUMMARY**  ⏎ Computer Fraud and Abuse Act  ⏎ The panel (1)  vacated the district court’s preliminary  ⏎ injunc…
+
+--- /No\. 26-1444/ : 1 vastet ---
+…FOR PUBLICATION  ⏎ UNITED STATES COURT OF APPEALS  ⏎ FOR THE NINTH CIRCUIT  ⏎ AMAZON.COM SERVICES, LLC,  ⏎                      Plaintiff - Appellee,  ⏎    v.  ⏎ PERPLEXITY AI, INC.,  ⏎                      Defendant - Appellant.  ⏎  No. 26-1444  ⏎ D.C. No.  ⏎ 3:25-cv-09514- ⏎ MMC  ⏎ OPINION  ⏎ Appeal from the United States District Court   ⏎ for the Northern District of California  ⏎ Maxine M. Chesney, District Judge, Presiding  ⏎ Argued and Submitted June 11, 2026  ⏎ Seattle, Washington  ⏎ August 4, 2026  ⏎ Before: MILAN D. SMITH, JR. AND ERIC C. TUNG,  ⏎ Circuit Judges, and JOHN CHARLES HINDERAKER,  ⏎ District Judge.*  ⏎ * The Honorable John Charles Hinderaker, United States District Judge  ⏎ for the District of Arizona, sitting by designation.  ⏎ 2 AMAZON.COM SERVICES, LLC V. PERPLEXITY AI  ⏎ Opinion by Judge Milan D. Smith, Jr.  ⏎ SUMMARY**  ⏎ Computer Fraud and Abuse Act  ⏎ The panel (1)  vacated the district court’s preliminary  ⏎ injunction requested by Amazon.com Services, LLC, against  ⏎ Perplexity AI, Inc., an artificial intelligence company, to  ⏎ prevent the use of Perplexity’s agentic web browser AI tool  ⏎ on Amazon.com in violation of the federal C…
+
+--- /(VACATE|REVERSE|AFFIRM)[^.]{0,80}/ : 4 vastet ---
+…, United States District Judge  ⏎ for the District of Arizona, sitting by designation.  ⏎ 2 AMAZON.COM SERVICES, LLC V. PERPLEXITY AI  ⏎ Opinion by Judge Milan D. Smith, Jr.  ⏎ SUMMARY**  ⏎ Computer Fraud and Abuse Act  ⏎ The panel (1)  vacated the district court’s preliminary  ⏎ injunction requested by Amazon.com Services, LLC, against  ⏎ Perplexity AI, Inc., an artificial intelligence company, to  ⏎ prevent the use of Perplexity’s agentic web browser AI tool  ⏎ on Amazon.com in violation of the federal Computer Fraud  ⏎ and Abuse Act (CFAA) and its California state law  ⏎ analogue, the Comprehensive Computer Data Access and  ⏎ Fraud Act (CDAFA); and (2)  remanded for further  ⏎ proceedings.  ⏎ To succeed on a claim under the CFAA, a plaintiff must  ⏎ show that the defendant (1)  intentionally accessed a  ⏎ computer, (2) without authorization or exceeding authorized  ⏎ access, and that the defendant (3)  thereby obtained  ⏎ information (4)  from any protected computer, and that  ⏎ (5) there was loss to one or more persons during any one - ⏎ year period aggregating at least $5,000 in value.    ⏎ The panel concluded that Amazon was not entitled to a  ⏎ p…
+
+…ance of the equities favors  ⏎ Perplexity and weighs against an injunction, and (3)  an  ⏎ injunction against conduct that likely does not violate the  ⏎ CFAA or the CDAFA would not serve the public  ⏎ interest.  The panel therefore vacated the preliminary  ⏎ injunction and remanded for further proceedings.  ⏎ COUNSEL  ⏎ Hagan Scotten (argued), Hueston Hennigan LLP, New  ⏎ York, New York; Christine M. Woodin, Moez M. Kaba, and  ⏎ Billy J. McLain, Hueston Hennigan LLP, Los Angeles,  ⏎ California; for Plaintiff-Appellee.  ⏎ Christopher G. Michel (argued), Quinn Emanuel Urquhart &  ⏎ Sullivan LLP, Washington, D.C.; Lucas A. Hammill and  ⏎ Renita N. Sharma, Quinn Emanuel Urquhart & Sullivan  ⏎ LLP, New York, New York; Daniel C. Posner, Jonathan H.  ⏎ Kim, and John B. Quinn, Quinn Emanuel U rquhart &  ⏎ 4 AMAZON.COM SERVICES, LLC V. PERPLEXITY AI  ⏎ Sullivan LLP, Los Angeles, California; Andrew H.  ⏎ Schapiro, Quinn Emanuel Urquhart & Sullivan LLP,  ⏎ Chicago, Illinois; for Defendant-Appellant.  ⏎ Esha Bhandari and Lauren Yu, American Civil Liberties  ⏎ Union Foundation, New York, New York; Jake Karr, Ramya  ⏎ Krishnan, and Alex Abdo, Knight First Amendmen…
+
+…m in violation of the federal Computer  ⏎ Fraud and Abuse Act (CFAA) and its California state law  ⏎ analogue.  Because Amazon is unlikely to succeed in  ⏎ showing that Perplexity “accessed” Amazon computers for  ⏎ CFAA purposes, we vacate the district court’s preliminary  ⏎ injunction and remand for further proceedings.  ⏎ BACKGROUND  ⏎ I. Statutory Background  ⏎ Congress originally enacted the CFAA as part of the  ⏎ Counterfeit Access Device and Computer Fraud and Abuse  ⏎ Act of 1984.   Pub. L. No. 98 -473, tit. II, ch.  XXI, 98 Stat.  ⏎ 1837, 2190–92 (codified as amended at 18 U.S.C. §  1030).   ⏎ In enacting the CFAA, Congress aimed “to prevent  ⏎ intentional intrusion onto someone else ’s computer — ⏎ specifically, computer hacking.”  hiQ Labs, Inc. v. LinkedIn  ⏎ Corp., 31  F.4th 1180, 1196 (9th Cir. 2022).  This initial  ⏎ version of the CFAA was limited to computers “containing  ⏎ national security information or financial data and those  ⏎ operated by or on behalf of the government.”  Id. at 1197.  In  ⏎ 6 AMAZON.COM SERVICES, LLC V. PERPLEXITY AI  ⏎ 1996, Congress expanded the CFAA’s scope to any  ⏎ “protected computer.”  Id.  Now, § 1030…
+
+…st thus favors  ⏎ Perplexity.  ⏎ CONCLUSION  ⏎ Because Amazon is unlikely to succeed on the merits of  ⏎ the “access” prong of the CFAA and CDAFA analysis and  ⏎ the equitable factors do not otherwise strongly favor an  ⏎ injunction, we VACATE the preliminary injunction granted  ⏎ by the district court and REMAND for further proceedings  ⏎ consistent with this opinion.6  ⏎ 5 This outcome does not impair Amazon’s ability to regulate access to  ⏎ Amazon.com via private terms of service for its users.  On the facts  ⏎ before us, Amazon is simply unlikely to succeed in its attempt to regulate  ⏎ access by invoking the CFAA and the CDAFA.  ⏎ 6  Perplexity’s motion to file  documents under seal, Dkt. 28, is  ⏎ GRANTED. …
+
+
+##### https://www.courthousenews.com/wp-content/uploads/2026/08/amazon-v-perplexity-ninth-circuit-opinion.pdf
+kood=200 lõpp-URL=https://www.courthousenews.com/wp-content/uploads/2026/08/amazon-v-perplexity-ninth-circuit-opinion.pdf tüüp=application/pdf baite=297629 teksti=35209
+--- algus ---
+FOR PUBLICATION 
+UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+AMAZON.COM SERVICES, LLC, 
+                     Plaintiff - Appellee, 
+   v. 
+PERPLEXITY AI, INC., 
+                     Defendant - Appellant. 
+ No. 26-1444 
+D.C. No. 
+3:25-cv-09514-
+MMC 
+OPINION 
+Appeal from the United States District Court  
+for the Northern District of California 
+Maxine M. Chesney, District Judge, Presiding 
+Argued and Submitted June 11, 2026 
+Seattle, Washington 
+August 4, 2026 
+Before: MILAN D. SMITH, JR. AND ERIC C. TUNG, 
+Circuit Judges, and JOHN CHARLES HINDERAKER, 
+District Judge.* 
+* The Honorable John Charles Hinderaker, United States District Judge 
+for the District of Arizona, sitting by designation. 
+Case: 26-1444, 08/04/2026, DktEntry: 61.1, (1 of 21)
+2 AMAZON.COM SERVICES, LLC V. PERPLEXITY AI 
+Opinion by Judge Milan D. Smith, Jr. 
+SUMMARY** 
+Computer Fraud and Abuse Act 
+The panel (1)  vacated the district court’s preliminary 
+injunction requested by Amazon.com Services, LLC, against 
+Perplexity AI, Inc., an artificial intelligence company, to 
+prevent the use of Perplexity’s agentic web browser AI tool 
+on Amazon.com in violation of the federal Computer Fraud 
+and Abuse Act (CFAA) and its California state law 
+analogue, the Comprehensive Computer Data Access and 
+Fraud Act (CDAFA); and (2)  remanded for further 
+proceedings. 
+To succeed on a claim under the CFAA, a plaintiff must 
+show that the defendant (1)  intentionally accessed a 
+computer, (2) without authorization or exceeding authorized 
+access, and that the defendant (3)  thereby obtained 
+information (4)  from any protected computer, and that 
+(5) there was loss to one or more persons during any one -
+year period aggregating at least $5,000 in value.   
+The panel concluded that Amazon was not entitled to a 
+preliminary injunction because it was unlikely to succeed on 
+the merits of its CFAA claims by showing that Perplexity 
+“accessed” Amazon computers for CFAA purposes.  On the 
+facts before the panel, it concluded that Perplexity did not 
+** This summary constitutes no part of the opinion of the court.  It has 
+been prepared by court staff for the convenience of the reader. 
+Case: 26-1444, 08/04/2026, DktEntry: 61.1, (2 of 21)
+ AMAZON.COM SERVICES, LLC V. PERPLEXITY AI 3 
+use a tool to “access” Amazon’s computers.   Rather, it was 
+the user who “accessed” Amazon’s computers, with the help 
+of Perplexity’s AI agent, the “Assistant,” to carry out 
+specific acts on Amazon.com.   The panel concluded that 
+Amazon was unlikely to succeed on the merits of its CDAFA 
+claim for the same reason that Amazon was unlikely to 
+succeed on the merits of its CFAA claim: the user (not 
+Perplexity) accessed Amazon using the Assistant as an AI 
+tool.   
+The panel held that the district court erred in concluding 
+that the remaining equitable factors favored Amazon.   The 
+remaining equitable factors favored Perplexity because 
+(1) the potential harms Amazon faces do not weigh in favor 
+of an injunction, (2)  the balance of the equities favors 
+Perplexity and weighs against an injunction, and (3)  an 
+injunction against conduct that likely does not violate the 
+CFAA or the CDAFA would not serve the public 
+interest.  The panel therefore vacated the preliminary 
+injunction and remanded for further proceedings. 
+COUNSEL 
+Hagan Scotten (argued), Hueston Hennigan LLP, New 
+York, New York; Christine M. Woodin, Moez M. Kaba, and 
+Billy J. McLain, Hueston Hennigan LLP, Los Angeles, 
+California; for Plaintiff-Appellee. 
+Christopher G. Michel (argued), Quinn Emanuel Urquhart & 
+Sullivan LLP, Washington, D.C.; Lucas A. Hammill and 
+Renita N. Sharma, Quinn Emanuel Urquhart & Sullivan 
+LLP, New York, New York; Daniel C. Posner, Jonathan H. 
+Kim, and John B. Quinn, Quinn Emanuel U rquhart & 
+Case: 26-1444, 08/04/2026, DktEntry: 61.1, (3 of 21)
+4 AMAZON.COM SERVICES, LLC V. PERPLEXITY AI 
+Sullivan LLP, Los Angeles, California; Andrew H. 
+Schapiro, Quinn Emanuel Urquhart & Sullivan LLP, 
+Chicago, Illinois; for Defendant-Appellant. 
+Esha Bhandari and Lauren Yu, American Civil Liberties 
+Union Foundation, New York, New York; Jake Karr, Ramya 
+Krishnan, and Alex Abdo, Knight First Amendment 
+Institute, Columbia University, New York, New York; for 
+Amici Curiae American Civil Liberties Union , American 
+Civil Liberties Union of Northern California, and Knight 
+First Amendment Institute at Columbia University. 
+Corynne McSherry, Victoria Noble, and Andrew Crocker, 
+Electronic Frontier Foundation, San Francisco, California, 
+for Amici Curiae Electronic Frontier Foundation, Alliance 
+for Responsible Data Collection, Mozilla Corporation, 
+Digital Medusa, and Eleutherai. 
+Tod Cohen and Annie Nguyen, Manatt Phelps & Phillips 
+LLP, San Francisco, California, for Amicus Curiae Software 
+& Information Industry Association. 
+David M. Gossett, Davis Wright Tremaine LLP, 
+Washington, D.C.; Alexandra Perloff -Giles, Davis Wright 
+Tremaine LLP, New York, New York; for Amicus Curiae 
+National Retail Federation. 
+Karl Huth, Matthew Reynolds, J. Lee Hill, and Jack 
+Mitchell, Huth Reynolds LLP, Huntington, New York, for 
+Amicus Curiae Digital Context Next. 
+Michael S. Elkin and Sean R. Anderson, Winston and 
+Strawn LLP, New York, New York; Jennifer A. Golinveaux 
+and Thomas J. Kearney, Winston and Strawn LLP, San 
+Francisco, California; for Amicus Curiae News/Media 
+Alliance. 
+Case: 26-1444, 08/04/2026, DktEntry: 61.1, (4 of 21)
+ AMAZON.COM SERVICES, LLC V. PERPLEXITY AI 5 
+A. Jeff Ifrah and Robert W. Ward, Ifrah PLLC, Washington, 
+D.C., for Amicus Curiae Air Transport Association of 
+America Inc. d/b/a Airlines for America. 
+OPINION 
+M. SMITH, Circuit Judge: 
+This case concerns a preliminary injunction requested by 
+Amazon.com Services, LLC (Amazon) against Perplexity 
+AI, Inc. (Perplexity), an artificial intelligence (AI) company, 
+to prevent the use of Perplexity’s agentic web browser AI 
+tool on Amazon.com in violation of the federal Computer 
+Fraud and Abuse Act (CFAA) and its California state law 
+analogue.  Because Amazon is unlikely to succeed in 
+showing that Perplexity “accessed” Amazon computers for 
+CFAA purposes, we vacate the district court’s preliminary 
+injunction and remand for further proceedings. 
+BACKGROUND 
+I. Statutory Background 
+Congress originally enacted the CFAA as part of the 
+Counterfeit Access Device and Computer Fraud and Abuse 
+Act of 1984.   Pub. L. No. 98 -473, tit. II, ch.  XXI, 98 Stat. 
+1837, 2190–92 (codified as amended at 18 U.S.C. §  1030).  
+In enacting the CFAA, Congress aimed “to prevent 
+intentional intrusion onto someone else ’s computer —
+specifically, computer hacking.”  hiQ Labs, Inc. v. LinkedIn 
+Corp., 31  F.4th 1180, 1196 (9th Cir. 2022).  This initial 
+version of the CFAA was limited to computers “containing 
+national security information or financial data and those 
+operated by or on behalf of the government.”  Id. at 1197.  In 
+Case: 26-1444, 08/04/2026, DktEntry: 61.1, (5 of 21)
+6 AMAZON.COM SERVICES, LLC V. PERPLEXITY AI 
+1996, Congress expanded the CFAA’s scope to any 
+“protected computer.”  Id.  Now, § 1030 defines “protected 
+computer” to include a computer (A) exclusively used by the 
+federal government or a financial institution , (B) “used in or 
+affecting interstate or foreign commerce or communication,” 
+or (C) used in a voting system either (I) to support a federal 
+election, or ( II) that “has moved in or otherwise affects 
+interstate or foreign commerce .”  See 18 U.S.C. 
+§ 1030(e)(2).  The CFAA also includes a private cause of 
+action for anyone who “suffers damage or loss” aggregating 
+at least $5,000 per year  “by reason of a violation” of the 
+statute’s criminal provisions.  See id. §§ 1030(c)(4)(A)(i)(I), 
+(e)(11), (g). 
+California enacted the Comprehensive Computer Data 
+Access and Fraud Act (CDAFA), a similar computer access 
+law, in 1987.  See Cal. Penal Code §  502.  The state 
+legislature’s goal in passing the CDAFA was “to expand the 
+degree of protection afforded to individuals, businesses, and 
+governmental agencies from tampering, interference, 
+damage, and unauthorized access to lawfully created 
+computer data a nd computer systems.”  Id. § 502(a).  The 
+CDAFA criminalizes “[k]nowingly and without permission 
+access[ing] or caus[ing] to be accessed any computer, 
+computer system, or computer network,” and also provides 
+a private cause of action.  Id. §§ 502(c)(7), (e)(1). 
+II. Factual Background 
+a. Perplexity and the Comet Browser 
+Perplexity is an AI startup and the creator of an AI -
+enabled web browser, Comet.  After acquiring another 
+browser company, Sidekick, Perplexity developed Comet 
+and publicly released it in 2025.  Comet is a web browser 
+that operates like Google Chrome, running locally on a 
+Case: 26-1444, 08/04/2026, DktEntry: 61.1, (6 of 21)
+ AMAZON.COM SERVICES, LLC V. PERPLEXITY AI 7 
+user’s machine and enabling the user to navigate the Internet.  
+According to Perplexity, Comet’s differentiating feature is 
+an optiona
+--- /QQmarkoigus_valeinfo7/ : 0 vastet ---
+--- /FOR PUBLICATION/ : 1 vastet ---
+…FOR PUBLICATION  ⏎ UNITED STATES COURT OF APPEALS  ⏎ FOR THE NINTH CIRCUIT  ⏎ AMAZON.COM SERVICES, LLC,  ⏎                      Plaintiff - Appellee,  ⏎    v.  ⏎ PERPLEXITY AI, INC.,  ⏎                      Defendant - Appellant.  ⏎  No. 26-1444  ⏎ D.C. No.  ⏎ 3:25-cv-09514- ⏎ MMC  ⏎ OPINION  ⏎ Appeal from the United States District Court   ⏎ for the Northern District of California  ⏎ Maxine M. Chesney, District Judge, Presiding  ⏎ Argued and Submitted June 11, 2026  ⏎ Seattle, Washington  ⏎ August 4, 2026  ⏎ Before: MILAN D. SMITH, JR. AND ERIC C. TUNG,  ⏎ Circuit Judges, and JOHN CHARLES HINDERAKER,  ⏎ District Judge.*  ⏎ * The Honorable John Charles Hinderaker, United States District Judge  ⏎ for the District of Arizona, sitting by designation.  ⏎ Case: 26-1444, 08/04/2026, DktEntry: 61.1, (1 of 21) ⏎ 2 AMAZON.COM SERVICES, LLC V. PERPLEXITY AI  ⏎ Opinion by Judge Milan D. Smith, Jr.  ⏎ SUMMARY**  ⏎ Computer Fraud and Abuse Act  ⏎ The panel …
+
+--- /No\. 26-1444/ : 1 vastet ---
+…FOR PUBLICATION  ⏎ UNITED STATES COURT OF APPEALS  ⏎ FOR THE NINTH CIRCUIT  ⏎ AMAZON.COM SERVICES, LLC,  ⏎                      Plaintiff - Appellee,  ⏎    v.  ⏎ PERPLEXITY AI, INC.,  ⏎                      Defendant - Appellant.  ⏎  No. 26-1444  ⏎ D.C. No.  ⏎ 3:25-cv-09514- ⏎ MMC  ⏎ OPINION  ⏎ Appeal from the United States District Court   ⏎ for the Northern District of California  ⏎ Maxine M. Chesney, District Judge, Presiding  ⏎ Argued and Submitted June 11, 2026  ⏎ Seattle, Washington  ⏎ August 4, 2026  ⏎ Before: MILAN D. SMITH, JR. AND ERIC C. TUNG,  ⏎ Circuit Judges, and JOHN CHARLES HINDERAKER,  ⏎ District Judge.*  ⏎ * The Honorable John Charles Hinderaker, United States District Judge  ⏎ for the District of Arizona, sitting by designation.  ⏎ Case: 26-1444, 08/04/2026, DktEntry: 61.1, (1 of 21) ⏎ 2 AMAZON.COM SERVICES, LLC V. PERPLEXITY AI  ⏎ Opinion by Judge Milan D. Smith, Jr.  ⏎ SUMMARY**  ⏎ Computer Fraud and Abuse Act  ⏎ The panel (1)  vacated the district court’s preliminary  ⏎ injunction requested by Amazon.com Services, LLC, against  ⏎ Perplexity AI, Inc., an artificial intelligence company, to  ⏎ prevent the use of Perplexity’s agentic web browser…
+
+--- /(VACATE|REVERSE|AFFIRM)[^.]{0,80}/ : 4 vastet ---
+…rizona, sitting by designation.  ⏎ Case: 26-1444, 08/04/2026, DktEntry: 61.1, (1 of 21) ⏎ 2 AMAZON.COM SERVICES, LLC V. PERPLEXITY AI  ⏎ Opinion by Judge Milan D. Smith, Jr.  ⏎ SUMMARY**  ⏎ Computer Fraud and Abuse Act  ⏎ The panel (1)  vacated the district court’s preliminary  ⏎ injunction requested by Amazon.com Services, LLC, against  ⏎ Perplexity AI, Inc., an artificial intelligence company, to  ⏎ prevent the use of Perplexity’s agentic web browser AI tool  ⏎ on Amazon.com in violation of the federal Computer Fraud  ⏎ and Abuse Act (CFAA) and its California state law  ⏎ analogue, the Comprehensive Computer Data Access and  ⏎ Fraud Act (CDAFA); and (2)  remanded for further  ⏎ proceedings.  ⏎ To succeed on a claim under the CFAA, a plaintiff must  ⏎ show that the defendant (1)  intentionally accessed a  ⏎ computer, (2) without authorization or exceeding authorized  ⏎ access, and that the defendant (3)  thereby obtained  ⏎ information (4)  from any protected computer, and that  ⏎ (5) there was loss to one or more persons during any one - ⏎ year period aggregating at least $5,000 in value.    ⏎ The panel concluded that Amazon was not entitled to a  ⏎ p…
+
+…ance of the equities favors  ⏎ Perplexity and weighs against an injunction, and (3)  an  ⏎ injunction against conduct that likely does not violate the  ⏎ CFAA or the CDAFA would not serve the public  ⏎ interest.  The panel therefore vacated the preliminary  ⏎ injunction and remanded for further proceedings.  ⏎ COUNSEL  ⏎ Hagan Scotten (argued), Hueston Hennigan LLP, New  ⏎ York, New York; Christine M. Woodin, Moez M. Kaba, and  ⏎ Billy J. McLain, Hueston Hennigan LLP, Los Angeles,  ⏎ California; for Plaintiff-Appellee.  ⏎ Christopher G. Michel (argued), Quinn Emanuel Urquhart &  ⏎ Sullivan LLP, Washington, D.C.; Lucas A. Hammill and  ⏎ Renita N. Sharma, Quinn Emanuel Urquhart & Sullivan  ⏎ LLP, New York, New York; Daniel C. Posner, Jonathan H.  ⏎ Kim, and John B. Quinn, Quinn Emanuel U rquhart &  ⏎ Case: 26-1444, 08/04/2026, DktEntry: 61.1, (3 of 21) ⏎ 4 AMAZON.COM SERVICES, LLC V. PERPLEXITY AI  ⏎ Sullivan LLP, Los Angeles, California; Andrew H.  ⏎ Schapiro, Quinn Emanuel Urquhart & Sullivan LLP,  ⏎ Chicago, Illinois; for Defendant-Appellant.  ⏎ Esha Bhandari and Lauren Yu, American Civil Liberties  ⏎ Union Foundation, New York, New York; Jake Karr, …
+
+…m in violation of the federal Computer  ⏎ Fraud and Abuse Act (CFAA) and its California state law  ⏎ analogue.  Because Amazon is unlikely to succeed in  ⏎ showing that Perplexity “accessed” Amazon computers for  ⏎ CFAA purposes, we vacate the district court’s preliminary  ⏎ injunction and remand for further proceedings.  ⏎ BACKGROUND  ⏎ I. Statutory Background  ⏎ Congress originally enacted the CFAA as part of the  ⏎ Counterfeit Access Device and Computer Fraud and Abuse  ⏎ Act of 1984.   Pub. L. No. 98 -473, tit. II, ch.  XXI, 98 Stat.  ⏎ 1837, 2190–92 (codified as amended at 18 U.S.C. §  1030).   ⏎ In enacting the CFAA, Congress aimed “to prevent  ⏎ intentional intrusion onto someone else ’s computer — ⏎ specifically, computer hacking.”  hiQ Labs, Inc. v. LinkedIn  ⏎ Corp., 31  F.4th 1180, 1196 (9th Cir. 2022).  This initial  ⏎ version of the CFAA was limited to computers “containing  ⏎ national security information or financial data and those  ⏎ operated by or on behalf of the government.”  Id. at 1197.  In  ⏎ Case: 26-1444, 08/04/2026, DktEntry: 61.1, (5 of 21) ⏎ 6 AMAZON.COM SERVICES, LLC V. PERPLEXITY AI  ⏎ 1996, Congress expanded the CFAA’s …
+
+…st thus favors  ⏎ Perplexity.  ⏎ CONCLUSION  ⏎ Because Amazon is unlikely to succeed on the merits of  ⏎ the “access” prong of the CFAA and CDAFA analysis and  ⏎ the equitable factors do not otherwise strongly favor an  ⏎ injunction, we VACATE the preliminary injunction granted  ⏎ by the district court and REMAND for further proceedings  ⏎ consistent with this opinion.6  ⏎ 5 This outcome does not impair Amazon’s ability to regulate access to  ⏎ Amazon.com via private terms of service for its users.  On the facts  ⏎ before us, Amazon is simply unlikely to succeed in its attempt to regulate  ⏎ access by invoking the CFAA and the CDAFA.  ⏎ 6  Perplexity’s motion to file  documents under seal, Dkt. 28, is  ⏎ GRANTED.  ⏎ Case: 26-1444, 08/04/2026, DktEntry: 61.1, (21 of 21)…
+
