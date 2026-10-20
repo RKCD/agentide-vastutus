@@ -1,0 +1,16 @@
+# jooks 44
+# urlid: https://decisions.civilresolutionbc.ca/crt/crtd/en/525448/1/document.do
+# otsi: Moffatt v\. Air Canada|2024 BCCRT 149 || responsible for all the information || separate legal entity || Date of Decision|Date Decided
+
+##### https://decisions.civilresolutionbc.ca/crt/crtd/en/525448/1/document.do
+kood=200 lõpp-URL=https://decisions.civilresolutionbc.ca/crt/crtd/en/525448/1/document.do tüüp=application/pdf baite=191298 teksti=14911
+--- /Moffatt v\. Air Canada|2024 BCCRT 149/ : 2 vastet ---
+…  ⏎ Date Issued: February 14, 2024  ⏎ File: SC-2023-005609  ⏎ Type: Small Claims  ⏎ Civil Resolution Tribunal  ⏎ Indexed as: Moffatt v. Air Canada, 2024 BCCRT 149  ⏎ B E T W E E N:  ⏎ JAKE MOFFATT  ⏎ APPLICANT  ⏎ A ND :  ⏎ AIR CANADA  ⏎ RESPONDENT  ⏎ REASONS FOR DECISION  ⏎ Tribunal Member: Christopher C. Rivers  ⏎ INTRODUCTION  ⏎ 1. This dispute is about a refund for a bereavement fare.  ⏎ 2. In November 2022, following the death of their grandmother, Jake Moffatt booked a  ⏎ flight with Air Canada. While researching flights, Mr. Moffat used a chatbot on Air  ⏎ 2  ⏎ Canada’s website. The chatbot suggested Mr. Moffatt could apply for bereavement…
+
+…: February 14, 2024  ⏎ File: SC-2023-005609  ⏎ Type: Small Claims  ⏎ Civil Resolution Tribunal  ⏎ Indexed as: Moffatt v. Air Canada, 2024 BCCRT 149  ⏎ B E T W E E N:  ⏎ JAKE MOFFATT  ⏎ APPLICANT  ⏎ A ND :  ⏎ AIR CANADA  ⏎ RESPONDENT  ⏎ REASONS FOR DECISION  ⏎ Tribunal Member: Christopher C. Rivers  ⏎ INTRODUCTION  ⏎ 1. This dispute is about a refund for a bereavement fare.  ⏎ 2. In November 2022, following the death of their grandmother, Jake Moffatt booked a  ⏎ flight with Air Canada. While researching flights, Mr. Moffat used a chatbot on Air  ⏎ 2  ⏎ Canada’s website. The chatbot suggested Mr. Moffatt could apply for bereavement  ⏎ fares retroactively .…
+
+--- /responsible for all the information/ : 1 vastet ---
+…s an interactive component, it is still just a part of Air Canad a’s  ⏎ website. It should be obvious to Air Canada that it is responsible for all the information  ⏎ on its website.  It makes no differen ce whether the information comes from a static  ⏎ page or a chatbot.  ⏎ 28. I find Air Canada did not take reasonable care to ensure it s chatbot was accurate.  ⏎ While Air Canada argues Mr. Moffatt could find the correct information on another  ⏎ part of its website, it does not explain why the webpage titled “Bereavement travel”  ⏎ was inherently more trustworthy than its chatbot.  It also does no t explain why  ⏎ customers should …
+
+--- /separate legal entity/ : 0 vastet ---
+--- /Date of Decision|Date Decided/ : 0 vastet ---
