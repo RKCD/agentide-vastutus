@@ -1,0 +1,48 @@
+name: Loe esmaallikat
+
+# Käsitsi: loeb avalikud õigustekstid ja prindib otsitud lõigud logisse.
+# Kasutatakse kaardi väidete kontrollimiseks. Ei commit'i midagi.
+on:
+  workflow_dispatch:
+    inputs:
+      urlid:
+        description: "Tühikuga eraldatud URL-id"
+        required: true
+      otsi:
+        description: "Regexid, eraldatud ' || '-ga (tühi = ainult algus)"
+        default: ""
+      algus:
+        description: "Prindi teksti algusest N märki"
+        default: "0"
+      keel:
+        description: "Accept-Language"
+        default: "et, est;q=0.9, en;q=0.5"
+
+permissions:
+  contents: read
+
+jobs:
+  loe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements-agents.txt
+      - run: pip install -r requirements-agents.txt
+      - name: Loe
+        env:
+          URLID: ${{ inputs.urlid }}
+          OTSI: ${{ inputs.otsi }}
+          ALGUS: ${{ inputs.algus }}
+          KEEL: ${{ inputs.keel }}
+        run: |
+          args=()
+          if [ -n "$OTSI" ]; then
+            while IFS= read -r m; do [ -n "$m" ] && args+=(--otsi "$m"); done < <(printf '%s' "$OTSI" | sed 's/ || /\n/g')
+          fi
+          # shellcheck disable=SC2086
+          python agents/allikas.py $URLID --algus "$ALGUS" --keel "$KEEL" "${args[@]}"
