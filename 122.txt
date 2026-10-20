@@ -1,0 +1,21 @@
+# jooks 122
+# urlid: https://www.aki.ee https://www.volinik.ee
+# otsi: QQmarkoigus18 || href="[^"]{0,160}(rikkumis|teavita|avaldus|kaebus|poordu|p%C3%B6ördu)[^"]{0,120}"
+
+##### https://www.aki.ee
+kood=200 lõpp-URL=https://www.aki.ee tüüp=text/html; charset=UTF-8 baite=172568 teksti=172238
+--- /QQmarkoigus18/ : 0 vastet ---
+--- /href="[^"]{0,160}(rikkumis|teavita|avaldus|kaebus|poordu|p%C3%B6ördu)[^"]{0,120}"/ : 9 vastet ---
+… ⏎                       <div class="w-100 p-2 border-top"> ⏎               <a href="https://www.aki.ee/meist/vota-uhendust/kaebus-isikuandmete-kaitse-asjas" class="font-weight-bold font-size-base mb-1 d-block"> ⏎                 Kaebus isikuandmete kaitse asjas ⏎               </a> ⏎               <p class="mb-0 font-size-sm">Esitage enda eraelu kaitseks kaebus, kui leiate, et isik…
+
+… ⏎                       <div class="w-100 p-2 border-top"> ⏎               <a href="https://www.aki.ee/meist/vota-uhendust/kaebus-maksehaire-asjas" class="font-weight-bold font-size-base mb-1 d-block"> ⏎                 Kaebus maksehäire asjas ⏎               </a> ⏎               <p class="mb-0 font-size-sm">Kaebuse maksehäire asjas saate esitada, kui isikuandmete töötlemine on seo…
+
+… ⏎                       <div class="w-100 p-2 border-top"> ⏎               <a href="https://www.aki.ee/meist/vota-uhendust/rikkumisteade" class="font-weight-bold font-size-base mb-1 d-block"> ⏎                 Rikkumisteade ⏎               </a> ⏎               <p class="mb-0 font-size-sm">Andmetöötleja peab rikkumisteate esitama hiljemalt 72 tundi pärast isikuandmetega seotud rikku…
+
+…enu-section-links-url field--type-link field--label-hidden field__item"><a href="https://www.aki.ee/meist/vota-uhendust/kaebus-isikuandmete-kaitse-asjas#millaleisekku" class="list-group-item list-group-item-action font-weight-normal">Millal AKI ei sekku</a></div> ⏎        ⏎       </div> ⏎ </div> ⏎           </div> ⏎    ⏎       </div> ⏎ </div> ⏎           </div> ⏎    ⏎     </div> ⏎           </d…
+
+
+##### https://www.volinik.ee
+kood=200 lõpp-URL=https://www.volinik.ee tüüp=text/html baite=63581 teksti=63581
+--- /QQmarkoigus18/ : 0 vastet ---
+--- /href="[^"]{0,160}(rikkumis|teavita|avaldus|kaebus|poordu|p%C3%B6ördu)[^"]{0,120}"/ : 0 vastet ---
