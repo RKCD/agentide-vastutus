@@ -38,6 +38,16 @@ python -m http.server -d _site 8000
 1. Repo **Settings → Pages → Build and deployment → Source: GitHub Actions**.
 2. Iga push `main`-i ehitab lehe uuesti. Käsitsi: **Actions → Ehita ja avalda leht → Run workflow**.
 
+## Väidete kontrollimine esmaallikast
+
+Töövoog **Loe esmaallikat** (`.github/workflows/allikas.yml`, käsitsi) loeb avaliku õigusteksti ja salvestab otsitud lõigud harusse `kontrolli-logid` (fail `<jooksu nr>.txt`).
+
+- Riigi Teataja: `rt:<akti ID>`. Tööriist leiab ise kehtiva redaktsiooni (`leiaKehtiv`) ja loeb teksti avalikust API-st.
+- EL-i aktid: `https://publications.europa.eu/resource/celex/<CELEX>` (CELLAR, eestikeelne tekst). EUR-Lexi veebileht on robotikaitse taga.
+- Otsingumustrid on regexid, eraldatud ` || `-ga.
+
+Kontrollitud normil on `data/kaart.yaml`-is `kontrollitud: YYYY-MM-DD`. Olukord on kontrollitud ainult siis, kui kõik selle normid on kontrollitud (`build.py` kontrollib seda).
+
 ## Radar (iga päev kell 06:00 UTC)
 
 `agents/radar.py` loeb allikad failist `config/allikad.yaml`, jätab välja juba nähtud kirjed (`state/nähtud.json`), filtreerib märksõnadega (`config/filter.yaml`) ja laseb läbinud kirjed `claude-haiku-5-5` hinnata skaalal 0–3. Hinnang 2+ läheb faili `inbox/YYYY-MM-DD.md`. Inbox on toormaterjal, mitte avalik sisu. Kui uusi olulisi kirjeid pole, ei commit'i midagi.
