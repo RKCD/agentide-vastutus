@@ -1,0 +1,67 @@
+# jooks 141
+# urlid: https://publications.europa.eu/resource/celex/32024R2979 https://publications.europa.eu/resource/celex/32024R2981
+# otsi: QQmarkoigus_tehingN3 || [Jj]õustub[^\n]{0,300} || Artikkel 1\s[^\n]{0,200}
+
+##### https://publications.europa.eu/resource/celex/32024R2979
+kood=200 lõpp-URL=http://publications.europa.eu/resource/cellar/a7576de1-b1e0-11ef-acb1-01aa75ed71a1.0008.03/DOC_1 tüüp=application/xhtml+xml;charset=UTF-8 baite=92962 teksti=31498
+--- algus ---
+
+L_202402979ET.000101.fmx.xml
+Euroopa Liidu 
+Teataja
+ET
+L-seeria
+2024/2979
+4.12.2024
+            KOMISJONI RAKENDUSMÄÄRUS (EL) 2024/2979,
+            28. november 2024,
+millega kehtestatakse Euroopa Parlamendi ja nõukogu määruse (EL) nr 910/2014 rakenduseeskirjad seoses Euroopa digiidentiteedikukrute tervikluse ja tuumikfunktsioonidega
+EUROOPA KOMISJON,
+võttes arvesse Euroopa Liidu toimimise lepingut,
+võttes arvesse Euroopa Parlamendi ja nõukogu 23. juuli 2014. aasta määrust (EL) nr 910/2014 e-identimise ja e-tehingute jaoks vajalike usaldusteenuste kohta siseturul ja millega tunnistatakse kehtetuks direktiiv 1999/93/EÜ, 
+(
+1
+)
+ eriti selle artikli 5a lõiget 23,
+ning arvestades järgmist:
+(1)
+Euroopa digiidentiteedi raamistik, mis loodi määrusega (EL) nr 910/2014, on kogu liitu hõlmava turvalise ja koostöövõimelise digiidentiteedisüsteemi loomisel üks keskseid elemente. Raamistik, mille ü
+--- /QQmarkoigus_tehingN3/ : 0 vastet ---
+--- /[Jj]õustub[^\n]{0,300}/ : 1 vastet ---
+…ktrooniliste tõenditega, mida see kukrule tuginev isik taotleb. ⏎ IV PEATÜKK ⏎ LÕPPSÄTTED ⏎ Artikkel 15 ⏎ Jõustumine ⏎ Käesolev määrus jõustub kahekümnendal päeval pärast selle avaldamist  ⏎ Euroopa Liidu Teatajas ⏎ . ⏎ Käesolev määrus on tervikuna siduv ja vahetult kohaldatav kõikides liikmesriikides. ⏎ Brüssel, 28. november 2024 ⏎ Komisjoni nimel ⏎ president ⏎ Ursula VON DER LEYEN ⏎ ( ⏎ 1 ⏎ ) ⏎ ELT L 257, 28.8.2014, lk 73 ⏎ , ELI:  ⏎ https://eur-lex.europa.eu/eli/reg/2014/910/oj ⏎ . ⏎ ( ⏎ 2 ⏎ ) ⏎   Euroopa Parlamendi ja nõukogu 27. aprilli 2016. aasta määrus (EL) 2016/679 füüsiliste isikute kaitse kohta isikuandmete töötlemisel ja selliste andmete vaba liikumis…
+
+--- /Artikkel 1\s[^\n]{0,200}/ : 1 vastet ---
+…las määruse (EL) nr 910/2014 artiklis 48 osutatud komitee arvamusega, ⏎ ON VASTU VÕTNUD KÄESOLEVA MÄÄRUSE: ⏎ I PEATÜKK ⏎ ÜLDSÄTTED ⏎ Artikkel 1 ⏎ Reguleerimisese ja kohaldamisala ⏎ Käesoleva määrusega kehtestatakse kukrute terviklust ja tuumikfunktsioone puudutavad eeskirjad, mida tuleb regulaarselt ajakohastada, et käia kaasas tehnika ja standardite arenguga ning tööga, mida tehakse, lähtudes soovitusest (EL) 2021/946, ning eeskätt arhitektuurist ja võrdlusraamistikust. ⏎ Artikkel 2 ⏎ Mõisted ⏎ Käesolevas määruses kasutatakse järgmisi mõisteid: ⏎ 1) ⏎ „kukru turvaline krüptorakendus“ – rakendus, mis haldab kriitilise tähtsusega vara selle…
+
+
+##### https://publications.europa.eu/resource/celex/32024R2981
+kood=200 lõpp-URL=http://publications.europa.eu/resource/cellar/049b9eb6-b1e1-11ef-acb1-01aa75ed71a1.0008.03/DOC_1 tüüp=application/xhtml+xml;charset=UTF-8 baite=449531 teksti=118813
+--- algus ---
+
+L_202402981ET.000101.fmx.xml
+Euroopa Liidu 
+Teataja
+ET
+L-seeria
+2024/2981
+4.12.2024
+            KOMISJONI RAKENDUSMÄÄRUS (EL) 2024/2981,
+            28. november 2024,
+millega kehtestatakse Euroopa Parlamendi ja nõukogu määruse (EL) nr 910/2014 rakenduseeskirjad seoses Euroopa digiidentiteedikukrute sertifitseerimisega
+EUROOPA KOMISJON,
+võttes arvesse Euroopa Liidu toimimise lepingut,
+võttes arvesse Euroopa Parlamendi ja nõukogu 23. juuli 2014. aasta määrust (EL) nr 910/2014 e-identimise ja e-tehingute jaoks vajalike usaldusteenuste kohta siseturul ja millega tunnistatakse kehtetuks direktiiv 1999/93/EÜ, 
+(
+1
+)
+ eriti selle artikli 5c lõiget 6,
+ning arvestades järgmist:
+(1)
+Määruse (EL) nr 910/2014 artikli 5c kohaselt tuleb Euroopa digiidentiteedikukrud (edaspidi „kukrud“) sertifitseerida vastavalt funktsionaalsetele, küberturvalisuse ja andmekaitse nõuetele, et tagada turvalisuse kõrge
+--- /QQmarkoigus_tehingN3/ : 0 vastet ---
+--- /[Jj]õustub[^\n]{0,300}/ : 1 vastet ---
+…nende pakkumise aluseks olevate e-identimise süsteemide üldisesse sertifitseerimisse. ⏎ Artikkel 22 ⏎ Jõustumine ⏎ Käesolev määrus jõustub kahekümnendal päeval pärast selle avaldamist  ⏎ Euroopa Liidu Teatajas ⏎ . ⏎ Käesolev määrus on tervikuna siduv ja vahetult kohaldatav kõikides liikmesriikides. ⏎ Brüssel, 28. november 2024 ⏎ Komisjoni nimel ⏎ president ⏎ Ursula VON DER LEYEN ⏎ ( ⏎ 1 ⏎ ) ⏎ ELT L 257, 28.8.2014, lk 73 ⏎ , ELI:  ⏎ http://data.europa.eu/eli/reg/2014/910/oj ⏎ . ⏎ ( ⏎ 2 ⏎ ) ⏎   Euroopa Parlamendi ja nõukogu 27. aprilli 2016. aasta määrus (EL) 2016/679 füüsiliste isikute kaitse kohta isikuandmete töötlemisel ja selliste andmete vaba liikumise ni…
+
+--- /Artikkel 1\s[^\n]{0,200}/ : 1 vastet ---
+…use (EL) nr 910/2014 artikli 48 lõikes 1 osutatud komitee arvamusega, ⏎ ON VASTU VÕTNUD KÄESOLEVA MÄÄRUSE: ⏎ I PEATÜKK ⏎ ÜLDSÄTTED ⏎ Artikkel 1 ⏎ Reguleerimisese ja kohaldamisala ⏎ Käesolevas määruses sätestatakse võrdlusstandardid ning kehtestatakse spetsifikatsioonid ja protseduurid, et luua kukrute sertifitseerimise kindel raamistik, mida ajakohastatakse regulaarselt, et käia kaasas tehnika ja standardite arenguga ja tööga, mida tehakse, lähtudes soovitusest (EL) 2021/946, mis käsitleb ühiseid liidu tööriistu Euroopa digiidentiteedi raamistiku koordineeritud käsitlusviisi jaoks, ning eeskätt arhitektuurist ja võrdlusraamistiku…
+
