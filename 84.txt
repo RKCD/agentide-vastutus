@@ -1,0 +1,41 @@
+# jooks 84
+# urlid: https://adr-docs.karlerss.com/S8VcIUNeh3MwhEUoyLUjqWHVn6Y6FNyF/SK_HMS%20automaatne%20haldusmenetlus.pdf https://adr-docs.karlerss.com/lS5Z7VPiXeSeiP6PbhF2BJ3KaVHDFoUS/Vastus%20haldusmenetluse%20seaduse%20ja%20avaliku%20teabe%20seaduse%20muutmise%20seaduse%20eelnoule.pdf
+# otsi: QQmarkoigusavalik23 || üldvolitus|üldine volitus|valdkonnaseadu|eriseadu|Riigikohtu
+
+##### https://adr-docs.karlerss.com/S8VcIUNeh3MwhEUoyLUjqWHVn6Y6FNyF/SK_HMS%20automaatne%20haldusmenetlus.pdf
+kood=200 lõpp-URL=https://adr-docs.karlerss.com/S8VcIUNeh3MwhEUoyLUjqWHVn6Y6FNyF/SK_HMS%20automaatne%20haldusmenetlus.pdf tüüp=application/pdf baite=655828 teksti=65751
+--- algus ---
+1 
+27.02.2026 
+Haldusmenetluse seaduse ja avaliku teabe seaduse muutmise 
+seaduse eelnõu seletuskiri 
+1. Sissejuhatus 
+1.1.  Sisukokkuvõte 
+Eelnõuga muudetakse haldusmenetluse seadust (HMS), et luua selge ja tehnoloogianeutraalne 
+õiguslik raamistik automaatse ks haldusmenetluseks. Muudatus on vajal
+--- /QQmarkoigusavalik23/ : 0 vastet ---
+--- /üldvolitus|üldine volitus|valdkonnaseadu|eriseadu|Riigikohtu/ : 16 vastet ---
+…d. Ebatüüpilistel juhtudel ei oleks aga olnud automaatsus lubatav.  ⏎ Praeguseks on Euroopa Parlament vastu võtnud määruse (EL) 2024/1689, mis käsitleb  ⏎ tehisintellekti ning selle süsteemide ohutust, eetilisust ja usaldusväärsust. Samuti on jõustunud  ⏎ Riigikohtu lahend 6, mis annab olulised suunised algoritmipõhise otsustamisprotsessi  ⏎ reguleerimiseks. Seega on Justiits - ja Digiministeerium nüüdseks välja töötanud  ⏎ haldusmenetluse seaduse muutmise seaduse eelnõu, mille sisuks on tehnoloogianeutraalne  ⏎ regulatsioon, mis lubab teatud eranditega algoritmipõhist otsustamist ka juhtudel, kus algoritm  ⏎ kaalub õiguslikke asjaolusid iseseisvalt, lähtudes kujunenud otsustusreeglitest   ⏎ Eelnõuga tehtavate muudatuste peamine eesmärk on sätestada haldusmenetluse seaduses  ⏎ automaatse haldusmenetluse üldised õiguslikud alused ja tingimused . Tehnoloogia areng ning  ⏎ digiriigivõimekus on loonud eelduse muuta  haldusmenetlus automaatseks, kasutades  ⏎ infosüsteeme ja algoritmilist otsustusloogikat. Eesti õiguses on automaatse haldusmenetluse  ⏎ võimalikkus aktuaalne teema seoses digitaliseerimise ja halduskoormuse vähendamisega.  ⏎ Eelnõuga taotletakse järgmisi eesmärke:  ⏎  kiiruse ja efektiivsuse kasv (aitab kaasa HMS-i § 5 lõike 2 toimimisele);  ⏎  büro…
+
+…asjakohase õigusnormi järgimise kohustusest7.  ⏎ Siinkohal on oluline , et automaatse haldusakti andmisele või toimingu või menetlustoimingu  ⏎ tegemisele laienevad kõik haldusõiguse põhimõtted ning HMS-is sätestatud nõuded.  ⏎ Kavandatav HMS § 71 lg 1 on üldvolitusnorm, mis kohaldub nii nagu kohaldus HMS tervikuna  ⏎ kõikidele haldusmenetlustele. Seega kohaldub ka uus kavandatav automaatse haldusmenetluse  ⏎ norm mistahes haldusmenetlustele. HMS § 5 lg 1 sätestab vormivabaduse põhimõtte, mille järgi  ⏎ „Menetlustoimingu vormi ja muud haldusmenetluse üksikasjad määrab haldusorgan  ⏎ kaalutlusõiguse alusel, kui seaduse või määrusega ei ole sätestatud teisiti. “. Kavandatav HMS  ⏎ § 7 1 lg 1 täpsustab seda põhimõtet automaatse haldusmenetluse kontekstis, andes  ⏎ haldusorganile võimaluse valida automaatne menetlusviis.  ⏎ Erinorme eriseadustes ei ole tingimata vaja, kuna:  ⏎ 1. üldnorm annab juba õigusliku aluse automaatse haldusmenetluse kasutamiseks;  ⏎ 2.  HMS § 5 lg 1 kohaselt määrab haldusorgan menetluse üksikasjad kaalutlusõiguse alusel, kui  ⏎ seadus ei sätesta teisiti;  ⏎ 3. kavandatav HMS § 71 sisaldab ka piisavaid tagatisi (lg 3-8), mis kaitsevad menetlusosaliste  ⏎ õigusi.  ⏎ Erinorme võib siiski vaja olla järgmistel juhtudel:  ⏎  kui soovitakse automaat…
+
+…gan  ⏎ kaalutlusõiguse alusel, kui seaduse või määrusega ei ole sätestatud teisiti. “. Kavandatav HMS  ⏎ § 7 1 lg 1 täpsustab seda põhimõtet automaatse haldusmenetluse kontekstis, andes  ⏎ haldusorganile võimaluse valida automaatne menetlusviis.  ⏎ Erinorme eriseadustes ei ole tingimata vaja, kuna:  ⏎ 1. üldnorm annab juba õigusliku aluse automaatse haldusmenetluse kasutamiseks;  ⏎ 2.  HMS § 5 lg 1 kohaselt määrab haldusorgan menetluse üksikasjad kaalutlusõiguse alusel, kui  ⏎ seadus ei sätesta teisiti;  ⏎ 3. kavandatav HMS § 71 sisaldab ka piisavaid tagatisi (lg 3-8), mis kaitsevad menetlusosaliste  ⏎ õigusi.  ⏎ Erinorme võib siiski vaja olla järgmistel juhtudel:  ⏎  kui soovitakse automaatset menetlust kohustuslikuks teha  - üldnorm annab vaid  ⏎ võimaluse ("võib"), mitte kohustuse;  ⏎ 7 RKHKo nr 3-21-979, p 38.  ⏎ 6  ⏎  kui on vaja täpsustada konkreetseid otsustuspõhimõtteid - teatud valdkondades võib olla  ⏎ vajalik täpsustada, millistel kriteeriumidel automaatne otsustamine toimub;  ⏎  kui on vaja keelata automaatne menetlus - HMS § 5 lg 1 võimaldab seadusega sätestada  ⏎ teisiti.  ⏎ Üldnormi piisavust toetab ka analoogia teiste normidega. HMS sisaldab mitmeid üldnorme,  ⏎ mida kohaldatakse ilma erinormideta:  ⏎  HMS § 6 (uurimispõhimõte) - kohaldub kõikidele hal…
+
+…, välja arvatud juhul, kui see on lubatud liikmesriigi õigusega. HMS vastav  ⏎ säte (üldnormina) täidabki selle liikmesriigi õiguse loa rolli ning sisaldab ka nõutavaid  ⏎ garantiisid (nt õigus inimese sekkumisele, selgituste saamisele), mistõttu ei ole eriseadusesse  ⏎ eraldi alust vaja, kui järgitakse HMS-is toodud tingimusi.  ⏎ Silmas tuleb pidada, et kavandatav HMS § 7 1 lg 1 ei loo iseseisvat ega üldist õiguslikku  alust  ⏎ isikuandmete, sh. eriliiki isikuandmete töötlemiseks automatiseeritud haldusmenetluses. See  ⏎ tähendab, et HMS § 7 1 lg 1 on üldnorm, mitte materiaalõiguslik andmetöötluse alus.  ⏎ Isikuandmete töötlemise õiguslik alus peab tulenema IKÜM art-st 6 ning eriliiki isikuandmete  ⏎ puhul IKÜM art-st 9 koos asjakohase valdkonnaseadusega.  ⏎ Avalike ülesannete täitmisel on isikuandmete töötlemise õiguslikuks aluseks üldjuhul IKÜM  ⏎ art 6 lg 1 p e, mille kohaselt on töötlemine õiguspärane, kui see on vajalik avalikes huvides  ⏎ oleva ülesande täitmiseks või avaliku võimu teostamiseks. Eriliiki isikuandmete töötlemine on  ⏎ lubatav üksnes IKÜM art 9 lg -s 2 sätestatud alustel ning eeldab selget ja täpset õigusnormi,  ⏎ millest tuleneb haldusorgani pädevus selliseid andmeid töödelda. Oluline on rõhutada, et IKÜM  ⏎ art 22 kohaldub sõltumata s…
+
+
+##### https://adr-docs.karlerss.com/lS5Z7VPiXeSeiP6PbhF2BJ3KaVHDFoUS/Vastus%20haldusmenetluse%20seaduse%20ja%20avaliku%20teabe%20seaduse%20muutmise%20seaduse%20eelnoule.pdf
+kood=200 lõpp-URL=https://adr-docs.karlerss.com/lS5Z7VPiXeSeiP6PbhF2BJ3KaVHDFoUS/Vastus%20haldusmenetluse%20seaduse%20ja%20avaliku%20teabe%20seaduse%20muutmise%20seaduse%20eelnoule.pdf tüüp=application/pdf baite=383061 teksti=653
+--- algus ---
+Osmussaare 2 / 13811 Tallinn / 628 7400 / 112@112.ee / www.112.ee 
+Registrikood 70007446 
+Jaanus Põldmaa 
+Siseministeerium 
+info@siseministeerium.ee 
+Pikk 61 
+15065, Tallinn 
+              Teie: 18.12.2025 nr 1-7/336-1 
+              Meie: 06.01.2026 nr HK 2.-1/16-1 
+Vastus haldusmenetluse seaduse j
+--- /QQmarkoigusavalik23/ : 0 vastet ---
+--- /üldvolitus|üldine volitus|valdkonnaseadu|eriseadu|Riigikohtu/ : 0 vastet ---
