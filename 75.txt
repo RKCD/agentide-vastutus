@@ -1,0 +1,246 @@
+# jooks 75
+# urlid: https://digital-strategy.ec.europa.eu/en/policies/market-surveillance-authorities-under-ai-act
+# otsi: QQmarkoigusavalik18
+
+##### https://digital-strategy.ec.europa.eu/en/policies/market-surveillance-authorities-under-ai-act
+kood=200 lõpp-URL=https://digital-strategy.ec.europa.eu/en/policies/market-surveillance-authorities-under-ai-act tüüp=text/html; charset=UTF-8 baite=63994 teksti=7852
+--- algus ---
+
+Market Surveillance Authorities under the AI Act | Shaping Europe’s digital future
+Skip to main content
+en
+Select your language
+Close
+bg
+български
+es
+español
+cs
+čeština
+da
+dansk
+de
+Deutsch
+et
+eesti
+el
+ελληνικά
+en
+English
+fr
+français
+ga
+Gaeilge
+hr
+hrvatski
+it
+italiano
+lv
+latviešu
+lt
+lietuvių
+hu
+magyar
+mt
+Malti
+nl
+Nederlands
+pl
+polski
+pt
+português
+ro
+română
+sk
+slovenčina
+sl
+slovenščina
+fi
+suomi
+sv
+svenska
+Search
+Search
+Shaping Europe’s digital future
+Menu
+Close
+Menu
+Back
+Previous items
+Next items
+Home
+Policies
+Activities
+News
+Library
+Funding
+Calendar
+Consultations
+AI Office
+Home
+…
+Policies
+Artificial Intelligence
+European approach to artificial intelligence
+AI Act
+The enforcement framework of the AI Act
+Governance and enforcement of the AI Act
+Market Surveillance Authorities under the AI Act
+Market Surveillance Authorities under the AI Act
+      Market surveillance authorities supervise and enforce the rules related to AI systems in the EU Member States.
+The AI Office and the national market surveillance authorities are responsible for implementing, supervising and enforcing the AI Act. Market surveillance authorities have powers to investigate and enforce compliance with the rules for AI systems, including prohibitions and rules for high-risk AI, in line with 
+EU market surveillance rules
+. The AI Office supervises and enforces the rules for general-purpose AI models.
+Each Member State must appoint one or multiple market surveillance authorities. In case of multiple market surveillance authorities, the Member State must designate a Single Point of Contact.
+The Market Surveillance Authorities in detail
+Competences
+Designation
+Single Points of Contact
+Market surveillance authorities have the power to intervene when AI systems pose risks or do not comply with the requirements of the 
+AI Act
+, to conduct remote monitoring, and to access providers' documentation, data sets, and source code. These authorities can propose joint investigations with the Commission, request corrective measures, and enforce the rules through the imposition of penalties.
+Market surveillance authorities have the duty to report annually to the Commission and relevant national authorities, and to inform the Commission and other Member States of any measure adopted, as well as of the results of risk evaluations. In carrying out their tasks, they should be independent, impartial and unbiased.
+When to contact a market surveillance authority?
+Complaints from individuals are going to be an essential contribution to an effective enforcement of the AI Act. For this purpose, the market surveillance authority will accept complaints by any natural or legal person, if they have grounds to consider that there has been an infringement of the provisions of the AI Act.
+Cooperation between market surveillance authorities
+Effective cross-border cooperation between market surveillance authorities in different EU countries is essential to ensure efficient, comprehensive, and consistent market surveillance. The market surveillance authorities under the AI Act come together under the framework of the European AI Board, to facilitate cooperation, the exchange of expertise and effective enforcement in their area. They will be able to make use of existing EU tools to facilitate information exchange and cooperation. Learn more about the 
+way market surveillance authorities can cooperate at EU level
+.
+Each Member State must appoint one or multiple market surveillance authorities, based on their needs and taking account of sectoral responsibilities. In case of multiple market surveillance authorities, they must designate a Single Point of Contact vis-à-vis the public and other counterparts from Member States and the EU.
+Member States are required to designate the responsible market surveillance authorities by 2 August 2025
+ and notify them to the Commission. The Commission is considering the notifications and will publish a list of Single Points of Contact in due time.
+If the Member States fail to designate a market surveillance authority by that date, the Commission may launch a 
+formal infringement procedure
+ against the Member State.
+The 
+European Data Protection Supervisor (EDPS)
+ is the designated market surveillance authority for EU institutions, bodies and agencies. In this capacity, the EDPS is tasked with the monitoring of the implementation and respect of the AI Act in the EU institutions, bodies and agencies, and is entitled to impose administrative fines, under certain conditions, on those failing to comply with the regulation. Learn more about the 
+role of the EDPS as AI Act supervisor
+.
+Below is a list of Single Points of Contact for market surveillance in EU Member States. This list is updated continuously in light of the ongoing implementation process of the AI Act. For Single Points of Contact marked with *, the national designation decision is still pending final adoption.
+ Austria
+-
+ Italy
+Agenzia per la cybersicurezza nazionale
+ | National Cybersecurity Agency
+ Belgium
+-
+ Latvia
+Patērētāju tiesību aizsardzības centrs
+ | Consumer Rights Protection Centre
+ Bulgaria
+-
+ Lithuania
+Lietuvos Respublikos ryšių reguliavimo tarnyba
+ | Communications Regulatory Authority of the Republic of Lithuania
+ Croatia
+-
+ Luxembourg
+*
+Commission nationale pour la protection des données
+ | National Commission for Data Protection
+ Cyprus
+*
+ΕΠΙΤΡΟΠΟΣ ΕΠΙΚΟΙΝΩΝΙΩΝ
+ | Commissioner of Communications
+ Malta
+L-Awtorità Maltija għall-Innovazzjoni Diġitali
+ | Malta Digital Innovation Authority (MDIA)
+ Czech Republic
+*
+Český telekomunikační úřad
+ | Czech Telecommunication Office 
+ Netherlands
+*
+Rijksinspectie Digitale Infrastructuur
+ | Dutch Authority for Digital Infrastructure
+ Denmark
+Digitaliseringsstyrels
+ |  Agency for Digital Government
+ Poland
+Komisja Rozwoju i Bezpieczeństwa Sztucznej Inteligencji (KRiBSI)
+ | Commission for the Development and Security of Artificial Intelligence
+ Estonia
+*
+Tarbijakaitse ja Tehnilise Järelevalve Amet
+ | Consumer Protection and Technical Regulatory Authority
+ Portugal
+*
+ANACOM
+ | National Regulatory Authority for Communications
+ Finland
+Traficom
+ | Transport and Communications Agency
+ Romania
+*
+ANCOM
+ | National Authority for Management and Regulation in Communications of Romania 
+ France
+*
+Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF)
+ | Directorate General for Competition Policy, Consumer Affairs and Fraud Control
+ Slovakia
+-
+ Germany
+*
+Bundesnetzagentur
+ | Federal Network Agency
+ Slovenia
+*
+Agencija za komunikacijska omrežja in storitve Republike Slovenije
+ (AKOS) | Agency for Communication Networks and Services of the Republic of Slovenia
+ Greece
+Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα
+ | Hellenic Data Protection Authority
+ Spain
+*
+Agencia Española de Supervisión de Inteligencia Artificial
+ | Spanish Artificial Intelligence Surveillance Agency
+ Hungary
+-
+ Sweden
+*
+Post- och telestyrelsen
+ | The Swedish Post and Telecom Authority
+ Ireland
+Oifig IS na hÉireann
+ | AI Office of Ireland
+Quick links
+Governance and enforcement of the AI Act
+Related Content
+Big Picture
+        Governance and enforcement of the AI Act
+The AI Act's governance architecture is an essential pillar of its enforcement.
+Last update
+7 September 2026
+Print as PDF
+Shaping Europe’s digital future
+This site is managed by:
+Directorate-General for Communications Networks, Content and Technology
+Digital EU on Mastadon
+Digital EU on LinkedIn
+Digital EU on Facebook
+Digital EU on Youtube
+Digital EU on Instagram
+Digital EU on X
+    About us  
+Privacy statement
+Copyright notice
+About Directorate-General CONNECT
+Language Policy
+Follow the European Commission
+Mastodon
+LinkedIn
+Bluesky
+Facebook
+Youtube
+Other
+Contact us
+Report an IT vulnerability
+Languages on our websites
+Cookies
+Privacy policy
+Legal notice
+Accessibility
+
+--- /QQmarkoigusavalik18/ : 0 vastet ---
