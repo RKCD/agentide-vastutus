@@ -1,0 +1,18 @@
+# jooks 125
+# urlid: rt:130062026052
+# otsi: QQmarkoigus20 || \n\d\. peatükk [^\n]*
+
+RT: Isikuandmete kaitse seadus (IKS), kehtiv redaktsioon 130062026052, kehtivuse algus 2026-09-30T21:00:00Z, staatus KEHTIV, vaata: https://www.riigiteataja.ee/akt/130062026052
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/130062026052/txt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/130062026052/txt tüüp=application/octet-stream;charset=UTF-8 baite=72743 teksti=69305
+--- /QQmarkoigus20/ : 0 vastet ---
+--- /\n\d\. peatükk [^\n]*/ : 7 vastet ---
+…026, 1 - 01.10.2026 ⏎ 1. peatükk Üldsätted ⏎ § 1. Seaduse reguleerimisala ⏎ (1) Käesolev seadus regulee…
+
+…va seaduse erisusi. ⏎ 2. peatükk Isikuandmete töötlemise erialused ⏎ § 4. Isikuandmete töötlemine ajak…
+
+…st ja kasutatavust. ⏎ 3. peatükk Muud juhud isikuandmete töötlemisel ⏎ § 8. Lapse isikuandmete töötlem…
+
+…õistlikult eeldada. ⏎ 4. peatükk Isikuandmete töötlemine õiguskaitseasutuse poolt süüteo tõkestamisel…
+
