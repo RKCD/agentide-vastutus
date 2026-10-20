@@ -1,0 +1,12 @@
+# jooks 41
+# urlid: https://publications.europa.eu/resource/celex/32024R1689
+# otsi: \n3\)\s+„pakkuja“ || \n4\)\s+„juurutaja“
+
+##### https://publications.europa.eu/resource/celex/32024R1689
+kood=200 lõpp-URL=http://publications.europa.eu/resource/cellar/dc8116a1-3fe6-11ef-865a-01aa75ed71a1.0007.03/DOC_1 tüüp=application/xhtml+xml;charset=UTF-8 baite=1264187 teksti=567497
+--- /\n3\)\s+„pakkuja“/ : 1 vastet ---
+…prognoose, sisu, soovitusi või otsuseid, mis võivad mõjutada füüsilist või virtuaalset keskkonda; ⏎ 2) ⏎ „risk“ – kahju tekkimise tõenäosuse ja kahju tõsiduse astme kombinatsioon; ⏎ 3) ⏎ „pakkuja“ – füüsiline või juriidiline isik, ametiasutus, ametkond või muu organ, kes arendab tehisintellektisüsteemi või üldotstarbelist tehisintellektimudelit või kellel on väljatöötatud tehisintellektisüsteem või üldotstarbeline tehisintellektimudel ja kes laseb selle turule või võtab tehisintellektisüsteemi kasutusele oma nime või kaubamärgi all kas tasu eest või tasuta; ⏎ 4) ⏎ „juurutaja“ – füüsiline või juriidiline isik, ametiasutus, ametkond või muu organ, kes kasutab tehisintellektisüsteemi oma volituste alusel, välja arvatud juhul, kui tehisintellektisüsteemi kasutatakse isikliku, mitte kutselise tegevuse jaoks; ⏎ 5) ⏎ „volitatud esindaja“ – füüsiline või juriidiline isik, kes asub või o…
+
+--- /\n4\)\s+„juurutaja“/ : 1 vastet ---
+…tisüsteem või üldotstarbeline tehisintellektimudel ja kes laseb selle turule või võtab tehisintellektisüsteemi kasutusele oma nime või kaubamärgi all kas tasu eest või tasuta; ⏎ 4) ⏎ „juurutaja“ – füüsiline või juriidiline isik, ametiasutus, ametkond või muu organ, kes kasutab tehisintellektisüsteemi oma volituste alusel, välja arvatud juhul, kui tehisintellektisüsteemi kasutatakse isikliku, mitte kutselise tegevuse jaoks; ⏎ 5) ⏎ „volitatud esindaja“ – füüsiline või juriidiline isik, kes asub või on asutatud liidus ja kes on saanud tehisintellektisüsteemi või üldotstarbelise tehisintellektimudeli pakkujalt kirjaliku volituse vastavalt täita käesoleva määrusega kehtestatud kohustusi ja sooritada menetlusi tema nimel ning on selle volituse vastu võtnud; ⏎ 6) ⏎ „importija“ – füüsiline või juriidiline isik, kes asub või on asutatud liidus ja kes laseb turule sellise füüsilise võ…
+
