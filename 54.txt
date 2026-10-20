@@ -1,0 +1,47 @@
+# jooks 54
+# urlid: rt:120062026018
+# otsi: QQmarkoigus_valeinfo3 || \n§ \d+\. [^\n]*(Lepingueelse|lepingueelse|Lepingueelne)[^\n]* || \n§ \d+\. [^\n]*(Abiisiku|abiisiku|kolmanda isiku|Kolmanda isiku)[^\n]* || \n§ \d+\. [^\n]*(Tarbijalepingu|Tarbijaleping)[^\n]* || \n§ \d+\. [^\n]*(Avalik|avalik)[^\n]* || \n§ \d+\. [^\n]*(Esindaja|esindaja|Esinduse|Töötaja|töötaja)[^\n]* || \n§ \d+\. [^\n]*(Teabe|teabe|Teavitamis)[^\n]*
+
+RT: Võlaõigusseadus (VÕS), kehtiv redaktsioon 120062026018, kehtivuse algus 2026-08-31T21:00:00Z, staatus KEHTIV, vaata: https://www.riigiteataja.ee/akt/120062026018
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/120062026018/txt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/120062026018/txt tüüp=application/octet-stream;charset=UTF-8 baite=1110125 teksti=1060574
+--- /QQmarkoigus_valeinfo3/ : 0 vastet ---
+--- /\n§ \d+\. [^\n]*(Lepingueelse|lepingueelse|Lepingueelne)[^\n]*/ : 6 vastet ---
+…gu muutmise või lõpetamisega teistsuguses vormis. ⏎ § 14. Lepingueelsed läbirääkimised ⏎ (1) Lepingueelseid läbirääkimisi pidavad või lepingu sõlmimist muul viisil ette valmistavad isikud peavad mõistlikult arvestama üksteise huvide ja õigustega. Kui i…
+
+…tetu -  RT I, 24.11.2021, 1 - jõust. 28.05.2022]  ⏎ § 48. Tarbija lepingueelne teavitamine ⏎ [RT I, 31.12.2013, 1 - jõust. 13.06.2014]  ⏎ (1) Ettevõtja esitab tarbijale enne lepingu sõlmimist või selleks tarbija poolt siduva pakkumise tegemist selgel ja…
+
+…osad. ⏎ [RT I, 31.12.2013, 1 - jõust. 13.06.2014]  ⏎ § 54. Tarbija lepingueelne teavitamine ⏎ [RT I, 31.12.2013, 1 - jõust. 13.06.2014]  ⏎ (1) Ettevõtja esitab tarbijale enne lepingu sõlmimist või selleks tarbija poolt siduva pakkumise tegemist selgel ja…
+
+…e ajutise kasutamise lepingust tulenevaid õigusi. ⏎ § 380. Lepingueelne teave ja reklaam ⏎ (1) Ettevõtja esitab tarbijale mõistliku aja jooksul enne, kui tarbija sõlmib ehitise ajutise kasutamise lepingu või teeb siduva tahteavalduse, püsival andmekand…
+
+--- /\n§ \d+\. [^\n]*(Abiisiku|abiisiku|kolmanda isiku|Kolmanda isiku)[^\n]*/ : 12 vastet ---
+…t kuni üleandmiseni hoolitsema mõistlikul viisil. ⏎ § 78. Kohustuse täitmine kolmanda isiku poolt ⏎ (1) Kui võlgnik ei pea kohustust seadusest, tehingust või kohustuse olemusest tulenevalt täitma isiklikult, võib kohustuse osaliselt või täielikult täit…
+
+…s kuulub, sellega nõustub või selle heaks kiidab. ⏎ § 80. Leping kolmanda isiku kasuks ⏎ (1) Lepingus võib ette näha või võlasuhte olemusest tuleneda, et kohustus tuleb võlausaldaja asemel täita kolmandale isikule (leping kolmanda isiku kasuks). ⏎ (2) K…
+
+…stuse mittekohasest täitmisest tulenevad õigused. ⏎ § 126. Täitmine kolmanda isiku poolt ⏎ Käesolevas peatükis võlgniku õiguste ja kohustuste kohta sätestatut kohaldatakse ka kolmandale isikule, kes täidab kohustuse selleks, et vältida sundtäitmist võl…
+
+…b käesoleva seaduse §-s 203 nimetatud asjaoludel. ⏎ § 202. Tasaarvestuse piirang kolmanda isiku kasuks sõlmitud lepingu puhul ⏎ Kolmanda isiku kasuks sõlmitud lepingu puhul ei või lepingupool, kes peab kohustuse täitma kolmanda isiku suhtes, tasaarvest…
+
+--- /\n§ \d+\. [^\n]*(Tarbijalepingu|Tarbijaleping)[^\n]*/ : 1 vastet ---
+…ingupoole poolt lepingust taganemisest teatamist. ⏎ § 194. Tarbijalepingutest taganemise erisused ⏎ [Kehtetu -  RT I, 31.12.2013, 1 - jõust. 13.06.2014]  ⏎ 3. jagu Lepingu ülesütlemine ⏎ § 195. Lepingu korraline ülesütlemine ⏎ (1) Lepingupool ütleb leping…
+
+--- /\n§ \d+\. [^\n]*(Avalik|avalik)[^\n]*/ : 1 vastet ---
+…. peatükk TASU AVALIK LUBAMINE ⏎ 1. jagu Üldsätted ⏎ § 1005. Tasu avalik lubamine ⏎ Teatud teo tegemise, eelkõige tulemuse saavutamise eest avalikult tasu lubanud isik peab maksma teo teinud isikule lubatud tasu, isegi kui teo tegija ei tegutsenud tasu …
+
+--- /\n§ \d+\. [^\n]*(Esindaja|esindaja|Esinduse|Töötaja|töötaja)[^\n]*/ : 2 vastet ---
+…u tekitanud tahtlikult või raske hooletuse tõttu. ⏎ § 799. Töötaja vastutus ⏎ Kui veose kaotsiminekust või kahjustumisest või veotähtaja ületamisest tulenev nõue esitatakse vedaja töötaja või muu isiku vastu, kelle eest vedaja vastutab, võib ka töötaja…
+
+… ja veotähtaja ületamisest tulenevatele nõuetele. ⏎ § 839. Töötajate vastutus ⏎ Kui reisija surma põhjustamisest või temale kehavigastuse või tervisekahjustuse tekitamisest, pagasi kaotsiminekust või kahjustumisest või veotähtaja ületamisest tulenev nõ…
+
+--- /\n§ \d+\. [^\n]*(Teabe|teabe|Teavitamis)[^\n]*/ : 11 vastet ---
+…tust. ⏎ [RT I, 24.11.2021, 1 - jõust. 28.05.2022]  ⏎ § 55. Teabe kinnitamine ⏎ (1) Ettevõtja annab tarbijale kinnituse lepingu sõlmimise kohta püsival andmekandjal mõistliku aja jooksul pärast lepingu sõlmimist, kuid mitte hiljem kui asi toimetatakse kä…
+
+…eku korral, kui kasutusõigus kuulub ettevõttesse. ⏎ § 372. Teabe üleandmine ⏎ (1) Litsentsiandja peab mõistliku aja jooksul pärast lepingu sõlmimist andma litsentsisaajale üle dokumendid ja teabe, mis on vajalikud õiguse kasutamiseks lepingu alusel. ⏎ (…
+
+…sega. ⏎ [RT I, 04.02.2011, 2 - jõust. 23.02.2011]  ⏎ § 382. Lepingueelse teabe ja lepingu keel ⏎ (1) Käesoleva seaduse §-s 380 sätestatud lepingueelne teave ja §-s 381 sätestatud lepingud peavad olema koostatud tarbija valikul kas: ⏎ 1) eesti keeles; ⏎ 2)…
+
+…tule. ⏎ [RT I, 17.03.2023, 5 - jõust. 27.03.2023]  ⏎ § 430. Teavitamise vorm ⏎ (1) Käesoleva seaduse §-s 428 sätestatud teave tuleb kindlustusvõtjale edastada tasuta paberil või käesoleva paragrahvi lõigetes 2–4 sätestatud tingimuste täitmise korral muu…
+
