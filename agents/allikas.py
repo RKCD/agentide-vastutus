@@ -51,7 +51,11 @@ def rt_kehtiv(akt_id: str, keel: str) -> tuple[str, str]:
 
 
 def tekstiks(tüüp: str, keha: bytes) -> str:
-    if "html" in tüüp or "xml" in tüüp or keha.lstrip()[:1] == b"<":
+    if "pdf" in tüüp or keha[:5] == b"%PDF-":
+        import io
+        from pypdf import PdfReader
+        tekst = "\n".join(lk.extract_text() or "" for lk in PdfReader(io.BytesIO(keha)).pages)
+    elif "html" in tüüp or "xml" in tüüp or keha.lstrip()[:1] == b"<":
         tekst = BeautifulSoup(keha, "html.parser").get_text("\n")
     else:
         tekst = keha.decode("utf-8", "replace")
