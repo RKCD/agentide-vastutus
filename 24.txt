@@ -1,0 +1,12 @@
+# jooks 24
+# urlid: http://publications.europa.eu/resource/cellar/10bdc8d8-a54e-11ef-85f0-01aa75ed71a1.0007.03/DOC_2
+# otsi: Artikkel 2\s || Artikkel 4\s || Artikkel 5\s || Artikkel 6\s || Artikkel 21\s || Artikkel 22\s
+
+##### http://publications.europa.eu/resource/cellar/10bdc8d8-a54e-11ef-85f0-01aa75ed71a1.0007.03/DOC_2
+kood=404 lõpp-URL=http://publications.europa.eu/resource/cellar/10bdc8d8-a54e-11ef-85f0-01aa75ed71a1.0007.03/DOC_2 tüüp= baite=95 teksti=95
+--- /Artikkel 2\s/ : 0 vastet ---
+--- /Artikkel 4\s/ : 0 vastet ---
+--- /Artikkel 5\s/ : 0 vastet ---
+--- /Artikkel 6\s/ : 0 vastet ---
+--- /Artikkel 21\s/ : 0 vastet ---
+--- /Artikkel 22\s/ : 0 vastet ---
