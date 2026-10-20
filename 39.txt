@@ -1,0 +1,79 @@
+# jooks 39
+# urlid: https://eelnoud.valitsus.ee/main/mount/docList/d4a06ece-2089-4bd1-95d0-f924fa6b0b8a
+# otsi: 2024/2853|tootevastutus|puudusega toot || Pealkiri|Eelnõu nimi || Toimiku number|Staatus|Menetlus
+
+##### https://eelnoud.valitsus.ee/main/mount/docList/d4a06ece-2089-4bd1-95d0-f924fa6b0b8a
+kood=200 lõpp-URL=https://eelnoud.valitsus.ee/main/mount/docList/d4a06ece-2089-4bd1-95d0-f924fa6b0b8a tüüp=text/html;charset=UTF-8 baite=291373 teksti=48336
+--- algus ---
+
+Võlaõigusseaduse muutmise seaduse eelnõu – EIS
+Eelnõude infosüsteem
+Täpne otsing
+|
+Abiinfo
+          Avaleht
+Dokumendid
+Logi sisse
+Ava/Sulge
+Riigisisesed dokumendid
+Ava/Sulge
+HTM. Haridus- ja Teadusministeerium
+Ava/Sulge
+JDM. Justiits- ja Digiministeerium
+Ava/Sulge
+KAM. Kaitseministeerium
+Ava/Sulge
+KLIM. Kliimaministeerium
+Ava/Sulge
+KUM. Kultuuriministeerium
+Ava/Sulge
+MKM. Majandus- ja Kommunikatsiooniministeerium
+Ava/Sulge
+REM. Regionaal- ja Põllumajandusministeerium
+Ava/Sulge
+RAM. Rahandusministeerium
+Ava/Sulge
+SIM. Siseministeerium
+Ava/Sulge
+SOM. Sotsiaalministeerium
+Ava/Sulge
+VÄM. Välisministeerium
+Ava/Sulge
+RK. Riigikantselei
+Ava/Sulge
+RIIGIKOGU. Riigikogu
+Ava/Sulge
+Euroopa Liidu dokumendid
+Ava/Sulge
+1. Üld ja institutsionaalsed küsimused (general and institutional matters)
+Ava/Sulge
+1.1. Üldised küsimused (general and institutional matters)
+1.1.1. Üldised küsimused (general and institutional matters)
+1.1.2. Üldasjade nõukogu (General Affairs Council)
+1.1.3. Üldasjade töörühm (WP on General Affairs)
+1.1.4. Uute ehitiste töörühm (WP on New Buildings)
+1.1.5. Eesistujariigi sõprade rühm (Friends of the Presidency Group)
+1.1.6. Kestliku arengu 2030 töörühm (WP on The Agenda 2030 for Sustainable Development (Agenda 2030))
+1.1.7. Integreeritud kord poliitiliseks reageerimiseks kriisidele (IPCR)
+Ava/Sulge
+1.2. Euroopa Kohus (Court of Justice)
+1.2.1. Euroopa Kohus, Esimese astme kohus, Avaliku teenistuse kohus (Court of Justice, Court of First Instance, European Union Civil Ser
+--- /2024/2853|tootevastutus|puudusega toot/ : 0 vastet ---
+--- /Pealkiri|Eelnõu nimi/ : 14 vastet ---
+…| ⏎ Sulge kõik plokid ⏎ Üldandmed ⏎ Asukoht: ⏎ Riigisisesed dokumendid / JDM. Justiits- ja Digiministeerium ⏎ Pealkiri (ET): ⏎ Võlaõigusseaduse muutmise seaduse eelnõu ⏎ Toimiku liik: ⏎ Seaduseelnõu ⏎ Akti andja: ⏎ Riigikogu ⏎ Algataja viide: ⏎ 8-1/8964 ⏎ Vastutav asutus: ⏎ Justiitsministeerium ⏎ Algatanud: ⏎ Justiitsministeerium ⏎ Alustatud/Lõpetatud: ⏎ 22.12.2017 -  ⏎ Seosed ⏎ Number ⏎ Algataja viit ⏎ Pealkiri ⏎ Algatatud ⏎ Vastutaja ⏎ 19-1300 ⏎ 8-1/7003 ⏎ Võlaõigusseaduse muutmise seadus (üürisuhted) ⏎ 17.12.2019 ⏎ Justiitsministeerium ⏎ Juurdepääsupi…
+
+…rium ⏎ Algatanud: ⏎ Justiitsministeerium ⏎ Alustatud/Lõpetatud: ⏎ 22.12.2017 -  ⏎ Seosed ⏎ Number ⏎ Algataja viit ⏎ Pealkiri ⏎ Algatatud ⏎ Vastutaja ⏎ 19-1300 ⏎ 8-1/7003 ⏎ Võlaõigusseaduse muutmise seadus (üürisuhted) ⏎ 17.12.2019 ⏎ Justiitsministeerium ⏎ Juurdepääsupiirangud ⏎ Juurdepääs: ⏎ Avalik ⏎ 1 ⏎  Menetlusetapp: Kooskõlastamine ⏎ Laadi alla ⏎ Edasta e-postiga ⏎ Lõppenud ⏎ Algatatud: ⏎ 22.12.2017 11:43 ⏎ Tähtaeg: ⏎ 22.02.2018 23:59 ⏎ Märkused: ⏎ Kooskõlastatavad dokumendid ⏎ Ava ⏎ 17-1504/01 ⏎ 22.12.2017 11:40 ⏎ Võlaõigusseaduse muutmise seaduse eelnõu ⏎ …
+
+…d dokumendid ⏎ Ava ⏎ 17-1504/01 ⏎ 22.12.2017 11:40 ⏎ Võlaõigusseaduse muutmise seaduse eelnõu ⏎ Faili nimetus ⏎ Pealkiri ⏎ Keeleversioon ⏎ Lisamise aeg ⏎ Suurus ⏎ Võlaõigusseaduse muutmise seaduse eelnõu.bdoc ⏎ Võlaõigusseaduse muutmise seaduse eelnõu ⏎ 22.12.2017 11:40 ⏎ 1.15 MB ⏎ Vaata andmeid ⏎ Võlaõigusseaduse muutmise seaduse eelnõu väljatöötamise kavatsus (üüriõigus).pdf ⏎ Ava PDF ⏎ 22.12.2017 11:40 ⏎ 263.80 kB ⏎ Vaata andmeid ⏎ Üüri VTK kooskõlastamisele - 11.12.17.pdf ⏎ Ava PDF ⏎ 22.12.2017 11:40 ⏎ 1.12 MB ⏎ Vaata andmeid ⏎ Kooskõlastus…
+
+…d märkustega ⏎ Ava ⏎ 17-1504/04 ⏎ 13.03.2018 07:59 ⏎ Võlaõigusseaduse muutmise seaduse eelnõu ⏎ Faili nimetus ⏎ Pealkiri ⏎ Keeleversioon ⏎ Lisamise aeg ⏎ Suurus ⏎ 1.1-11_3340-2 Võlaõigusseaduse muutmise seaduse eelnõu.bdoc ⏎ Võlaõigusseaduse muutmise seaduse eelnõu ⏎ EE ⏎ 13.03.2018 07:58 ⏎ 272.73 kB ⏎ Vaata andmeid ⏎ Võlaõigusseaduse muutmise seaduse eelnõu.pdf ⏎ Ava PDF ⏎ 13.03.2018 07:58 ⏎ 288.92 kB ⏎ Vaata andmeid ⏎ Ava ⏎ Majandus- ja Kommunikatsiooniministeerium ⏎ Tähtaeg: 22.02.2018 23:59 ⏎ Tähtaeg ületatud ⏎ Ava ⏎ Eesti Maaomavalitsuste Li…
+
+--- /Toimiku number|Staatus|Menetlus/ : 9 vastet ---
+…um ⏎ » ⏎ Jaga ⏎ Kopeeri link ⏎ Kopeeri link ⏎ Võlaõigusseaduse muutmise seaduse eelnõu ⏎ Telli e-postile ⏎ Eelnõu toimiku number: 17-1504 ⏎ Liik: Seaduseelnõu ⏎ Vastutaja: Justiitsministeerium ⏎ Kontaktisik:  ⏎ Ava kõik plokid ⏎ | ⏎ Sulge kõik plokid ⏎ Üldandmed ⏎ Asukoht: ⏎ Riigisisesed dokumendid / JDM. Justiits- ja Digiministeerium ⏎ Pealkiri (ET): ⏎ Võlaõigusseaduse muutmise seaduse eelnõu ⏎ Toimiku liik: ⏎ Seaduseelnõu ⏎ Akti andja: ⏎ Riigikogu ⏎ Algataja viide: ⏎ 8-1/8964 ⏎ Vastutav asutus: ⏎ Justiitsministeerium ⏎ Algatanud: ⏎ Justiitsministee…
+
+…mise seadus (üürisuhted) ⏎ 17.12.2019 ⏎ Justiitsministeerium ⏎ Juurdepääsupiirangud ⏎ Juurdepääs: ⏎ Avalik ⏎ 1 ⏎  Menetlusetapp: Kooskõlastamine ⏎ Laadi alla ⏎ Edasta e-postiga ⏎ Lõppenud ⏎ Algatatud: ⏎ 22.12.2017 11:43 ⏎ Tähtaeg: ⏎ 22.02.2018 23:59 ⏎ Märkused: ⏎ Kooskõlastatavad dokumendid ⏎ Ava ⏎ 17-1504/01 ⏎ 22.12.2017 11:40 ⏎ Võlaõigusseaduse muutmise seaduse eelnõu ⏎ Faili nimetus ⏎ Pealkiri ⏎ Keeleversioon ⏎ Lisamise aeg ⏎ Suurus ⏎ Võlaõigusseaduse muutmise seaduse eelnõu.bdoc ⏎ Võlaõigusseaduse muutmise seaduse eelnõu ⏎ 22.12.2017 11:40 ⏎ 1.15 M…
+
+…amisele - 11.12.17.pdf ⏎ Ava PDF ⏎ 22.12.2017 11:40 ⏎ 1.12 MB ⏎ Vaata andmeid ⏎ Kooskõlastused  ⏎ Abiinfo ⏎ Sulge ⏎ Menetluse kooskõlastavad osapooled ⏎ Ava ⏎ Rahandusministeerium ⏎ Tähtaeg: 22.02.2018 23:59 ⏎ Vastatud: 13.03.2018 07:59 ⏎ Kooskõlastatud märkustega ⏎ Ava ⏎ 17-1504/04 ⏎ 13.03.2018 07:59 ⏎ Võlaõigusseaduse muutmise seaduse eelnõu ⏎ Faili nimetus ⏎ Pealkiri ⏎ Keeleversioon ⏎ Lisamise aeg ⏎ Suurus ⏎ 1.1-11_3340-2 Võlaõigusseaduse muutmise seaduse eelnõu.bdoc ⏎ Võlaõigusseaduse muutmise seaduse eelnõu ⏎ EE ⏎ 13.03.2018 07:58 ⏎ 272.73 kB ⏎ …
+
+… andmeid ⏎ ELL kiri JUM VÕS VTK.doc ⏎ 22.02.2018 14:13 ⏎ 104.50 kB ⏎ Vaata andmeid ⏎ Arvamused  ⏎ Abiinfo ⏎ Sulge ⏎ Menetluse käigus esitatud asutuste arvamused ⏎ Ava ⏎ Riigikohus ⏎ Tähtaeg: 22.02.2018 23:59 ⏎ Vastatud: 21.02.2018 16:08 ⏎ Ava ⏎ 17-1504/02 ⏎ 21.02.2018 16:08 ⏎ Võlaõigusseaduse muutmise seaduse eelnõu ⏎ Faili nimetus ⏎ Pealkiri ⏎ Keeleversioon ⏎ Lisamise aeg ⏎ Suurus ⏎ Kaaskiri_Arvamusele VÕS VTK kohta.bdoc ⏎ 21.02.2018 16:07 ⏎ 595.12 kB ⏎ Vaata andmeid ⏎ ArvamusVÕS.pdf ⏎ Ava PDF ⏎ 21.02.2018 16:07 ⏎ 387.98 kB ⏎ Vaata andmeid ⏎ Kaaskiri_Arva…
+
