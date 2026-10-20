@@ -1,0 +1,8 @@
+# jooks 127
+# urlid: https://publications.europa.eu/resource/celex/32022L2555
+# otsi: QQmarkoigus22 || Intsident on oluline|Intsidenti loetakse oluliseks|on oluline, kui|loetakse oluliseks, kui
+
+##### https://publications.europa.eu/resource/celex/32022L2555
+kood=200 lõpp-URL=http://publications.europa.eu/resource/cellar/9b84d482-85bd-11ed-9887-01aa75ed71a1.0007.03/DOC_1 tüüp=application/xhtml+xml;charset=UTF-8 baite=692154 teksti=257069
+--- /QQmarkoigus22/ : 0 vastet ---
+--- /Intsident on oluline|Intsidenti loetakse oluliseks|on oluline, kui|loetakse oluliseks, kui/ : 0 vastet ---
