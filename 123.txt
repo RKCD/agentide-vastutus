@@ -1,0 +1,795 @@
+# jooks 123
+# urlid: rt:115032019037 https://emta.ee/ariklient/amet-uudised-ja-kontakt/dokumendid-isikuandmed/nouded-volitusele https://emta.ee/node/73
+# otsi: QQmarkoigus_tehing11
+
+RT: Maksu- ja Tolliameti e-teenuse keskkonnas elektroonilise asjaajamise tingimused ja kord, automaatselt antavate haldusaktide ja dokumentide loetelu ning riigi-, valla- ja linnaasutuste poolt elektrooniliselt esitatavate deklaratsioonide ja muude dokumentide nimekiri (None), kehtiv redaktsioon 120112025007, kehtivuse algus 2025-11-22T22:00:00Z, staatus KEHTIV, vaata: https://www.riigiteataja.ee/akt/120112025007
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/120112025007/txt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/120112025007/txt tüüp=application/octet-stream;charset=UTF-8 baite=10788 teksti=10440
+--- algus ---
+Väljaandja: Rahandusminister
+Akti liik: määrus
+Teksti liik: terviktekst
+Redaktsiooni jõustumise kp: 23.11.2025
+Redaktsiooni kehtivuse lõpp: Hetkel kehtiv
+Avaldamismärge: RT I, 20.11.2025, 7
+Maksu- ja Tolliameti e-teenuse keskkonnas elektroonilise asjaajamise tingimused ja kord, automaatselt antavate haldusaktide ja dokumentide loetelu ning riigi-, valla- ja linnaasutuste poolt elektrooniliselt esitatavate deklaratsioonide ja muude dokumentide nimekiri
+Vastu võetud 14.03.2019 nr 15
+RT I, 15.03.2019, 37
+jõustumine 26.04.2019
+Muudetud järgmiste aktidega
+Vastuvõtmine - Avaldamine - Jõustumine
+13.12.2021 - RT I, 23.12.2021, 5 - 26.12.2021
+10.07.2024 - RT I, 12.07.2024, 1 - 01.08.2024
+10.12.2024 - RT I, 21.12.2024, 5 - 01.01.2025
+13.11.2025 - RT I, 20.11.2025, 4 - 23.11.2025
+Määrus kehtestatakse maksukorralduse seaduse § 45^1 , § 46^2  lõike 4 ja § 63 lõike 4 alusel.
+1. peatükk Üldsätted
+§ 1. Määruse reguleerimisala
+() Määrusega kehtestatakse Maksu- ja Tolliameti e-teenuse keskkonnas elektroonilise asjaajamise tingimused ja kord, automaatselt antavate haldusaktide ja dokumentide loetelu ning riigi-, valla- ja linnaasutuste poolt elektrooniliselt esitatavate deklaratsioonide ja muude dokumentide nimekiri.
+2. peatükk Maksu- ja Tolliameti e-teenuse keskkonnas elektroonilise asjaajamise tingimused ja kord
+§ 2. Kasutaja autentimine ja e-allkirja lisamine
+[RT I, 20.11.2025, 4 - jõust. 23.11.2025] 
+(1) Füüsilise isiku e-teenuse keskkonda sisenemisel toimub isiku autentimine e-identimise vahendi sertifikaadi alusel.
+(2) Maksu- ja Tolliameti e-teenuse keskkonnas toimub e-identimine järgmiste vahenditega:
+1) ID-kaart;
+2) [kehtetu -  RT I, 23.12.2021, 5 - jõust. 26.12.2021] 
+3) [kehtetu -  RT I, 23.12.2021, 5 - jõust. 26.12.2021] 
+4) Euroopa Parlamendi ja nõukogu määruse (EL) nr 910/2014 e-identimise ja e-tehingute jaoks vajalike usaldusteenuste kohta siseturul ja millega tunnistatakse kehtetuks direktiiv 1999/93/EÜ (ELT L 257, 28.08.2014, lk 73–114) alusel vastastikku tunnustatud e-identimise vahend.
+(2^1) Maksu- ja Tolliamet võib peadirektori käskkirjaga võimaldada isiku autentimist lisaks lõikes 2 sätestatud vahenditele ka muude samaväärsete e-identimise vahenditega, mis on läbinud Riigi Infosüsteemi Ameti e-identimise usaldusväärsuse taseme hindamise. Peadirektori käskkiri avaldatakse Maksu- ja Tolliameti veebilehel.
+[RT I, 23.12.2021, 5 - jõust. 26.12.2021] 
+(3) [Kehtetu -  RT I, 23.12.2021, 5 - jõust. 26.12.2021] 
+(4) Autenditud kasutajana e-teenuse keskkonnas tehtud toimingud loetakse tehtuks e-teenuse keskkonna kasutaja nimel. Kui autenditud kasutajalt nõutakse lisaturvameetmena e-allkirja lisamist toimingule, loetakse e-teenuse keskkonnas tehtud toiming tehtuks e-teenuse keskkonna kasutaja nimel, kui toiming on kinnitatud e-allkirjaga.
+[RT I, 20.11.2025, 4 - jõust. 23.11.2025] 
+(5) Lisaturvameetmena võib e-teenuse keskkonna kasutajalt nõuda e-allkirja lisamist toimingule, mille korral esineb risk, et toimingu tegija identiteeti võidakse ära kasutada eesmärgiga tekitada talle kahju kolmanda isiku poolt.
+[RT I, 20.11.2025, 4 - jõust. 23.11.2025] 
+§ 3. Esindamine
+(1) Teise isiku esindamiseks e-teenuse keskkonnas peab e-teenuse keskkonna kasutajal olema esindamise õigus. Mitme isiku esindamise õiguse olemasolul valib kasutaja e-teenuse keskkonnas esindatava, kelle nimel ta teenuseid kasutab.
+[RT I, 20.11.2025, 4 - jõust. 23.11.2025] 
+(2) Ühise esindusõiguse korral peavad seaduslikud esindajad määrama esmakordsel sisenemisel e-teenuse keskkonnas vähemalt ühe esindaja, kes saab juriidilist isikut e-teenuse keskkonnas esindada.
+(3) Esindatav isik on kohustatud esindaja volituste lõppemisel viivitamata peatama e-teenuse keskkonnas esindaja volitused e-teenuse keskkonna kasutamiseks või pöörduma selleks Maksu- ja Tolliameti teenindusse. Teenuste edasise kasutamise soovi korral tuleb anda volitus uuele esindajale.
+§ 4. E-teenuse keskkonna turvalisus
+(1) Kui e-teenuse keskkonda sisenenud kasutaja aktiivsust ei tuvastata 25 minuti jooksul, siis e-teenuse keskkonna seanss aegub.
+[RT I, 20.11.2025, 4 - jõust. 23.11.2025] 
+(2) E-teenuse keskkonna kasutajal on kohustus teavitada viivitamata Maksu- ja Tolliametit e-identimist võimaldavate vahendite kolmanda isiku valdusesse sattumisest, sattumise ohust või muust turvariskist.
+(3) Kui on avastatud turvarisk või kui kasutaja on teavitanud oma e-identimise vahendi või selle parooli kadumisest, blokeerib Maksu- ja Tolliamet ajutiselt kasutaja juurdepääsu e-teenuse keskkonnale. E-teenuse keskkonna teenuste taasavamiseks peab kasutaja pöörduma Maksu- ja Tolliameti poole.
+(4) Maksu- ja Tolliamet on kohustatud:
+1) e-teenuse keskkonna kasutaja taotluse alusel tõkestama tema edasiste toimingute tegemise hiljemalt taotluse esitamise päevale järgneva päeva kella 12.00-ks;
+2) lõpetama blokeeringu e-teenuse keskkonna kasutaja kirjaliku avalduse saamise päevale järgneva päeva kella 12.00-ks.
+(5) Maksu- ja Tolliamet salvestab e-teenuse keskkonna kasutaja toimingud teenuse kasutamisel. Salvestatud teavet võib Maksu- ja Tolliamet kasutada e-teenuse keskkonna kasutaja tehtud toimingute tõendamiseks.
+[RT I, 20.11.2025, 4 - jõust. 23.11.2025] 
+(6) Maksu- ja Tolliamet ei vastuta e-teenuse keskkonna häiretest või mittetöötamisest tulenevate otseste või kaudsete kahjude või muude tagajärgede eest, kui need on tingitud Maksu- ja Tolliametist mitteolenevatest põhjustest, nagu Maksu- ja Tolliameti tegevust oluliselt segavad elektrikatkestused, häired sideliinides ja loodusõnnetused, ning muudest ettenägematutest sündmustest.
+§ 5. Andmevahetus masin-masin liidese kaudu
+(1) Masin-masin liides on Maksu- ja Tolliameti pakutav andmevahetusteenus.
+(2) Masin-masin liidese kasutamiseks tuleb isikul taotleda Maksu- ja Tolliametilt selleks vajaliku teenuse avamist.
+(3) Andmevahetusel masin-masin liidese kaudu peab olema tuvastatav toimingu teinud füüsiline isik.
+(4) Maksu- ja Tolliamet avaldab masin-masin liidese teenuse hooldusajad oma veebileheküljel.
+(5) Andmevahetusele masin-masin liidese kaudu kohaldub käesoleva määruse §-des 3 ja 4 sätestatu.
+§ 6. Andmete esitamine nende Maksu- ja Tolliametile kättesaadavaks tegemise kaudu
+(1) Kokkuleppel Maksu- ja Tolliametiga võib esitatud andmetena käsitleda ka isiku infosüsteemis asuvaid andmeid, millele ta on taganud juurdepääsu Maksu- ja Tolliametile.
+(2) Lõiget 1 kohaldatakse juhul, kui isiku infosüsteemis registreeritakse kõik andmete sisestused, muudatused ja kustutused koos viitega nende tegevuste täpse aja ja andmeid töödelnud isiku kohta.
+§ 7. Elektrooniliselt edastatava dokumendi vorming
+(1) Elektrooniliselt edastatava dokumendi vormingu nõuded ning andmete struktureerimis- ja paigaldusviisi dokumendis avaldab Maksu- ja Tolliamet oma veebileheküljel.
+(2) Elektrooniliselt edastatavad dokumendid ja andmed tuleb edastada Maksu- ja Tolliameti veebileheküljel avaldatud vormingus. Andmete struktureerimis- ja paigutusviis dokumendis peab olema Maksu- ja Tolliametile infotehnoloogiliselt vastuvõetav, avatav ja töödeldav.
+(3) Kui elektrooniliselt edastatav dokument ei vasta Maksu- ja Tolliameti veebileheküljel avaldatud vormingu nõuetele, loetakse failis sisalduv teave esitamata jäetuks.
+3. peatükk Automaatselt antavate haldusaktide ja dokumentide loetelu
+§ 8. Automaatselt antavate haldusaktide ja dokumentide loetelu
+() Riiklike maksude maksuhaldur võib automaatse haldusakti ja dokumendina anda:
+1) korralduse deklaratsiooni esitamiseks ja selles esinevate puuduste kõrvaldamiseks ühes sunniraha rakendamise hoiatusega;
+[RT I, 12.07.2024, 1 - jõust. 01.08.2024] 
+2) käibemaksukohustuslaste registris registreerimise ja kustutamise otsuse;
+3) käibemaksugrupina registreerimise ja registrist kustutamise otsuse;
+4) maksuvõla tasumise ajatamist puudutava otsuse;
+[RT I, 12.07.2024, 1 - jõust. 01.08.2024] 
+5) intressinõude;
+6) enammakse tagastamise otsuse;
+7) sundtäitmise hoiatuse;
+8) krediidiasutustele edastatavad arestimisdokumendid;
+9) maksuteate;
+10) tõendi;
+11) väikeettevõtete erikorra rakendamisest keeldumise või rakendamise lõpetamise otsuse;
+[RT I, 21.12.2024, 5 - jõust. 01.01.2025] 
+12) maksuteate kehtetuks tunnistamise otsuse, kui ilmnevad maksusumma vähendamise asjaolud.
+[RT I, 20.11.2025, 4 - jõust. 23.11.2025] 
+4. peatükk Riigi-, valla- või linnaasutuse poolt Maksu- ja Tolliametile elektrooniliselt esitatavate deklaratsioonide ja muude dokumentide nimekiri
+§ 9. Riigi-, valla- või linnaasutuse poolt Maksu- ja Tolliametile elektrooniliselt esitatavate deklaratsioonide ja muude dokumentide nimekiri
+() Riigi-, valla- või linnaasutus on kohustatud esitama Maksu- ja Tolliametile elektrooniliselt e-teenuse keskkonna kaudu järgmised dokumendid ja andmed:
+1) tulu- ja sotsiaalmaksu ning kohustusliku kogumispensioni ja töötuskindlustuse maksete deklaratsioonid ja nende lisad;
+2) käibedeklaratsioonid;
+3) maamaksuseaduse § 5 lõikes 3, § 8^1  lõikes 2^1  ja § 11 lõikes 8^1  nimetatud andmed;
+[RT I, 20.11.2025, 4 - jõust. 23.11.2025] 
+4) kohalike maksude seaduse alusel kehtestatud maksumäärused;
+5) enammakstud maksusumma tagastamise või tasaarvestamise taotlused;
+6) raskeveokimaksu seaduse § 9 lõigetes 2 ja 3 ning § 13 lõikes 3 nimetatud andmed;
+7) keskkonnatasude seaduse § 33^2  alusel esitatud deklaratsioonide kohta andmed keskkonnatasu deklareerinud isiku kohta, samuti aruandeperioodi, keskkonnatasu liigi, keskkonnatasu summa ja selle jagunemise kohta riigieelarve ja kohaliku omavalitsuse üksuste eelarvete vahel;
+8) mootorsõidukimaksu seaduse § 16 lõikes 3 nimetatud andmed.
+[RT I, 20.11.2025, 4 - jõust. 23.11.2025] 
+§ 10. Teatamiskohustus
+() Riigi-, valla- või linnaasutus on kohustatud teavitama Maksu- ja Tolliametit e-teenuse keskkonna veebipõhiste rakenduste kasutamise võimaluste tekkimisest, muutumisest või lõppemisest viie kalendripäeva jooksul eelnimetatud sündmusest arvates, kui käesolevas määruses ei ole sätestatud teisiti.
+5. peatükk Rakendussätted
+§ 11. Üleminekusätted
+(1) Maksu- ja Tolliamet lõpetab senise e-teenuse keskkonna „E-maksuamet/e-toll” kasutajaga e-teenuse keskkonna kasutamise lepingu, teatades sellest e-teenuse keskkonna kaudu 30 kalendripäeva ette.
+(2) Maksu- ja Tolliameti e-teenuse keskkonna kasutamine jätkub käesoleva määrusega kehtestatud korras.
+§ 12. Määruse kehtetuks tunnistamine
+() [Käesolevast tekstist välja jäetud.]
+§ 13. Määruse jõustumine
+() Määrus jõustub 2019. aasta 26. aprillil.
+--- /QQmarkoigus_tehing11/ : 0 vastet ---
+
+##### https://emta.ee/ariklient/amet-uudised-ja-kontakt/dokumendid-isikuandmed/nouded-volitusele
+kood=200 lõpp-URL=https://emta.ee/ariklient/amet-uudised-ja-kontakt/dokumendid-isikuandmed/nouded-volitusele tüüp=text/html; charset=utf-8 baite=189035 teksti=7986
+--- algus ---
+
+Nõuded volitusele | Maksu- ja Tolliamet
+      Liigu edasi põhisisu juurde
+Juurdepääsetavus
+Veebisaidi loomisel on peetud silmas, et siin avaldatav info oleks kättesaadav ja kasutatav võimalikult paljudele inimestele.
+Lugege rohkem 
+juurdepääsetavusest
+.
+Teksti suurus
+Kõikides populaarsetes veebilehitsejates on võimalik lehte suurendada ja vähendada, kui hoida all klahvi Ctrl (OS X operatsioonisüsteemis klahvi Cmd) ja samal ajal vajutada kas klahvil + või –. Teine mugav võimalus on kasutada hiirt: hoides all klahvi Ctrl ja samal ajal liigutades hiire kerimisrulli. Tagasi normaalsuurusesse saab, kui vajutada samaaegselt klahvidele Ctrl ja 0.
+Kontrast
+                        Vaikimisi seaded
+                      Must ja kollane tekst
+Taasta algseaded
+Kinnita valik
+Juurdepääsetavus
+Eraklient
+Äriklient
+E-teenused
+EST
+RUS
+ENG
+        EST
+EST
+RUS
+ENG
+ E-teenused
+Eraklient
+Äriklient
+Maksud ja 
+tasumine
+Tulumaks ja sotsiaalmaks
+Deklaratsiooni TSD esitamine
+Tulumaks ja maksuvaba tulu
+Maksumäärad
+Sotsiaalmaks
+Kohustusliku kogumispensioni makse
+Töötuskindlustusmakse
+Platvormi kaudu teenitud tulu
+Erisoodustused
+Kingitused, annetused ja vastuvõtukulud
+Ettevõtlusega mitteseotud kulud
+Dividendide ja omakapitali väljamaksete maksustamine
+Varjatud kasumieraldise maksustamine, kontsernikonto
+Laevapere liikmete erikord ja tonnaažikord
+Välistulu maksustamine
+Maksulepingud ja teabevahetuslepingud
+Erisused tulumaksuga maksustamisel
+Käibemaks
+Käibemaksuseaduse üldpõhimõtted
+Käibemaksukohustuslasena registreerimine
+Käibemaksuarvestus ja arved
+Käibemaksumäärad ja maksuvaba käive
+Käibedeklaratsiooni ja aruannete esitamine
+Käibemaksu arvutamine ja tagastamine
+Kaupade maksustamine
+Teenuste maksustamine
+E-kaubanduse ja teenuste erikorrad
+Erisätted ja kinnisasja maksustamine
+Päringud, load ja teavitused
+Aktsiisid
+Alkohol
+Tubakatooted
+Kütus ja elektrienergia
+Vedelkütuse käitlemine ja andmekogud
+Pakend
+Tegevusload
+Saatelehed (SADHES, EMCS)
+Maksumärgid (MAIS)
+Aktsiisideklaratsioonide esitamine
+Muud maksud ja nõuded
+Maamaks
+Metsatehingud
+Mootorsõidukimaks
+Raskeveokimaks
+Teekasutustasu
+Tallinna reklaamimaks
+Keskkonnatasud
+Hasartmängumaks
+Riigilõiv
+Kohtute ja prokuratuuri nõuded
+Osakapitali deposiit
+Tasumine, võlad
+Maksude tasumine
+Ettemaksukontod
+Intresside tasumine
+Maksuvõla ajatamine
+Tagatised
+Maksuvõla kustutamine ja üleminek
+Haldusakti või toimingu vaidlustamine
+Siduvad eelotsused
+Maksudeklaratsioonid, teabevahetus
+TSD, ESD ja tõendid
+Käibedeklaratsioon, VD ja VDP
+INF-deklaratsioonid
+Lepinguliste investeerimisfondide deklaratsioonid
+Mitteresidendist juriidilise isiku deklaratsioonid
+Maksualane teabevahetus
+Piiriülesed maksed ja CESOP
+Toll, 
+kaubavahetus
+Tollivormistus
+Tollialased õigusaktid
+Tollireform
+Ettevõtja registreerimine (EORI)
+Tolliload
+Tolliasutused
+Ametkonnad piiripunktides
+Tollistaatus
+Tolliagentuurid
+Volitatud ettevõtja (AEO)
+Tollideklaratsioonid ja taotlused
+Sularaha deklareerimine
+Brexit
+Soovitused kauba saajatele ja saatjatele
+Tollivormistus seoses Ukrainas toimuva sõjaga
+Kauba maksustamine
+Tollimaks
+Saadetise maksustamine alates 1. juulist 2026
+Kaubakoodi määramine
+Päritolu
+Tolliväärtus
+Tagatised tollis ja maksude maksmine 
+Tollimaksuvabastused
+Tollimaksu tagasimaksmine
+Keelatud ja eriloaga kaubad
+Keskkonnakaitse
+Tervisekaitse
+Ühiskonnakaitse
+Majanduskaitse
+Kaubavedu
+Transiit, TIR
+Sisenemisformaalsused
+Ladustamine
+Vaba ringlus
+Ajutine import ja lõppkasutus
+Seestöötlemine
+Välistöötlemine
+Hävitamine ja loovutamine
+Väljumisformaalsused
+Eksport
+Protseduurile suunamine
+Tolliinfosüsteemid
+Tolliinfosüsteemide kasutajatele
+Tolliinfosüsteemide testimine
+E-tolli arengusuunad
+Euroopa Liidu tolliinfosüsteemide katkestused
+Tegevusjuhised tolliinfosüsteemide katkestuste korral
+Registreerimine, 
+ettevõtlus
+Töötamise register
+Töötamise registreerimise võimalused
+Töötamise registreerimine
+Välismaalase töötamise registreerimine
+Töötamise peatamine
+Töötamise lõpetamine
+Töötamise üleviimine
+Töötamise liigid ja koodid
+Registreerimine ehituses
+Ettevõtjale
+Alustavale ettevõtjale
+Ettevõtluse lõpetamine
+Füüsilisest isikust ettevõtjale (FIE)
+Tulumaksusoodustusega ühingule
+Nimekirja kandmine
+Nimekirjas olevad ühingud
+Nõuded nimekirjas püsimiseks
+Mitteresidendile, e-residendile
+Residentsuse määramine
+Mitteresidendi registreerimine
+Mitteresident tööandjana
+Välismaalaste töötasu maksustamine
+Püsiva tegevuskoha kasumi maksustamine
+Mitteresidendi maksuesindaja
+Mitteresidendi Eesti tulu maksustamine
+E-residendi asutatud äriühingu maksukohustused
+E-teenused ja suhtlemine Maksu- ja Tolliametiga
+Hasartmängukorraldajale
+Lubade taotlemine
+Kaubanduslik loterii
+Aruandlus ja juurdepääsud
+Hasartmängukorraldaja meelespea
+Seaduslike hasartmängukorraldajate nimekiri
+Blokeeritud hasartmängu internetileheküljed
+Päringud, tõendid
+Avalikud päringud
+Tõendite taotlemine
+E-teenused, 
+koolitused
+E-teenuste kasutamine
+Pääsuõiguste andmine ja lõpetamine
+Turvalisus e-teenuste keskkonnas
+Abi tehniliste probleemide korral
+Plaaniliste hooldustööde ajad
+Teenuste tehniline info 
+Teenuste uudised
+X-tee teenused
+Koolitused
+Tulumaksukoolitused
+Käibemaksukoolitused
+Sotsiaalmaksukoolitused
+Tollikoolitused
+Muud koolitused
+Euroopa Komisjoni e-koolitused
+Nõuanded
+Mida näitavad maksukäitumise hinnangud
+Kuidas kontrollida tehingupartneri tausta
+Kuidas hoida oma maksuasjad korras
+Teadmiseks tööjõumaksude tasumisel
+Kui olete sattunud maksukontrolli
+Kui ostate uue või kasutatud sõiduki
+Sõiduõpe autokoolis ja maksustamine
+Kaugsõiduautojuhi lähetamine
+Ukrainlaste tööandjale
+Amet, uudised 
+ja kontakt
+Maksu- ja Tolliamet
+Strateegia
+Struktuur ja juhid
+Aastaraamat
+Ametnike volitused
+Töötamine Maksu- ja Tolliametis
+Eelarve
+Riigihanked
+E-arved
+Aumärgid
+Lobitegevusest teavitamine
+Rahvusvaheline koostöö
+Arendustegevus
+Arendusportfell
+Andmepõhine aruandlus
+Euroopa Liidu toetusega projektid
+Uudised, pressiinfo, statistika
+Uudised
+Pressimaterjalid
+Kampaaniad
+Statistika ja avaandmed
+Uuring "Eesti elanike maksutahe"
+Dokumendid, isikuandmed
+Dokumendiregister
+Dokumentide kättetoimetamine
+Nõuded volitusele
+Kontaktid
+Klienditugi
+Teeninduskohad
+Ametnikud ja töötajad
+Tagasiside
+Ametlik pöördumine
+Vihje andmine
+Tööalasest ELi õiguse rikkumisest teavitamine
+Partnerid ja linke mujale
+Kontaktid ajakirjanikele
+[email protected]
+Meediasuhete spetsialistide kontaktid
+Andmepõhine 
+aruandlus
+E-teenused
+Dokumendid, isikuandmed
+Dokumendiregister
+Dokumentide kättetoimetamine
+Nõuded volitusele
+Leivapuru
+Äriklient
+                  Amet, uudised ja kontakt
+Dokumendid, isikuandmed
+Nõuded volitusele
+Nõuded volitusele
+Volitus on õiguste kogum, mille piires esindaja võib tegutseda esindatava nimel. Maksu- ja Tolliameti jaoks on oluline, et volituse sisu oleks arusaadav ning volituse andnud ja volitatav isik oleksid tuvastatavad. Volituse võib anda suuliselt või kirjalikult (volikirjaga).
+Volitused, mida Maksu- ja Tolliamet aktsepteerib:
+suuline volitus – kehtib üksnes menetlustoimingul koos menetlusosalisega;
+lihtkirjalik volikiri, kui õigusaktides ei ole sätestatud teistsugust kohustuslikku volikirja vormi;
+notariaalselt tõestatud volikiri;
+digitaalselt allkirjastatud volikiri;
+juriidilise isiku esindusõigusliku isiku volitust, mida saab esitada e-teenuste keskkonnas 
+e-MTA
+, valides 
+Suhtlus
+ – 
+Kirjavahetus;
+vandeadvokaadi poolt kinnitatud volikiri.
+ Õiguslikud alused
+Tsiviilseadustiku üldosa seadus § 118 lg 2
+Maksukorralduse seadus § 26
+ ning 
+§ 48 lg-d 3 ja 4
+Maksukohustuslaste registri põhimäärus § 62 lg 1 p 2
+ ja 
+lg 2
+Advokatuuriseadus § 41 lg 1 p 5
+ ja 
+lg 2
+äriklient
+Viimati uuendatud 07.01.2022
+You must have JavaScript enabled to use this form.
+Kas sellest lehest oli abi?
+Jah
+Ei
+Küsimus või kommentaar
+* Tärniga tähistatud väljad on kohustuslikud.
+Kui soovite vastust
+, siis kirjutage oma e-posti aadress.
+E-posti aadress
+Article
+Täname tagasiside eest!
+Maksu- ja Tolliamet
+Lõõtsa 8a, 15176 Tallinn
+Registrikood: 70000349
+[email protected]
+Kontaktid
+Klienditugi
+Teenindusbürood
+Tollipunktid
+Isikuandmete töötlemine
+Juurdepääsetavus
+Küpsised
+Abi
+Sisukaart
+
+--- /QQmarkoigus_tehing11/ : 0 vastet ---
+
+##### https://emta.ee/node/73
+kood=200 lõpp-URL=https://emta.ee/eraklient/e-teenused-maksutarkus/e-teenuste-kasutamine/paasuoiguste-andmine tüüp=text/html; charset=utf-8 baite=188705 teksti=11078
+--- algus ---
+
+Pääsuõiguste andmine | Maksu- ja Tolliamet
+      Liigu edasi põhisisu juurde
+Juurdepääsetavus
+Veebisaidi loomisel on peetud silmas, et siin avaldatav info oleks kättesaadav ja kasutatav võimalikult paljudele inimestele.
+Lugege rohkem 
+juurdepääsetavusest
+.
+Teksti suurus
+Kõikides populaarsetes veebilehitsejates on võimalik lehte suurendada ja vähendada, kui hoida all klahvi Ctrl (OS X operatsioonisüsteemis klahvi Cmd) ja samal ajal vajutada kas klahvil + või –. Teine mugav võimalus on kasutada hiirt: hoides all klahvi Ctrl ja samal ajal liigutades hiire kerimisrulli. Tagasi normaalsuurusesse saab, kui vajutada samaaegselt klahvidele Ctrl ja 0.
+Kontrast
+                        Vaikimisi seaded
+                      Must ja kollane tekst
+Taasta algseaded
+Kinnita valik
+Juurdepääsetavus
+Eraklient
+Äriklient
+E-teenused
+EST
+RUS
+ENG
+        EST
+EST
+RUS
+ENG
+ E-teenused
+Eraklient
+Äriklient
+Maksud ja 
+tasumine
+Tulu deklareerimine
+2025. a tulu deklareerimine
+Sissetulekute ülevaade e-MTAs
+Tulumaksu tagastamine ja juurdemakse
+Maksumäärad
+Deklaratsioonide vormid ja nende täitmise juhised
+Maksusoodustused
+Maksuvaba tulu arvestamine
+Maksuvaba tulu vanaduspensionieas
+Koolituskulu
+Kingitused ja annetused
+Täiendava kogumispensioni sissemaksed
+Maksusoodustuste ülekandmine
+Maksustatavad tulud
+Palgatulu
+Ümbrikupalk
+Pensionid ja kindlustushüvitised
+Platvormi kaudu teenitud tulu
+Internetimüük
+Stipendiumid, toetused ja preemiad
+Intress
+Üüri- ja renditulu, litsentsitasu
+Kinnisvara võõrandamine
+Väärtpaberid ja investeerimiskonto
+Krüptovara
+Kasvava metsa raieõigus ja metsamaterjal
+Muud tulu liigid
+Ettevõtlustulu
+Ettevõtluskonto
+ Välisriigis saadud tulu
+Muud maksud
+Maamaks
+Metsatehingud
+Mootorsõidukimaks
+Raskeveokimaks
+Teekasutustasu
+Uue transpordivahendi käibemaks
+Kohalikud maksud
+Tallinna reklaamimaks
+Pärandvara
+Riiginõuded
+Riigilõiv
+Elatisabi
+Õppelaen
+Kohtute ja prokuratuuri nõuded
+Kaitseressursside Ameti nõuded
+Osakapitali deposiit
+Riiginõuete ajatamine
+Tasumine, võlad
+Maksude tasumine
+Intresside tasumine
+Maksuvõla ajatamine
+Maksuvõla kustutamine
+Vastutus äriühingu võlgade eest
+Ettemaksukontod
+Haldusakti või toimingu vaidlustamine
+Siduvad eelotsused
+Saadetised, reisimine, 
+elama asumine
+Saadetised
+Internetiostud
+Kingitused
+Keelatud ja eriloaga kaubad
+Saadetised kolmandasse riiki
+Saadetise maksustamine alates 01.07.2026
+Paki deklareerimine
+Kaubakoodi leidmine
+Suursaadetised
+Kauba tagasisaatmine
+Saadetised ja Brexit
+Reisimine
+Eestisse kolmandast riigist
+Eestist kolmandasse riiki
+Euroopa Liidu liikmesriikidest Eestisse
+Keelatud ja eriloaga kaubad
+Kauba deklareerimine
+Sularaha deklareerimine
+Tax-free
+Surmajuhtum välisriigis
+Reisimine ja Brexit
+Elama asumine
+Elama asumine Eestisse
+Elama asumine Eestist välja
+Välismaalasele, 
+mitteresidendile
+Välismaalasele
+Tulu deklareerimisest
+E-teenuste kasutamisest
+E-residentsusest
+Maksuresidentsus
+Residentsuse määramine
+Mitteresidendile
+Registrikoodi taotlemine
+Eesti tulu maksustamine ja maksulepingud
+Töötasu
+Ettevõtlustulu
+Pension
+Intress ja dividendid
+Vara võõrandamise kasu
+Üüri- ja renditulu ning litsentsitasu
+Mahaarvamised Eestis maksustatavast tulust
+Deklareerimine ja vormid
+Info välismaalastele Eestis kohanemise
+ja töökoha leidmise kohta
+settleinestonia.ee
+workinestonia.com
+E-teenused, 
+maksutarkus
+Registrid, päringud
+Töötamise registreerimine
+Eraisikust tööandja
+Hasartmängu piirangu registreerimine
+Huvide deklaratsioon
+Avalikud päringud
+Tõendite taotlemine
+E-teenuste kasutamine
+Pääsuõiguste andmine
+Turvalisus e-teenuste keskkonnas
+Abi tehniliste probleemide korral
+Plaaniliste hooldustööde ajad
+Nõuanded
+Kuidas hoida oma maksuasjad korras
+Kui olete sattunud maksukontrolli
+Kui ostate uue või kasutatud sõiduki
+Ukrainast saabunud sõjapõgenikele
+Kuidas tunda ära petukirju
+Maksu- ja tollitarkus
+Miks tasub makse maksta
+Miks keelduda ümbrikupalgast
+Ained postiga
+Mida peab alustav ettevõtja teadma
+Amet, uudised 
+ja kontakt
+Maksu- ja Tolliamet
+Strateegia
+Struktuur ja juhid
+Aastaraamat
+Ametnike volitused
+Töötamine Maksu- ja Tolliametis
+Eelarve
+Riigihanked
+E-arved
+Aumärgid
+Lobitegevusest teavitamine
+Rahvusvaheline koostöö
+Arendustegevus
+Arendusportfell
+Euroopa Liidu toetusega projektid
+Uudised, pressiinfo, statistika
+Uudised
+Pressimaterjalid
+Kampaaniad
+Statistika ja avaandmed
+Uuring "Eesti elanike maksutahe"
+Dokumendid, isikuandmed
+Dokumendiregister
+Dokumentide kättetoimetamine
+Isikuandmete töötlemine
+Juurdepääs enda isikuandmetele tolliinfosüsteemis CIS
+Nõuded volitusele
+Kontaktid
+Klienditugi
+Teeninduskohad
+Ametnikud ja töötajad
+Tagasiside
+Ametlik pöördumine
+Vihje andmine
+Tööalasest ELi õiguse rikkumisest teavitamine
+Partnerid ja linke mujale
+Kontaktid ajakirjanikele
+[email protected]
+Meediasuhete spetsialistide kontaktid
+E-teenused
+E-teenuste kasutamine
+Pääsuõiguste andmine
+Turvalisus e-teenuste keskkonnas
+Abi tehniliste probleemide korral
+Plaaniliste hooldustööde ajad
+Leivapuru
+Eraklient
+                  E-teenused, maksutarkus
+E-teenuste kasutamine
+Pääsuõiguste andmine
+Pääsuõiguste andmine
+Maksu- ja Tolliameti e-teenuste (e-MTA) kasutamiseks peavad kasutajatel olema pääsuõigused. 
+Pääsuõiguste põhimõtted
+Täisealisel füüsilisel isikul ja ettevõtjana tegutseval füüsilisel isikul (FIE) on automaatselt olemas pääsuõiguste paketid kõikide peamiste e-MTA teenuste kasutamiseks.
+Pääsuõiguste pakettide puudumisel võtke ühendust 
+MTA klienditoega
+.
+Ava kõik
+Automaatsed pääsuõiguste paketid
+Pääsuõigus „Isiku esindaja õigus rakenduste kasutamise õiguste haldamiseks“
+Pääsuõiguste automaatne lõpetamine
+Automaatsed pääsuõiguste paketid
+Eesti isikukoodiga täisealistele ja laiendatud teovõimega isikutele:
+– „Füüsilise isiku andmete vaataja pakett" ja
+	– „Füüsilise isiku esindaja pakett",
+Eesti isikukoodiga alaealistele ja piiratud teovõimega isikutele (eestkostetavatele):
+– „Füüsilise isiku andmete vaataja pakett" ja
+	– „Füüsilise isiku esindaja pakett" alates täisealiseks saamisest või teovõime taastumisest,
+lapsevanematele lapse ja eestkostjatele eestkostetava nimel:
+– „Füüsilise isiku esindaja pakett" kuni lapse täisealiseks saamiseni või eestkoste lõppemiseni,
+füüsilisest isikust ettevõtjatele (FIE):
+– „FIE andmete vaataja pakett" ja
+	– „FIE esindaja pakett".
+Pääsuõigus „Isiku esindaja õigus rakenduste kasutamise õiguste haldamiseks“
+„Füüsilise isiku esindaja paketis" ja „FIE esindaja paketis" sisaldub pääsuõigus „Isiku esindaja õigus rakenduste kasutamise õiguste haldamiseks" (kood: P_EXTERNAL_USER_MANAGER), mis võimaldab e-MTAs:
+vaadata oma esindajate pääsuõigusi;
+anda esindajatele pääsuõigusi;
+muuta ja lõpetada esindajate kehtivaid pääsuõigusi;
+kloonida esindajate kehtivaid ja tulevikus kehtima hakkavaid pääsuõigusi;
+võrrelda esindajate pääsuõigusi;
+lisada esindajaid lemmikutesse ja neid sealt eemaldada;
+tellida pääsuõiguste teateid;
+vaadata esindatava isiku nimel saadetud pääsuõiguste taotlusi;
+vaadata, kinnitada või tagasi lükata laekunud pääsuõiguste taotlusi.
+Pääsuõiguste automaatne lõpetamine
+Automaatselt antud pääsuõiguste paketid lõpetatakse rahvastikuregistri ja äriregistri andmete alusel.
+Füüsilisest isikust ettevõtja (FIE) tegevuse lõppemisel
+ jäävad FIE pääsuõiguste paketid kehtima veel seitsmeks aastaks.
+Füüsilise isiku surma korral
+ lõpetatakse talle ja tema esindajatele antud pääsuõigused, v.a esindajatele antud FIE pääsuõigused. Surnud isiku maksuarvestuse sulgemisel lõpetatakse ka tema esindajatele antud FIE pääsuõigused.
+Füüsilise isiku pankroti korral
+ jäävad kehtima kõik automaatselt antud pääsuõiguste paketid. Kõik muud füüsilisele isikule antud ja füüsilise isiku poolt antud pääsuõigused lõpetatakse.
+Pääsuõiguste andmine
+Selleks, et füüsilise isiku, sh füüsilisest isikust ettevõtja (FIE) nimel saaks e-MTA teenuseid kasutada, peab füüsiline isik andma volitatud esindajale vajalikud pääsuõigused.
+Kõige mugavam on pääsuõigusi anda e-MTAs. Pääsuõiguste andmiseks võib tulla ka teenindusbüroosse või saata volikiri/taotlus meile e-kirjaga.
+Kõigi e-teenuste kasutamiseks antavate pääsuõigustega kaasnevad e-MTAs õigused võtta vastu ja lugeda esindatava dokumente, lugeda esindatavale saadetud teateid ning pidada esindatava nimel Maksu- ja Tolliametiga kirjavahetust.
+Ava kõik
+E-teenuste keskkonnas e-MTA
+E-postiga
+Teenindusbüroos
+E-teenuste keskkonnas e-MTA
+Täisealisel füüsilisel isikul ja ettevõtjana tegutseval füüsilisel isikul (FIE) on automaatselt olemas pääsuõigus „Isiku esindaja õigus rakenduste kasutamise õiguste haldamiseks", mis võimaldab anda esindajatele pääsuõigusi, neid lõpetada, muuta, kloonida jne.
+E-MTAs pääsuõiguste andmiseks oma esindajatele:
+valige menüüs 
+Seaded
+ – 
+Pääsuõigused
+ – 
+Esindajate pääsuõigused
+;
+vajutage nupule 
+Uus pääsuõigus
+;
+leidke isik kas isikukoodi, registrikoodi või kasutajatunnuse abil või valige lemmikute hulgast;
+vajutage nupule 
+Otsi
+;
+kui soovite anda samu pääsuõigusi mitmele isikule, siis korrake otsingut;
+määrake pääsuõiguse kehtivuse alguskuupäev (lõppkuupäeva võib lisada ka hiljem);
+määrake, kas esindaja saab pääsuõigust delegeerida, s.t teisele isikule edasi anda;
+valige pääsuõiguste pakett või üksikõigus. Kui te täpset õiguse nime ei tea, siis vajutage luubi ikoonile valdkonna lahtris ning valige, mis valdkonna pääsuõigust anda soovite või jätke otsingu lahtrid täitmata. vajutage nupule 
+Otsi
+;
+leidke vajalik pääsuõigus ja linnutage märkeruut pääsuõiguse real ning vajutage nupule 
+Lisan
+.
+Abi ja infot e-MTAs pääsuõiguste teenuse kasutamisel saate e-MTAs, valides menüüst 
+Abikeskus
+ – 
+Pääsuõigused
+.
+E-postiga
+Pääsuõiguste andmiseks e-postiga saatke e-posti aadressile 
+[email protected]
+:
+digitaalselt allkirjastatud volikiri ja/või taotlus.
+Volikirjad ja taotlused
+Kui teil ei ole võimalik digiallkirja anda, saatke e-posti aadressile 
+[email protected]
+:
+foto, millel te (volikirja allkirjastaja) olete koos enda isikut tõendava dokumendi ning täidetud ja allkirjastatud volikirjaga.
+Tekst isikut tõendaval dokumendil ja volikirjal peab olema selgesti loetav.
+Teenindusbüroos
+Palun võtke teenindusbüroosse kaasa:
+isikut tõendav dokument;
+notariaalne volikiri juriidilise isiku, füüsilise isiku või FIE esindamiseks, kui olete volitatud esindaja;
+volikirja või taotluse blanketi saate teenindajalt, samuti võite selle ise eelnevalt ära täita ja kaasa võtta.
+Teenindusbüroode aadressid ja lahtiolekuajad
+Volikirjade ja pääsuõiguste taotluste vormid
+Vormide täitmiseks Mac OS X arvutiga palume kasutada programmi 
+Adobe Acrobat Reader
+ viimast tasuta allalaaditavat versiooni (soovitav on valida Reader DC versioon). Vastasel juhul ei ole vormi sisu selle saajale nähtav.
+Viited
+FIE volikirjad ja taotlused
+1
+|
+1
+Laadi kõik alla
+eraklient
+pääsuõigused
+Viimati uuendatud 31.12.2024
+You must have JavaScript enabled to use this form.
+Kas sellest lehest oli abi?
+Jah
+Ei
+Küsimus või kommentaar
+* Tärniga tähistatud väljad on kohustuslikud.
+Kui soovite vastust
+, siis kirjutage oma e-posti aadress.
+E-posti aadress
+Article
+Täname tagasiside eest!
+Maksu- ja Tolliamet
+Lõõtsa 8a, 15176 Tallinn
+Registrikood: 70000349
+[email protected]
+Kontaktid
+Klienditugi
+Teenindusbürood
+Tollipunktid
+Isikuandmete töötlemine
+Juurdepääsetavus
+Küpsised
+Abi
+Sisukaart
+
+--- /QQmarkoigus_tehing11/ : 0 vastet ---
