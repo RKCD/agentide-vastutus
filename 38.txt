@@ -1,0 +1,71 @@
+# jooks 38
+# urlid: https://decisions.civilresolutionbc.ca/crt/crtd/en/525448/1/document.do https://ria.ee/en/cyber-security/handling-cyber-incidents-cert-ee/reporting-cyber-incident https://www.emta.ee https://www.politsei.ee https://www.volinik.ee https://www.oiguskantsler.ee https://www.fi.ee https://ttja.ee https://www.aki.ee https://www.ria.ee
+# otsi: 2024 BCCRT 149|Moffatt v\. Air Canada || responsible for all the information || cert@cert\.ee|incident report form|report.{0,40}incident
+
+##### https://decisions.civilresolutionbc.ca/crt/crtd/en/525448/1/document.do
+kood=200 lõpp-URL=https://decisions.civilresolutionbc.ca/crt/crtd/en/525448/1/document.do tüüp=application/pdf baite=191298 teksti=181947
+--- /2024 BCCRT 149|Moffatt v\. Air Canada/ : 0 vastet ---
+--- /responsible for all the information/ : 0 vastet ---
+--- /cert@cert\.ee|incident report form|report.{0,40}incident/ : 0 vastet ---
+
+##### https://ria.ee/en/cyber-security/handling-cyber-incidents-cert-ee/reporting-cyber-incident
+kood=200 lõpp-URL=https://ria.ee/en/cyber-security/handling-cyber-incidents-cert-ee/reporting-cyber-incident tüüp=text/html; charset=utf-8 baite=104565 teksti=7435
+--- /2024 BCCRT 149|Moffatt v\. Air Canada/ : 0 vastet ---
+--- /responsible for all the information/ : 0 vastet ---
+--- /cert@cert\.ee|incident report form|report.{0,40}incident/ : 7 vastet ---
+… ⏎ Reporting a cyber incident | RIA ⏎       Skip to main content ⏎ Accessibility ⏎ The website was designed with accessibility in mind, so that as many people as possible could use the site and access the information published here. ⏎ Find out more about accessibility  ⏎ Text size ⏎ In all popular web browsers, you can zoom in and out by holding down the ‘Ctrl’ key (the ‘Cmd’ key in OS X) and pressing either the ‘+’ or ‘-’ key. Another convenient way is to use the mouse: hold down the ‘Ctrl’ key and at the sam…
+
+…ber Security Centre NCSC-EE ⏎ RIA is the National Cyber Security Centre of Estonia (NCSC-EE). ⏎ Handling cyber incidents CERT-EE ⏎ Reporting a cyber incident ⏎ RFC 2350 description for CERT-EE ⏎ Administrative and national supervision ⏎ Cyber defence of critical infrastructure ⏎ Preparedness for crises and cyber exercises ⏎ Management of the state information security measures ⏎ National Coordination Centre (NCC-EE) ⏎ Connect4Cyber ⏎ CyberWizards ⏎ Cybersecurity Community ⏎ Business Development ⏎ EU Funding and Collaboration Opportunities ⏎ International projects ⏎ Cyberspace analysis and prevention ⏎ Situation in the cyberspace ⏎ Prevention ⏎ Advice for …
+
+…Customer support ⏎ Submission of a request for information ⏎ Cyber security portal itvaatlik.ee ⏎ Handling cyber incidents CERT-EE ⏎ Reporting a cyber incident ⏎ RFC 2350 description for CERT-EE ⏎ Breadcrumb ⏎                   Cyber security ⏎ Handling cyber incidents CERT-EE ⏎ Reporting a cyber incident ⏎ Reporting a cyber incident ⏎ A simple incident notification can be submitted via email. Authorities and service providers can transmit more detailed information via the reporting environment. ⏎ Reporting environment raport.cert.ee ⏎ Via the reporting environment, you can send a notification to RIA regarding a cyber incident. The report is i…
+
+…cyber incident ⏎ RFC 2350 description for CERT-EE ⏎ Breadcrumb ⏎                   Cyber security ⏎ Handling cyber incidents CERT-EE ⏎ Reporting a cyber incident ⏎ Reporting a cyber incident ⏎ A simple incident notification can be submitted via email. Authorities and service providers can transmit more detailed information via the reporting environment. ⏎ Reporting environment raport.cert.ee ⏎ Via the reporting environment, you can send a notification to RIA regarding a cyber incident. The report is intended primarily for authorities and service providers for sending more detailed information. ⏎ raport.cert.ee ⏎ Simple incident notificatio…
+
+
+##### https://www.emta.ee
+kood=200 lõpp-URL=https://www.emta.ee tüüp=text/html; charset=utf-8 baite=204167 teksti=9324
+--- /2024 BCCRT 149|Moffatt v\. Air Canada/ : 0 vastet ---
+--- /responsible for all the information/ : 0 vastet ---
+--- /cert@cert\.ee|incident report form|report.{0,40}incident/ : 0 vastet ---
+
+##### https://www.politsei.ee
+kood=200 lõpp-URL=https://www.politsei.ee tüüp=text/html baite=65052 teksti=4036
+--- /2024 BCCRT 149|Moffatt v\. Air Canada/ : 0 vastet ---
+--- /responsible for all the information/ : 0 vastet ---
+--- /cert@cert\.ee|incident report form|report.{0,40}incident/ : 0 vastet ---
+
+##### https://www.volinik.ee
+kood=200 lõpp-URL=https://www.volinik.ee tüüp=text/html baite=63801 teksti=4499
+--- /2024 BCCRT 149|Moffatt v\. Air Canada/ : 0 vastet ---
+--- /responsible for all the information/ : 0 vastet ---
+--- /cert@cert\.ee|incident report form|report.{0,40}incident/ : 0 vastet ---
+
+##### https://www.oiguskantsler.ee
+kood=200 lõpp-URL=https://www.oiguskantsler.ee tüüp=text/html; charset=UTF-8 baite=66137 teksti=9588
+--- /2024 BCCRT 149|Moffatt v\. Air Canada/ : 0 vastet ---
+--- /responsible for all the information/ : 0 vastet ---
+--- /cert@cert\.ee|incident report form|report.{0,40}incident/ : 0 vastet ---
+
+##### https://www.fi.ee
+kood=200 lõpp-URL=https://www.fi.ee/et tüüp=text/html; charset=UTF-8 baite=106323 teksti=9256
+--- /2024 BCCRT 149|Moffatt v\. Air Canada/ : 0 vastet ---
+--- /responsible for all the information/ : 0 vastet ---
+--- /cert@cert\.ee|incident report form|report.{0,40}incident/ : 0 vastet ---
+
+##### https://ttja.ee
+kood=200 lõpp-URL=https://ttja.ee tüüp=text/html; charset=utf-8 baite=177524 teksti=9153
+--- /2024 BCCRT 149|Moffatt v\. Air Canada/ : 0 vastet ---
+--- /responsible for all the information/ : 0 vastet ---
+--- /cert@cert\.ee|incident report form|report.{0,40}incident/ : 0 vastet ---
+
+##### https://www.aki.ee
+kood=200 lõpp-URL=https://www.aki.ee tüüp=text/html; charset=UTF-8 baite=172568 teksti=9513
+--- /2024 BCCRT 149|Moffatt v\. Air Canada/ : 0 vastet ---
+--- /responsible for all the information/ : 0 vastet ---
+--- /cert@cert\.ee|incident report form|report.{0,40}incident/ : 0 vastet ---
+
+##### https://www.ria.ee
+kood=200 lõpp-URL=https://www.ria.ee tüüp=text/html; charset=utf-8 baite=134957 teksti=7582
+--- /2024 BCCRT 149|Moffatt v\. Air Canada/ : 0 vastet ---
+--- /responsible for all the information/ : 0 vastet ---
+--- /cert@cert\.ee|incident report form|report.{0,40}incident/ : 0 vastet ---
