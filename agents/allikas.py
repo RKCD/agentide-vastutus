@@ -10,6 +10,7 @@ annab lõpliku URL-i (akti ID), tekst tuleb API-st /public-api/api/v1/akt/<id>/t
 """
 
 import argparse
+import json
 import re
 import sys
 import urllib.error
@@ -34,6 +35,21 @@ def lae(url: str, keel: str) -> tuple[int, str, str, bytes]:
         return e.code, url, e.headers.get("Content-Type", ""), e.read(200_000)
 
 
+RT_API = "https://www.riigiteataja.ee/public-api/api/v1/akt/"
+
+
+def rt_kehtiv(akt_id: str, keel: str) -> tuple[str, str]:
+    """rt:<id> -> (kehtiva redaktsiooni txt-URL, päis). Kasutab API JSON-i välja kehtivId."""
+    _, _, _, keha = lae(RT_API + akt_id, keel)
+    meta = json.loads(keha)
+    kehtiv = str(meta.get("kehtivId") or akt_id)
+    p = meta.get("aktiParameetrid", {})
+    päis = (f"RT: {p.get('pealkiri')} ({p.get('lyhend')}), kehtiv redaktsioon {kehtiv}, "
+            f"kehtivuse algus {p.get('kehtivuseAlgus')}, staatus {meta.get('aktiStaatus')}, "
+            f"vaata: https://www.riigiteataja.ee/akt/{kehtiv}")
+    return RT_API + kehtiv + "/txt", päis
+
+
 def tekstiks(tüüp: str, keha: bytes) -> str:
     if "html" in tüüp or "xml" in tüüp or keha.lstrip()[:1] == b"<":
         tekst = BeautifulSoup(keha, "html.parser").get_text("\n")
@@ -54,6 +70,9 @@ def main() -> int:
 
     for url in a.url:
         try:
+            if url.startswith("rt:"):
+                url, päis = rt_kehtiv(url[3:], a.keel)
+                print(f"\n{päis}")
             kood, lõpp, tüüp, keha = lae(url, a.keel)
         except Exception as e:
             print(f"\n##### {url}\nVIGA: {type(e).__name__}: {e}")

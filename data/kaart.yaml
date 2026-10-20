@@ -4,7 +4,7 @@
 # ehitamast, kui mõnel normil link puudub.
 #
 # Väljad:
-#   staatus: kehtib | kohaldub_alates | eelnõu | tühistatud
+#   staatus: kehtib | kohaldub_alates | eelnõu | tühistatud | tagasi_võetud
 #   alates:  kuupäev (kohustuslik, kui staatus on kohaldub_alates)
 #   tase:    EL | EE
 #   kontrollida: (valikuline) mida Robert peab esmaallikast üle vaatama
@@ -98,28 +98,30 @@ taust:
   - akt: Digi-omnibus AI kohta, määrus (EL) 2026/1744
     säte: AI-määruse art 113 muudatused
     mida_ütleb: >-
-      Lükkab suure riskiga süsteemide nõuded edasi. III lisa süsteemid (nt töö,
-      haridus, avalikud teenused): 2.12.2027. I lisa tooted: 2.08.2028.
-      Avaldatud ELT-s 24.07.2026, jõus 27.07.2026.
+      Lükkab suure riskiga süsteemide nõuded edasi: III lisa süsteemid (nt töö,
+      haridus, avalikud teenused) 2.12.2027, I lisa tooted 2.08.2028. Määrus on
+      dateeritud 8.07.2026, avaldati ELT-s 24.07.2026 ja jõustus kolmandal
+      päeval pärast avaldamist (27.07.2026). Juba enne 2.08.2026 turule lastud
+      generatiivse AI märgistamiseks (art 50 lg 2) on neljakuuline
+      üleminekuaeg.
     allika_url: https://eur-lex.europa.eu/eli/reg/2026/1744/oj
     tase: EL
     staatus: kehtib
-    kontrollida: >-
-      Määruse number ja kuupäevad pärinevad teisestest allikatest (Orrick,
-      ActuIA, Cooley). Kontrolli ELT tekstist. Kontrolli ka, kas omnibus muutis
-      art 4 (AI-kirjaoskus) kohustust.
+    kontrollitud: 2026-10-20
   - akt: AI vastutuse direktiivi ettepanek (COM(2022) 496)
     säte: kogu ettepanek
     mida_ütleb: >-
-      Komisjon võttis ettepaneku tagasi. Eraldi EL-i AI-vastutuse reeglit seega
-      ei tule. Lepinguväline vastutus jääb riigisisese õiguse ja uue
-      tootevastutuse direktiivi kanda.
-    allika_url: https://eapil.org/2025/10/09/european-commission-withdraws-two-proposals-assignments-of-claims-regulation-and-ai-liability-directive/
+      Ettepanekut ei võetud kunagi vastu. Komisjon võttis selle tagasi,
+      teade avaldati ELT-s 6.10.2025 (C/2025/5423). Põhjus: kokkulepet ei
+      olnud näha. Komisjon hindab, kas esitada uus ettepanek. Praegu jääb
+      lepinguväline vastutus riigisisese õiguse ja uue tootevastutuse
+      direktiivi kanda.
+    allika_url: https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:52025XC05423
     tase: EL
-    staatus: tühistatud
+    staatus: tagasi_võetud
     kontrollida: >-
-      Allikas on teisene (EAPIL blogi). Leia ELT teade tagasivõtmise kohta
-      (6.10.2025) ja asenda link.
+      ELT teade C/2025/5423 (6.10.2025) leitud veebiotsingu kaudu, teksti pole
+      veel loetud (EUR-Lex blokeerib robotid).
   - akt: Tootevastutuse direktiiv (EL) 2024/2853
     säte: art 4 (toote mõiste), art 22 (ülevõtmine)
     mida_ütleb: >-

@@ -10,14 +10,10 @@ Kui väide on esmaallikast üle vaadatud, pane stsenaariumile `kontrollitud: YYY
   - Väide: Määrus jõustus 2024. aastal ja hakkab kohalduma etapiviisiliselt. Keelatud tavad kohalduvad alates 2.02.2025, üldotstarbelise AI mudelite reeglid alates 2.08.2025, läbipaistvuskohustused (art 50) alates 2.08.2026.
   - Allikas: https://eur-lex.europa.eu/eli/reg/2024/1689/oj
   - **Kontrollida:** Kuupäevad art 113-st. Kas omnibus muutis ka art 50 kohaldamist.
-- [ ] **Digi-omnibus AI kohta, määrus (EL) 2026/1744**, AI-määruse art 113 muudatused (kehtib)
-  - Väide: Lükkab suure riskiga süsteemide nõuded edasi. III lisa süsteemid (nt töö, haridus, avalikud teenused): 2.12.2027. I lisa tooted: 2.08.2028. Avaldatud ELT-s 24.07.2026, jõus 27.07.2026.
-  - Allikas: https://eur-lex.europa.eu/eli/reg/2026/1744/oj
-  - **Kontrollida:** Määruse number ja kuupäevad pärinevad teisestest allikatest (Orrick, ActuIA, Cooley). Kontrolli ELT tekstist. Kontrolli ka, kas omnibus muutis art 4 (AI-kirjaoskus) kohustust.
-- [ ] **AI vastutuse direktiivi ettepanek (COM(2022) 496)**, kogu ettepanek (tühistatud)
-  - Väide: Komisjon võttis ettepaneku tagasi. Eraldi EL-i AI-vastutuse reeglit seega ei tule. Lepinguväline vastutus jääb riigisisese õiguse ja uue tootevastutuse direktiivi kanda.
-  - Allikas: https://eapil.org/2025/10/09/european-commission-withdraws-two-proposals-assignments-of-claims-regulation-and-ai-liability-directive/
-  - **Kontrollida:** Allikas on teisene (EAPIL blogi). Leia ELT teade tagasivõtmise kohta (6.10.2025) ja asenda link.
+- [ ] **AI vastutuse direktiivi ettepanek (COM(2022) 496)**, kogu ettepanek (tagasi_võetud)
+  - Väide: Ettepanekut ei võetud kunagi vastu. Komisjon võttis selle tagasi, teade avaldati ELT-s 6.10.2025 (C/2025/5423). Põhjus: kokkulepet ei olnud näha. Komisjon hindab, kas esitada uus ettepanek. Praegu jääb lepinguväline vastutus riigisisese õiguse ja uue tootevastutuse direktiivi kanda.
+  - Allikas: https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:52025XC05423
+  - **Kontrollida:** ELT teade C/2025/5423 (6.10.2025) leitud veebiotsingu kaudu, teksti pole veel loetud (EUR-Lex blokeerib robotid).
 - [ ] **Tootevastutuse direktiiv (EL) 2024/2853**, art 4 (toote mõiste), art 22 (ülevõtmine) (kohaldub_alates 2026-12-09)
   - Väide: Tarkvara, sh AI-süsteem, loetakse tooteks. Puudusega tootest tekkinud kahju eest vastutab tootja ka ilma süüta. Liikmesriigid peavad direktiivi üle võtma hiljemalt 9.12.2026.
   - Allikas: https://eur-lex.europa.eu/eli/dir/2024/2853/oj

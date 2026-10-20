@@ -1,5 +1,5 @@
 {%- set m = k.meta -%}
-{%- set staatus_silt = {"kehtib": "kehtib", "kohaldub_alates": "kohaldub alates", "eelnõu": "eelnõu", "tühistatud": "tühistatud / tagasi võetud"} -%}
+{%- set staatus_silt = {"kehtib": "kehtib", "kohaldub_alates": "kohaldub alates", "eelnõu": "eelnõu", "tühistatud": "tühistatud", "tagasi_võetud": "tagasi võetud"} -%}
 {%- macro norm(n) -%}
 <li class="norm">
   <div class="norm-pea">
@@ -11,6 +11,7 @@
   <div class="norm-jalg">
     <span class="staatus st-{{ n.staatus }}">{{ staatus_silt[n.staatus] }}{% if n.get("alates") %} {{ n["alates"].strftime("%d.%m.%Y") }}{% endif %}</span>
     <a href="{{ n.allika_url }}" rel="noopener">Allikas</a>
+    {% if n.get("kontrollitud") %}<span class="kontr-ok">kontrollitud esmaallikast {{ n["kontrollitud"].strftime("%d.%m.%Y") }}</span>{% else %}<span class="kontr-ei">kontrollimata</span>{% endif %}
   </div>
 </li>
 {%- endmacro -%}
@@ -82,7 +83,9 @@ ul.normid { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
 .norm-jalg { display: flex; gap: 12px; align-items: center; font-size: 0.85rem; flex-wrap: wrap; }
 .staatus { color: var(--nork); }
 .st-eelnõu, .st-kohaldub_alates { color: var(--hoiatus); font-weight: 600; }
-.st-tühistatud { text-decoration: line-through; }
+.kontr-ok { color: var(--ee); font-weight: 600; }
+.kontr-ei { color: var(--hoiatus); }
+.st-tühistatud, .st-tagasi_võetud { text-decoration: line-through; }
 dl.rollid { margin: 0; } dl.rollid dt { font-weight: 600; } dl.rollid dd { margin: 0 0 8px; color: var(--nork); }
 .lahtine { background: var(--lahtine-bg); color: var(--lahtine); border-radius: 8px; padding: 10px 12px 10px 32px; margin: 0; }
 .lahtine li { margin: 4px 0; }
@@ -125,7 +128,7 @@ try { var t = localStorage.getItem("teema"); if (t) document.documentElement.dat
     <span>Viimati uuendatud {{ m.viimati_uuendatud.strftime("%d.%m.%Y") }}</span>
     <button class="teema" type="button" aria-label="Vaheta heledat ja tumedat režiimi">Hele / tume</button>
   </div>
-  <p class="loobumine"><strong>See ei ole õigusnõuanne.</strong> Kaart on orienteeriv ülevaade. Iga väite juures on link allikale. Väited, mida autor pole veel esmaallikast üle kontrollinud, on märgitud sildiga <em>kontrollimata</em>. Konkreetses olukorras pea nõu juristiga.</p>
+  <p class="loobumine"><strong>See ei ole õigusnõuanne.</strong> Kaart on orienteeriv ülevaade. Iga väite juures on link allikale. Iga normi juures on märgitud, kas see on esmaallikast kontrollitud (koos kuupäevaga) või <em>kontrollimata</em>. Konkreetses olukorras pea nõu juristiga.</p>
 </header>
 
 <main>
@@ -143,7 +146,7 @@ try { var t = localStorage.getItem("teema"); if (t) document.documentElement.dat
     <span class="st-kirjeldus">{{ s["lühikirjeldus"] }}</span>
     <span class="margid">
       {% if not s.kontrollitud %}<span class="mark kontrollimata">kontrollimata</span>{% endif %}
-      <span class="mark">{{ s.normid | length }} normi</span>
+      <span class="mark">{{ s.normid | length }} normi, {{ s.normid | selectattr("kontrollitud", "defined") | list | length }} kontrollitud</span>
       <span class="mark">{{ s["lahtised_küsimused"] | length }} lahtist küsimust</span>
     </span>
   </summary>

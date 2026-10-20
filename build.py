@@ -18,7 +18,7 @@ import yaml
 from jinja2 import Environment, FileSystemLoader, StrictUndefined
 
 ROOT = Path(__file__).parent
-STAATUSED = {"kehtib", "kohaldub_alates", "eelnõu", "tühistatud"}
+STAATUSED = {"kehtib", "kohaldub_alates", "eelnõu", "tühistatud", "tagasi_võetud"}
 TASEMED = {"EL", "EE"}
 MAX_NORME = 4
 SÄILITA_MIN, SÄILITA_MAX = 3, 5
@@ -46,6 +46,8 @@ def valideeri(kaart: dict) -> list[str]:
             vead.append(f"{koht}: tundmatu staatus '{n.get('staatus')}'")
         if n.get("tase") not in TASEMED:
             vead.append(f"{koht}: tundmatu tase '{n.get('tase')}'")
+        if n.get("kontrollitud") and n.get("kontrollida"):
+            vead.append(f"{koht}: kontrollitud normil ei tohi olla 'kontrollida' märkust")
         if n.get("staatus") == "kohaldub_alates" and not n.get("alates"):
             vead.append(f"{koht}: staatus kohaldub_alates vajab välja 'alates'")
 
@@ -64,6 +66,8 @@ def valideeri(kaart: dict) -> list[str]:
                 vead.append(f"{sid}: puudub väli '{v}'")
         if "kontrollitud" not in s:
             vead.append(f"{sid}: puudub väli 'kontrollitud' (vaikimisi false)")
+        elif s["kontrollitud"] and not all(n.get("kontrollitud") for n in s.get("normid", [])):
+            vead.append(f"{sid}: olukord on kontrollitud, aga mõni norm mitte")
         if len(s.get("normid", [])) > MAX_NORME:
             vead.append(f"{sid}: üle {MAX_NORME} normi")
         for i, n in enumerate(s.get("normid", [])):
@@ -100,6 +104,8 @@ def kontrolli_nimekiri(kaart: dict) -> str:
 
     def normid(loend, pref):
         for n in loend:
+            if n.get("kontrollitud"):
+                continue
             märkus = n.get("kontrollida", "")
             rida.append(f"- [ ] **{n['akt']}**, {n['säte']} ({n['staatus']}"
                         + (f" {n['alates']}" if n.get("alates") else "") + ")")
