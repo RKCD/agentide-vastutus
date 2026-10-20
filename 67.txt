@@ -1,0 +1,217 @@
+# jooks 67
+# urlid: https://dokumendiregistrid.karlerss.com/dokumendid/882319/arvamus-haldusmenetluse-seaduse-ja-avaliku-teabe-seaduse-muutmise-seaduse-eelnou-kohta
+# otsi: QQmarkoigusavalik13
+
+##### https://dokumendiregistrid.karlerss.com/dokumendid/882319/arvamus-haldusmenetluse-seaduse-ja-avaliku-teabe-seaduse-muutmise-seaduse-eelnou-kohta
+kood=200 lõpp-URL=https://dokumendiregistrid.karlerss.com/dokumendid/882319/arvamus-haldusmenetluse-seaduse-ja-avaliku-teabe-seaduse-muutmise-seaduse-eelnou-kohta tüüp=text/html; charset=utf-8 baite=57107 teksti=15990
+--- algus ---
+
+Arvamus haldusmenetluse seaduse ja avaliku teabe seaduse muutmise seaduse eelnõu kohta - Riigikohus
+Dokumendiregistrite otsing
+Arhiiv
+Projektist
+API
+Arvamus haldusmenetluse seaduse ja avaliku teabe seaduse muutmise seaduse eelnõu kohta
+Dokumendiregister
+Riigikohus
+Viit
+6-6/25-60-2
+Registreeritud
+29.12.2025
+Sünkroonitud
+02.01.2026
+Liik
+Väljaminev kiri
+Funktsioon
+6 Õigusemõistmise üldküsimused ja õigusteabe analüüs
+Sari
+6-6 Arvamused õigusaktide eelnõude kohta
+Toimik
+                                6-6/2025
+Juurdepääsupiirang
+Avalik
+Adressaat
+Justiits- ja digiministeerium
+Saabumis/saatmisviis
+Justiits- ja digiministeerium
+Vastutaja
+Piret Järvesaar (Riigikohus, Üldosakond)
+Originaal
+Ava uues aknas
+                                    Taotle dokumendi eemaldamist või parandamist
+Dokumendi eemaldamise taotlus
+                                    Palun tutvuge 
+isikuandmete töötlemise põhimõtetega
+.
+                                    Kui dokument sisaldab teie isikuandmeid, on teil IKÜM Art 21 alusel õigus
+                                    esitada isikuandmete töötlemisele vastuväide. Kuna töötleme avalikes dokumentides
+                                    sisalduvaid andmeid avalikes huvides, selgitage vastuväites lühidalt, miks
+                                    teie konkreetsest olukorrast tulenevalt ei peaks neid isikuandmeid sellisel viisil töötlema.
+                                    Pärast taotluse esitamist saadame teie e-posti aadressile 6-kohalise kinnituskoodi.
+                                    Taotlus vaadatakse läbi pärast e-posti aadressi kinnitamist.
+Teie nimi
+Teie e-post
+                            Õiguslik alus
+IKÜM (GDPR) Art 21 (vastuväide)
+Muu (lisa selgitusse)
+Selgitus
+Esita taotlus
+Failid
+6-625-60-2 29.12.2025 Väljaminev kiri.asice
+Arvamus haldusmenetluse seaduse ja avaliku teabe seaduse muutmise seaduse eelnõu kohta.pdf
+Kaaskiri_ haldusmenetluse seaduse ja avaliku teabe seaduse muutmise seaduse eelnõu kohta.pdf
+6-625-60-2 29.12.2025 Väljaminev kiri.asice
+Eelvaade
+Tekst
+Digiallkirjad
+Allkirjade kehtivust ei ole
+                                                    kontrollitud.
+LIINA REISBERG
+PNOEE-48305160352
+2025-12-29 13:06:37
+Arvamus haldusmenetluse seaduse ja avaliku teabe seaduse muutmise seaduse eelnõu kohta.pdf
+Eelvaade
+Tekst
+LISA 1 
+Riigikohtu arvamus1 haldusmenetluse seaduse ja avaliku teabe seaduse muutmise seaduse 
+eelnõu kohta 
+Justiits- ja Digiministeerium esitas kommenteerimiseks HMS ja AvTS muutmisese eelnõu, 
+millega soovitakse luua selge ja tehnoloogianeutraalne õiguslik raamistik automaatseks 
+haldusmenetluseks. Eelnõus defineeritakse automaatset haldusmenetlust, kus otsus või toiming 
+tehakse automaatselt, ilma inimese otsese sekkumiseta, kasutades selleks infotehnoloogilisi 
+lahendusi. Riigikohus kiidab eelnõu koostajaid haldusmenetluses automatiseerimise teema 
+edasi arendamast. Seejuures ei tohi alahinnata ohte ja probleeme, mis automatiseerimisega 
+kaasnevad. Eelnõu osas on Riigikohtul järgmised tähelepanekud. 
+1. Automatiseeritud otsused ilma inimsekkumiseta ka kaalutlusotsuste ja määratlemata 
+õigusmõiste korral. 
+HMS muudatusega antakse haldusorganile üldine volitusnorm automatiseeritud haldusakti või 
+toimingu tegemiseks. Eelnõuga täiendatakse HMS-i §-ga 71, mille lg 1 sõnastab, et haldusorgan 
+võib anda haldusakti või muu dokumendi või sooritada toimingu või menetlustoimingu 
+automaatselt infosüsteemi vahendusel ilma haldusorgani nimel tegutseva isiku vahetu 
+sekkumiseta. Seletuskirjast ei tulene selget vastust küsimusele, kas HMS § 71 lg 1 on üldvolitus 
+kasutada automatiseeritud haldusmenetlust sõltumata sellest, kas valdkonnaseaduses on vastav 
+alus loodud. 
+Eelnõu kohaselt on automaatne menetlus võimalik ka kaalutlusotsuste ja määratlemata 
+õigusmõiste korral. Seletuskiri annab mõista, et selliseid kaalutlusotsuseid saab teha määratud 
+reeglite alusel, kus valikute hulk kui ka oluliste asjaolude kogum on piiratud. Riigikohtu 
+hinnangul mitte kõikide kaalutlusõiguse teostamist eeldavate normide rakendamist ei ole 
+võimalik lihtsalt automatiseerida tagades HMS § 54 põhimõtet. Automatiseeritud süsteemi on 
+hõlpsam rakendada valdkondades, kus on õiguslik määratletus täpne. Asjaolud ja nende 
+määratud väärtused on ülimalt olulised, sest just nende põhjal saab algoritm teha oma järelduse. 
+Kaalutlusotsute tegemine ei pruugi olla mõeldav determineeritult, vaid võib eeldada masinõppe 
+ja tehisaru agendi rakendamist.  
+Eelnõust ei ilmne sõnaselget volitust, et haldusorganid võivad kasutada tehisaru aitamaks 
+sisustada määratlemata õigusmõisteid. Iga üksikjuhtumi elulised asjaolud on erinevad ja seega 
+tuleb vastavalt kaalutlusõiguse piiridele valida sobiv õiguslik tagajärg. Selleks, et tehisaru oleks 
+võimeline teostama võrdväärset kaalutlusõigust, peaks tehisarul olema kättesaadav ja 
+„mõistetav“ vastav haldus- ja kohtupraktika, õiguse üldpõhimõtted ja seadusse kirjutamata 
+teadmised ja reeglid. Jätkuvalt on olemas oht, mida seletuskirjast välja ei paista, et masinal jääb 
+tüüpjuhtumites tuvastamata erijuhud. Mistõttu tuleks automatiseeritud otsuste kaalutlus- või 
+hindamisruumi rakendada esmalt tüüpjuhtumite osas ja tagada erandite tuvastamine, sest nendel 
+juhtudel on edasise menetluse jätkamiseks nõutav inimsekkumine. 
+Kohus teostab kaalutlusotsuse kontrolli hinnates, kas haldusorgan on järginud kaalutlusõiguse 
+piire ja eesmärki ning lähtunud lubatud, asjakohastest ja sobivatest kaalutlustest 
+(HKMS § 158 lg 3 teine lause).2 Automaatse kaalutud otsuste puhul on ohuteguriks nende 
+kaalumisprotsesside arusaamine, mille taha võivad takerduda hilisemad vaide- ja 
+1 Riigikohtu arvamus ei väljenda Riigikohtu siduvat seisukohta. Riigikohus kujundab siduvaid seisukohti ainult 
+kohtuasjade menetlemisel Riigikohtus.  
+2 RKHKo 3-23-885/83 , p 66. 
+LISA 1 
+kohtumenetlused. Programmi kaalumisotsuse protsess peab olema inimkeeli mõistetav nii 
+menetlejale kui ka isikule, kelle osas otsus langetati. 
+Olgugi, et eelnõu jätab häguseks infotehnoloogilised piirid, mille all mõeldakse 
+automatiseeritud haldusmenetlust, siis HMS § 71 lg 6 seab omamoodi tehnoloogia kasutamise 
+piiri. Lisatav säte põhineb IKÜM-i artikli 22 lõike 2 punktil b) ja põhjenduspunktil 71. 
+Automaatsed otsused on lubatavad, kui see on sätestatud liikmesriigi õigusega, milles on 
+sätestatud andmesubjektide õiguste kaitseks ka vastavad tagatised, et andmetöötlus peab olema 
+inimese jaoks läbipaistev ning välistada tuleb algoritmide kallutatuse ja läbipaistmatusega 
+sageli kaasnevaid vigu. Selleks täiendatakse ka AvTS § 28 lõiget 1 punktiga 313, et teave 
+automaatses haldusmenetluses kasutatava infosüsteemi funktsiooni ja toimimise loogika kohta 
+ning teave, kuidas tagatakse sellise infosüsteemi kasutusele võtmisega põhiõigustele 
+kaasnevate riskide leevendamine. Küsitav on tehisaru agendi otsuse kasutamine, mille 
+otsusprotsessi on üldjuhul keeruline ümber sõnastada selgesse kirjakeelde. Täiendavalt peab 
+haldusorgan tagama läbipaistvuse nõude selliselt, et viimane ei paljastataks otsustusprotsessi 
+selliselt, mis võimaldaks süsteemi kuritarvitada. Seadusandjal on võimalik tehisaru kasutamist 
+lubada, kui ta mõtleb üksikasjalikumalt läbi algoritmi meetodite ja kasutusvaldkonna 
+spetsiifilised riskid ja nende maandamise vahendid.  
+Eelnõu järgi lükatakse süsteemide kasutamise võimalused ja riski hindamine automatiseeritud 
+haldusmenetlust kasutava haldusorgani kanda. Seletuskirjas jääb vajaka mõjuhinnangutega 
+seonduv ja nende järgimine. IKÜM näeb ette mõjuhinnangu (nt IKÜM art 35), 
+tehisintellektimäärus (EL) 2024/1689 näeb ette teatud juhtudel mõjuhinnangu (nt suure riskiga 
+tehisintellektisüsteem art 6, vt nt art-d 26 ja 27 juurutaja kohustused). Kas ja kuidas on need 
+asjakohased ja kuivõrd tuleb neid ühildada jms otsustamaks, kas saab automatiseerida? Lõpliku 
+otsuse selliste süsteemide kasutusele võtmisel lasub asutuse juhil. Tuleb ka lisada, et mitte kõik 
+haldusmenetlused ei puuduta isikuandmeid, mis puhul nt IKÜM (ja kohustus teha 
+mõjuhinnang) ei kohaldu. Mistahes otsuse automatiseerimisel keerukama tehisaru (või 
+masinõppe) abil peab eelnema riskihindamine (täpsemalt riskijuhtimissüsteem), sh kas masin 
+on võimelike õigusnorme õigesti kohaldama.  
+Eelnõus on ka uus menetlusõigus HMS § 71 lg 3 näol, mille järgi on igal ajal õigus isiklikule 
+vahetule kontaktile ametniku või menetlejaga. Haldusorgan peab igat menetlusosalist või 
+taotlejat teavitama selle õiguse kasutamise võimalusest. Eelnõus on nimetatud erandid või nö 
+kaitsemeetmed, mille korral automaatne haldusmenetlus katkeb ja jätkub tavamenetlus. 
+Nendeks on ärakuulamisõigus (HMS § 40), haldusmenetluse uuendamine (§ 71 lg 7) ja 
+vaidemenetluse etapp (§ 71 lg 8). Seletuskirja lugedes tekib küsimus, kas vaidemenetluses on 
+täiesti välistatud automatiseeritus, kuigi vaidemenetluses on ka menetlustoiminguid, mida 
+eelnõu lubab automatiseerida?  
+Eelnõu seletuskirjas mainitakse, et soovi korral on inimesel õigus nõuda ka tavamenetlust. 
+Ebaselgeks jääb, kuidas ja kas igal juhul seda soovi järgitakse. Eelduslikult võiks selline õigus 
+olla sõnastatud ka eelnimetud lõikes 3. Seevastu avaldajal või menetlusosalisel ei peaks ainult 
+erandi korral olema õigus tavamenetlusele, vaid igal ajal avaldada tahet, millist pakutavatest 
+haldusmenetluse viisidest kasutada. Keeruline on ette kujutada, et automatiseeritud menetlus 
+täielikult asendab tavamenetlust, vaid oleks esmane efektiivne viis haldusmenetluse 
+läbiviimiseks. 
+LISA 1 
+2. Isikuandmete kaitse ja andmetöötlus 
+IKÜM artiklist 22 tulenev üldreegel keelab teha isiku kohta otsust, mis põhineb üksnes 
+automatiseeritud töötlusel, sealhulgas profiilianalüüsil, mis toob kaasa teda puudutavaid 
+õiguslikke tagajärgi või avaldab talle märkimisväärset mõju (IKÜM art 22 lg 1). Sellisel 
+töötlemisel, sealhulgas profiilianalüüsil põhinev otsuste tegemine peaks olema lubatudsiis, kui 
+see on sõnaselgelt lubatud liidu või liikmesriigi õigusega või kui see on vajalik lepingu 
+sõlmimiseks või täitmiseks või siis, kui andmesubjekt on andnud selleks oma selgesõnalise 
+nõusoleku.3 Lisatav HMS § 71 lg 2 lubab, et automaatne haldusakt võib põhineda eriliiki 
+isikuandmetel isiku nõusolekul, välja arvatud juhul, kui seaduses on sätestatud teisiti.  
+Eriliiki isikuandmete töötlemine eeldab, et õigusaktiga on selgelt sätestatud asutuse õigus 
+eriliiki andmete töötlemiseks.4 Eelnõukohane HMS § 71 lg 2 sätestab, et automaatne haldusakt 
+võib põhineda eriliiki isikuandmetel isiku nõusolekul, välja arvatud juhul, kui seaduses on 
+sätestatud teisiti. Ka seletuskiri ütleb, et eriliiki isikuandmete automatiseeritud kasutamine 
+lubatud üksnes erandjuhtudel, eelkõige isiku nõusolekul või seadusest tuleneval alusel. 
+Siinkohal peab rõhutama automatiseeritud lahenduste puhul on avalike ülesannete täitmiseks 
+isikuandmete töötlemise eelistatud alus õigusnorm ja loobuda tasub nõusoleku 
+kontseptsioonist. Kui isik võtab oma nõusoleku tagasi, võib talle jääda mulje, et siis 
+haldusorgan ei või eriliiki isikuandmeid üldse enam töödelda. Eelduslikult sellega tegu ei ole, 
+vaid lihtsalt nõusoleku tagasivõtmine tähendaks seda, et automaatset haldusmenetlust enam ei 
+või teha. Nõusoleku andmise ja tagasivõtmisega võib kaasneda liialt segadust.  
+Samas jääb ebaselgeks, mis või kust tulenvad need erandid seadusest, kus, rõhutades siinkohal 
+oluline avalik huvi, nõuab automaatset lahendust. Eelduslikult saavad need tulla ainult vastava 
+valdkonnaseadusest. Haldusmenetluses haldusülesannete täitmisel on asjakohane IKÜM artikli 
+6 lõike 1 punkt e, mille kohaselt isikuandmete töötlemine on õiguspärane, kui see on „vajalik 
+avalikes huvides oleva ülesande täitmiseks või vastutava töötleja avaliku võimu teostamiseks“ 
+või art 6 lg 1 p a. Eriliigiliste andmete töötlemise alus tuleb vastavalt artiklist 9. Oluline on see, 
+et koheselt oleks selge õiguslik alus, mis töötlemise käigus peab jääma muutumata. 
+Tervitatav on lisatav HMS § 71 lg 5 nõue anda ülevaade andmekogudest tehtud päringutest 
+(andmetöötlusest teavitamine). See on kookõlas AvTS eesmärkidega tagada juurdepääs teabele 
+kui ka täidab IKÜM artikkel 12 lg 1 kohustus, vastutav töötleja esitama andmesubjektidele 
+kokkuvõtlikult, selgelt, arusaadavalt ning lihtsasti kättesaadavas vormis teabe nende 
+isikuandmete töötlemise kohta. Teavitamiskohustus peab jääma automatiseeritud 
+haldusmenetluste puhul, kus isikuandmeid ei ole kasutatud. Ebamääraseks jääb ka selgitus, et 
+suuremahullise teavitamiskohtuse korral võib haldusorgan jätta haldusakti liigse teabega 
+koormamata ja selgitada, kust on vajalik teave soovi korral kättesaadav. Sellist teavet ei peaks 
+menetlusosaline ise hakkama koondama, veel vähem esitama teabenõuet. HMS § 71 lg 6 alusel 
+tuleb menetlusosalisele selgitada kokkuvõtlikult, selgelt, arusaadavalt ning lihtsasti 
+kättesaadavas vormis menetlust ja põhimõtteid, mida konkreetselt rakendatakse selle isiku 
+3 Keelust on tehtud erandid muuhulgal juhuks, kui otsus on vajalik andmesubjekti ja vastutava töötleja vahelise 
+lepingu sõlmimiseks või täitmiseks (IKÜM art 22 lg 2 p a)), otsus on lubatud vastutava töötleja suhtes 
+kohaldatava liidu või liikmesriigi õigusega, milles on sätestatud ka asjakohased meetmed andmesubjekti õiguste 
+ja vabaduste ning õigustatud huvide kaitsmiseks (IKÜM art 22 lg 2 p b) või kui andmesubjekt on andnud 
+selgesõnalise nõusoleku andmete töötlemiseks (IKÜM art 22 lg 2 p c). Täiendavalt on lõikes 4 märgitud, et 
+lõikes 2 osutatud otsused ei tohi põhineda artikli 9 lõikes 1 osutatud isikuandmete eriliikidel, välja arvatud juhul, 
+kui kohaldatakse artikli 9 lõike 2 punkti a või g ning kehtestatud on asjakohased meetmed andmesubjekti 
+õiguste, vabaduste ja õigustatud huvide kaitsmiseks.  
+4 EKo C-667/21 – Krankenversicherung Nordrhein, p 79. 
+LISA 1 
+isikuandmete automatiseeritud töötlemisel teatud tulemuse.5 Selline teave võib olla esitatav 
+näiteks iseteeninduskeskkonnas või menetlusosalise soovi korral edastavad läbi muu 
+infokanali.  
+3. Õiguskaitse 
+Eelnõus mainitakse riskidena valea
+--- /QQmarkoigusavalik13/ : 0 vastet ---
