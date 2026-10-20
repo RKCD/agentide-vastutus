@@ -1,0 +1,73 @@
+# jooks 47
+# urlid: https://ttja.ee https://ttja.ee/ariklient/ohutus/tooted-teenused/tehisintellektisusteemid https://www.aki.ee https://www.emta.ee https://www.fi.ee https://www.oiguskantsler.ee https://www.politsei.ee https://www.volinik.ee https://www.e-kaubanduseliit.ee/uudised/puudusega-toote-eest-vastutavate-ettevotjate-ring-laieneb https://www.riigiteataja.ee/akt/131122024048?leiaKehtiv https://www.riigiteataja.ee/akt/109072026012 https://eur-lex.europa.eu/eli/reg/2016/679/oj https://eur-lex.europa.eu/eli/reg/2016/679/oj/est https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:52025XC05423
+# otsi: QQmarkligipaasetavus1 || id="para118"|name="para118"
+
+##### https://ttja.ee
+kood=200 lõpp-URL=https://ttja.ee tüüp=text/html; charset=utf-8 baite=177524 teksti=9153
+--- /QQmarkligipaasetavus1/ : 0 vastet ---
+--- /id="para118"|name="para118"/ : 0 vastet ---
+
+##### https://ttja.ee/ariklient/ohutus/tooted-teenused/tehisintellektisusteemid
+kood=200 lõpp-URL=https://ttja.ee/ariklient/ohutus/tooted-teenused/tehisintellektisusteemid tüüp=text/html; charset=utf-8 baite=212024 teksti=20422
+--- /QQmarkligipaasetavus1/ : 0 vastet ---
+--- /id="para118"|name="para118"/ : 0 vastet ---
+
+##### https://www.aki.ee
+kood=200 lõpp-URL=https://www.aki.ee tüüp=text/html; charset=UTF-8 baite=172568 teksti=9513
+--- /QQmarkligipaasetavus1/ : 0 vastet ---
+--- /id="para118"|name="para118"/ : 0 vastet ---
+
+##### https://www.emta.ee
+kood=200 lõpp-URL=https://www.emta.ee tüüp=text/html; charset=utf-8 baite=204109 teksti=9306
+--- /QQmarkligipaasetavus1/ : 0 vastet ---
+--- /id="para118"|name="para118"/ : 0 vastet ---
+
+##### https://www.fi.ee
+kood=200 lõpp-URL=https://www.fi.ee/et tüüp=text/html; charset=UTF-8 baite=106323 teksti=9256
+--- /QQmarkligipaasetavus1/ : 0 vastet ---
+--- /id="para118"|name="para118"/ : 0 vastet ---
+
+##### https://www.oiguskantsler.ee
+kood=200 lõpp-URL=https://www.oiguskantsler.ee tüüp=text/html; charset=UTF-8 baite=65799 teksti=9494
+--- /QQmarkligipaasetavus1/ : 0 vastet ---
+--- /id="para118"|name="para118"/ : 0 vastet ---
+
+##### https://www.politsei.ee
+kood=200 lõpp-URL=https://www.politsei.ee tüüp=text/html baite=65052 teksti=4036
+--- /QQmarkligipaasetavus1/ : 0 vastet ---
+--- /id="para118"|name="para118"/ : 0 vastet ---
+
+##### https://www.volinik.ee
+kood=429 lõpp-URL=https://www.volinik.ee tüüp=text/html; charset=UTF-8 baite=8479 teksti=811
+--- /QQmarkligipaasetavus1/ : 0 vastet ---
+--- /id="para118"|name="para118"/ : 0 vastet ---
+
+##### https://www.e-kaubanduseliit.ee/uudised/puudusega-toote-eest-vastutavate-ettevotjate-ring-laieneb
+kood=200 lõpp-URL=https://www.e-kaubanduseliit.ee/uudised/puudusega-toote-eest-vastutavate-ettevotjate-ring-laieneb tüüp=text/html; charset=utf-8 baite=63866 teksti=7234
+--- /QQmarkligipaasetavus1/ : 0 vastet ---
+--- /id="para118"|name="para118"/ : 0 vastet ---
+
+##### https://www.riigiteataja.ee/akt/131122024048?leiaKehtiv
+kood=429 lõpp-URL=https://www.riigiteataja.ee/akt/131122024048?leiaKehtiv tüüp=text/html; charset=UTF-8 baite=8494 teksti=826
+--- /QQmarkligipaasetavus1/ : 0 vastet ---
+--- /id="para118"|name="para118"/ : 0 vastet ---
+
+##### https://www.riigiteataja.ee/akt/109072026012
+kood=429 lõpp-URL=https://www.riigiteataja.ee/akt/109072026012 tüüp=text/html; charset=UTF-8 baite=8494 teksti=826
+--- /QQmarkligipaasetavus1/ : 0 vastet ---
+--- /id="para118"|name="para118"/ : 0 vastet ---
+
+##### https://eur-lex.europa.eu/eli/reg/2016/679/oj
+kood=202 lõpp-URL=https://eur-lex.europa.eu/eli/reg/2016/679/oj tüüp=text/html; charset=UTF-8 baite=0 teksti=3
+--- /QQmarkligipaasetavus1/ : 0 vastet ---
+--- /id="para118"|name="para118"/ : 0 vastet ---
+
+##### https://eur-lex.europa.eu/eli/reg/2016/679/oj/est
+kood=202 lõpp-URL=https://eur-lex.europa.eu/eli/reg/2016/679/oj/est tüüp=text/html; charset=UTF-8 baite=0 teksti=3
+--- /QQmarkligipaasetavus1/ : 0 vastet ---
+--- /id="para118"|name="para118"/ : 0 vastet ---
+
+##### https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:52025XC05423
+kood=202 lõpp-URL=https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:52025XC05423 tüüp=text/html; charset=UTF-8 baite=0 teksti=3
+--- /QQmarkligipaasetavus1/ : 0 vastet ---
+--- /id="para118"|name="para118"/ : 0 vastet ---
