@@ -40,7 +40,7 @@ RT_API = "https://www.riigiteataja.ee/public-api/api/v1/akt/"
 
 def rt_kehtiv(akt_id: str, keel: str) -> tuple[str, str]:
     """rt:<id> -> (kehtiva redaktsiooni txt-URL, päis). Kasutab API JSON-i välja kehtivId."""
-    _, _, _, keha = lae(RT_API + akt_id, keel)
+    _, _, _, keha = lae(RT_API + akt_id + "?leiaKehtiv=true", keel)
     meta = json.loads(keha)
     kehtiv = str(meta.get("kehtivId") or akt_id)
     p = meta.get("aktiParameetrid", {})
