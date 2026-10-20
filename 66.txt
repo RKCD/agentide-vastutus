@@ -1,0 +1,91 @@
+# jooks 66
+# urlid: https://www.riigiteataja.ee/akt/AvTS?leiaKehtiv https://www.riigiteataja.ee/akt/HKMS?leiaKehtiv https://www.riigiteataja.ee/api/oigusakt_otsing/1/otsi?pealkiri=Avaliku+teabe+seadus
+# otsi: QQmarkoigusavalik12
+
+##### https://www.riigiteataja.ee/akt/AvTS?leiaKehtiv
+kood=200 lõpp-URL=https://www.riigiteataja.ee/akt/AvTS?leiaKehtiv tüüp=text/html baite=62409 teksti=147
+--- algus ---
+
+Riigi Teataja
+Riigi Teataja
+           Ilma Javascript toeta lehitsejad ei ole toetatud.
+           You need Javascript enabled to use this site.
+
+--- /QQmarkoigusavalik12/ : 0 vastet ---
+
+##### https://www.riigiteataja.ee/akt/HKMS?leiaKehtiv
+kood=200 lõpp-URL=https://www.riigiteataja.ee/akt/HKMS?leiaKehtiv tüüp=text/html baite=62409 teksti=147
+--- algus ---
+
+Riigi Teataja
+Riigi Teataja
+           Ilma Javascript toeta lehitsejad ei ole toetatud.
+           You need Javascript enabled to use this site.
+
+--- /QQmarkoigusavalik12/ : 0 vastet ---
+
+##### https://www.riigiteataja.ee/api/oigusakt_otsing/1/otsi?pealkiri=Avaliku+teabe+seadus
+kood=200 lõpp-URL=https://www.riigiteataja.ee/api/oigusakt_otsing/1/otsi?pealkiri=Avaliku+teabe+seadus tüüp=application/json;charset=UTF-8 baite=11475 teksti=11475
+--- algus ---
+{
+  "staatus" : "OK",
+  "paring" : "/otsi",
+  "metaandmed" : {
+    "kokku" : 54,
+    "leht" : 1,
+    "limiit" : 25
+  },
+  "aktid" : [ {
+    "globaalID" : 26643,
+    "terviktekstID" : 162383,
+    "pealkiri" : "Avaliku teabe seadus",
+    "lyhend" : "AvTS",
+    "kehtivus" : {
+      "algus" : "2002-06-01",
+      "lopp" : "2002-07-31"
+    },
+    "staatus" : "avaldatud",
+    "tekst" : "algtekst-terviktekst",
+    "liik" : "seadus",
+    "valjaandja" : "Riigikogu",
+    "mitteJoustunud" : false,
+    "kehtivKehtetus" : false,
+    "muudetud" : 1706604385563,
+    "url" : "/akt/26643.xml"
+  }, {
+    "globaalID" : 556659,
+    "terviktekstID" : 162383,
+    "pealkiri" : "Avaliku teabe seadus",
+    "lyhend" : "AvTS",
+    "kehtivus" : {
+      "algus" : "2003-10-01",
+      "lopp" : "2004-12-09"
+    },
+    "staatus" : "avaldatud",
+    "tekst" : "terviktekst",
+    "liik" : "seadus",
+    "valjaandja" : "Riigikogu",
+    "mitteJoustunud" : false,
+    "kehtivKehtetus" : false,
+    "muudetud" : 1776508296164,
+    "url" : "/akt/556659.xml"
+  }, {
+    "globaalID" : 264970,
+    "terviktekstID" : 162383,
+    "pealkiri" : "Avaliku teabe seadus",
+    "lyhend" : "AvTS",
+    "kehtivus" : {
+      "algus" : "2003-07-01",
+      "lopp" : "2003-09-30"
+    },
+    "staatus" : "avaldatud",
+    "tekst" : "terviktekst",
+    "liik" : "seadus",
+    "valjaandja" : "Riigikogu",
+    "mitteJoustunud" : false,
+    "kehtivKehtetus" : false,
+    "muudetud" : 1776508295652,
+    "url" : "/akt/264970.xml"
+  }, {
+    "globaalID" : 1
+--- /QQmarkoigusavalik12/ : 0 vastet ---
