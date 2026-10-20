@@ -28,10 +28,6 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: allikas
-  cancel-in-progress: false
-
 jobs:
   loe:
     runs-on: ubuntu-latest
@@ -77,4 +73,8 @@ jobs:
           { echo "# jooks $NR"; echo "# urlid: $URLID"; echo "# otsi: $OTSI"; cat /tmp/valjund.txt; } > "$NR.txt"
           git add "$NR.txt"
           git commit -q -m "kontroll $NR"
-          git push -q origin kontrolli-logid
+          for i in 1 2 3 4 5; do
+            git push -q origin kontrolli-logid && exit 0
+            sleep $((i * 3)); git pull -q --rebase origin kontrolli-logid
+          done
+          exit 1
