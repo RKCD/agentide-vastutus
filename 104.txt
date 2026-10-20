@@ -1,0 +1,18 @@
+# jooks 104
+# urlid: rt:130062026052
+# otsi: QQmarkoigus5 || \n§ \d+(\^\d+)?\. [^\n]*
+
+RT: Isikuandmete kaitse seadus (IKS), kehtiv redaktsioon 130062026052, kehtivuse algus 2026-09-30T21:00:00Z, staatus KEHTIV, vaata: https://www.riigiteataja.ee/akt/130062026052
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/130062026052/txt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/130062026052/txt tüüp=application/octet-stream;charset=UTF-8 baite=72743 teksti=69305
+--- /QQmarkoigus5/ : 0 vastet ---
+--- /\n§ \d+(\^\d+)?\. [^\n]*/ : 78 vastet ---
+… ⏎ …
+
+… ⏎ …
+
+… ⏎ …
+
+… ⏎ …
+
