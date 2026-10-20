@@ -1,0 +1,18 @@
+# jooks 109
+# urlid: rt:103072026035
+# otsi: QQmarkoigus10 || \n§ \d+(\^\d+)?\. [^\n]*
+
+RT: Töölepingu seadus (TLS), kehtiv redaktsioon 103072026035, kehtivuse algus 2026-09-30T21:00:00Z, staatus KEHTIV, vaata: https://www.riigiteataja.ee/akt/103072026035
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/103072026035/txt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/103072026035/txt tüüp=application/octet-stream;charset=UTF-8 baite=143475 teksti=133693
+--- /QQmarkoigus10/ : 0 vastet ---
+--- /\n§ \d+(\^\d+)?\. [^\n]*/ : 163 vastet ---
+… ⏎ …
+
+… ⏎ …
+
+… ⏎ …
+
+… ⏎ …
+
