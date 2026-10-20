@@ -1,0 +1,86 @@
+# jooks 56
+# urlid: https://www.riigikogu.ee/download/379e03ab-f55d-4648-a41d-2b5e626443cd https://www.riigikogu.ee/download/d62714f0-2a83-43d5-82e8-336b3549921f https://www.riigikogu.ee/download/7694cf91-6244-4a68-be15-021b82d5ebd7 https://www.riigikogu.ee/download/a2e5d9a9-8fee-40aa-9527-564b8d81fa90 https://www.riigikogu.ee/download/c2cb7684-7485-4331-8b26-51a46a46435b https://www.riigikogu.ee/download/dd1c426e-e912-41d3-a8c9-7e599fbec9d2 https://www.riigikogu.ee/download/1b13621f-f0f3-4c4b-a822-fe7c2fd14700 https://www.riigikogu.ee/download/34834aa9-8453-4cba-84e5-e6a04cf5d954
+# otsi: QQmarkoigusavalik5 || Riigikohu?s|Riigikohtu|Riigikohtul
+
+##### https://www.riigikogu.ee/download/379e03ab-f55d-4648-a41d-2b5e626443cd
+kood=404 lõpp-URL=https://www.riigikogu.ee/download/379e03ab-f55d-4648-a41d-2b5e626443cd tüüp=application/json; charset=UTF-8 baite=128 teksti=128
+--- algus ---
+{"code":"rest_no_route","message":"Sellele URLile ja p\u00e4ringumeetodile vastavat marsruuti ei leitud.","data":{"status":404}}
+--- /QQmarkoigusavalik5/ : 0 vastet ---
+--- /Riigikohu?s|Riigikohtu|Riigikohtul/ : 0 vastet ---
+
+##### https://www.riigikogu.ee/download/d62714f0-2a83-43d5-82e8-336b3549921f
+kood=404 lõpp-URL=https://www.riigikogu.ee/download/d62714f0-2a83-43d5-82e8-336b3549921f tüüp=application/json; charset=UTF-8 baite=128 teksti=128
+--- algus ---
+{"code":"rest_no_route","message":"Sellele URLile ja p\u00e4ringumeetodile vastavat marsruuti ei leitud.","data":{"status":404}}
+--- /QQmarkoigusavalik5/ : 0 vastet ---
+--- /Riigikohu?s|Riigikohtu|Riigikohtul/ : 0 vastet ---
+
+##### https://www.riigikogu.ee/download/7694cf91-6244-4a68-be15-021b82d5ebd7
+kood=404 lõpp-URL=https://www.riigikogu.ee/download/7694cf91-6244-4a68-be15-021b82d5ebd7 tüüp=application/json; charset=UTF-8 baite=128 teksti=128
+--- algus ---
+{"code":"rest_no_route","message":"Sellele URLile ja p\u00e4ringumeetodile vastavat marsruuti ei leitud.","data":{"status":404}}
+--- /QQmarkoigusavalik5/ : 0 vastet ---
+--- /Riigikohu?s|Riigikohtu|Riigikohtul/ : 0 vastet ---
+
+##### https://www.riigikogu.ee/download/a2e5d9a9-8fee-40aa-9527-564b8d81fa90
+kood=404 lõpp-URL=https://www.riigikogu.ee/download/a2e5d9a9-8fee-40aa-9527-564b8d81fa90 tüüp=application/json; charset=UTF-8 baite=128 teksti=128
+--- algus ---
+{"code":"rest_no_route","message":"Sellele URLile ja p\u00e4ringumeetodile vastavat marsruuti ei leitud.","data":{"status":404}}
+--- /QQmarkoigusavalik5/ : 0 vastet ---
+--- /Riigikohu?s|Riigikohtu|Riigikohtul/ : 0 vastet ---
+
+##### https://www.riigikogu.ee/download/c2cb7684-7485-4331-8b26-51a46a46435b
+kood=404 lõpp-URL=https://www.riigikogu.ee/download/c2cb7684-7485-4331-8b26-51a46a46435b tüüp=application/json; charset=UTF-8 baite=128 teksti=128
+--- algus ---
+{"code":"rest_no_route","message":"Sellele URLile ja p\u00e4ringumeetodile vastavat marsruuti ei leitud.","data":{"status":404}}
+--- /QQmarkoigusavalik5/ : 0 vastet ---
+--- /Riigikohu?s|Riigikohtu|Riigikohtul/ : 0 vastet ---
+
+##### https://www.riigikogu.ee/download/dd1c426e-e912-41d3-a8c9-7e599fbec9d2
+kood=429 lõpp-URL=https://www.riigikogu.ee/download/dd1c426e-e912-41d3-a8c9-7e599fbec9d2 tüüp=text/html; charset=UTF-8 baite=8484 teksti=816
+--- algus ---
+
+Access denied | www.riigikogu.ee used Cloudflare to restrict access | www.riigikogu.ee | Cloudflare
+                Please enable cookies.
+Error
+1015
+Ray ID: a4d7b5074a3a65ce •
+2026-10-20 11:33:21 UTC
+                        You are being rate limited
+                            What happened?
+The owner of this website (www.riigikogu.ee) has banne
+--- /QQmarkoigusavalik5/ : 0 vastet ---
+--- /Riigikohu?s|Riigikohtu|Riigikohtul/ : 0 vastet ---
+
+##### https://www.riigikogu.ee/download/1b13621f-f0f3-4c4b-a822-fe7c2fd14700
+kood=429 lõpp-URL=https://www.riigikogu.ee/download/1b13621f-f0f3-4c4b-a822-fe7c2fd14700 tüüp=text/html; charset=UTF-8 baite=8484 teksti=816
+--- algus ---
+
+Access denied | www.riigikogu.ee used Cloudflare to restrict access | www.riigikogu.ee | Cloudflare
+                Please enable cookies.
+Error
+1015
+Ray ID: a4d7b50a6c2537d1 •
+2026-10-20 11:33:21 UTC
+                        You are being rate limited
+                            What happened?
+The owner of this website (www.riigikogu.ee) has banne
+--- /QQmarkoigusavalik5/ : 0 vastet ---
+--- /Riigikohu?s|Riigikohtu|Riigikohtul/ : 0 vastet ---
+
+##### https://www.riigikogu.ee/download/34834aa9-8453-4cba-84e5-e6a04cf5d954
+kood=429 lõpp-URL=https://www.riigikogu.ee/download/34834aa9-8453-4cba-84e5-e6a04cf5d954 tüüp=text/html; charset=UTF-8 baite=8484 teksti=816
+--- algus ---
+
+Access denied | www.riigikogu.ee used Cloudflare to restrict access | www.riigikogu.ee | Cloudflare
+                Please enable cookies.
+Error
+1015
+Ray ID: a4d7b5114ecb3828 •
+2026-10-20 11:33:22 UTC
+                        You are being rate limited
+                            What happened?
+The owner of this website (www.riigikogu.ee) has banne
+--- /QQmarkoigusavalik5/ : 0 vastet ---
+--- /Riigikohu?s|Riigikohtu|Riigikohtul/ : 0 vastet ---
