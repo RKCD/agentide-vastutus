@@ -15,8 +15,8 @@ meta:
   alapealkiri: >-
     Millised Eesti ja EL-i normid rakenduvad, kui AI-agent eksib, kes vastutab
     ja kuhu teatada. Ülevaade on koostatud olukordade, mitte seaduste kaupa.
-  versioon: "0.1"
-  viimati_uuendatud: 2026-10-19
+  versioon: "0.2"
+  viimati_uuendatud: 2026-10-20
   keel: et
   autor:
     nimi: Robert Kond
@@ -27,6 +27,61 @@ meta:
 
 # Täidab Tõlk-agent (Etapp 3). Tühi loend = kuvatakse v0.1 märge.
 nadala_muutused: []
+
+# Lehe algus, olukordade kohal.
+kahju_korral:
+  pealkiri: Kui agent tegi sulle kahju
+  sammud:
+    - pealkiri: Säilita tõendid
+      tekst: >-
+        Logid, kuvatõmmised, kinnitused ja kirjavahetus. Vaata iga olukorra
+        juures plokki "Mida säilitada kohe".
+    - pealkiri: Pöördu esmalt ettevõtte või asutuse poole
+      tekst: >-
+        Kirjelda juhtunut kirjalikult sellele, kelle teenuses kahju tekkis, ja
+        küsi vastust.
+    - pealkiri: Seejärel pöördu järelevalve poole
+      tekst: >-
+        Kui vastust ei tule või see ei rahulda, vaata olukorra juures plokki
+        "Kuhu teatada".
+  hoiatus: >-
+    Ükski asutus ei küsi sinult agendi volituse kinnitamist lingi, e-kirja või
+    SMS-i kaudu. Kasuta ainult lehel lingitud ametlikke aadresse.
+
+# Lehe lõpp, enne tausta. Õigusnormile viitaval punktil on allikas.
+juurutaja_kontroll:
+  - tekst: >-
+      Anna agendile ainult need õigused ja volitused, mida ülesanne vajab, ja
+      vaata need regulaarselt üle.
+  - tekst: >-
+      Säilita agendi tegevuslogid ja nimeta, kes neid loeb ja kui tihti.
+  - tekst: >-
+      Nimeta, kes otsustab intsidendist teatamise üle ja teatab (AKI 72 tunni
+      jooksul, RIA, Finantsinspektsioon).
+    allika_url: https://www.edpb.europa.eu/sme/assess-the-risks/data-breaches_et
+  - tekst: >-
+      Lepi tarnijaga kirjalikult kokku vastutus, intsidentidest teavitamine ja
+      ligipääs logidele.
+  - tekst: >-
+      Kui agent töötleb isikuandmeid, sõlmi tarnijaga GDPR art 28 kohane leping.
+    allika_url: https://eur-lex.europa.eu/eli/reg/2016/679/oj
+  - tekst: >-
+      Märgista, kui inimene suhtleb AI-ga (AI-määrus art 50).
+    allika_url: https://eur-lex.europa.eu/eli/reg/2024/1689/oj
+  - tekst: >-
+      Taga inimjärelevalve suure riskiga otsustes, nt töö ja avalikud teenused
+      (AI-määrus art 26, GDPR art 22).
+    allika_url: https://eur-lex.europa.eu/eli/reg/2024/1689/oj
+  - tekst: >-
+      Ära anna agendile kasutaja maksevahendit ega sisselogimisandmeid ilma
+      selge volituse ja piiranguteta (PSD2 art 69).
+    allika_url: https://eur-lex.europa.eu/eli/dir/2015/2366/oj
+  - tekst: >-
+      Pea nimekirja agendi välistest tööriistadest (MCP-serverid, pluginad) ja
+      nende versioonidest.
+  - tekst: >-
+      Harjuta intsidenti vähemalt kord aastas: kes mida teeb esimese 72 tunni
+      jooksul.
 
 # Üldised taustanormid, mis puudutavad kõiki stsenaariume.
 taust:
@@ -125,17 +180,24 @@ stsenaariumid:
           Paragrahvide numbrid on mälu järgi, kontrolli. URL on tuletatud
           Riigi Teataja lühendilingi mustrist (sama muster töötab KüTS-il).
       - akt: Makseteenuste direktiiv (EL) 2015/2366 (PSD2)
-        säte: art 64 (nõusolek), art 73 (volitamata makse)
+        säte: >-
+          art 64 (nõusolek), art 69 (makse kasutaja kohustused), art 73
+          (volitamata makse), art 74 (makse kasutaja vastutus)
         mida_ütleb: >-
           Makse on volitatud ainult siis, kui maksja on selleks nõusoleku
           andnud. Volitamata makse peab makseteenuse pakkuja üldjuhul
-          tagastama.
+          tagastama. Makse kasutaja peab hoidma maksevahendit ja
+          isikustatud turvaelemente turvaliselt ning teatama nende kaotusest
+          või väärkasutusest viivitamata (art 69). Kui kasutaja rikkus neid
+          kohustusi pettuse eesmärgil või raske hooletuse tõttu, kannab ta
+          volitamata maksest tekkinud kahju ise (art 74).
         allika_url: https://eur-lex.europa.eu/eli/dir/2015/2366/oj
         tase: EL
         staatus: kehtib
         kontrollida: >-
-          Artiklite numbrid. Eesti ülevõttev säte (VÕS makseteenuste osa).
-          Kas PSD3/makseteenuste määrus on vahepeal vastu võetud.
+          Artiklite numbrid ja art 69/74 sisu (lisatud v0.2 mälu järgi).
+          Eesti ülevõttev säte (VÕS makseteenuste osa). Kas PSD3 /
+          makseteenuste määrus on vahepeal vastu võetud.
       - akt: Digitaalse tegevuskerksuse määrus (EL) 2022/2554 (DORA)
         säte: art 19 (IKT-intsidendist teatamine)
         mida_ütleb: >-
@@ -156,6 +218,10 @@ stsenaariumid:
           lubati.
       - roll: Makseteenuse pakkuja
         selgitus: Vastutab volitamata makse eest PSD2 reeglite järgi.
+      - roll: Kasutaja, kes andis agendile oma maksevahendi või sisselogimisandmed
+        selgitus: >-
+          See võib olla raske hooletus (PSD2 art 69 ja 74) ja kahju võib jääda
+          kasutajale. Kontrollimata.
     kuhu_teatada:
       - asutus: Finantsinspektsioon
         millal: Kui tehing puudutab finantsteenust või makset.
@@ -163,6 +229,12 @@ stsenaariumid:
       - asutus: Tarbijakaitse ja Tehnilise Järelevalve Amet (TTJA)
         millal: Kui kahju sai tarbija.
         link: https://ttja.ee
+    mida_säilitada:
+      - "Agendi tegevuslogid: päringud, tellimused, vastused ja kellaajad."
+      - "Volituse ja maksevahendi ulatus ning kehtivus tehingu hetkel."
+      - "Kasutaja kinnitused: mida ja millal kinnitati."
+      - "Mudeli ja tööriistade (MCP-serverid, pluginad) versioonid."
+      - "Suhtlus tarnija, müüja ja makseteenuse pakkujaga."
     lahtised_küsimused:
       - >-
         Kas agendi tehtud tahteavaldust saab lugeda kasutaja enda
@@ -173,7 +245,7 @@ stsenaariumid:
         PSD2 mõttes "volitatud", kui konkreetne summa oli vale?
       - Kas teine pool peab teadma, et suhtleb agendiga, ja mis juhtub, kui ei tea?
     kontrollitud: false
-    viimati_uuendatud: 2026-10-19
+    viimati_uuendatud: 2026-10-20
 
   - id: isikuandmed
     pealkiri: Agent töötleb või lekitab isikuandmeid
@@ -233,6 +305,12 @@ stsenaariumid:
       - asutus: Andmekaitse Inspektsioon
         millal: Rikkumisest teadasaamisest 72 tunni jooksul.
         link: https://www.aki.ee
+    mida_säilitada:
+      - "Agendi tegevuslogid: milliseid andmeid töödeldi ja kellele saadeti."
+      - "Agendi ligipääsuõiguste ulatus intsidendi hetkel."
+      - "Rikkumise avastamise aeg (72 tunni tähtaja jaoks)."
+      - "Mudeli ja tööriistade (MCP-serverid, pluginad) versioonid."
+      - "Suhtlus tarnijaga (volitatud töötleja teavitus)."
     lahtised_küsimused:
       - >-
         Kui agent kasutab väliseid tööriistu (MCP-serverid, pluginad), kes on
@@ -242,7 +320,7 @@ stsenaariumid:
         Millal on organisatsioon rikkumisest "teada saanud", kui rikkumine on
         näha ainult agendi logides, mida keegi ei loe?
     kontrollitud: false
-    viimati_uuendatud: 2026-10-19
+    viimati_uuendatud: 2026-10-20
 
   - id: avalik-sektor
     pealkiri: Agent osaleb avaliku sektori otsuses
@@ -316,6 +394,12 @@ stsenaariumid:
       - asutus: Andmekaitse Inspektsioon
         millal: Kui rikuti GDPR art 22 õigusi.
         link: https://www.aki.ee
+    mida_säilitada:
+      - "Agendi tegevuslogid ja otsuse aluseks olnud sisend."
+      - "Ametniku kinnitused: kes ja millal otsuse kinnitas."
+      - "Süsteemi volituse ulatus: mida tohtis automaatselt otsustada."
+      - "Mudeli ja tööriistade (MCP-serverid, pluginad) versioonid."
+      - "Suhtlus süsteemi tarnijaga."
     lahtised_küsimused:
       - >-
         Kas otsus, mille koostab agent ja ametnik ainult kinnitab, on HMS § 7¹
@@ -325,7 +409,7 @@ stsenaariumid:
         automatiseerimiseks valdkonna seadusest sõltumata. Kuidas see
         lõppversioonis lahendati?
     kontrollitud: false
-    viimati_uuendatud: 2026-10-19
+    viimati_uuendatud: 2026-10-20
 
   - id: too
     pealkiri: Agent teeb tööalase otsuse inimese kohta
@@ -379,6 +463,11 @@ stsenaariumid:
       - asutus: Soolise võrdõiguslikkuse ja võrdse kohtlemise volinik
         millal: Kui otsus võib olla diskrimineeriv.
         link: https://www.volinik.ee
+    mida_säilitada:
+      - "Agendi tegevuslogid: sõelumise kriteeriumid ja tulemused."
+      - "Inimese kinnitused: kes otsuse üle vaatas ja kinnitas."
+      - "Mudeli ja tööriistade (MCP-serverid, pluginad) versioonid."
+      - "Suhtlus süsteemi tarnijaga."
     lahtised_küsimused:
       - >-
         Kes on Eestis AI-määruse järgi suure riskiga tööalaste süsteemide
@@ -387,7 +476,7 @@ stsenaariumid:
         Kas kandidaat saab tööandjalt kahju nõuda, kui AI-põhine sõelumine oli
         diskrimineeriv, kuid tööandja ei teadnud süsteemi loogikat?
     kontrollitud: false
-    viimati_uuendatud: 2026-10-19
+    viimati_uuendatud: 2026-10-20
 
   - id: turvaintsident
     pealkiri: Agent tekitab turvaintsidendi
@@ -447,6 +536,11 @@ stsenaariumid:
       - asutus: Andmekaitse Inspektsioon
         millal: Kui intsident puudutas isikuandmeid, 72 tunni jooksul.
         link: https://www.aki.ee
+    mida_säilitada:
+      - "Agendi tegevuslogid ja süsteemilogid intsidendi ajast."
+      - "Agendi volituste ja ligipääsude ulatus intsidendi hetkel."
+      - "Mudeli ja tööriistade (MCP-serverid, pluginad, paketid) versioonid."
+      - "Suhtlus tarnijaga ja tema turvateated."
     lahtised_küsimused:
       - >-
         Kas agendile antud liiga laiad õigused on organisatsiooni enda
@@ -455,7 +549,7 @@ stsenaariumid:
         Kas agendi kasutatav väline tööriist (MCP-server, plugin) on CRA mõttes
         eraldi toode ja kes on selle tootja, kui see on avatud lähtekoodiga?
     kontrollitud: false
-    viimati_uuendatud: 2026-10-19
+    viimati_uuendatud: 2026-10-20
 
   - id: vale-info
     pealkiri: Agent annab vale info, millele klient tugineb
@@ -511,6 +605,12 @@ stsenaariumid:
       - asutus: Finantsinspektsioon
         millal: Kui vale info puudutas finantsteenust.
         link: https://www.fi.ee
+    mida_säilitada:
+      - "Vestluse täielik logi koos kellaaegadega."
+      - "Agendi juhised ja tingimused, mis vestluse ajal kehtisid."
+      - "Kliendi kinnitused ja tema tehtud otsused."
+      - "Mudeli ja tööriistade (MCP-serverid, pluginad) versioonid."
+      - "Suhtlus agendi tarnijaga."
     lahtised_küsimused:
       - >-
         Eestis ei leidnud kohtulahendit, kus ettevõtja vastutus vestlusagendi
@@ -521,4 +621,96 @@ stsenaariumid:
         ole siduvad"? Tarbijalepingus tõenäoliselt mitte, kuid see vajab
         kontrolli.
     kontrollitud: false
-    viimati_uuendatud: 2026-10-19
+    viimati_uuendatud: 2026-10-20
+
+  - id: e-teenused
+    pealkiri: Agent tegutseb inimese volitusel riigi e-teenustes
+    lühikirjeldus: >-
+      Agent esitab inimese nimel maksudeklaratsiooni, tasub arve või esitab
+      taotluse riigi e-teenuses.
+    näide: >-
+      Agent esitab inimese nimel maksudeklaratsiooni, kuhu on sisestatud vale
+      sissetulek. Maksuamet nõuab juurdemakset ja intressi.
+    normid:
+      - akt: Tsiviilseadustiku üldosa seadus (TsÜS)
+        säte: § 115 jj (esindus ja volitus)
+        mida_ütleb: >-
+          Esindaja teeb tehingu esindatava nimel ja see seob esindatavat, kui
+          esindajal oli esindusõigus. Volituse ulatus määrab, mida esindaja
+          teha tohib. AI-agent ei ole isik.
+        allika_url: https://www.riigiteataja.ee/akt/131122024048
+        tase: EE
+        staatus: kehtib
+        kontrollida: >-
+          Link viitab 1.01.2025 redaktsioonile, kontrolli kehtivat. Kas
+          esinduse sätted kohalduvad avalik-õiguslikele toimingutele.
+      - akt: Maksukorralduse seadus (MKS)
+        säte: maksukohustuslase esindamine ja deklaratsiooni esitamine
+        mida_ütleb: >-
+          Reguleerib maksudeklaratsiooni esitamist ja maksukohustuslase
+          esindamist. Lähtekoht on, et maksukohustus jääb maksukohustuslasele
+          ka siis, kui deklaratsiooni esitas esindaja.
+        allika_url: https://www.riigiteataja.ee/akt/MKS
+        tase: EE
+        staatus: kehtib
+        kontrollida: >-
+          Väide ja säte on mälu järgi, paragrahvid puuduvad. URL on tuletatud
+          lühendilingi mustrist. Kontrolli MKS-ist esinduse ja deklaratsiooni
+          sätted.
+      - akt: eIDAS-määrus (EL) nr 910/2014, muudetud määrusega (EL) 2024/1183
+        säte: e-identimine, usaldusteenused, Euroopa digitaalse identiteedi rahakott
+        mida_ütleb: >-
+          Reguleerib e-identimist ja usaldusteenuseid. Muudatus (EL) 2024/1183
+          lisab Euroopa digitaalse identiteedi rahakoti, mille liikmesriigid
+          peavad kodanikele pakkuma.
+        allika_url: https://eur-lex.europa.eu/eli/reg/2014/910/oj
+        tase: EL
+        staatus: kehtib
+        kontrollida: >-
+          Kas rahakott toetab volituste andmist (nt agendile) ja millal
+          liikmesriigid peavad rahakoti pakkuma. Muutva määruse link:
+          https://eur-lex.europa.eu/eli/reg/2024/1183/oj
+      - akt: Isikuandmete kaitse üldmäärus (EL) 2016/679 (GDPR)
+        säte: art 22
+        mida_ütleb: >-
+          Inimesel on õigus, et tema kohta ei tehtaks ainult automatiseeritud
+          töötlusel põhinevat õiguslikku otsust, välja arvatud seaduses
+          lubatud juhtudel ja kaitsemeetmetega.
+        allika_url: https://eur-lex.europa.eu/eli/reg/2016/679/oj
+        tase: EL
+        staatus: kehtib
+    kes_vastutab:
+      - roll: Volituse andja
+        selgitus: >-
+          Agendi kaudu tema nimel tehtud toimingud, nt esitatud deklaratsioon,
+          on lähtekohana tema toimingud. Kontrollimata.
+      - roll: Agendi pakkuja
+        selgitus: >-
+          Vastutab volituse andja ees lepingu alusel, kui agent ei toiminud
+          kokkulepitult.
+      - roll: Teenust osutav asutus
+        selgitus: >-
+          Vastutab oma e-teenuse ja otsuste eest. Kas ta peab kontrollima
+          volituse ulatust iga toimingu juures, on lahtine.
+    kuhu_teatada:
+      - asutus: Teenust osutav asutus (nt Maksu- ja Tolliamet)
+        millal: Kohe, kui avastad vea, et seda parandada või toimingut tühistada.
+        link: https://www.emta.ee
+      - asutus: Riigi Infosüsteemi Amet (RIA)
+        millal: Kui volitust või e-identiteeti kuritarvitati.
+        link: https://www.ria.ee
+      - asutus: Politsei
+        millal: Identiteedivarguse korral.
+        link: https://www.politsei.ee
+    mida_säilitada:
+      - "Agendi tegevuslogid: millised toimingud ja millal tehti."
+      - "Volituse ulatus ja kehtivus intsidendi hetkel."
+      - "Kasutaja kinnitused enne esitamist."
+      - "Mudeli ja tööriistade (MCP-serverid, pluginad) versioonid."
+      - "Suhtlus asutuse ja agendi tarnijaga."
+    lahtised_küsimused:
+      - Kes vastutab, kui volitus (nt agendi ligipääsuvõti) varastatakse?
+      - Kuidas volitusest loobuda ja kes loobumise logib?
+      - Kas asutus peab kontrollima volituse ulatust iga toimingu juures?
+    kontrollitud: false
+    viimati_uuendatud: 2026-10-20

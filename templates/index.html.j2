@@ -86,6 +86,17 @@ ul.normid { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
 dl.rollid { margin: 0; } dl.rollid dt { font-weight: 600; } dl.rollid dd { margin: 0 0 8px; color: var(--nork); }
 .lahtine { background: var(--lahtine-bg); color: var(--lahtine); border-radius: 8px; padding: 10px 12px 10px 32px; margin: 0; }
 .lahtine li { margin: 4px 0; }
+ul.sailita { margin: 0; padding-left: 20px; }
+ul.sailita li { margin: 2px 0; }
+.kahju { background: var(--pind); border: 1px solid var(--joon); border-radius: var(--raadius); padding: 4px 16px 16px; margin: 24px 0 0; }
+.kahju h2 { margin: 12px 0 8px; }
+.kahju ol { margin: 0; padding-left: 22px; }
+.kahju li { margin: 6px 0; }
+.kahju li strong { display: block; }
+.kahju li span { color: var(--nork); }
+.hoiatus-rida { background: var(--hoiatus-bg); color: var(--hoiatus); border-radius: 8px; padding: 10px 12px; margin: 12px 0 0; font-weight: 600; }
+ol.kontroll { margin: 0; padding-left: 22px; }
+ol.kontroll li { margin: 6px 0; }
 .uuendatud { font-size: 0.8rem; color: var(--nork); margin-top: 16px; }
 .muutus { background: var(--pind); border: 1px dashed var(--joon); border-radius: var(--raadius); padding: 12px 16px; color: var(--nork); }
 .changelog { font-size: 0.95rem; }
@@ -118,6 +129,12 @@ try { var t = localStorage.getItem("teema"); if (t) document.documentElement.dat
 </header>
 
 <main>
+<section class="kahju" aria-labelledby="kahju-pealkiri">
+  <h2 id="kahju-pealkiri">{{ k.kahju_korral.pealkiri }}</h2>
+  <ol>{% for s in k.kahju_korral.sammud %}<li><strong>{{ s.pealkiri }}</strong> <span>{{ s.tekst }}</span></li>{% endfor %}</ol>
+  <p class="hoiatus-rida">{{ k.kahju_korral.hoiatus }}</p>
+</section>
+
 <h2>Olukorrad</h2>
 {% for s in k.stsenaariumid %}
 <details class="st" id="{{ s.id }}">
@@ -138,6 +155,8 @@ try { var t = localStorage.getItem("teema"); if (t) document.documentElement.dat
     <dl class="rollid">{% for r in s.kes_vastutab %}<dt>{{ r.roll }}</dt><dd>{{ r.selgitus }}</dd>{% endfor %}</dl>
     <h3>Kuhu teatada</h3>
     <dl class="rollid">{% for t in s.kuhu_teatada %}<dt><a href="{{ t.link }}" rel="noopener">{{ t.asutus }}</a></dt><dd>{{ t.millal }}</dd>{% endfor %}</dl>
+    <h3>Mida säilitada kohe</h3>
+    <ul class="sailita">{% for x in s["mida_säilitada"] %}<li>{{ x }}</li>{% endfor %}</ul>
     {% if s["lahtised_küsimused"] %}
     <h3>Lahtised küsimused</h3>
     <ul class="lahtine">{% for q in s["lahtised_küsimused"] %}<li>{{ q }}</li>{% endfor %}</ul>
@@ -147,6 +166,10 @@ try { var t = localStorage.getItem("teema"); if (t) document.documentElement.dat
 </details>
 {% endfor %}
 
+<h2 id="juurutaja">Juurutaja kontrollnimekiri</h2>
+<p class="ala">Kokkuvõte kõigist olukordadest organisatsioonile, kes agenti kasutab.</p>
+<ol class="kontroll">{% for x in k.juurutaja_kontroll %}<li>{{ x.tekst }}{% if x.get("allika_url") %} <a href="{{ x.allika_url }}" rel="noopener">Allikas</a>{% endif %}</li>{% endfor %}</ol>
+
 <h2>Taust: normid, mis puudutavad kõiki olukordi</h2>
 <ul class="normid">{% for n in k.taust %}{{ norm(n) }}{% endfor %}</ul>
 
@@ -154,16 +177,16 @@ try { var t = localStorage.getItem("teema"); if (t) document.documentElement.dat
 {% if k.nadala_muutused %}
 <ul>{% for c in k.nadala_muutused %}<li>{{ c.tekst }} <a href="{{ c.allika_url }}" rel="noopener">Allikas</a></li>{% endfor %}</ul>
 {% else %}
-<p class="muutus">See on esimene versioon (v{{ m.versioon }}). Alates järgmisest nädalast on siin lühike ülevaade uutest õigusaktidest, eelnõudest ja juhenditest.</p>
+<p class="muutus">Uuendused ilmuvad regulaarselt. Muudatused on kirjas <a href="#muudatuste-ajalugu">muudatuste ajaloos</a>.</p>
 {% endif %}
 
-<h2>Muudatuste ajalugu</h2>
+<h2 id="muudatuste-ajalugu">Muudatuste ajalugu</h2>
 <div class="changelog">{{ changelog_html | safe }}</div>
 </main>
 
 <footer>
   <p><strong>{{ m.autor.nimi }}</strong>. {{ m.autor.taust }}</p>
-  <p>Mis siit puudu on? Kirjuta: <a href="mailto:{{ m.autor.kontakt }}">{{ m.autor.kontakt }}</a></p>
+  <p>Leidsid vea või puuduva normi? Kirjuta – kui parandus jõuab kaardile, nimetan sind muudatuste ajaloos (kui soovid). <a href="mailto:{{ m.autor.kontakt }}">{{ m.autor.kontakt }}</a></p>
   <p>Leht ehitatud {{ ehitatud }}.</p>
 </footer>
 </div>

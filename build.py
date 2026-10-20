@@ -20,6 +20,9 @@ from jinja2 import Environment, FileSystemLoader, StrictUndefined
 ROOT = Path(__file__).parent
 STAATUSED = {"kehtib", "kohaldub_alates", "eelnõu", "tühistatud"}
 TASEMED = {"EL", "EE"}
+MAX_NORME = 4
+SÄILITA_MIN, SÄILITA_MAX = 3, 5
+KONTROLL_MIN, KONTROLL_MAX = 8, 10
 
 
 def lae(lang: str) -> dict:
@@ -61,11 +64,31 @@ def valideeri(kaart: dict) -> list[str]:
                 vead.append(f"{sid}: puudub väli '{v}'")
         if "kontrollitud" not in s:
             vead.append(f"{sid}: puudub väli 'kontrollitud' (vaikimisi false)")
+        if len(s.get("normid", [])) > MAX_NORME:
+            vead.append(f"{sid}: üle {MAX_NORME} normi")
         for i, n in enumerate(s.get("normid", [])):
             norm(n, f"{sid}.normid[{i}]")
+        säilita = s.get("mida_säilitada", [])
+        if not SÄILITA_MIN <= len(säilita) <= SÄILITA_MAX:
+            vead.append(f"{sid}: mida_säilitada peab olema {SÄILITA_MIN}–{SÄILITA_MAX} punkti")
+        # YAML teeb "Tekst: jätk" punktist sõnastiku; nõua stringe.
+        for väli in ("mida_säilitada", "lahtised_küsimused"):
+            for i, x in enumerate(s.get(väli, [])):
+                if not isinstance(x, str):
+                    vead.append(f"{sid}.{väli}[{i}]: pole tekst (pane jutumärkidesse)")
         for i, k in enumerate(s.get("kuhu_teatada", [])):
             if not str(k.get("link", "")).startswith("https://"):
                 vead.append(f"{sid}.kuhu_teatada[{i}]: puudub https-link")
+    kahju = kaart.get("kahju_korral") or {}
+    if not kahju.get("sammud") or not kahju.get("hoiatus"):
+        vead.append("kahju_korral: puuduvad sammud või hoiatus")
+    kontroll = kaart.get("juurutaja_kontroll", [])
+    if not KONTROLL_MIN <= len(kontroll) <= KONTROLL_MAX:
+        vead.append(f"juurutaja_kontroll: peab olema {KONTROLL_MIN}–{KONTROLL_MAX} punkti")
+    for i, x in enumerate(kontroll):
+        url = x.get("allika_url")
+        if url is not None and not str(url).startswith("https://"):
+            vead.append(f"juurutaja_kontroll[{i}]: allika_url peab algama https://")
     return vead
 
 
@@ -98,6 +121,10 @@ def kontrolli_nimekiri(kaart: dict) -> str:
         rida.append("- [ ] Teatamine (`kuhu_teatada`):")
         for k in s["kuhu_teatada"]:
             rida.append(f"  - {k['asutus']}: {k['millal']} ({k['link']})")
+    rida += ["", "## Juurutaja kontrollnimekiri", ""]
+    for x in kaart.get("juurutaja_kontroll", []):
+        if x.get("allika_url"):
+            rida.append(f"- [ ] {x['tekst'].strip()} ({x['allika_url']})")
     return "\n".join(rida) + "\n"
 
 

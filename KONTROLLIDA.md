@@ -1,6 +1,6 @@
 # Kontrollimist vajavad väited
 
-Genereeritud: 2026-10-19 (`python build.py --kontroll`).
+Genereeritud: 2026-10-20 (`python build.py --kontroll`).
 
 Kui väide on esmaallikast üle vaadatud, pane stsenaariumile `kontrollitud: YYYY-MM-DD` ja eemalda normilt `kontrollida` väli.
 
@@ -37,10 +37,10 @@ Kui väide on esmaallikast üle vaadatud, pane stsenaariumile `kontrollitud: YYY
   - Väide: Kui teenuse osutaja rikub lepingut (nt agent ei tee seda, mis kokku lepiti), vastutab ta kliendi ees lepingu alusel. Vastutusest vabaneb ta vaid siis, kui rikkumine on vabandatav.
   - Allikas: https://www.riigiteataja.ee/akt/V%C3%95S
   - **Kontrollida:** Paragrahvide numbrid on mälu järgi, kontrolli. URL on tuletatud Riigi Teataja lühendilingi mustrist (sama muster töötab KüTS-il).
-- [ ] **Makseteenuste direktiiv (EL) 2015/2366 (PSD2)**, art 64 (nõusolek), art 73 (volitamata makse) (kehtib)
-  - Väide: Makse on volitatud ainult siis, kui maksja on selleks nõusoleku andnud. Volitamata makse peab makseteenuse pakkuja üldjuhul tagastama.
+- [ ] **Makseteenuste direktiiv (EL) 2015/2366 (PSD2)**, art 64 (nõusolek), art 69 (makse kasutaja kohustused), art 73 (volitamata makse), art 74 (makse kasutaja vastutus) (kehtib)
+  - Väide: Makse on volitatud ainult siis, kui maksja on selleks nõusoleku andnud. Volitamata makse peab makseteenuse pakkuja üldjuhul tagastama. Makse kasutaja peab hoidma maksevahendit ja isikustatud turvaelemente turvaliselt ning teatama nende kaotusest või väärkasutusest viivitamata (art 69). Kui kasutaja rikkus neid kohustusi pettuse eesmärgil või raske hooletuse tõttu, kannab ta volitamata maksest tekkinud kahju ise (art 74).
   - Allikas: https://eur-lex.europa.eu/eli/dir/2015/2366/oj
-  - **Kontrollida:** Artiklite numbrid. Eesti ülevõttev säte (VÕS makseteenuste osa). Kas PSD3/makseteenuste määrus on vahepeal vastu võetud.
+  - **Kontrollida:** Artiklite numbrid ja art 69/74 sisu (lisatud v0.2 mälu järgi). Eesti ülevõttev säte (VÕS makseteenuste osa). Kas PSD3 / makseteenuste määrus on vahepeal vastu võetud.
 - [ ] **Digitaalse tegevuskerksuse määrus (EL) 2022/2554 (DORA)**, art 19 (IKT-intsidendist teatamine) (kehtib)
   - Väide: Kui tehingut teeb finantsasutuse süsteem, kehtivad finantsasutusele IKT-riski ja intsidentidest teatamise nõuded.
   - Allikas: https://eur-lex.europa.eu/eli/reg/2022/2554/oj
@@ -49,6 +49,7 @@ Kui väide on esmaallikast üle vaadatud, pane stsenaariumile `kontrollitud: YYY
   - Agendi kasutaja (kelle nimel tehing tehti): Kolmanda isiku ees on lähtekoht, et agendi kaudu tehtud tehing seob kasutajat, sest agent on tema tööriist. Piirid on lahtised.
   - Agendi teenuse osutaja: Vastutab kasutaja ees lepingu alusel, kui agent ei toiminud nii, nagu lubati.
   - Makseteenuse pakkuja: Vastutab volitamata makse eest PSD2 reeglite järgi.
+  - Kasutaja, kes andis agendile oma maksevahendi või sisselogimisandmed: See võib olla raske hooletus (PSD2 art 69 ja 74) ja kahju võib jääda kasutajale. Kontrollimata.
 - [ ] Teatamine (`kuhu_teatada`):
   - Finantsinspektsioon: Kui tehing puudutab finantsteenust või makset. (https://www.fi.ee)
   - Tarbijakaitse ja Tehnilise Järelevalve Amet (TTJA): Kui kahju sai tarbija. (https://ttja.ee)
@@ -161,3 +162,37 @@ Kui väide on esmaallikast üle vaadatud, pane stsenaariumile `kontrollitud: YYY
 - [ ] Teatamine (`kuhu_teatada`):
   - Tarbijakaitse ja Tehnilise Järelevalve Amet (TTJA): Kui kahju sai tarbija või puudub AI-märgistus. (https://ttja.ee/ariklient/ohutus/tooted-teenused/tehisintellektisusteemid)
   - Finantsinspektsioon: Kui vale info puudutas finantsteenust. (https://www.fi.ee)
+
+## Agent tegutseb inimese volitusel riigi e-teenustes (`e-teenused`)
+
+- [ ] **Tsiviilseadustiku üldosa seadus (TsÜS)**, § 115 jj (esindus ja volitus) (kehtib)
+  - Väide: Esindaja teeb tehingu esindatava nimel ja see seob esindatavat, kui esindajal oli esindusõigus. Volituse ulatus määrab, mida esindaja teha tohib. AI-agent ei ole isik.
+  - Allikas: https://www.riigiteataja.ee/akt/131122024048
+  - **Kontrollida:** Link viitab 1.01.2025 redaktsioonile, kontrolli kehtivat. Kas esinduse sätted kohalduvad avalik-õiguslikele toimingutele.
+- [ ] **Maksukorralduse seadus (MKS)**, maksukohustuslase esindamine ja deklaratsiooni esitamine (kehtib)
+  - Väide: Reguleerib maksudeklaratsiooni esitamist ja maksukohustuslase esindamist. Lähtekoht on, et maksukohustus jääb maksukohustuslasele ka siis, kui deklaratsiooni esitas esindaja.
+  - Allikas: https://www.riigiteataja.ee/akt/MKS
+  - **Kontrollida:** Väide ja säte on mälu järgi, paragrahvid puuduvad. URL on tuletatud lühendilingi mustrist. Kontrolli MKS-ist esinduse ja deklaratsiooni sätted.
+- [ ] **eIDAS-määrus (EL) nr 910/2014, muudetud määrusega (EL) 2024/1183**, e-identimine, usaldusteenused, Euroopa digitaalse identiteedi rahakott (kehtib)
+  - Väide: Reguleerib e-identimist ja usaldusteenuseid. Muudatus (EL) 2024/1183 lisab Euroopa digitaalse identiteedi rahakoti, mille liikmesriigid peavad kodanikele pakkuma.
+  - Allikas: https://eur-lex.europa.eu/eli/reg/2014/910/oj
+  - **Kontrollida:** Kas rahakott toetab volituste andmist (nt agendile) ja millal liikmesriigid peavad rahakoti pakkuma. Muutva määruse link: https://eur-lex.europa.eu/eli/reg/2024/1183/oj
+- [ ] **Isikuandmete kaitse üldmäärus (EL) 2016/679 (GDPR)**, art 22 (kehtib)
+  - Väide: Inimesel on õigus, et tema kohta ei tehtaks ainult automatiseeritud töötlusel põhinevat õiguslikku otsust, välja arvatud seaduses lubatud juhtudel ja kaitsemeetmetega.
+  - Allikas: https://eur-lex.europa.eu/eli/reg/2016/679/oj
+- [ ] Vastutuse jaotus (`kes_vastutab`):
+  - Volituse andja: Agendi kaudu tema nimel tehtud toimingud, nt esitatud deklaratsioon, on lähtekohana tema toimingud. Kontrollimata.
+  - Agendi pakkuja: Vastutab volituse andja ees lepingu alusel, kui agent ei toiminud kokkulepitult.
+  - Teenust osutav asutus: Vastutab oma e-teenuse ja otsuste eest. Kas ta peab kontrollima volituse ulatust iga toimingu juures, on lahtine.
+- [ ] Teatamine (`kuhu_teatada`):
+  - Teenust osutav asutus (nt Maksu- ja Tolliamet): Kohe, kui avastad vea, et seda parandada või toimingut tühistada. (https://www.emta.ee)
+  - Riigi Infosüsteemi Amet (RIA): Kui volitust või e-identiteeti kuritarvitati. (https://www.ria.ee)
+  - Politsei: Identiteedivarguse korral. (https://www.politsei.ee)
+
+## Juurutaja kontrollnimekiri
+
+- [ ] Nimeta, kes otsustab intsidendist teatamise üle ja teatab (AKI 72 tunni jooksul, RIA, Finantsinspektsioon). (https://www.edpb.europa.eu/sme/assess-the-risks/data-breaches_et)
+- [ ] Kui agent töötleb isikuandmeid, sõlmi tarnijaga GDPR art 28 kohane leping. (https://eur-lex.europa.eu/eli/reg/2016/679/oj)
+- [ ] Märgista, kui inimene suhtleb AI-ga (AI-määrus art 50). (https://eur-lex.europa.eu/eli/reg/2024/1689/oj)
+- [ ] Taga inimjärelevalve suure riskiga otsustes, nt töö ja avalikud teenused (AI-määrus art 26, GDPR art 22). (https://eur-lex.europa.eu/eli/reg/2024/1689/oj)
+- [ ] Ära anna agendile kasutaja maksevahendit ega sisselogimisandmeid ilma selge volituse ja piiranguteta (PSD2 art 69). (https://eur-lex.europa.eu/eli/dir/2015/2366/oj)
