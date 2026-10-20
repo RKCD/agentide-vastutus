@@ -1,0 +1,67 @@
+# jooks 72
+# urlid: https://www.riigiteataja.ee/api/oigusakt_otsing/1/otsi?pealkiri=tehisintellekt https://www.riigiteataja.ee/api/oigusakt_otsing/1/otsi?pealkiri=tehisaru
+# otsi: QQmarkoigusavalik16
+
+##### https://www.riigiteataja.ee/api/oigusakt_otsing/1/otsi?pealkiri=tehisintellekt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/api/oigusakt_otsing/1/otsi?pealkiri=tehisintellekt tüüp=application/json;charset=UTF-8 baite=136 teksti=136
+--- algus ---
+{
+  "staatus" : "OK",
+  "paring" : "/otsi",
+  "metaandmed" : {
+    "kokku" : 0,
+    "leht" : 1,
+    "limiit" : 25
+  },
+  "aktid" : [ ]
+}
+--- /QQmarkoigusavalik16/ : 0 vastet ---
+
+##### https://www.riigiteataja.ee/api/oigusakt_otsing/1/otsi?pealkiri=tehisaru
+kood=200 lõpp-URL=https://www.riigiteataja.ee/api/oigusakt_otsing/1/otsi?pealkiri=tehisaru tüüp=application/json;charset=UTF-8 baite=1188 teksti=1177
+--- algus ---
+{
+  "staatus" : "OK",
+  "paring" : "/otsi",
+  "metaandmed" : {
+    "kokku" : 2,
+    "leht" : 1,
+    "limiit" : 25
+  },
+  "aktid" : [ {
+    "globaalID" : 123042026001,
+    "terviktekstID" : 1063344,
+    "pealkiri" : "„Kaitsetehnoloogia ja tehisaru suutlikkuse arendamine“ (Kaisa) toetuse andmise tingimused ja kord",
+    "lyhend" : null,
+    "kehtivus" : {
+      "algus" : "2026-04-26",
+      "lopp" : null
+    },
+    "staatus" : "avaldatud",
+    "tekst" : "algtekst-terviktekst",
+    "liik" : "määrus",
+    "valjaandja" : "Haridus- ja teadusminister",
+    "mitteJoustunud" : false,
+    "kehtivKehtetus" : false,
+    "muudetud" : 1777879866521,
+    "url" : "/akt/123042026001.xml"
+  }, {
+    "globaalID" : 126062026024,
+    "terviktekstID" : 1063874,
+    "pealkiri" : "Tehisaru kasutuselevõtmise toetus",
+    "lyhend" : null,
+    "kehtivus" : {
+      "algus" : "2026-06-29",
+      "lopp" : null
+    },
+    "staatus" : "avaldatud",
+    "tekst" : "algtekst-terviktekst",
+    "liik" : "määrus",
+    "valjaandja" : "Majandus- ja tööstusminister",
+    "mitteJoustunud" : false,
+    "kehtivKehtetus" : false,
+    "muudetud" : 1782394912051,
+    "url" : "/akt/126062026024.xml"
+  } ]
+}
+--- /QQmarkoigusavalik16/ : 0 vastet ---
