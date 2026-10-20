@@ -89,6 +89,11 @@ ul.normid { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
 dl.rollid { margin: 0; } dl.rollid dt { font-weight: 600; } dl.rollid dd { margin: 0 0 8px; color: var(--nork); }
 .lahtine { background: var(--lahtine-bg); color: var(--lahtine); border-radius: 8px; padding: 10px 12px 10px 32px; margin: 0; }
 .lahtine li { margin: 4px 0; }
+.juhtum { margin: 12px 0 0; font-size: 0.95rem; }
+.teha { background: var(--bg); border: 1px solid var(--joon); border-left: 3px solid var(--ee); border-radius: 8px; padding: 2px 14px 10px; margin: 16px 0 0; }
+.teha h3 { color: var(--ee); margin-top: 12px; }
+.teha ul { margin: 0; padding-left: 20px; }
+.teha li { margin: 4px 0; }
 ul.sailita { margin: 0; padding-left: 20px; }
 ul.sailita li { margin: 2px 0; }
 .kahju { background: var(--pind); border: 1px solid var(--joon); border-radius: var(--raadius); padding: 4px 16px 16px; margin: 24px 0 0; }
@@ -152,6 +157,13 @@ try { var t = localStorage.getItem("teema"); if (t) document.documentElement.dat
   </summary>
   <div class="sisu">
     <p class="naide">Näide: {{ s["näide"] }}</p>
+    {% if s.get("juhtum") %}<p class="juhtum"><strong>Päris juhtum:</strong> {{ s.juhtum.tekst }} <a href="{{ s.juhtum.allika_url }}" rel="noopener">Otsus</a></p>{% endif %}
+    {% if s.get("mida_teha") %}
+    <div class="teha">
+      <h3>Mida teha praegu</h3>
+      <ul>{% for x in s.mida_teha %}<li>{{ x }}</li>{% endfor %}</ul>
+    </div>
+    {% endif %}
     <h3>Normid</h3>
     <ul class="normid">{% for n in s.normid %}{{ norm(n) }}{% endfor %}</ul>
     <h3>Kes vastutab</h3>

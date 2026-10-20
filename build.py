@@ -72,11 +72,17 @@ def valideeri(kaart: dict) -> list[str]:
             vead.append(f"{sid}: üle {MAX_NORME} normi")
         for i, n in enumerate(s.get("normid", [])):
             norm(n, f"{sid}.normid[{i}]")
+        juhtum = s.get("juhtum")
+        if juhtum and not str(juhtum.get("allika_url", "")).startswith("https://"):
+            vead.append(f"{sid}.juhtum: puudub https-allikas")
+        teha = s.get("mida_teha", [])
+        if teha and not 3 <= len(teha) <= 4:
+            vead.append(f"{sid}: mida_teha peab olema 3–4 punkti")
         säilita = s.get("mida_säilitada", [])
         if not SÄILITA_MIN <= len(säilita) <= SÄILITA_MAX:
             vead.append(f"{sid}: mida_säilitada peab olema {SÄILITA_MIN}–{SÄILITA_MAX} punkti")
         # YAML teeb "Tekst: jätk" punktist sõnastiku; nõua stringe.
-        for väli in ("mida_säilitada", "lahtised_küsimused"):
+        for väli in ("mida_säilitada", "lahtised_küsimused", "mida_teha"):
             for i, x in enumerate(s.get(väli, [])):
                 if not isinstance(x, str):
                     vead.append(f"{sid}.{väli}[{i}]: pole tekst (pane jutumärkidesse)")
