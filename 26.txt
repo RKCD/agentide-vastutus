@@ -1,0 +1,11 @@
+# jooks 26
+# urlid: https://publications.europa.eu/resource/celex/32024R1689
+# otsi: Artikkel 50\s || Artikkel 86\s || Artikkel 113\s || Artikkel 26\s || Artikkel 27\s
+
+##### https://publications.europa.eu/resource/celex/32024R1689
+kood=200 lõpp-URL=http://publications.europa.eu/resource/cellar/dc8116a1-3fe6-11ef-865a-01aa75ed71a1.0007.03/DOC_1 tüüp=application/xhtml+xml;charset=UTF-8 baite=1264187 teksti=567497
+--- /Artikkel 50\s/ : 0 vastet ---
+--- /Artikkel 86\s/ : 0 vastet ---
+--- /Artikkel 113\s/ : 0 vastet ---
+--- /Artikkel 26\s/ : 0 vastet ---
+--- /Artikkel 27\s/ : 0 vastet ---
