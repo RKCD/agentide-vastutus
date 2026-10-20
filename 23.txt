@@ -1,0 +1,71 @@
+# jooks 23
+# urlid: rt:104072024018 rt:130062020030 rt:104012019011 rt:106082022018 rt:102072012012 rt:114122022005
+# otsi: § 103\. Rikkumise || § 115\. Kahju hüvitamine || § 1063\. Toode || § \d+\. Maksukohustuslase esinda[^\n]{0,40} || § \d+\. Maksudeklaratsioon[^\n]{0,40}
+
+RT: Võlaõigusseadus (VÕS), kehtiv redaktsioon 120062026018, kehtivuse algus 2026-08-31T21:00:00Z, staatus KEHTIV, vaata: https://www.riigiteataja.ee/akt/120062026018
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/120062026018/txt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/120062026018/txt tüüp=application/octet-stream;charset=UTF-8 baite=1110125 teksti=1060574
+--- /§ 103\. Rikkumise/ : 1 vastet ---
+…takistavast asjaolust ja selle mõjust kohustuse täitmisele viivitamata pärast seda, kui ta sai takistavast asjaolust teada. ⏎ § 103. Rikkumise vabandatavus ⏎ (1) Võlgnik vastutab kohustuse rikkumise eest, välja arvatud, kui rikkumine on vabandatav. Eeldatakse, et kohustuse rikkumine ei ole vabandatav. ⏎ (2) Kohustuse rikkumine on vabandatav, kui võlgnik rikkus kohustust vääramatu jõu tõttu. Vääramatu jõud on asjaolu, mida võlgnik ei saanud mõjutada ja mõistlikkuse põhimõttest lähtudes ei saanud temalt oodata, et ta lepingu sõlmimise või lepinguvälise kohustuse tekkimise ajal selle asjaoluga arvestaks või seda väldiks või…
+
+--- /§ 115\. Kahju hüvitamine/ : 1 vastet ---
+…skaitsevahendeid, sealhulgas nõuda kohustuse täitmise asemel kahju hüvitamist või taganeda lepingust või öelda leping üles. ⏎ § 115. Kahju hüvitamine ⏎ (1) Kui võlgnik rikub kohustust, võib võlausaldaja koos kohustuse täitmisega või selle asemel nõuda võlgnikult kohustuse rikkumisega tekitatud kahju hüvitamist, välja arvatud juhul, kui võlgnik kohustuse rikkumise eest ei vastuta või kui kahju ei kuulu seadusest tulenevalt muul põhjusel hüvitamisele. ⏎ (2) Kohustuse täitmise asemel võib kahju hüvitamist nõuda pärast käesoleva seaduse §-s 114 sätestatud täiendava tähtaja möödumist. Kui kohustus seisneb teatud eseme tagasta…
+
+--- /§ 1063\. Toode/ : 1 vastet ---
+… Euroopa Liidu liikmesriiki toodud toodetele, mille puhul ei saa sissetoojat kindlaks teha, isegi kui tootja nimi on teada. ⏎ § 1063. Toode ⏎ (1) Tooteks loetakse iga vallasasja, isegi kui see on osaks teisest vallasasjast või on saanud kinnisasja osaks, samuti elektrit ja arvutitarkvara. ⏎ (2) Toode on puudusega, kui see ei ole ohutu määral, mida isik on õigustatud ootama, arvestades kõiki asjaolusid, eelkõige: ⏎ 1) toote avalikkusele esitlemise viisi ja tingimusi; ⏎ 2) toote kasutusviisi, mida kannatanu võis mõistlikult eeldada; ⏎ 3) sellise toote turule laskmise aega. ⏎ (3) Toodet ei loeta puudusega olevaks üksnes sel põh…
+
+--- /§ \d+\. Maksukohustuslase esinda[^\n]{0,40}/ : 0 vastet ---
+--- /§ \d+\. Maksudeklaratsioon[^\n]{0,40}/ : 0 vastet ---
+
+RT: Maksukorralduse seadus (MKS), kehtiv redaktsioon 116102026009, kehtivuse algus 2026-10-16T21:00:00Z, staatus KEHTIV, vaata: https://www.riigiteataja.ee/akt/116102026009
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/116102026009/txt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/116102026009/txt tüüp=application/octet-stream;charset=UTF-8 baite=338122 teksti=325003
+--- /§ 103\. Rikkumise/ : 0 vastet ---
+--- /§ 115\. Kahju hüvitamine/ : 0 vastet ---
+--- /§ 1063\. Toode/ : 0 vastet ---
+--- /§ \d+\. Maksukohustuslase esinda[^\n]{0,40}/ : 0 vastet ---
+--- /§ \d+\. Maksudeklaratsioon[^\n]{0,40}/ : 1 vastet ---
+…ngu või toimingu tingimusi, mis vastavad tehingu või toimingu tegelikule majanduslikule sisule. ⏎ 2. jagu Maksudeklaratsioon ⏎ § 85. Maksudeklaratsioon ⏎ (1) Maksudeklaratsioon (edaspidi deklaratsioon) on tulu-, käibe-, aktsiisi-, tolli-, sotsiaalmaksu- ja hasartmängumaksudeklaratsioon, maksuaruanne või muu maksuhaldurile esitatav maksu arvutamise dokument, mille esitamise kohustus tuleneb seadusest. ⏎ (2) Deklaratsioonile lisatakse dokumendid, mille esitamine on ette nähtud seaduse või määrusega. ⏎ (3) Maksuhalduril on õigus teha deklaratsiooni esitamise kohta meeldetuletusi, samuti anda korraldusi deklaratsiooni esitamis…
+
+
+RT: Isikuandmete kaitse seadus (IKS), kehtiv redaktsioon 130062026052, kehtivuse algus 2026-09-30T21:00:00Z, staatus KEHTIV, vaata: https://www.riigiteataja.ee/akt/130062026052
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/130062026052/txt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/130062026052/txt tüüp=application/octet-stream;charset=UTF-8 baite=72743 teksti=69305
+--- /§ 103\. Rikkumise/ : 0 vastet ---
+--- /§ 115\. Kahju hüvitamine/ : 0 vastet ---
+--- /§ 1063\. Toode/ : 0 vastet ---
+--- /§ \d+\. Maksukohustuslase esinda[^\n]{0,40}/ : 0 vastet ---
+--- /§ \d+\. Maksudeklaratsioon[^\n]{0,40}/ : 0 vastet ---
+
+RT: Küberturvalisuse seadus (KüTS), kehtiv redaktsioon 106102026002, kehtivuse algus 2026-10-15T21:00:00Z, staatus KEHTIV, vaata: https://www.riigiteataja.ee/akt/106102026002
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/106102026002/txt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/106102026002/txt tüüp=application/octet-stream;charset=UTF-8 baite=92944 teksti=88805
+--- /§ 103\. Rikkumise/ : 0 vastet ---
+--- /§ 115\. Kahju hüvitamine/ : 0 vastet ---
+--- /§ 1063\. Toode/ : 0 vastet ---
+--- /§ \d+\. Maksukohustuslase esinda[^\n]{0,40}/ : 0 vastet ---
+--- /§ \d+\. Maksudeklaratsioon[^\n]{0,40}/ : 0 vastet ---
+
+RT: Võrdse kohtlemise seadus (VõrdKS), kehtiv redaktsioon 117032026014, kehtivuse algus 2026-03-31T21:00:00Z, staatus KEHTIV, vaata: https://www.riigiteataja.ee/akt/117032026014
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/117032026014/txt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/117032026014/txt tüüp=application/octet-stream;charset=UTF-8 baite=24316 teksti=23079
+--- /§ 103\. Rikkumise/ : 0 vastet ---
+--- /§ 115\. Kahju hüvitamine/ : 0 vastet ---
+--- /§ 1063\. Toode/ : 0 vastet ---
+--- /§ \d+\. Maksukohustuslase esinda[^\n]{0,40}/ : 0 vastet ---
+--- /§ \d+\. Maksudeklaratsioon[^\n]{0,40}/ : 0 vastet ---
+
+RT: Töölepingu seadus (TLS), kehtiv redaktsioon 103072026035, kehtivuse algus 2026-09-30T21:00:00Z, staatus KEHTIV, vaata: https://www.riigiteataja.ee/akt/103072026035
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/103072026035/txt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/103072026035/txt tüüp=application/octet-stream;charset=UTF-8 baite=143475 teksti=133693
+--- /§ 103\. Rikkumise/ : 0 vastet ---
+--- /§ 115\. Kahju hüvitamine/ : 0 vastet ---
+--- /§ 1063\. Toode/ : 0 vastet ---
+--- /§ \d+\. Maksukohustuslase esinda[^\n]{0,40}/ : 0 vastet ---
+--- /§ \d+\. Maksudeklaratsioon[^\n]{0,40}/ : 0 vastet ---
