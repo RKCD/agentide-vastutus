@@ -1,0 +1,89 @@
+# jooks 30
+# urlid: rt:116102026009 rt:106102026002 rt:117032026014 rt:103072026035 rt:TKS rt:RVastS
+# otsi: § \d+\. [^\n]{0,40}esinda[^\n]{0,40} || § \d+\. [^\n]{0,40}[Ii]ntsiden[^\n]{0,60} || § \d+\. [^\n]{0,30}(Tõendamis|Tööelu|Tööle võtmi)[^\n]{0,60} || automaat|algoritm|tehisintellekt || § \d+\. [^\n]{0,20}(kauplemisvõt|Ebaausa|Eksitav)[^\n]{0,60} || § 7\. 
+
+RT: Maksukorralduse seadus (MKS), kehtiv redaktsioon 116102026009, kehtivuse algus 2026-10-16T21:00:00Z, staatus KEHTIV, vaata: https://www.riigiteataja.ee/akt/116102026009
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/116102026009/txt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/116102026009/txt tüüp=application/octet-stream;charset=UTF-8 baite=338122 teksti=325003
+--- /§ \d+\. [^\n]{0,40}esinda[^\n]{0,40}/ : 3 vastet ---
+…use põhimääruses, ühingulepingus või muus maksukohustuslase tegevust reguleerivas õigusaktis antud pädevusele. ⏎ § 8. Seadusliku esindaja ja vara valitseja kohustused ⏎ (1) Juriidilise või füüsilise isiku seaduslik esindaja on kohustatud korraldama esindatava käesolevast seadusest, maksuseadusest ja käesoleva seaduse § 3 lõikes 4 nimetatud seadustest tulenevate rahaliste ja mitterahaliste kohustuste tähtaegse ning täieliku täitmise. Rahalised kohustused täidetakse esindatava vara arvel. ⏎ [RT I, 23.03.2017, 1 - jõust. 01.04.2017]  ⏎ (2) Seltsingu või muu jurii…
+
+…vastutusega ühistu liige vastutab ühistu maksuvõla tasumise eest vastavalt tulundusühistuseaduses sätestatule. ⏎ § 40. Seadusliku esindaja, vara valitseja, tegeliku juhi ja maksuesindaja vastutus ⏎ [RT I, 07.12.2018, 1 - jõust. 01.01.2019]  ⏎ (1) Kui seaduslik esindaja, tegevjuht või vara valitseja rikub tahtlikult või raskest hooletusest käesoleva seaduse §-s 8 nimetatud kohustusi, vastutab ta selle tõttu tekkinud maksuvõla eest solidaarselt maksukohustuslasega. ⏎ (1^1) Kui käesoleva seaduse §-s 8 nimetatud kohustuste täitmise üle on tegelik võim füüsilisel i…
+
+… et kulude tähtpäevaks tasumata jätmise korral nõue sundtäidetakse vastavalt käesoleva seaduse §-dele 128–132. ⏎ § 48. Esindaja ⏎ (1) Menetlusosalisel on õigus kasutada maksumenetluses esindajat. Esinduse puhul juhindutakse maksumenetluses tsiviilseadustiku üldosa seaduse vastavatest sätetest, kui käesolevast seadusest või maksuseadusest ei tulene teisiti. ⏎ (1^1) Maksukohustuslane ei või kasutada maksumenetluses esindajana isikut, kes on enne teenistusest vabastamist samas või sellega seonduvas maksumenetluses esindanud maksuhaldurit. ⏎ [RT I, 23.03.2017, 1 -…
+
+--- /§ \d+\. [^\n]{0,40}[Ii]ntsiden[^\n]{0,60}/ : 0 vastet ---
+--- /§ \d+\. [^\n]{0,30}(Tõendamis|Tööelu|Tööle võtmi)[^\n]{0,60}/ : 1 vastet ---
+…ema põhjendatud ja sisaldama selgitust edasikaebamise korra kohta. ⏎ [RT I, 25.10.2012, 1 - jõust. 01.12.2012]  ⏎ § 150. Tõendamiskoormus ⏎ (1) Maksuteates või maksuotsuses määratud maksusumma vaidlustamise korral lasub maksukohustuslasel kohustus tõendada, et maksusumma määrati valesti. ⏎ (2) Määratud maksusumma vaidlustamise korral maksukohustuslase poolt on maksuhalduril tõendamiskoormus nende tõendite osas, mida valdab ainult maksuhaldur. ⏎ § 151. Edasikaebamise õigus ⏎ (1)  Maksukohustuslane või muu menetlusosaline võib vaidemenetluse igas staadiumis pöördu…
+
+--- /automaat|algoritm|tehisintellekt/ : 10 vastet ---
+…vorminõuet ega sama paragrahvi lõigetes 4 ja 5 sätestatut. ⏎ [RT I, 23.03.2017, 1 - jõust. 01.04.2017]  ⏎ § 46^2. Automaatsed haldusaktid ja dokumendid ⏎ (1) Riiklike maksude maksuhaldur võib anda haldusakti ja dokumendi automatiseeritult, ilma maksuhalduri ametniku vahetu sekkumiseta (edaspidi automaatne haldusakt ja dokument). ⏎ (2) Automaatne haldusakt ja dokument kinnitatakse omakäelise või e-allkirja asemel e-templiga e-identimise ja e-tehingute usaldusteenuste seaduses sätestatud tingimustel ja korras. Automaatsele haldusaktile ja dokumendile ei kohaldat…
+
+…ur võib anda haldusakti ja dokumendi automatiseeritult, ilma maksuhalduri ametniku vahetu sekkumiseta (edaspidi automaatne haldusakt ja dokument). ⏎ (2) Automaatne haldusakt ja dokument kinnitatakse omakäelise või e-allkirja asemel e-templiga e-identimise ja e-tehingute usaldusteenuste seaduses sätestatud tingimustel ja korras. Automaatsele haldusaktile ja dokumendile ei kohaldata käesoleva seaduse § 46 lõike 3 punktis 2 ega lõikes 5 sätestatut. ⏎ (3) Automaatne haldusakt ja dokument toimetatakse kätte käesoleva seaduse §-s 54 sätestatud korras. ⏎ (4) Automaa…
+
+…omatiseeritult, ilma maksuhalduri ametniku vahetu sekkumiseta (edaspidi automaatne haldusakt ja dokument). ⏎ (2) Automaatne haldusakt ja dokument kinnitatakse omakäelise või e-allkirja asemel e-templiga e-identimise ja e-tehingute usaldusteenuste seaduses sätestatud tingimustel ja korras. Automaatsele haldusaktile ja dokumendile ei kohaldata käesoleva seaduse § 46 lõike 3 punktis 2 ega lõikes 5 sätestatut. ⏎ (3) Automaatne haldusakt ja dokument toimetatakse kätte käesoleva seaduse §-s 54 sätestatud korras. ⏎ (4) Automaatsete haldusaktide ja dokumentide loetel…
+
+…lkirja asemel e-templiga e-identimise ja e-tehingute usaldusteenuste seaduses sätestatud tingimustel ja korras. Automaatsele haldusaktile ja dokumendile ei kohaldata käesoleva seaduse § 46 lõike 3 punktis 2 ega lõikes 5 sätestatut. ⏎ (3) Automaatne haldusakt ja dokument toimetatakse kätte käesoleva seaduse §-s 54 sätestatud korras. ⏎ (4) Automaatsete haldusaktide ja dokumentide loetelu kehtestab valdkonna eest vastutav minister määrusega. ⏎ [RT I, 07.12.2018, 1 - jõust. 01.01.2019]  ⏎ § 47. Menetluskeel ja tõlk ⏎ (1) Maksuhalduri ja maksukohustuslase vaheline s…
+
+--- /§ \d+\. [^\n]{0,20}(kauplemisvõt|Ebaausa|Eksitav)[^\n]{0,60}/ : 0 vastet ---
+--- /§ 7\. / : 1 vastet ---
+…ohaldatakse käesolevas seaduses juriidilise isiku kohta sätestatut, kui nende kohta ei ole sätestatud teisiti. ⏎ § 7. Maksukohustuslase õigus- ja teovõime ⏎ (1) Maksukohustuslase õigusvõime, teovõime ja seadusjärgse esinduse suhtes kohaldatakse maksustamisel tsiviilseadustiku üldosa seaduse vastavaid sätteid, kui käesolevast seadusest või maksuseadusest ei tulene teisiti. ⏎ (2) Alaealise või muu piiratud teovõimega füüsilise isiku nimel täidab käesolevast seadusest või maksuseadusest tulenevaid kohustusi tema seaduslik esindaja. 15–18-aastane alaealine, kelle…
+
+
+RT: Küberturvalisuse seadus (KüTS), kehtiv redaktsioon 106102026002, kehtivuse algus 2026-10-15T21:00:00Z, staatus KEHTIV, vaata: https://www.riigiteataja.ee/akt/106102026002
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/106102026002/txt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/106102026002/txt tüüp=application/octet-stream;charset=UTF-8 baite=92944 teksti=88805
+--- /§ \d+\. [^\n]{0,40}esinda[^\n]{0,40}/ : 0 vastet ---
+--- /§ \d+\. [^\n]{0,40}[Ii]ntsiden[^\n]{0,60}/ : 3 vastet ---
+…alasid. ⏎ [RT I, 30.12.2025, 4 - jõust. 01.01.2026]  ⏎ (7) [Kehtetu -  RT I, 06.10.2026, 1 - jõust. 16.10.2026]  ⏎ § 8. Teenuseosutaja kohustus teavitada küberintsidendist ⏎ [RT I, 30.12.2025, 4 - jõust. 01.01.2026]  ⏎ (1) Teenuseosutaja, välja arvatud julgeolekuasutus, esitab Riigi Infosüsteemi Ametile esmase teate viivitamata, kuid hiljemalt 24 tundi pärast teada saamist küberintsidendist: ⏎ [RT I, 30.12.2025, 4 - jõust. 01.01.2026]  ⏎ 1) millel on süsteemi turvalisusele või teenuse toimepidevusele oluline mõju; ⏎ 2) mille oluline mõju süsteemi turvalisusele või…
+
+…küberintsidendist ⏎ [Kehtetu -  RT I, 30.12.2025, 4 - jõust. 01.01.2026]  ⏎ 3. peatükk Küberturvalisuse tagamine ⏎ § 12. Küberintsidendi ennetus ja lahendamine ⏎ (1) Küberturvalisuse tagamist ning küberintsidendi ennetamist ja lahendamist käesolevas seaduses sätestatud ulatuses koordineerib Riigi Infosüsteemi Amet. ⏎ (2) Riigi Infosüsteemi Amet teostab küberturvalisuse tagamiseks Eesti internetiprotokolli aadressiruumis olevate ning Eesti maatunnusega seotud domeenide vaatlust, analüüsib süsteemide turvalisust ohustavaid riske ning nende mõju riigile, ühiskonna…
+
+…ava võib koostada muu õigusakti alusel koostatava dokumendi osana. ⏎ [RT I, 30.12.2025, 4 - jõust. 01.01.2026]  ⏎ § 13. Küberintsidentide register ⏎ (1) Küberintsidentide register (edaspidi register) on Riigi Infosüsteemi Ameti peetav andmekogu, kuhu kantakse napilt toimumata jäänud küberintsidendi, küberintsidendi ja olulise mõjuga küberintsidendi toimumist ning küberohte ja turvahaavatavust kirjeldavad andmed eesmärgiga hallata ja analüüsida registrisse esitatud teavet napilt toimumata jäänud küberintsidentide, küberintsidentide, olulise mõjuga küberintside…
+
+--- /§ \d+\. [^\n]{0,30}(Tõendamis|Tööelu|Tööle võtmi)[^\n]{0,60}/ : 0 vastet ---
+--- /automaat|algoritm|tehisintellekt/ : 1 vastet ---
+…l ühendatud või seotud seadmete rühm, millest vähemalt ühes toimub mõne programmi kohaselt digitaalsete andmete automaatne töötlemine, või digitaalsed andmed, mida eelnimetatud komponendid nende töö, kasutamise, kaitsmise või hooldamise jaoks salvestavad, töötlevad, saavad päringuga või edastavad; ⏎ 38) võrgu- ja infosüsteemi turvalisus (edaspidi süsteemi turvalisus) – süsteemi võime osutada vastupanu mis tahes sündmusele, mis ohustab süsteemis töödeldavate andmete või süsteemi kaudu osutatavate või juurdepääsetavate teenuste käideldavust, autentsust, tervi…
+
+--- /§ \d+\. [^\n]{0,20}(kauplemisvõt|Ebaausa|Eksitav)[^\n]{0,60}/ : 0 vastet ---
+--- /§ 7\. / : 1 vastet ---
+…iikme kohustuste kohta sätestatut asjaomasele füüsilisele isikule. ⏎ [RT I, 30.12.2025, 4 - jõust. 01.01.2026]  ⏎ § 7. Teenuseosutaja süsteemi turvameetmed ⏎ [RT I, 30.12.2025, 4 - jõust. 01.01.2026]  ⏎ (1) Teenuseosutaja rakendab alaliselt asjakohaseid ja proportsionaalseid tehnilisi, tegevuslikke ning korralduslikke turvameetmeid, et: ⏎ 1) hallata riske, mis ohustavad teenuseosutaja tegevuses või teenuse osutamisel kasutatava süsteemi turvalisust, sealhulgas koostab vastava riskianalüüsi; ⏎ 2) ennetada või minimeerida küberintsidendi mõju teenuseosutaja osutat…
+
+
+RT: Võrdse kohtlemise seadus (VõrdKS), kehtiv redaktsioon 117032026014, kehtivuse algus 2026-03-31T21:00:00Z, staatus KEHTIV, vaata: https://www.riigiteataja.ee/akt/117032026014
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/117032026014/txt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/117032026014/txt tüüp=application/octet-stream;charset=UTF-8 baite=24316 teksti=23079
+--- /§ \d+\. [^\n]{0,40}esinda[^\n]{0,40}/ : 0 vastet ---
+--- /§ \d+\. [^\n]{0,40}[Ii]ntsiden[^\n]{0,60}/ : 0 vastet ---
+--- /§ \d+\. [^\n]{0,30}(Tõendamis|Tööelu|Tööle võtmi)[^\n]{0,60}/ : 1 vastet ---
+…kohta isikule, kes leiab, et teda on käesoleva seaduse § 1 lõikes 1 nimetatud tunnuse alusel diskrimineeritud. ⏎ § 8. Jagatud tõendamiskohustus ⏎ (1) Kohtu, töövaidluskomisjoni või soolise võrdõiguslikkuse ja võrdse kohtlemise voliniku poole pöörduv isik peab avalduses esitama faktilised asjaolud, mille alusel võib eeldada, et toimunud on diskrimineerimine. ⏎ [RT I 2009, 48, 323 - jõust. 23.10.2009]  ⏎ (2) Isik, kelle vastu on avaldus esitatud, peab menetluses tõendama, et ta ei ole rikkunud võrdse kohtlemise põhimõtet. Kui isik keeldub tõendamisest, võrdsusta…
+
+--- /automaat|algoritm|tehisintellekt/ : 0 vastet ---
+--- /§ \d+\. [^\n]{0,20}(kauplemisvõt|Ebaausa|Eksitav)[^\n]{0,60}/ : 0 vastet ---
+--- /§ 7\. / : 1 vastet ---
+…st tulenevat ebavõrdsust. Selliselt rakendatavad meetmed peavad olema proportsionaalsed taotletava eesmärgiga. ⏎ § 7. Kohustus anda seletusi ⏎ Diskrimineerimises kahtlustatav isik on kohustatud 15 tööpäeva jooksul kirjaliku taotluse saamisest arvates andma kirjaliku seletuse oma tegevuse kohta isikule, kes leiab, et teda on käesoleva seaduse § 1 lõikes 1 nimetatud tunnuse alusel diskrimineeritud. ⏎ § 8. Jagatud tõendamiskohustus ⏎ (1) Kohtu, töövaidluskomisjoni või soolise võrdõiguslikkuse ja võrdse kohtlemise voliniku poole pöörduv isik peab avalduses esitama…
+
+
+RT: Töölepingu seadus (TLS), kehtiv redaktsioon 103072026035, kehtivuse algus 2026-09-30T21:00:00Z, staatus KEHTIV, vaata: https://www.riigiteataja.ee/akt/103072026035
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/103072026035/txt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/103072026035/txt tüüp=application/octet-stream;charset=UTF-8 baite=143475 teksti=133693
+--- /§ \d+\. [^\n]{0,40}esinda[^\n]{0,40}/ : 1 vastet ---
+…lapsendamist kinnitava kohtuotsuse või hoolduspere vanema lepingu. ⏎ [RT I, 26.10.2018, 1 - jõust. 01.04.2022]  ⏎ § 94. Töötajate esindajaga töölepingu ülesütlemise erisus ⏎ (1) Enne töölepingu ülesütlemist töötajate esindajaga peab tööandja küsima töötajat esindama valinud töötajatelt või ametiühingult arvamuse töölepingu ülesütlemise kohta. ⏎ (2) Töötajat esindama valinud töötajad või ametiühing peavad andma arvamuse kümne tööpäeva jooksul selle küsimisest. Tööandja peab töötajate arvamust mõistlikul määral arvestama. Tööandja peab põhjendama töötajate arvam…
+
+--- /§ \d+\. [^\n]{0,40}[Ii]ntsiden[^\n]{0,60}/ : 0 vastet ---
+--- /§ \d+\. [^\n]{0,30}(Tõendamis|Tööelu|Tööle võtmi)[^\n]{0,60}/ : 0 vastet ---
+--- /automaat|algoritm|tehisintellekt/ : 0 vastet ---
+--- /§ \d+\. [^\n]{0,20}(kauplemisvõt|Ebaausa|Eksitav)[^\n]{0,60}/ : 0 vastet ---
+--- /§ 7\. / : 1 vastet ---
+…pärast kasutajaettevõttes ajutise töötamise lõppemist, on tühised. ⏎ [RT I, 07.03.2023, 5 - jõust. 01.01.2024]  ⏎ § 7. Töölepingu sõlmimine alaealisega ⏎ (1) Tööandja ei tohi töölepingut sõlmida alla 15-aastase või õppimiskohustusliku alaealisega ega teda tööle lubada, välja arvatud käesoleva paragrahvi lõigetes 4–4^2  sätestatud juhtudel. ⏎ [RT I, 03.07.2026, 27 - jõust. 13.07.2026]  ⏎ (1^1) Õppimiskohustus käesoleva seaduse tähenduses on alaealisel kuni põhihariduse omandamiseni või 17-aastaseks saamiseni. ⏎ [RT I, 03.02.2026, 5 - jõust. 13.02.2026]  ⏎ (2) Tööa…
+
+
+##### rt:TKS
+VIGA: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+##### rt:RVastS
+VIGA: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
