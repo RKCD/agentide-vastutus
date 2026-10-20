@@ -1,0 +1,136 @@
+# jooks 73
+# urlid: https://digital-strategy.ec.europa.eu/en/policies/market-surveillance-authorities-under-ai-act https://artificialintelligenceact.eu/national-implementation-plans/
+# otsi: QQmarkoigusavalik17 || Estonia
+
+##### https://digital-strategy.ec.europa.eu/en/policies/market-surveillance-authorities-under-ai-act
+kood=200 lõpp-URL=https://digital-strategy.ec.europa.eu/en/policies/market-surveillance-authorities-under-ai-act tüüp=text/html; charset=UTF-8 baite=63994 teksti=7852
+--- algus ---
+
+Market Surveillance Authorities under the AI Act | Shaping Europe’s digital future
+Skip to main content
+en
+Select your language
+Close
+bg
+български
+es
+español
+cs
+čeština
+da
+dansk
+de
+Deutsch
+et
+eesti
+el
+ελληνικά
+en
+English
+fr
+français
+ga
+Gaeilge
+hr
+hrvatski
+it
+italiano
+lv
+latviešu
+lt
+lietuvių
+hu
+magyar
+mt
+Malti
+nl
+Nederlands
+pl
+polski
+pt
+português
+ro
+română
+sk
+slovenčina
+sl
+slovenščina
+fi
+suomi
+sv
+svenska
+Search
+Search
+Shaping Europe’s digital future
+Menu
+Close
+Menu
+Back
+Previous items
+Next items
+Home
+Policies
+Activities
+News
+Library
+Funding
+Calendar
+Consultations
+AI Office
+Home
+…
+Policies
+Artificial Intelligence
+European approach to artificial intelligence
+AI Act
+The enforcement framework of the AI Act
+Governance and enforcement of the AI Act
+Market Surveillance Authorities under the AI Ac
+--- /QQmarkoigusavalik17/ : 0 vastet ---
+--- /Estonia/ : 1 vastet ---
+…eský telekomunikační úřad ⏎  | Czech Telecommunication Office  ⏎  Netherlands ⏎ * ⏎ Rijksinspectie Digitale Infrastructuur ⏎  | Dutch Authority for Digital Infrastructure ⏎  Denmark ⏎ Digitaliseringsstyrels ⏎  |  Agency for Digital Government ⏎  Poland ⏎ Komisja Rozwoju i Bezpieczeństwa Sztucznej Inteligencji (KRiBSI) ⏎  | Commission for the Development and Security of Artificial Intelligence ⏎  Estonia ⏎ * ⏎ Tarbijakaitse ja Tehnilise Järelevalve Amet ⏎  | Consumer Protection and Technical Regulatory Authority ⏎  Portugal ⏎ * ⏎ ANACOM ⏎  | National Regulatory Authority for Communications ⏎  Finland ⏎ Traficom ⏎  | Transport and Communications Agency ⏎  Romania ⏎ * ⏎ ANCOM ⏎  | National Authority for Management and Regulation in Communications of Romania  ⏎  France ⏎ * ⏎ Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) ⏎  | Directorate General for Competition Policy, Consumer Affairs and Fraud Control ⏎  Slovakia ⏎ - ⏎  Germany ⏎ * ⏎ Bundesnetzagentur ⏎  | Federal Network Agency ⏎  Slovenia ⏎ * ⏎ Agencija za komunikacijska omrežja in storitve Republike Slovenije ⏎  (AKOS) | Agency for Communication Networks and Services of the Republic of Slovenia ⏎  Greece ⏎ Αρχή Προστασίας Δεδομένων Προσωπικού Χαρακτήρα ⏎  | Hellenic Data Protection Authority ⏎  Spain ⏎ * ⏎ Agencia Española de Supervisión de Inteligencia Artificial ⏎  | Spanish Artificial Intelligence Surveillance Agency ⏎  Hungary ⏎ - ⏎  Sweden ⏎ * ⏎ Post- och telestyrelsen ⏎  | The Swedish Post and Telecom Authority ⏎  Ireland ⏎ Oifig IS na hÉireann ⏎  | AI Office of Ireland ⏎ Quick links ⏎ Governance and enforcement of the AI Act ⏎ Related Content ⏎ Big Picture ⏎         Governance and enforcement of the AI Act ⏎ The AI Act's governance architecture is an essential pillar of its enforcement. ⏎ Last update ⏎ 7 September 2026 ⏎ Print as PDF ⏎ Shaping Europe’s digital future ⏎ This site is managed by: ⏎ Directorate-General for Communications Networks, Content and Technology ⏎ Di…
+
+
+##### https://artificialintelligenceact.eu/national-implementation-plans/
+kood=200 lõpp-URL=https://artificialintelligenceact.eu/national-implementation-plans/ tüüp=text/html; charset=UTF-8 baite=327734 teksti=28577
+--- algus ---
+
+Overview of all AI Act National Implementation Plans | EU Artificial Intelligence Act
+The Act
+Explore the Act
+The AI Act Explorer
+The Act Texts
+High-level summary of the AI Act
+Context
+Institutional Context
+Historic Documents
+Historic Timeline
+Analyses
+Assessment
+Implementation
+Overview
+Implementation Documents
+Implementation Timeline
+Standard Setting
+Whistleblowing
+Member States
+Tasks for Member States
+National Implementation Plans
+AI Regulatory Sandboxes
+The AI Office
+Overview: The AI Office
+Tasks for The AI Office
+Enforcement of Chapter V: GPAI Obligations
+The Advisory Forum: What Is It And How Does It Work?
+Why work at The AI Office?
+The Scientific Panel: What Is It And How Does It Work?
+General-Purpose AI
+Overview: Providers of GPAI Models
+Guidelines for GPAI Models
+Introduction to t
+--- /QQmarkoigusavalik17/ : 0 vastet ---
+--- /Estonia/ : 2 vastet ---
+… and the Court Administration are also designated as market surveillance authorities. The law entered into force on 2 August 2025. ⏎ 7 authorities appear in the Commission’s consolidated  ⏎ list ⏎ . ⏎ A working group representing a range of actors (civil society, industry, public institutions, academia, etc) was established in  ⏎ September 2024 ⏎ . It will convene 3-4 times per year. ⏎ Estonia ⏎ Unclear.  ⏎ In the  ⏎ AI Board meeting ⏎  on 10 September 2024, the Ministry of Economic Affairs and Communications represented Estonia. ⏎ Market surveillance and notifying authorities have not yet been appointed.  ⏎ 3 authorities appear in the Commission’s consolidated  ⏎ list ⏎ . ⏎ Finland ⏎ Clear. ⏎ Law 1377/2025 ⏎ , Act on the supervision of certain artificial intelligence systems, appointed a number of existing market surveillance authorities under a decentralised model, with the Finnish Transport and Communications Agency (Traficom) acting as the single point of contact.  ⏎ It also designates four notifying authorities: the Ministry of Economic Affairs and Employment, Traficom, the Finnish Medicines Agency and the Ministry of Social Affairs and Health. ⏎ The law entered into force on 1 January 2026.  ⏎ A  ⏎ list of 8 ⏎  authorities has been published by the Ministry of Economic Affairs and Employment of Finland. 2 additional authorities appear in the Commission’s consolidated  ⏎ list ⏎ . ⏎ France ⏎ Partial clarity. ⏎ According to the ⏎  legislative proposal ⏎ , the proposed model is decentralised, broadening the scope of existing market surveillance and notifying authorities to cover AI.  ⏎ The Directorate-General for Competition, Consumer Affairs and Fraud Control will act as the coordinating market surveillance authority and single point of contact. ⏎ 3 authorities appear in the Commission’s consolidated  ⏎ list ⏎ . ⏎ Germany ⏎ Partial clarity. ⏎ On 10 February 2026, the Federal Cabinet adopted the  ⏎ draft AI Market Sur…
+
+… ⏎ 7 authorities appear in the Commission’s consolidated  ⏎ list ⏎ . ⏎ A working group representing a range of actors (civil society, industry, public institutions, academia, etc) was established in  ⏎ September 2024 ⏎ . It will convene 3-4 times per year. ⏎ Estonia ⏎ Unclear.  ⏎ In the  ⏎ AI Board meeting ⏎  on 10 September 2024, the Ministry of Economic Affairs and Communications represented Estonia. ⏎ Market surveillance and notifying authorities have not yet been appointed.  ⏎ 3 authorities appear in the Commission’s consolidated  ⏎ list ⏎ . ⏎ Finland ⏎ Clear. ⏎ Law 1377/2025 ⏎ , Act on the supervision of certain artificial intelligence systems, appointed a number of existing market surveillance authorities under a decentralised model, with the Finnish Transport and Communications Agency (Traficom) acting as the single point of contact.  ⏎ It also designates four notifying authorities: the Ministry of Economic Affairs and Employment, Traficom, the Finnish Medicines Agency and the Ministry of Social Affairs and Health. ⏎ The law entered into force on 1 January 2026.  ⏎ A  ⏎ list of 8 ⏎  authorities has been published by the Ministry of Economic Affairs and Employment of Finland. 2 additional authorities appear in the Commission’s consolidated  ⏎ list ⏎ . ⏎ France ⏎ Partial clarity. ⏎ According to the ⏎  legislative proposal ⏎ , the proposed model is decentralised, broadening the scope of existing market surveillance and notifying authorities to cover AI.  ⏎ The Directorate-General for Competition, Consumer Affairs and Fraud Control will act as the coordinating market surveillance authority and single point of contact. ⏎ 3 authorities appear in the Commission’s consolidated  ⏎ list ⏎ . ⏎ Germany ⏎ Partial clarity. ⏎ On 10 February 2026, the Federal Cabinet adopted the  ⏎ draft AI Market Surveillance and Innovation Promotion Act ⏎  ( ⏎ Regierungsentwurf für das KI-Marktüberwachungs- und Innovationsförderungsgesetz ⏎ ). ⏎ The F…
+
