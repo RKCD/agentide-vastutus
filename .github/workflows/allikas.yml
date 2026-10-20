@@ -14,6 +14,9 @@ on:
       algus:
         description: "Prindi teksti algusest N märki"
         default: "0"
+      toores:
+        description: "Otsi toorest vastusest (1 = jah)"
+        default: "0"
       keel:
         description: "Accept-Language"
         default: "et, est;q=0.9, en;q=0.5"
@@ -39,8 +42,10 @@ jobs:
           OTSI: ${{ inputs.otsi }}
           ALGUS: ${{ inputs.algus }}
           KEEL: ${{ inputs.keel }}
+          TOORES: ${{ inputs.toores }}
         run: |
           args=()
+          [ "$TOORES" = "1" ] && args+=(--toores)
           if [ -n "$OTSI" ]; then
             while IFS= read -r m || [ -n "$m" ]; do [ -n "$m" ] && args+=(--otsi "$m"); done < <(printf '%s' "$OTSI" | sed 's/ || /\n/g')
           fi

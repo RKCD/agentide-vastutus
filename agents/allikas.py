@@ -66,6 +66,7 @@ def main() -> int:
     p.add_argument("--konteksti", type=int, default=600)
     p.add_argument("--max", type=int, default=4, help="vasteid mustri kohta")
     p.add_argument("--algus", type=int, default=0, help="prindi teksti algusest N märki")
+    p.add_argument("--toores", action="store_true", help="otsi toorest vastusest (HTML-i märgendid alles)")
     a = p.parse_args()
 
     for url in a.url:
@@ -77,7 +78,7 @@ def main() -> int:
         except Exception as e:
             print(f"\n##### {url}\nVIGA: {type(e).__name__}: {e}")
             continue
-        tekst = tekstiks(tüüp, keha)
+        tekst = keha.decode("utf-8", "replace") if a.toores else tekstiks(tüüp, keha)
         print(f"\n##### {url}\nkood={kood} lõpp-URL={lõpp} tüüp={tüüp} baite={len(keha)} teksti={len(tekst)}")
         if a.algus:
             print("--- algus ---\n" + tekst[:a.algus])
