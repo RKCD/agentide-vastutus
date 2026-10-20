@@ -1,0 +1,18 @@
+# jooks 131
+# urlid: rt:103072026035
+# otsi: QQmarkoigus_andmed_turvalisus_too3 || § \d+\. [^\n]{0,90}
+
+RT: Töölepingu seadus (TLS), kehtiv redaktsioon 103072026035, kehtivuse algus 2026-09-30T21:00:00Z, staatus KEHTIV, vaata: https://www.riigiteataja.ee/akt/103072026035
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/103072026035/txt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/103072026035/txt tüüp=application/octet-stream;charset=UTF-8 baite=143475 teksti=133693
+--- /QQmarkoigus_andmed_turvalisus_too3/ : 0 vastet ---
+--- /§ \d+\. [^\n]{0,90}/ : 141 vastet ---
+…ÄTTED ⏎ § 1. Töölepingu mõiste ⏎ (1) Tö…
+
+…gule. ⏎ § 2. Sätete kohustuslikkus ⏎ Kä…
+
+…022]  ⏎ § 3. Võrdse kohtlemise põhimõt…
+
+…IMINE ⏎ § 4. Töölepingu sõlmimise eris…
+
