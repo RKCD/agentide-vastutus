@@ -1,7 +1,8 @@
 name: Loe esmaallikat
 
 # Käsitsi: loeb avalikud õigustekstid ja prindib otsitud lõigud logisse.
-# Kasutatakse kaardi väidete kontrollimiseks. Ei commit'i midagi.
+# Kasutatakse kaardi väidete kontrollimiseks. Väljund salvestub harusse
+# kontrolli-logid (fail <jooksu nr>.txt), main-i ei muudeta.
 on:
   workflow_dispatch:
     inputs:
@@ -25,7 +26,11 @@ on:
         default: "et, est;q=0.9, en;q=0.5"
 
 permissions:
-  contents: read
+  contents: write
+
+concurrency:
+  group: allikas
+  cancel-in-progress: false
 
 jobs:
   loe:
@@ -54,4 +59,22 @@ jobs:
             while IFS= read -r m || [ -n "$m" ]; do [ -n "$m" ] && args+=(--otsi "$m"); done < <(printf '%s' "$OTSI" | sed 's/ || /\n/g')
           fi
           # shellcheck disable=SC2086
-          python agents/allikas.py $URLID --algus "$ALGUS" --keel "$KEEL" --konteksti "${KONTEKSTI:-600}" "${args[@]}"
+          python agents/allikas.py $URLID --algus "$ALGUS" --keel "$KEEL" --konteksti "${KONTEKSTI:-600}" "${args[@]}" | tee /tmp/valjund.txt
+      - name: Salvesta väljund harusse kontrolli-logid
+        env:
+          NR: ${{ github.run_number }}
+          URLID: ${{ inputs.urlid }}
+          OTSI: ${{ inputs.otsi }}
+        run: |
+          git config user.name "kontroll[bot]"
+          git config user.email "kontroll-bot@users.noreply.github.com"
+          git fetch origin kontrolli-logid || true
+          if git rev-parse --verify -q origin/kontrolli-logid >/dev/null; then
+            git switch -c kontrolli-logid origin/kontrolli-logid
+          else
+            git switch --orphan kontrolli-logid
+          fi
+          { echo "# jooks $NR"; echo "# urlid: $URLID"; echo "# otsi: $OTSI"; cat /tmp/valjund.txt; } > "$NR.txt"
+          git add "$NR.txt"
+          git commit -q -m "kontroll $NR"
+          git push -q origin kontrolli-logid
