@@ -1,0 +1,64 @@
+# jooks 76
+# urlid: https://www.riigiteataja.ee/api/oigusakt_otsing/1/otsi?pealkiri=Halduskohtumenetluse+seadustik
+# otsi: QQmarkoigusavalik19
+
+##### https://www.riigiteataja.ee/api/oigusakt_otsing/1/otsi?pealkiri=Halduskohtumenetluse+seadustik
+kood=200 lõpp-URL=https://www.riigiteataja.ee/api/oigusakt_otsing/1/otsi?pealkiri=Halduskohtumenetluse+seadustik tüüp=application/json;charset=UTF-8 baite=11719 teksti=11719
+--- algus ---
+{
+  "staatus" : "OK",
+  "paring" : "/otsi",
+  "metaandmed" : {
+    "kokku" : 70,
+    "leht" : 1,
+    "limiit" : 25
+  },
+  "aktid" : [ {
+    "globaalID" : 113042016003,
+    "terviktekstID" : 1000609,
+    "pealkiri" : "Halduskohtumenetluse seadustik",
+    "lyhend" : "HKMS",
+    "kehtivus" : {
+      "algus" : "2016-04-12",
+      "lopp" : "2016-04-30"
+    },
+    "staatus" : "avaldatud",
+    "tekst" : "terviktekst",
+    "liik" : "seadus",
+    "valjaandja" : "Riigikogu",
+    "mitteJoustunud" : false,
+    "kehtivKehtetus" : false,
+    "muudetud" : 1776509288610,
+    "url" : "/akt/113042016003.xml"
+  }, {
+    "globaalID" : 113042016004,
+    "terviktekstID" : 1000609,
+    "pealkiri" : "Halduskohtumenetluse seadustik",
+    "lyhend" : "HKMS",
+    "kehtivus" : {
+      "algus" : "2016-05-01",
+      "lopp" : "2017-07-05"
+    },
+    "staatus" : "avaldatud",
+    "tekst" : "terviktekst",
+    "liik" : "seadus",
+    "valjaandja" : "Riigikogu",
+    "mitteJoustunud" : false,
+    "kehtivKehtetus" : false,
+    "muudetud" : 1776509288610,
+    "url" : "/akt/113042016004.xml"
+  }, {
+    "globaalID" : 113042016005,
+    "terviktekstID" : 1039276,
+    "pealkiri" : "Halduskohtumenetluse seadustik",
+    "lyhend" : null,
+    "kehtivus" : {
+      "algus" : "2020-01-01",
+      "lopp" : null
+    },
+    "staatus" : "avaldatud",
+    "tekst" : "terviktekst",
+    "liik" : "seadus",
+    "valjaandja" : "Riigikogu",
+  
+--- /QQmarkoigusavalik19/ : 0 vastet ---
