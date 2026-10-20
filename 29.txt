@@ -1,0 +1,77 @@
+# jooks 29
+# urlid: https://publications.europa.eu/resource/celex/32024L2831 https://publications.europa.eu/resource/celex/32024R1183 https://publications.europa.eu/resource/celex/52025XC05423
+# otsi: Artikkel 29\s || Artikkel 7\s || Artikkel 10\s || Artikkel 5a\s || 2022/0303|496
+
+##### https://publications.europa.eu/resource/celex/32024L2831
+kood=200 lõpp-URL=http://publications.europa.eu/resource/cellar/564844cf-9fd2-11ef-85f0-01aa75ed71a1.0007.03/DOC_1 tüüp=application/xhtml+xml;charset=UTF-8 baite=219836 teksti=101097
+--- algus ---
+
+L_202402831ET.000101.fmx.xml
+Euroopa Liidu 
+Teataja
+ET
+L-seeria
+2024/2831
+11.11.2024
+            EUROOPA PARLAMENDI JA NÕUKOGU DIREKTIIV (EL) 2024/2831,
+            23. oktoober 2024,
+platvormitöö tingimuste parandamise kohta
+(EMPs kohaldatav tekst)
+EUROOPA PARLAMENT JA EUROOPA LIIDU NÕUKOGU,
+võtte
+--- /Artikkel 29\s/ : 0 vastet ---
+--- /Artikkel 7\s/ : 0 vastet ---
+--- /Artikkel 10\s/ : 0 vastet ---
+--- /Artikkel 5a\s/ : 0 vastet ---
+--- /2022/0303|496/ : 0 vastet ---
+
+##### https://publications.europa.eu/resource/celex/32024R1183
+kood=200 lõpp-URL=http://publications.europa.eu/resource/cellar/459993a1-068e-11ef-a251-01aa75ed71a1.0007.03/DOC_1 tüüp=application/xhtml+xml;charset=UTF-8 baite=572177 teksti=186579
+--- algus ---
+
+L_202401183ET.000101.fmx.xml
+Euroopa Liidu 
+Teataja
+ET
+L-seeria
+2024/1183
+30.4.2024
+            EUROOPA PARLAMENDI JA NÕUKOGU MÄÄRUS (EL) 2024/1183,
+11. aprill 2024,
+millega muudetakse määrust (EL) nr 910/2014 seoses Euroopa digiidentiteedi raamistiku kehtestamisega
+EUROOPA PARLAMENT JA EUROOPA LII
+--- /Artikkel 29\s/ : 0 vastet ---
+--- /Artikkel 7\s/ : 0 vastet ---
+--- /Artikkel 10\s/ : 0 vastet ---
+--- /Artikkel 5a\s/ : 0 vastet ---
+--- /2022/0303|496/ : 0 vastet ---
+
+##### https://publications.europa.eu/resource/celex/52025XC05423
+kood=200 lõpp-URL=http://publications.europa.eu/resource/cellar/e436dc50-a24c-11f0-97c8-01aa75ed71a1.0008.03/DOC_1 tüüp=application/xhtml+xml;charset=UTF-8 baite=24452 teksti=7483
+--- algus ---
+
+C_202505423ET.000101.fmx.xml
+Euroopa Liidu 
+Teataja
+ET
+C-seeria
+C/2025/5423
+6.10.2025
+KOMISJONI ETTEPANEKUTE TAGASIVÕTMINE
+(C/2025/5423)
+Tagasivõetud ettepanekute nimekiri
+Dokument
+Institutsioonidevaheline menetlus
+Pealkiri
+Uus Euroopa kestliku heaolu ja konkurentsivõime kava
+COM(2011)714 final
+201
+--- /Artikkel 29\s/ : 0 vastet ---
+--- /Artikkel 7\s/ : 0 vastet ---
+--- /Artikkel 10\s/ : 0 vastet ---
+--- /Artikkel 5a\s/ : 0 vastet ---
+--- /2022/0303|496/ : 2 vastet ---
+…me, mida kohaldatakse komisjoni rakendamisvolituste teostamise suhtes ⏎ COM(2018)96 final ⏎ 2018/0044 (COD) ⏎ Ettepanek: EUROOPA PARLAMENDI JA NÕUKOGU MÄÄRUS õiguse kohta, mida kohaldatakse nõuete loovutamise kehtivusele kolmandate isikute suhtes ⏎ COM(2022)496 final ⏎ 2022/0303 (COD) ⏎ Ettepanek: EUROOPA PARLAMENDI JA NÕUKOGU DIREKTIIV lepinguvälise tsiviilvastutuse normide tehisintellektile kohandamise kohta (tehisintellektiga seotud vastutuse direktiiv) ⏎ Globaalne Euroopa: meie jõu ja partnerluste kasutamine ⏎ JOIN(2015)36 final ⏎ 2015/0302 (NLE) ⏎ Ühisettepanek: NÕUKOGU OTSUS Euroopa Liidu ja Afganistani Islamivabariigi vahelise partnerlus- ja arengukoostöölepingu Euroopa Liidu nimel sõlmimise kohta ⏎ COM(2022)63 final ⏎ 2022/0043 (NLE) ⏎ Ettepanek: NÕUKOGU OTSUS seisukoha kohta, mis võetakse Euroopa Liidu nimel riiklikult toetatavate ekspordikrediitide kokkuleppe osaliste kirjalikus menetluses seoses IV lisa muutmisega ⏎ Üheskoos tegutsemine ja liidu ettevalmistamine tulevikuks ⏎ COM(2022)184 final ⏎ 2022/0125 (COD) ⏎ Ettepanek: EUROOPA PARLAMENDI JA NÕUKOGU MÄÄRUS, millega muudetakse määrust (EL, Euratom) 2018/1046, mis käsitleb liidu üldeelarve suhtes kohaldatavaid finantsreegleid ⏎ COM(2024)301 final ⏎ 2024/0059 (COD) ⏎ Ettepanek: EUROOPA PARLAMENDI JA NÕUKOGU …
+
+…ohaldatakse komisjoni rakendamisvolituste teostamise suhtes ⏎ COM(2018)96 final ⏎ 2018/0044 (COD) ⏎ Ettepanek: EUROOPA PARLAMENDI JA NÕUKOGU MÄÄRUS õiguse kohta, mida kohaldatakse nõuete loovutamise kehtivusele kolmandate isikute suhtes ⏎ COM(2022)496 final ⏎ 2022/0303 (COD) ⏎ Ettepanek: EUROOPA PARLAMENDI JA NÕUKOGU DIREKTIIV lepinguvälise tsiviilvastutuse normide tehisintellektile kohandamise kohta (tehisintellektiga seotud vastutuse direktiiv) ⏎ Globaalne Euroopa: meie jõu ja partnerluste kasutamine ⏎ JOIN(2015)36 final ⏎ 2015/0302 (NLE) ⏎ Ühisettepanek: NÕUKOGU OTSUS Euroopa Liidu ja Afganistani Islamivabariigi vahelise partnerlus- ja arengukoostöölepingu Euroopa Liidu nimel sõlmimise kohta ⏎ COM(2022)63 final ⏎ 2022/0043 (NLE) ⏎ Ettepanek: NÕUKOGU OTSUS seisukoha kohta, mis võetakse Euroopa Liidu nimel riiklikult toetatavate ekspordikrediitide kokkuleppe osaliste kirjalikus menetluses seoses IV lisa muutmisega ⏎ Üheskoos tegutsemine ja liidu ettevalmistamine tulevikuks ⏎ COM(2022)184 final ⏎ 2022/0125 (COD) ⏎ Ettepanek: EUROOPA PARLAMENDI JA NÕUKOGU MÄÄRUS, millega muudetakse määrust (EL, Euratom) 2018/1046, mis käsitleb liidu üldeelarve suhtes kohaldatavaid finantsreegleid ⏎ COM(2024)301 final ⏎ 2024/0059 (COD) ⏎ Ettepanek: EUROOPA PARLAMENDI JA NÕUKOGU MÄÄRUS, mi…
+
