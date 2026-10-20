@@ -1,0 +1,98 @@
+# jooks 59
+# urlid: https://ttja.ee/ariklient/ohutus/tooted-teenused/tehisintellektisusteemid https://www.aki.ee/tehisaru/tehisaru-ja-andmekaitse/tehisintellekti-maarus
+# otsi: QQmarkoigusavalik8 || turujärelevalve|järelevalve|järelevalvaja || rakendus|seaduse|eelnõu || määrat|määratud|määramine|määrab
+
+##### https://ttja.ee/ariklient/ohutus/tooted-teenused/tehisintellektisusteemid
+kood=200 lõpp-URL=https://ttja.ee/ariklient/ohutus/tooted-teenused/tehisintellektisusteemid tüüp=text/html; charset=utf-8 baite=212024 teksti=20422
+--- algus ---
+
+Tehisintellektisüsteemid | Tarbijakaitse ja Tehnilise Järelevalve Amet
+      Liigu edasi põhisisu juurde
+Juurdepääsetavus
+Rohkem infot juurdepääsetavuse kohta on leitav 
+siit
+. 
+Kontrast
+                        Vaikimisi seaded
+                      Must ja kollane tekst
+Taasta algseaded
+Kinnita valik
+Juurdepääsetavus
+Eraklient
+Äriklient
+EST
+RUS
+ENG
+        EST
+EST
+RUS
+ENG
+ E-teenused
+        E-teenused
+E-teenused
+                JVIS - Tarbijakaitse ja Tehnilise Järelevalve Ameti infosüsteem
+Enda või ettevõttega seotud päringute, taotluste ja teavituste teostamiseks tuleb Teil sisse logida.
+
+--- /QQmarkoigusavalik8/ : 0 vastet ---
+--- /turujärelevalve|järelevalve|järelevalvaja/ : 16 vastet ---
+… ⏎ Tehisintellektisüsteemid | Tarbijakaitse ja Tehnilise Järelevalve Amet ⏎       Liigu edasi põhisisu juurde ⏎ Juurdepääsetavus ⏎ Rohkem infot juurdepääsetavuse kohta on leitav  ⏎ siit ⏎ .  ⏎ Kontrast ⏎                         Vaikimisi seaded ⏎                       Must ja kollane tekst ⏎ Taasta algseaded ⏎ Kinnita valik ⏎ Juurdepääsetavus ⏎ Eraklient ⏎ Äriklient ⏎ EST ⏎ RUS ⏎ ENG ⏎         EST ⏎ EST ⏎ RUS ⏎ ENG ⏎  E-teenused ⏎         E-teenused ⏎ E-teenused ⏎                 JVIS - Tarbijakaitse ja Tehnilise Järelevalve Ameti infosüsteem ⏎ Enda või ettevõttega seotud päringute, taotluste ja teavituste teostamiseks tuleb Teil sisse logida. ⏎                 JVIS-s volitamine ⏎ Ettevõtete ja asutuste andmete vaatamiseks ning toimingute tegemiseks tuleb infosüsteemi lisada volitus. ⏎                 …
+
+…ita valik ⏎ Juurdepääsetavus ⏎ Eraklient ⏎ Äriklient ⏎ EST ⏎ RUS ⏎ ENG ⏎         EST ⏎ EST ⏎ RUS ⏎ ENG ⏎  E-teenused ⏎         E-teenused ⏎ E-teenused ⏎                 JVIS - Tarbijakaitse ja Tehnilise Järelevalve Ameti infosüsteem ⏎ Enda või ettevõttega seotud päringute, taotluste ja teavituste teostamiseks tuleb Teil sisse logida. ⏎                 JVIS-s volitamine ⏎ Ettevõtete ja asutuste andmete vaatamiseks ning toimingute tegemiseks tuleb infosüsteemi lisada volitus. ⏎                 Tarbijavaidluste komisjon ⏎ Esita avaldus tarbijavaidluste komisjoni ⏎                 Tarbijavaidluste komisjoni otsused ⏎ Võimaldab vaadata kõiki tarbijavaidluste komisjoni otsuseid ⏎                 Tarbijavaidluste komisjoni must nimekiri ⏎ Kuvab tarbijavaidluste komisjoni otsuseid mitte täitnud ettevõtteid ⏎                 Majandustegevuse register ⏎                 Lubade ja tunnistuste kehtivuse kontroll ⏎ Võimaldab ko…
+
+…  Raudteeliiklusregister ⏎ Kuvab registrisse kantud raudteeveeremit ⏎                 Ettevõtte ohtlikkuse kalkulaator ⏎                 Tarvik ⏎ Tarvik on Tarbijakaitse ja Tehnilise Järelevalve Ameti (TTJA) infosüsteem, mis koondab erinevaid e-teenuseid ettevõtjatele ja eraisikutele.  ⏎ Tarvikus saab hetkel teostada toiminguid 25 tegevusala majandustegevusteatega, mis on siia üle toodud Majandustegevuse Registrist (MTR). MTR toimib jätkuvalt koos Tarvikuga ning ülejäänud majandustegevusteadetega ja kõigi tegevuslubadega seonduvaid tegevusi saab teha seal. ⏎ Eraklient ⏎ Äriklient ⏎ Ettevõtlus ⏎ Vaidluse lahendamine ⏎ Vaidluse lahendamine ⏎ Ebaausad kauplemisvõtted ⏎ Ebaausad kauplemisvõtted ⏎ Välisinvesteeringu hindamine ⏎ Sanktsioonid ⏎ Tarbijakaitsenõuded tegevusalale ⏎ Reklaam ⏎ Poliitreklaam ⏎ Kaubandus ⏎ Alkohol ⏎ Tubakatooted ja nendega seonduvad tooted ⏎ E-kaubandus ⏎ Keskkonnaväited ⏎ Digiteenused ⏎ V…
+
+…raudteeliiklusregister ⏎ Raudteerajatised raudteeliiklusregistris ⏎ Raudteeveeremi registreerimine ⏎ Avaliku raudteeinfrastruktuuri läbilaskevõime ja kasutustasu ⏎ Kasutustasu määrad ⏎ Järelevalve raudtee-ettevõtjate üle ⏎ Raudtee-ettevõtete aruanded ja tähtajad ⏎ Ohutusaruanded Euroopa Raudteeametile ⏎ Vedurijuhtide koolitamine ja eksamineerimine ⏎ Vedurijuhiload, vedurijuhieksam, lisasertifikaat ⏎ Vedurijuhtide koolituskeskused ja tunnustatud eksamineerijad ⏎ Raudtee allsüsteemide ja komponentide vastavushindamine ⏎ Kasutamiseks lubatud veojõuga raudteeveeremi ning turvanguseadmete tüübid ⏎ Raudteeveeremi turule laskmise ning tüübiluba ⏎ Kaubavagunite kasutamine erinevates vaguniringluse süsteemides ⏎ Tegevusõiguste hindamine ja väljastamine ⏎ Ühtne ohutustunnistus ⏎ Tegutsemise ohutustunnistus ⏎ Ohutusluba ⏎ ECM-sertifikaat ⏎ Raudteeveeremi tehnohoolde ja/või remondi tegevusluba ⏎ Raudteeõigus ⏎ EL raud…
+
+--- /rakendus|seaduse|eelnõu/ : 3 vastet ---
+…duuksemüük ⏎ Turism ja reisiettevõtjad ⏎ Finantsteenused ⏎ Nõuded sideteenuse osutamisele ⏎ Ohutus ⏎ Vastutustundliku ettevõtluse kontaktpunkt ⏎ Ligipääsetavus ⏎ Avaliku sektori veebide ja rakenduste digiligipääsetavus ⏎ Toodete ligipääsetavus ⏎ Teenuste digiligipääsetavus ⏎ Ohutus ⏎ Tooted, teenused ⏎ Mänguasjad ⏎ Kosmeetika ⏎ Rõivad ja jalatsid ⏎ Väärismetalltooted ⏎ Isikukaitsevahendid ⏎ Gaasi- ja surveseadmed ⏎ Elektriseadmed ⏎ Raadioseadmed ⏎ Ühtse laadija nõuded ⏎ Ehitustooted ⏎ Vabaajateenused ⏎ Pürotehnika, ilutulestik ⏎ Seadmete energiatõhusus ⏎ Kestlike toodete ökodisain ⏎ Legaalmetroloogia ⏎ Droonid ⏎ Tehisintellektisüsteemid ⏎ Muud tooted ⏎ Paigaldised ja masinad ⏎ Gaasipaigaldised ⏎ Surveseadmete paigaldised ⏎ Elektripaigaldised ⏎ Liftid, eskalaatorid ⏎ Tõstuksed ⏎ Elektrilised liikumisvahendid ⏎ Masinad ⏎ Ainete käitlemine ⏎ Laske- ja lahingumoon ⏎ Kemikaalide käitlemine ⏎ Pürotehnika, ilutulestik ja lõhkematerjalid ⏎ Täitematerjal…
+
+… küsida ⏎ TTJA-l kui järelevalveasutusel on õigus küsida alljärgnevaid andmeid ja dokumente, kuid loetelu ei ole lõplik ning sõltuvalt olukorrast võib nõuda lähtuvalt kehtivast seadusest ka muid materjale. ⏎ Dokumentatsiooni ja andmestikke, mida kasutati süsteemi treenimiseks, valideerimiseks, testimiseks ja automaatselt genereeritud logisid; ⏎ juurdepääsu süsteemi lähtekoodile; ⏎ teavet, mis on vajalik suure riskiga süsteemi vastavuse hindamiseks, sh ka isikuandmeid, kui see on seotud õiguskaitse-, piirikontrolli- või õigusemõistmise valdkondadega; ⏎ pakkujalt parandusmeetmete kasutusele võtmist (nt süsteemi turult kõrvaldamine, uuesti treenimine või tagasi kutsumine). ⏎ Soovitused kasutajatele ⏎ Teavitus ja teadlikkus: kontrolli, kas kasutatav AI rakendus või teenus informeerib, et tegemist on AI-süsteemiga. Ole teadlik, kui suhtled juturobotiga või tarbid AI loodud sisu (nt…
+
+…mete kasutusele võtmist (nt süsteemi turult kõrvaldamine, uuesti treenimine või tagasi kutsumine). ⏎ Soovitused kasutajatele ⏎ Teavitus ja teadlikkus: kontrolli, kas kasutatav AI rakendus või teenus informeerib, et tegemist on AI-süsteemiga. Ole teadlik, kui suhtled juturobotiga või tarbid AI loodud sisu (nt pildid, videod, tekstid). ⏎ Õiguste kaitse: tea, et sul on õigus saada selge info AI kasutamise kohta, sh milliseid andmeid süsteem töötleb, kogub ja milliseid otsuseid see mõjutab. ⏎ Riskide vältimine: ära jaga AI-süsteemidega tundlikke isikuandmeid (isikukood, paroolid, pin koodid). Veendu, et süsteemi pakkuja annab piisava teabe andmete kasutamise kohta. ⏎ Milliste süsteemide üle hakkab TTJA järelevalvet teostama? ⏎ Ava kõik ⏎ Tooted ⏎ Tulevikus kuuluvad TTJA järelevalve alla tehisintellekti kasutavad tooted, sealhulgas  ⏎ masinad ⏎ ,  ⏎ mänguasjad ⏎ ,  ⏎ liftid ja lifti ohutussead…
+
+--- /määrat|määratud|määramine|määrab/ : 0 vastet ---
+
+##### https://www.aki.ee/tehisaru/tehisaru-ja-andmekaitse/tehisintellekti-maarus
+kood=200 lõpp-URL=https://www.aki.ee/tehisaru/tehisaru-ja-andmekaitse/tehisintellekti-maarus tüüp=text/html; charset=UTF-8 baite=210331 teksti=26624
+--- algus ---
+
+Tehisintellekti määrus | Andmekaitse Inspektsioon
+      Liigu edasi põhisisu juurde
+Juurdepääsetavus
+Juurdepääsetavuse teatis
+Kontrast
+                        Vaikesätted
+                      Must ja kollane tekst
+Taasta algseaded
+Kinnita valik
+Juurdepääsetavus
+EST
+ENG
+        EST
+EST
+ENG
+ PÖÖRDUMISVORMID
+        PÖÖRDUMISVORMID
+PÖÖRDUMISVORMID
+                Nõuandetelefon
+Andmekaitse Inspektsiooni nõuandetelefon 5620 2341 aitab jõuda pöördujal õigete vastusteni, esmaspäevast neljapäevani vahemikus 13.00-16.00.
+                Selgitustaotlus
+Selgitustaotlusega saate inspektsioonilt küsida
+--- /QQmarkoigusavalik8/ : 0 vastet ---
+--- /turujärelevalve|järelevalve|järelevalvaja/ : 1 vastet ---
+…eb eristada tehisintellektisüsteemide mõistest. Üldotstarbelisi tehisintellektimudeleid treenitakse tavaliselt suurte andmehulkadega mitmesuguste meetodite abil, näiteks enesejärelevalve all toimuv õpe, juhendamata õpe ja stiimulõpe. Üldotstarbelisi tehisintellektimudeleid võib turule lasta mitmel viisil, sealhulgas raamatukogude, rakendusliideste (API), otse allalaadimise kaudu või füüsilise koopiana. Neid mudeleid võib omakorda muuta või peenhäälestada uuteks mudeliteks.   ⏎ Mis vahe on tehisintellektimudelil ja -süsteemil?  ⏎ Kuigi tehisintellektimudelid on tehisintellektisüsteemide olulised komponendid, ei ole need eraldiseisvad tehisintellektisüsteemid. Tehisintellektisüsteemideks saamiseks on tehisintellektimudelitele vaja lisada täiendavaid komponente, näiteks kasutajaliides. Tehisintellektimudelid on tavaliselt integreeritud tehisintellektisüsteemidesse ja mo…
+
+--- /rakendus|seaduse|eelnõu/ : 3 vastet ---
+…ldajale ⏎ Teabenõude täitmine ⏎ Dokumendiregistri pidamine ⏎ Juurdepääsupiiranguga teave ⏎ Andmekogude kooskõlastamine ⏎ Avaliku teabe taaskasutamine (avaandmed) ⏎ Juhendid ⏎ Avaliku teabe seaduse üldjuhend ⏎ Eraõiguslike avaliku teabe valdajate juhend ⏎ Andmekogude juhend ⏎ AKI menetluskord riigi infosüsteemi haldussüsteemis ⏎ Avaliku teabe õppevideod ⏎ KKK ⏎ Avalik teave ⏎ Teabenõue ⏎ Juurdepääsupiirang ⏎ Dokumendiregister ⏎ Rahvusvaheline  ⏎ Piiriülene koostöö ⏎ Koostöö  ⏎ Uudised ⏎ Kohtupraktika ja suunised ⏎ Kohtupraktika ⏎ Euroopa Andmekaitsenõukogu suunised ⏎ Andmete vaba liikumine ⏎ Piiriülesed menetlused ⏎ Isikuandmete edastamine välisriiki ⏎ Andmed rahvusvahelistes infosüsteemides ⏎ Viisainfosüsteem ⏎ Schengeni infosüsteem  ⏎ Tolliinfosüsteem ⏎ Riigist lahkumise ja sisenemise süsteem EES ⏎ Uued rahvusvahelised infosüsteemid ⏎ Euroopa andmestrateegia ⏎ Andmemäärus ⏎ Digiturgude määrus ⏎ Digivaldkonna koondpaketid (Digital Om…
+
+…tes ⏎ Õigustatud huvi ⏎ Juhend kaamerate kasutamise kohta ⏎ Andmeturbe soovitused e-poodidele ⏎ Ühisjuhend: Abivajavast lapsest teatamine ja andmekaitse ⏎ Teabe avalikkus ⏎ Avaliku teabe seaduse üldjuhend ⏎ Eraõiguslike avaliku teabe valdajate juhend ⏎ Andmekogude juhend ⏎ AKI menetluskord riigi infosüsteemi haldussüsteemis ⏎ Avaliku teabe õppevideod ⏎ Kõik juhendid ⏎ Tehisaru ⏎ Tehisaru ja andmekaitse ⏎ Tehisintellekti määrus ⏎ Isikuandmete kaitse ⏎ Teadlikkus ja inimese õigused ⏎ Tehisaru kasutusele võtjale ⏎ Lisalugemist ⏎ Tehisaru kasutuselevõtt tervishoius eeldab läbimõeldud andmetöötlust ⏎ Tähelepanu juhtimine: Üldotstarbelise tehisintellekti kasutamine tervishoius ⏎ Vastus selgitustaotlusele: Tehisintellektipõhine dokumenteerimistarkvara tervishoiuteenuste osutamisel ⏎ Meist  ⏎ Kontaktid ⏎ Kõik kontaktid ⏎ Küsi Bürokratilt ⏎ Nõuandetelefon: 5620 2341 E-N 13.00-16.00   ⏎ [email protected] ⏎ Meediapäringud:  ⏎ [ema…
+
+…il, näiteks enesejärelevalve all toimuv õpe, juhendamata õpe ja stiimulõpe. Üldotstarbelisi tehisintellektimudeleid võib turule lasta mitmel viisil, sealhulgas raamatukogude, rakendusliideste (API), otse allalaadimise kaudu või füüsilise koopiana. Neid mudeleid võib omakorda muuta või peenhäälestada uuteks mudeliteks.   ⏎ Mis vahe on tehisintellektimudelil ja -süsteemil?  ⏎ Kuigi tehisintellektimudelid on tehisintellektisüsteemide olulised komponendid, ei ole need eraldiseisvad tehisintellektisüsteemid. Tehisintellektisüsteemideks saamiseks on tehisintellektimudelitele vaja lisada täiendavaid komponente, näiteks kasutajaliides. Tehisintellektimudelid on tavaliselt integreeritud tehisintellektisüsteemidesse ja moodustavad osa tehisintellektisüsteemist.   ⏎ Millal kehtivad mudelitele määruse nõuded?  ⏎ Määruses sätestatakse erinormid üldotstarbeliste tehisintellektimudelit…
+
+--- /määrat|määratud|määramine|määrab/ : 3 vastet ---
+…test  ⏎ Tehisintellekt: nõukogu ja parlament leppisid kokku normide lihtsustamises ja ühtlustamises - Consilium. ⏎ Kohaldumise algus ⏎ Kohalduvad reeglid ⏎ 2.11.2024 ⏎ Artikkel 77 (FRA määramine)  ⏎ 2.02.2025 ⏎ I ja II peatükk, väljaarvatud need artikli 5 sätted, mis jõustuvad 02.12.2026  ⏎ 2.08.2025 ⏎ III peatüki IV jagu, peatükid V, VII ja XII  ⏎ 2.08.2026 ⏎ Näiteks:   ⏎ III ptk 5. jagu (standardid ja vastavushindamine)  ⏎ Artikkel 50 lg-d 1, 3, 4, 5, 6, 7  ⏎ VIII peatükk (EL andmebaas)  ⏎ IX peatükk (pädevad asutused), va art 77  ⏎ 2.12.2026 ⏎ Artikli 5 lg 1 punktid ba ja bb; lg-d 1a ja 1b  ⏎ Art 50 (2) nende pakkujate puhul, kes loovad sünteetilist sisu ja turul enne 02.08.2026  ⏎ 2.08.2027 ⏎ Artikkel 57 (liivakastid)  ⏎ Artikkel 2 lg 13 (Komisjoni kohustus): asjaomased kõrge riskiga tehisintellekti süsteemid, nõuded või kohustused, mida võidakse piirata, tingimused, mille alusel selline piirang keht…
+
+…m annab sama sisendi korral alati sama tulemuse ega õpi ega kohandu. Näiteks lihtsad arvutused, loogikareeglid või kindlate tingimustega otsustuspuud, kus iga tulemus on ette määratud.   ⏎ Tehisintellektisüsteemi keskne tunnus on see, et süsteem suudab andmete põhjal teha järeldusi ja tuletada lahendusi ka olukordades, mida ei ole täpselt ette programmeeritud. See tähendab, et süsteem kasutab mudeleid või õpib andmetest mustreid ning ei tugine ainult fikseeritud reeglitele. Tehisintellekt võib aktsepteeritavates piirides ka kohaneda.  ⏎ Kellele tehisintellekti määruse nõuded kohalduvad?  ⏎ Tehisintellekti määrus kohaldub kogu tehisintellektisüsteemi väärtusahela osalistele. Neile kes neid arendavad, turule toovad või kasutavad ja kelle tegevusel on seos Euroopa Liiduga. Määrusest tulenevate nõuete kohaldumine sõltub nii osapoole rollist kui kasutusviisist.  ⏎ Määruses er…
+
+…istet võidakse defineerida erinevates dokumentides ja organisatsioonide käsitlustes mõnevõrra erinevalt. Siinne selgitus lähtub Euroopa Liidu tehisintellekti määruses olevast määratlusest.  ⏎ TI-süsteem on masinpõhine süsteem, mis kasutab andmeid ning suudab nende põhjal ise järeldusi teha ja tulemusi luua. Süsteem võib töötada osaliselt iseseisvalt ega vaja iga tegevuse jaoks inimese otsest sekkumist. TI-süsteem võib olla kohanemisvõimeline.  ⏎ Tehisintellektisüsteem:  ⏎ saab sisendandmeid (nt tekst, pildid, numbrid);  ⏎ analüüsib neid (otsib mustreid või seoseid);  ⏎ teeb järeldusi ja loob nende pinnalt väljundi, näiteks soovituse, otsuse, prognoosi, teksti või pildi;  ⏎ võib mõjutada inimeste valikuid või teenuste toimimist nii päriselus kui ka digikeskkonnas;  ⏎ võib olla kohanemisvõimeline, st omada iseõppimisvõimet, mis võimaldab süsteemil kasutamise ajal muutuda.  ⏎ Näite…
+
