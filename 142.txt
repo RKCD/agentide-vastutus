@@ -1,0 +1,21 @@
+# jooks 142
+# urlid: https://publications.europa.eu/resource/celex/52023PC0367
+# otsi: QQmarkoigus_tehingN4 || Artikkel 5[0-9]\s || autoriseerimata maksetehingu
+
+##### https://publications.europa.eu/resource/celex/52023PC0367
+kood=300 lõpp-URL=https://publications.europa.eu/resource/celex/52023PC0367 tüüp=application/xhtml+xml;charset=UTF-8 baite=1075 teksti=340
+--- algus ---
+300 Multiple-Choice Response
+ List of URI's:
+cellar:04cc5bd5-196f-11ee-806b-01aa75ed71a1.0007.03
+&nbsp;-&nbsp;
+&nbsp;
+(http://publications.europa.eu/resource/cellar/04cc5bd5-196f-11ee-806b-01aa75ed71a1.0007.03/DOC_1)
+1
+&nbsp;-&nbsp;
+&nbsp;
+(http://publications.europa.eu/resource/cellar/04cc5bd5-196f-11ee-806b-01aa75ed71a1.0007.03/DOC_2)
+2
+--- /QQmarkoigus_tehingN4/ : 0 vastet ---
+--- /Artikkel 5[0-9]\s/ : 0 vastet ---
+--- /autoriseerimata maksetehingu/ : 0 vastet ---
