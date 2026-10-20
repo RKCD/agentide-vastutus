@@ -42,7 +42,7 @@ jobs:
         run: |
           args=()
           if [ -n "$OTSI" ]; then
-            while IFS= read -r m; do [ -n "$m" ] && args+=(--otsi "$m"); done < <(printf '%s' "$OTSI" | sed 's/ || /\n/g')
+            while IFS= read -r m || [ -n "$m" ]; do [ -n "$m" ] && args+=(--otsi "$m"); done < <(printf '%s' "$OTSI" | sed 's/ || /\n/g')
           fi
           # shellcheck disable=SC2086
           python agents/allikas.py $URLID --algus "$ALGUS" --keel "$KEEL" "${args[@]}"
