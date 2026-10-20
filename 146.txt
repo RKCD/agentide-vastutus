@@ -1,0 +1,145 @@
+# jooks 146
+# urlid: https://eelnoud.valitsus.ee/main/mount/docList/f2a4264c-32b5-40d6-b816-e952b0aa09d2
+# otsi: QQmarkoigus_andmed_turvalisus_too14
+
+##### https://eelnoud.valitsus.ee/main/mount/docList/f2a4264c-32b5-40d6-b816-e952b0aa09d2
+kood=200 lõpp-URL=https://eelnoud.valitsus.ee/main/mount/docList/f2a4264c-32b5-40d6-b816-e952b0aa09d2 tüüp=text/html;charset=UTF-8 baite=393567 teksti=54935
+--- algus ---
+
+Platvormitöö seadus – EIS
+Eelnõude infosüsteem
+Täpne otsing
+|
+Abiinfo
+          Avaleht
+Dokumendid
+Logi sisse
+Ava/Sulge
+Riigisisesed dokumendid
+Ava/Sulge
+HTM. Haridus- ja Teadusministeerium
+Ava/Sulge
+JDM. Justiits- ja Digiministeerium
+Ava/Sulge
+KAM. Kaitseministeerium
+Ava/Sulge
+KLIM. Kliimaministeerium
+Ava/Sulge
+KUM. Kultuuriministeerium
+Ava/Sulge
+MKM. Majandus- ja Kommunikatsiooniministeerium
+Ava/Sulge
+REM. Regionaal- ja Põllumajandusministeerium
+Ava/Sulge
+RAM. Rahandusministeerium
+Ava/Sulge
+SIM. Siseministeerium
+Ava/Sulge
+SOM. Sotsiaalministeerium
+Ava/Sulge
+VÄM. Välisministeerium
+Ava/Sulge
+RK. Riigikantselei
+Ava/Sulge
+RIIGIKOGU. Riigikogu
+Ava/Sulge
+Euroopa Liidu dokumendid
+Ava/Sulge
+1. Üld ja institutsionaalsed küsimused (general and institutional matters)
+Ava/Sulge
+1.1. Üldised küsimused (general and institutional matters)
+1.1.1. Üldised küsimused (general and institutional matters)
+1.1.2. Üldasjade nõukogu (General Affairs Council)
+1.1.3. Üldasjade töörühm (WP on General Affairs)
+1.1.4. Uute ehitiste töörühm (WP on New Buildings)
+1.1.5. Eesistujariigi sõprade rühm (Friends of the Presidency Group)
+1.1.6. Kestliku arengu 2030 töörühm (WP on The Agenda 2030 for Sustainable Development (Agenda 2030))
+1.1.7. Integreeritud kord poliitiliseks reageerimiseks kriisidele (IPCR)
+Ava/Sulge
+1.2. Euroopa Kohus (Court of Justice)
+1.2.1. Euroopa Kohus, Esimese astme kohus, Avaliku teenistuse kohus (Court of Justice, Court of First Instance, European Union Civil Service Tribunal )
+1.2.2. Euroopa Kohtu töörühm (WP on the Court of Justice)
+Ava/Sulge
+1.3. Rahvusvaheline kriminaalkohus (Internal Criminal Court)
+Ava/Sulge
+1.4. Ombudsman (European Ombudsman)
+Ava/Sulge
+1.5. Euroopa Parlament
+Ava/Sulge
+1.6. Ülemkogu (European Council)
+Ava/Sulge
+1.7. Ministrite nõukogud
+Ava/Sulge
+1.8. Alalised esindajad
+1.8.1. Alaliste esindajate komitee (COREPER)
+1.8.2. Alaliste esindajate komitee I (COREPER I)
+1.8.3. Alaliste esindajate komitee II (COREPER II)
+1.8.4. Antici rühm (Antici Group)
+1.8.5. Mertensi rühm (Mertens Group)
+1.8.6. Nõunikud/atašeed (Councellors/Attaches)
+Ava/Sulge
+1.9. Horisontaalsed strateegiad, töökorraldus ja tööplaanid
+Ava/Sulge
+1.10. Haldus- ja personalieeskirjad (Administration and staff regulations)
+1.10.1. Haldus- ja personalieeskirjad (Administration and staff regulations)
+1.10.2. Personalieeskirjade töörühm (WP on the Staff Regulations)
+Ava/Sulge
+1.11. Esindajate nimetamine
+Ava/Sulge
+1.12. Õigusaktide keelelis-juriidilised parandused ja kodifitseerimine (Legal/lingvistic experts and codification)
+1.12.1. Õigusaktide keelelis-juriidilised parandused (Legal/lingvistic experts)
+1.12.2. Õiguskeele ekspertide töörühm (WP of Legal/Linguistic Experts)
+1.12.3. Juriidliste andmete töötlemine (Legal data processing)
+1.12.4. Õigusaktide kodifitseerimise töörühm (WP on Codification of Legislation)
+Ava/Sulge
+1.13. Juurdepääs dokumentidele (Access to documents )
+1.13.1. Juurdepääs dokumentidele (Public access to documents )
+1.13.2. Informatsiooni töörühm (WP on Information)
+1.13.3. Side- ja infosüsteemide koordineerimise komitee (Coordination Committee for CIS (CCCIS))
+Ava/Sulge
+1.14. Salastatud teabe vahetus (Exchange of classified information)
+Ava/Sulge
+2. Laienemine (Enlargement)
+Ava/Sulge
+2.1. Laienemine (Enlargement)
+Ava/Sulge
+2.2. Ajutine Küprost käsitlevate nõukogu 26. aprilli 2004. aasta järelduste järelmeetmete töörühm (Ad hoc WP on the follow-up to the Council conclusions on Cyprus of 26 April 2004)
+Ava/Sulge
+2.3. Ajutine Bulgaaria ja Rumeenia koostöö- ja kontrollimehhanismi töörühm (Ad hoc Working Party on the Cooperation and Verification Mechanism for Bulgaria and Romania)
+Ava/Sulge
+2.4. Laienemise ja ELiga ühinemisläbirääkimisi pidavate riikide töörühm (WP on Enlargement and Countries Negotiating Accession to the EU)
+Ava/Sulge
+2.5. Ajutine Horvaatia ühinemislepingu ettevalmistuse töörühm (Ad hoc Working Party on Drafting the Accession Treaty with Croatia)
+Ava/Sulge
+3. Ühine välis- ja julgeolekupoliitika (Common Foreign and Security Policy)
+Ava/Sulge
+3.1. Üldine välis- ja julgeolekupoliitika (General Common Foreign and Security Policy)
+3.1.1. Üldine välis- ja julgeolekupoliitika (General Common Foreign and Security Policy)
+3.1.2. Välisasjade nõukogu (Foreign Affairs Council)
+3.1.3. Poliitika- ja julgeolekukomitee (Political and Security Committee)
+3.1.4. Poliitilis-sõjaline töörühm (Politico- Military WP (PMG))
+3.1.5. ÜVJP haldusasjade ja protokolli töörühm (WP on CFSP Administrative Affairs and Protocol)
+Ava/Sulge
+3.2. Tsiviilsed kriisireguleerimisoperatsioonid (Civilian crises management operations)
+3.2.1. Tsiviilsed kriisireguleerimisoperatsioonid (Civilian crises management operations)
+3.2.2. Kriisiohje tsiviilaspektide komitee (Committee for Civilian Aspects of Crises Management)
+Ava/Sulge
+3.3. Sõjalised kriisireguleerimisoperatsioonid (Military crises management operations)
+3.3.1. Sõjalised kriisireguleerimisoperatsioonid (Military crises management operations)
+3.3.2. Euroopa Liidu sõjaline komitee (Military Committee - EUMC)
+3.3.3. Julgeolekukomitee (Security Committee)
+3.3.4. Sõjalise komitee töörühm (Military Committee Working Group EUMCWG)
+Ava/Sulge
+3.4. Terrorismi välispoliitilised aspektid (Terrorism International aspects)
+3.4.1. Terrorismi välispoliitilised aspektid (Terrorism International aspects)
+3.4.2. Terrorismi töörühm (rahvusvahelised aspektid) (WP on Terrorism (International aspects) COTER)
+Ava/Sulge
+3.5. Sõjalised ja kahesugused kaubad (Military goods, Dual-use goods)
+3.5.1. Sõjalised ja kahesugused kaubad (Military goods, Dual-use goods)
+3.5.2. Massihävitusrelvade leviku tõkestamise töörühm (WP on Non- Proliferation)
+3.5.3. Tavarelvastuse ekspordi töörühm (WP on Conventional Arms Exports COARM)
+3.5.4. Ülemaailmse desarmeerimise ja relvastuskontrolli töörühm (WP on Global Disarment and Arms Control)
+3.5.5. Kahesuguse kasutusega kaupade töörühm (WP on Dual- Use Goods)
+3.5.6. Euroopa relvastuspoliitika töörühm (WP on European Arms Policy)
+3.5.7. Nicolaidise rühm (Nicolaidi
+--- /QQmarkoigus_andmed_turvalisus_too14/ : 0 vastet ---
