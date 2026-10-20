@@ -1,0 +1,817 @@
+# jooks 63
+# urlid: https://ttja.ee/ariklient/ohutus/tooted-teenused/tehisintellektisusteemid https://www.aki.ee/tehisaru/tehisaru-ja-andmekaitse/tehisintellekti-maarus
+# otsi: QQmarkoigusavalik9
+
+##### https://ttja.ee/ariklient/ohutus/tooted-teenused/tehisintellektisusteemid
+kood=200 lõpp-URL=https://ttja.ee/ariklient/ohutus/tooted-teenused/tehisintellektisusteemid tüüp=text/html; charset=utf-8 baite=212024 teksti=20422
+--- algus ---
+
+Tehisintellektisüsteemid | Tarbijakaitse ja Tehnilise Järelevalve Amet
+      Liigu edasi põhisisu juurde
+Juurdepääsetavus
+Rohkem infot juurdepääsetavuse kohta on leitav 
+siit
+. 
+Kontrast
+                        Vaikimisi seaded
+                      Must ja kollane tekst
+Taasta algseaded
+Kinnita valik
+Juurdepääsetavus
+Eraklient
+Äriklient
+EST
+RUS
+ENG
+        EST
+EST
+RUS
+ENG
+ E-teenused
+        E-teenused
+E-teenused
+                JVIS - Tarbijakaitse ja Tehnilise Järelevalve Ameti infosüsteem
+Enda või ettevõttega seotud päringute, taotluste ja teavituste teostamiseks tuleb Teil sisse logida.
+                JVIS-s volitamine
+Ettevõtete ja asutuste andmete vaatamiseks ning toimingute tegemiseks tuleb infosüsteemi lisada volitus.
+                Tarbijavaidluste komisjon
+Esita avaldus tarbijavaidluste komisjoni
+                Tarbijavaidluste komisjoni otsused
+Võimaldab vaadata kõiki tarbijavaidluste komisjoni otsuseid
+                Tarbijavaidluste komisjoni must nimekiri
+Kuvab tarbijavaidluste komisjoni otsuseid mitte täitnud ettevõtteid
+                Majandustegevuse register
+                Lubade ja tunnistuste kehtivuse kontroll
+Võimaldab kontrollida rajatiste, paigaldiste ja seadmete lubade kehtivust
+                Raudteeliiklusregister
+Kuvab registrisse kantud raudteeveeremit
+                Ettevõtte ohtlikkuse kalkulaator
+                Tarvik
+Tarvik on Tarbijakaitse ja Tehnilise Järelevalve Ameti (TTJA) infosüsteem, mis koondab erinevaid e-teenuseid ettevõtjatele ja eraisikutele. 
+Tarvikus saab hetkel teostada toiminguid 25 tegevusala majandustegevusteatega, mis on siia üle toodud Majandustegevuse Registrist (MTR). MTR toimib jätkuvalt koos Tarvikuga ning ülejäänud majandustegevusteadetega ja kõigi tegevuslubadega seonduvaid tegevusi saab teha seal.
+Eraklient
+Äriklient
+Ettevõtlus
+Vaidluse lahendamine
+Vaidluse lahendamine
+Ebaausad kauplemisvõtted
+Ebaausad kauplemisvõtted
+Välisinvesteeringu hindamine
+Sanktsioonid
+Tarbijakaitsenõuded tegevusalale
+Reklaam
+Poliitreklaam
+Kaubandus
+Alkohol
+Tubakatooted ja nendega seonduvad tooted
+E-kaubandus
+Keskkonnaväited
+Digiteenused
+Väljaspool äriruume sõlmitav leping
+Telefoni- ja koduuksemüük
+Turism ja reisiettevõtjad
+Finantsteenused
+Nõuded sideteenuse osutamisele
+Ohutus
+Vastutustundliku ettevõtluse kontaktpunkt
+Ligipääsetavus
+Avaliku sektori veebide ja rakenduste digiligipääsetavus
+Toodete ligipääsetavus
+Teenuste digiligipääsetavus
+Ohutus
+Tooted, teenused
+Mänguasjad
+Kosmeetika
+Rõivad ja jalatsid
+Väärismetalltooted
+Isikukaitsevahendid
+Gaasi- ja surveseadmed
+Elektriseadmed
+Raadioseadmed
+Ühtse laadija nõuded
+Ehitustooted
+Vabaajateenused
+Pürotehnika, ilutulestik
+Seadmete energiatõhusus
+Kestlike toodete ökodisain
+Legaalmetroloogia
+Droonid
+Tehisintellektisüsteemid
+Muud tooted
+Paigaldised ja masinad
+Gaasipaigaldised
+Surveseadmete paigaldised
+Elektripaigaldised
+Liftid, eskalaatorid
+Tõstuksed
+Elektrilised liikumisvahendid
+Masinad
+Ainete käitlemine
+Laske- ja lahingumoon
+Kemikaalide käitlemine
+Pürotehnika, ilutulestik ja lõhkematerjalid
+Täitematerjalid
+Välisriigi kutsekvalifikatsiooni tunnustamine
+Õnnetusest teavitamine
+Turult kõrvaldatud ohtlikud tooted
+EL kiirhoiatussüsteem Safety Gate
+CE-märgis
+Toote tagasinõudmise A ja O
+Ehitised, ehitamine
+Ehitamine
+Ehitised
+Avalikud mänguväljakud
+Hoonestusluba
+Raudtee ehitamine
+Tegevused raudtee kaitsevööndis
+Ventilatsioonisüsteemide töö viiruse tõkestamiseks
+Ehitusalane ettevõtlus
+Kutsekvalifikatsioon
+Ehitisregister (EHR)
+Ligipääsetavus
+Energiatõhusus
+Suurettevõtete energiaauditid
+Ehitusvaldkonna teated
+Keskkonnamõju hindamise teated
+Keskkonnamõju hindamisega seotud teated alates 2025. aasta mai
+Riigimaale hoonestusõiguse seadmise teated
+Riigimaale hoonestusõiguse seadmise teated (alates 2026)
+Muud ehitusvaldkonna teated
+Ehitusvaldkonna teated (alates 2025)
+MERETUULEPARKIDE HOONESTUSLOAD
+Õigusaktid
+Mereala planeering
+Algatatud meretuuleparkide hoonestusloa menetlused
+KKK
+Teated
+Enampakkumise teated
+Enampakkumise võitjad
+Raudtee
+Riiklik raudteeliiklusregister
+Raudteerajatised raudteeliiklusregistris
+Raudteeveeremi registreerimine
+Avaliku raudteeinfrastruktuuri läbilaskevõime ja kasutustasu
+Kasutustasu määrad
+Järelevalve raudtee-ettevõtjate üle
+Raudtee-ettevõtete aruanded ja tähtajad
+Ohutusaruanded Euroopa Raudteeametile
+Vedurijuhtide koolitamine ja eksamineerimine
+Vedurijuhiload, vedurijuhieksam, lisasertifikaat
+Vedurijuhtide koolituskeskused ja tunnustatud eksamineerijad
+Raudtee allsüsteemide ja komponentide vastavushindamine
+Kasutamiseks lubatud veojõuga raudteeveeremi ning turvanguseadmete tüübid
+Raudteeveeremi turule laskmise ning tüübiluba
+Kaubavagunite kasutamine erinevates vaguniringluse süsteemides
+Tegevusõiguste hindamine ja väljastamine
+Ühtne ohutustunnistus
+Tegutsemise ohutustunnistus
+Ohutusluba
+ECM-sertifikaat
+Raudteeveeremi tehnohoolde ja/või remondi tegevusluba
+Raudteeõigus
+EL raudteevaldkonna õigusaktid
+EV raudteevaldkonna õigusaktid
+Raudtee õnnetusjuhtumist teavitamine
+Õnnetusjuhtumite statistika raudteel
+Raudtee ohutustaseme näitajad
+Side ja meediateenused
+Sideteenused
+Tarbijate kaitse
+Sideturg
+Numeratsioon
+Numbriliikuvus
+Kiire internet
+Standardimine
+Netikaart
+Küberturvalisuse sertifitseerimine
+Meediateenused
+Load
+Nõuded
+Raadiolubade konkurss 2024
+Raadioside
+Raadiosagedused
+Raadioseadmed
+Sageduste kasutamine
+Raadioamatörism
+Vee- ja õhusõiduki raadioload
+Mehitamata õhusõidukid (droonid)
+TV- ja raadioringhääling
+Sagedusloa taotlemine
+Järelevalve
+Esita häireteade
+Ametist
+Ametist
+Tutvustus ja struktuur
+TTJA 50 tegu
+Kontaktid
+Töötamine TTJA-s
+Koolitused, infopäevad
+Kohtumised lobistidega
+Tööalasest rikkumisest teavitamine
+Lisainfo ja dokumendid
+Dokumendid
+Uuringud
+Juhendid
+Isikuandmete töötlemine
+Õnnetused ja häireteated
+Tarbijakaitsetegevuse rahastamine
+Uudised ja press
+Uudised, pressiteated ja artiklid
+Infokirjad
+Kontakt ajakirjanikele:
+e-post: 
+[email protected]
+telefon: 6672153
+KONTAKTPUNKTID
+SOLVIT
+OECD vastutustundliku ettevõtluse kontaktpunkt
+Isikustamata andmete vaba liikumise kontaktpunkt
+Load ja riigilõivud
+Meediateenuste tegevusluba
+Numbriluba
+Sagedusload
+Riigilõivud
+Avalikud konkursid ja arutelud
+Sageduskonkursid
+Lairiba ja sideteenused
+Projektid
+Rail Baltic
+Rail Baltic on kiire ja rahvusvaheline elektrifitseeritud kaherööpmeline raudteetrass, mis tagab reisijatele liikumiskiiruse kuni 240 km/h (projektkiirus 249 km/h) ning loob uue võimaluse mugavalt ja kiirelt reisida marsruudil Tallinn – Pärnu – Riia - Kaunas ning sealt edasi Kesk-Euroopasse.
+Rail Baltic
+Keskkonnamõjude hindamine (KMH)
+Interaktiivne kaart
+Avalikud teated ja tegevusloa taotlused
+KKK – korduma kippuvad küsimused
+Tooted, teenused
+Mänguasjad
+Kosmeetika
+Rõivad ja jalatsid
+Väärismetalltooted
+Isikukaitsevahendid
+Gaasi- ja surveseadmed
+Elektriseadmed
+Raadioseadmed
+Ühtse laadija nõuded
+Ehitustooted
+Vabaajateenused
+Pürotehnika, ilutulestik
+Seadmete energiatõhusus
+Kestlike toodete ökodisain
+Legaalmetroloogia
+Droonid
+Tehisintellektisüsteemid
+Muud tooted
+Leivapuru
+Äriklient
+                  Ohutus
+                  Tooted, teenused
+Tehisintellektisüsteemid
+Tehisintellektisüsteemid
+Tehisintellekt (ka tehisaru) on kiiresti arenev tehnoloogia, mis võimaldab arvutitel, süsteemidel ja masinatel õppida, analüüsida andmeid ning pakkuda lahendusi sarnaselt inimese mõtlemisele. Tehisintellekti võib leida mitte ainult tarkvaras vaid ka toodetes – nutiseadmetes, virtuaalabilistest, meditsiiniseadmetes, transpordivahendites ja tööstusautomaatikas. Selle eesmärk on muuta igapäevaelu mugavamaks, tõsta tööprotsesside tõhusust ning luua uusi võimalusi erinevates valdkondades. 
+Tarbijakaitse ja Tehnilise Järelevalve Amet (TTJA) hakkab tulevikus täitma pädeva asutuse rolli tehisintellektisüsteemide järelevalves.
+Mis on tehisintellekt (AI)?
+Tehisintellekt ehk AI (Artificial Intelligence) on arvutisüsteemide võime täita ülesandeid, mis nõuavad tavaliselt inimlikku arukust, näiteks õppimine, otsustamine, kõne- ja pildituvastus või loomuliku keele mõistmine.
+Tehisintellektisüsteeme kohtame igapäevaselt: nutitelefonide assistendid (nt Siri või Google Assistant), automaatne tõlge (nt Google Translate), soovitussüsteemid (nt Netflixi või Spotify soovitused), juturobotid nt klienditeeninduse vestlusaknad), aga ka suurema riskiga valdkondades nagu meditsiin või elutähtsate teenuste toimimise tagamine.
+Tehisintellekti määruse (EL) 2024/1689 reguleerimisala
+1. august 2024 jõustus Euroopa Liidus uus tehisintellekti määrus (
+EL määrus 2024/1689)
+. Tehisintellekti määruse eesmärk on tagada, et AI kasutamine oleks turvaline, aus ja põhiõigusi kaitsev. Määrus loob selged reeglid ning nõuded arendajatele ja kasutajatele, soodustades usaldust ja innovatsiooni Euroopas.
+27.07.2026 jõustusid tehisintellekti määruse muudatused (EL määrus 2026/1744), millega kiideti heaks erinevate AI määruse nõuete lihtsustamine ning lükati edasi mitmeid tähtaegasid nõuete täitmisel. Samuti lisandusid muudatustega täiendavad keelatud kasutusjuhud.
+Tehisintellekti määruse tähtajad ja riskikategooriad
+Allpool on toodud ülevaade tehisintellekti määruse peamistest tähtaegadest ja riskitasemetest. 
+Riskikategooria
+Kirjeldus
+Tähtaeg määruses
+Keelatud
+Süsteemid, mis on vastuolus EL väärtustega (näiteks sotsiaalne hindamine, manipuleerivad süsteemid) jne.
+Alates 2. veebruar 2025  on keelatud turule ja kasutusse võtmine. Määrusega (EL) 2026/1744 lisati tehisintellekti määruse artiklisse 5 uued keelud, mis hakkavad kohalduma 2. detsembril 2026.
+Suure riskiga 
+Süsteemid, millel on oluline mõju ohutusele või põhiõigustele (näiteks kriitilise taristu juhtimine, töölevõtmise süsteemid).
+Enamiku suure riskiga tehisintellektisüsteemide suhtes hakkavad tehisintellekti määruse nõuded kehtima 2. detsembrist 2027. Toodetesse integreeritud suure riskiga tehisintellektisüsteemide puhul hakkavad nõuded kehtima 2. augustist 2028. Mõne olemasoleva avaliku sektori ja ELi suuremahulise infosüsteemi jaoks on ette nähtud pikem üleminekuaeg kuni 2030. aastani.
+Piiratud riskiga
+Süsteemid, mis vajavad läbipaistvust, kuid mille risk on väiksem (näiteks vestlusrobotid, tehisintellektiga assistendid).
+Alates 2. detsember 2026 rakendub läbipaistvuskohustus.
+Miks on järelevalve vajalik?
+EL-i tehisintellekti määrus eesmärk on tagada, et turul olevad tehisintellektid oleksid turvalised ja usaldusväärsed. 
+TTJA roll on tulevikus sarnane tavapärasele toote- ja teenuseohutuse kontrollile, kuid nüüd lisandub sellele spetsiifiline fookus tehisiintellekti komponentidele ja süsteemidele. Järelevalve on vajalik, et ennetada ja kõrvaldada võimalikke tehisintellektiga seotud ohte, kaitsta inimeste põhiõigusi ning suurendada usaldust tehisintellekti vastu. See aitab vältida diskrimineerimist ja ebaõiglast kohtlemist ning tagab läbipaistvuse, et inimesed teaksid, millal nad suhtlevad tehisintellektiga või kasutavad AI loodud sisu. 
+Teave tehisintellektide turuosalistele
+Kui oled tehisintellekti arendaja, maaletooja, levitaja või paigaldaja, võib TTJA järelevalve käigus pöörduda sinu poole, et kontrollida määruse nõuete täitmist, küsida lisainfot või nõuda vajalike dokumentide ja andmete esitamist. See aitab tagada, et turul olevad süsteemid oleksid ohutud, läbipaistvad ja vastaksid kehtivatele reeglitele.
+Mida võib TTJA järelevalve käigus küsida
+TTJA-l kui järelevalveasutusel on õigus küsida alljärgnevaid andmeid ja dokumente, kuid loetelu ei ole lõplik ning sõltuvalt olukorrast võib nõuda lähtuvalt kehtivast seadusest ka muid materjale.
+Dokumentatsiooni ja andmestikke, mida kasutati süsteemi treenimiseks, valideerimiseks, testimiseks ja automaatselt genereeritud logisid;
+juurdepääsu süsteemi lähtekoodile;
+teavet, mis on vajalik suure riskiga süsteemi vastavuse hindamiseks, sh ka isikuandmeid, kui see on seotud õiguskaitse-, piirikontrolli- või õigusemõistmise valdkondadega;
+pakkujalt parandusmeetmete kasutusele võtmist (nt süsteemi turult kõrvaldamine, uuesti treenimine või tagasi kutsumine).
+Soovitused kasutajatele
+Teavitus ja teadlikkus: kontrolli, kas kasutatav AI rakendus või teenus informeerib, et tegemist on AI-süsteemiga. Ole teadlik, kui suhtled juturobotiga või tarbid AI loodud sisu (nt pildid, videod, tekstid).
+Õiguste kaitse: tea, et sul on õigus saada selge info AI kasutamise kohta, sh milliseid andmeid süsteem töötleb, kogub ja milliseid otsuseid see mõjutab.
+Riskide vältimine: ära jaga AI-süsteemidega tundlikke isikuandmeid (isikukood, paroolid, pin koodid). Veendu, et süsteemi pakkuja annab piisava teabe andmete kasutamise kohta.
+Milliste süsteemide üle hakkab TTJA järelevalvet teostama?
+Ava kõik
+Tooted
+Tulevikus kuuluvad TTJA järelevalve alla tehisintellekti kasutavad tooted, sealhulgas 
+masinad
+, 
+mänguasjad
+, 
+liftid ja lifti ohutusseadised
+, 
+köisteed
+, plahvatusohtlikus keskkonnas kasutatavad seadmed ja kaitsesüsteemid, 
+raadioseadmed
+, 
+surveseadmed
+, 
+isikukaitsevahendid
+, küttegaasi põletavad seadmed ning raudteesüsteemi koostalitlus.
+Valdkonnad
+Lisaks kuulub tulevikus TTJA järelevalve alla tehisintellekti kasutamine suurema riskiga valdkondades, nagu elutähtis taristu, haridus ja kutseõpe, tööohutus, töötajate juhtimine ja iseenda tööandjana tegutsemine, oluliste era- ja avalike teenuste kättesaadavus ja kasutamine.
+Keelatud tehisintellekti kasutusjuhud
+TTJA ülesanne tulevikus on tagada, et Eestis ei rakendataks tehisintellekti keelatud eesmärkidel, näiteks inimeste sihilik manipuleerimine tehisintellekti abil, inimeste haavatavuse ärakasutamine või sotsiaalne hindamine (social scoring).
+Läbipaistvuskohustused
+TTJA hakkab tulevikus jälgima läbipaistvusnõuete täitmist. Inimesi tuleb teavitada, kui nad suhtlevad tehisintellektiga. Kui süsteem loob audio-, pildi-, video- või tekstisisu, peab see olema märgistatud kui tehislikult genereeritud ja masinloetav. Lisaks tuleb avalikustada, kui kasutatakse manipuleerivaid võtteid või süvavõltsinguid, et inimesed ei satuks eksitusse.
+Soovitused arendajatele ja pakkujatele
+Suure riskiga tehisintellektisüsteem pakkujad peavad hindama ja maandama riske ning tõsise intsidendi korral viivitamata teavitama asutusi ja esitama parandusmeetmed. Tehisintellektisüsteemi ja taristu küberturvalisus peab olema tagatud kogu elutsükli jooksul, hõlmates kaitset lekete, loata kasutuse, rünnete, juurdepääsu ja tehisintellektisüsteemi varguste eest sobivate tehniliste ja korralduslike meetmetega. Arendajatele ja pakkujatele kehtivad mitmed kohustused, mille täitmine aitab tagada nii õiguskindlust kui ka usaldusväärsust – siinkohal mõned peamised soovitused:
+Ava kõik
+Dokumentatsioon
+Koostada juba enne turule laskmist põhjalik tehniline dokumentatsioon, riskihinnang ja vastavusdeklaratsioon. See hõlmab nt treeningandmeid, testimisprotokolle ja logisid.  Tehisintellekti riskijuhtimissüsteem peaks seisnema pidevalt korduvas protsessis, mida kavandatakse ja käitatakse suure riskiga tehisintellektisüsteemi kogu elutsükli jooksul. Kõnealuse protsessi eesmärk peaks olema teha kindlaks ja maandada tehisintellektisüsteemide asjakohaseid riske tervisele, turvalisusele ja põhiõigustele. Riskijuhtimissüsteem tuleks korrapäraselt läbi vaadata ja seda ajakohastada, et tagada selle jätkuv tõhusus, samuti käesoleva määruse alusel tehtud oluliste otsuste ja võetud meetmete põhjendused ja dokumentatsioon.
+Vastavushindamine
+Suure riskiga AI-süsteemide puhul tuleb läbi viia nõutud vastavushindamine. See on protsess, mille käigus tõendatakse, kas suure riskiga tehisintellektisüsteemi kohta III peatüki 2. jaos sätestatud nõuded on täidetud (
+EUROOPA PARLAMENDI JA NÕUKOGU MÄÄRUS (EL) 2024/1689
+).
+Suure riskiga tehisintellektisüsteemid, sealhulgas üldotstarbelised mudelid, võivad turule jõuda või kasutusse minna alles pärast vastavushindamist. Pakkujad peavad kas järgima ühtlustatud standardeid ja läbima sisemise kontrolli või kasutama kolmanda osapoole hindamist, kui standardeid pole täielikult rakendatud. Vastavushindamise tulemusel väljastatakse sertifikaat, mis tõendab süsteemi nõuetele vastavust, on kehtiv piiratud aja ning võib vajaduse korral peatuda või tühistuda, kui süsteem enam tingimustele ei vasta.
+Kõrge riskiga tehisintellektisüsteemidele tuleb lisada CE-märgis, mis kinnitab EL-i nõuetele vastavust. Märgis peab olema nähtav, loetav ja püsivalt kinnitatud süsteemile, pakendile või dokumentatsioonile. Kui hindamises on osalenud teavitatud asutus, lisatakse ka tema identifitseerimisnumber. CE-märgis kinnitab ühtlasi ka teiste kohaldatavate EL-õigusaktide nõuete täitmist.
+Läbipaistvus
+Tagada, et kasutajad saavad alati teada, millal nad suhtlevad AI-ga või tarbivad AI loodud sisu. Süvavõltsingud ja manipuleeriv sisu tuleb selgelt teavitada masinloetavas vormingus märgistada. Selleks on näiteks vesimärgid, metaandmete identifitseerimine, krüptograafilised meetodid sisu päritolu ja autentsuse tõendamiseks, logimismeetodid, sõrmejäljed või muud asjakohased meetodid.
+Koostöö TTJA-ga
+Vastavalt 
+(EL) 2024/1689
+, Artikkel 21 ole tulevikus valmis esitama TTJA-le treeningandmestikke, tehnilisi faile, lähtekoodi või muid tõendeid, mis on vajalikud AI-süsteemi vastavuskontrolliks:
+Suure riskiga tehisintellektisüsteemide pakkujad peavad pädeva asutuse põhjendatud taotluse korral esitama sellele asutusele kogu teabe ja dokumentatsiooni, mis on vajalik, et tõendada suure riskiga tehisintellektisüsteemi vastavust tehisintellekti määruse 2. jaos sätestatud nõuetele, tehes seda keeles, millest asutus saab kergesti aru ning mis on asjaomase liikmesriigi poolt osutatud üks liidu institutsioonide ametlikest keeltest.
+Pädeva asutuse põhjendatud taotluse korral annavad pakkujad taotluse esitanud pädevale asutusele asjakohasel juhul ka juurdepääsu tehisintellekti määruse artikli 12 lõikes 1 osutatud suure riskiga tehisintellektisüsteemi automaatselt genereeritud logidele, kui sellised logid on nende kontrolli all.
+Pädeva asutuse saadud teavet ja dokumente käsitletakse konfidentsiaalselt.
+Vastutustundlik arendus
+Vältida tehisintellektisüsteemide loomist ja turustamist, mis võivad kuuluda keelatud kategooriasse:  
+Inimeste sihilik manipuleerimine tehisintellekti abil;
+Inimeste haavatavuse ärakasutamine;
+Sotsiaalne hindamine;
+Kuritegevuse riski profiilimine;
+Näotuvastuse ulatuslik andmete allalaadimine;
+Emotsioonituvastus töökohal ja haridusasutustes;
+Biomeetriline liigitamine tundlike tunnuste järgi;
+Õiguskaitseasutuste reaalajas biomeetriline kaugjälgimine;
+Digitaalselt alastust loov süsteem (alates 2. detsember 2026);
+Laste seksuaalset väärkohtlemist kujutav süsteem (alates 2. detsember 2026).
+Kasulikud materjalid
+Tehisintellekti süsteemide üha laiema leviku tõttu on Riigi Infosüsteemi Ameti (RIA) hinnangul vaja eraldi tähelepanu pöörata nende küberturvalisusele. Et toetada Eesti ettevõtete ja asutuste arenguplaane, pani Cybernetica AS RIA tellimusel kokku analüüsi AI tehnoloogia riskidest ja nende leevendamise võimalustest, millega tasub tutvuda kõigil, kes kavatsevad tehisaru kasutusele võtta või arendada.
+MÄÄRUS (EL) 2026/1744
+Euroopa Komisjonil on hea meel tutvustada tehisintellekti määruse nõuetele vastavuse kontrollijat (
+AI Act Compliance Checker
+) – tööriista, mis on loodud tehisintellekti määrusest tulenevate kohustuste ja nõuete selgitamiseks.
+Komisjoni suunised määruses (EL) 2024/1689 (tehisintellektimäärus) kehtestatud tehisintellekti keelatud kasutusviiside kohta 
+| 1.02 MB | PDF
+Ettevõtjatel võimalik esitada küsimusi AI määruse tõlgenduse osas
+Euroopa Komisjoni juhised suure riskiga tehisintellektisüsteemide klassifitseerimise kohta
+.
+Tehisintellekti-masinoppe-tehnoloogia-riskide-uuring-2024.pdf 
+| 6.94 MB | pdf
+TTJA on avatud koostööle ja pakub ettevõtetele tuge uute nõuete rakendamisel.
+Küsimuste korral võtke meiega julgelt ühendust: 
+[email protected]
+Viimati uuendatud 10.09.2026
+Püsi kursis ja liitu meie infokirjaga! 
+septembri infokiri
+  Liitu uudiskirjaga
+Tarbijakaitse ja Tehnilise Järelevalve Amet
+Endla 10A, 10122 Tallinn
++372 667 2000
+, E-R kell 10-15
+Tarbijate nõustamine E-N kell 10-14 telefonil 
++372 620 1707
+Kohapealne tarbijate nõustamine ainult eelneva kokkuleppe alusel.
+[email protected]
+Isikuandmete töötlemine
+TTJA otsuste vaidlustamine
+Ligipääsetavuse teatis
+Küpsised
+Kontaktid
+Liitu infokirjaga
+          Soovite saada lehel ttja.ee avaldatavaid uudiseid ja teateid e-postiga?
+Kirjutage lahtrisse oma e-posti aadress. Teile saadetakse seejärel tellimuse kinnitamiseks e-kiri koos juhistega, kuidas saate oma tellimust hiljem soovi korral muuta või lõpetada.
+Nõustun 
+privaatsuspoliitika tingimustega
+ Uudiskirja kategooriad 
+Uudiskiri
+Liitu
+
+--- /QQmarkoigusavalik9/ : 0 vastet ---
+
+##### https://www.aki.ee/tehisaru/tehisaru-ja-andmekaitse/tehisintellekti-maarus
+kood=200 lõpp-URL=https://www.aki.ee/tehisaru/tehisaru-ja-andmekaitse/tehisintellekti-maarus tüüp=text/html; charset=UTF-8 baite=210331 teksti=26624
+--- algus ---
+
+Tehisintellekti määrus | Andmekaitse Inspektsioon
+      Liigu edasi põhisisu juurde
+Juurdepääsetavus
+Juurdepääsetavuse teatis
+Kontrast
+                        Vaikesätted
+                      Must ja kollane tekst
+Taasta algseaded
+Kinnita valik
+Juurdepääsetavus
+EST
+ENG
+        EST
+EST
+ENG
+ PÖÖRDUMISVORMID
+        PÖÖRDUMISVORMID
+PÖÖRDUMISVORMID
+                Nõuandetelefon
+Andmekaitse Inspektsiooni nõuandetelefon 5620 2341 aitab jõuda pöördujal õigete vastusteni, esmaspäevast neljapäevani vahemikus 13.00-16.00.
+                Selgitustaotlus
+Selgitustaotlusega saate inspektsioonilt küsida asutuse seisukohti, tõlgendusi või praktilist infot. Selgitustaotlusele vastatakse üldjuhul 15 päeva jooksul.
+                Vaie avaliku teabe asjas
+Esitage vaie, kui teabevaldaja on jätnud teabenõudele vastamata, määranud õigusvastaselt juurdepääsupiirangu või keeldunud teabe väljastamisest.
+                Kaebus isikuandmete kaitse asjas
+Esitage enda eraelu kaitseks kaebus, kui leiate, et isikuandmete kaitse nõudeid rikutakse ja andmetöötleja poole pöördumine ei ole tulemusi andnud.
+                Kaebus maksehäire asjas
+Kaebuse maksehäire asjas saate esitada, kui isikuandmete töötlemine on seotud maksehäireregistriga ning leiate, et maksehäire andmeid on õigusvastaselt töödeldud.
+                Teabenõue
+Teabenõude saate meile esitada, kui soovite saada dokumenti, mis on Andmekaitse Inspektsioonis juba olemas. Teabenõudega võite küsida välja näiteks mingi varasema kirja või juba tehtud otsuse.
+                Saada kiri 
+Elektroonilised pöördumised palume digitaalallkirjastada ja saata info[at]aki.ee. Paberil pöördumised palume postitada aadressile:
+Andmekaitse Inspektsioon Tatari 39, 10134 Tallinn
+                Rikkumisteade
+Andmetöötleja peab rikkumisteate esitama hiljemalt 72 tundi pärast isikuandmetega seotud rikkumisest teada saamist.
+                Vaide esitamine 
+Saate esitada vaide inspektsiooni enda tegevuse peale, kui soovite, et vaadatakse üle inspektsiooni otsus või tegevus, mis puudutab Teie õigusi. Vaie tuleb esitada 30 päeva jooksul vaidlustatavast otsusest või tegevusest teada saamisest. Vaiet ei saa esitada, kui olete samas asjas kohtusse pöördunud.
+Isikuandmed
+Inimese õigused
+Teave isikuandmete kasutamise kohta
+Isikuandmetega tutvumine 
+Isikuandmete parandamine
+Isikuandmete kustutamine
+Isikuandmete töötlemise piiramine
+Isikuandmete ülekandmine
+Vastuväidete esitamine
+Automatiseeritud otsused ja profiilianalüüs
+Andmetöötlejale
+Andmetöötluse põhimõtted
+Töötlemise õiguslikud alused
+Andmetöötleja vastutus ja kohustused
+Inimese õiguste tagamine
+Andmekaitsespetsialist 
+Andmekaitsetingimuste koostamisest
+Andmeturve
+Isikuandmed uuringutes
+Isikuandmete edastamine välisriiki üldmääruse alusel
+Juhendid ja abimaterjalid
+Isikuandmete töötleja üldjuhend
+Õigustatud huvi
+Juhend kaamerate kasutamise kohta 
+Videovalve korraldajale
+Andmeturbe soovitused e-poodidele
+Isikuandmete töötlemine korteriühistus
+Isikuandmete töötlemine töösuhetes juhend (uuendamisel)
+Isikuandmete töötlemine töösuhetes
+Isikuandmete töötlemine tervishoius
+Isikuandmete töötlemine valimiskampaanias
+Ühisjuhend: Abivajavast lapsest teatamine ja andmekaitse
+Maksehäirete avaldamise juhend (avalik konsultatsioon)
+KKK
+Mõisted
+Kaamerad 
+Töösuhted
+Korteriühistu
+Interneti- ja veebitegevused
+Tervishoid
+Maksehäired
+Haridus ja lapsed
+Riik
+Ajakirjandus
+Varia
+Millal AKI ei sekku
+Teabe avalikkus
+Teabe soovijale
+Teabenõude esitamine
+Teabe avaldamise kohustus
+Teabe valdajale
+Teabenõude täitmine
+Dokumendiregistri pidamine
+Juurdepääsupiiranguga teave
+Andmekogude kooskõlastamine
+Avaliku teabe taaskasutamine (avaandmed)
+Juhendid
+Avaliku teabe seaduse üldjuhend
+Eraõiguslike avaliku teabe valdajate juhend
+Andmekogude juhend
+AKI menetluskord riigi infosüsteemi haldussüsteemis
+Avaliku teabe õppevideod
+KKK
+Avalik teave
+Teabenõue
+Juurdepääsupiirang
+Dokumendiregister
+Rahvusvaheline 
+Piiriülene koostöö
+Koostöö 
+Uudised
+Kohtupraktika ja suunised
+Kohtupraktika
+Euroopa Andmekaitsenõukogu suunised
+Andmete vaba liikumine
+Piiriülesed menetlused
+Isikuandmete edastamine välisriiki
+Andmed rahvusvahelistes infosüsteemides
+Viisainfosüsteem
+Schengeni infosüsteem 
+Tolliinfosüsteem
+Riigist lahkumise ja sisenemise süsteem EES
+Uued rahvusvahelised infosüsteemid
+Euroopa andmestrateegia
+Andmemäärus
+Digiturgude määrus
+Digivaldkonna koondpaketid (Digital Omnibus ja AI Omnibus)
+Digivaldkonna koondpakettide (Digital Omnibusi ja AI Omnibusi) ajakava
+Juhendid
+Isikuandmed
+Isikuandmete töötleja üldjuhend
+Isikuandmete töötlemine töösuhetes
+Õigustatud huvi
+Juhend kaamerate kasutamise kohta
+Andmeturbe soovitused e-poodidele
+Ühisjuhend: Abivajavast lapsest teatamine ja andmekaitse
+Teabe avalikkus
+Avaliku teabe seaduse üldjuhend
+Eraõiguslike avaliku teabe valdajate juhend
+Andmekogude juhend
+AKI menetluskord riigi infosüsteemi haldussüsteemis
+Avaliku teabe õppevideod
+Kõik juhendid
+Tehisaru
+Tehisaru ja andmekaitse
+Tehisintellekti määrus
+Isikuandmete kaitse
+Teadlikkus ja inimese õigused
+Tehisaru kasutusele võtjale
+Lisalugemist
+Tehisaru kasutuselevõtt tervishoius eeldab läbimõeldud andmetöötlust
+Tähelepanu juhtimine: Üldotstarbelise tehisintellekti kasutamine tervishoius
+Vastus selgitustaotlusele: Tehisintellektipõhine dokumenteerimistarkvara tervishoiuteenuste osutamisel
+Meist 
+Kontaktid
+Kõik kontaktid
+Küsi Bürokratilt
+Nõuandetelefon: 5620 2341 E-N 13.00-16.00  
+[email protected]
+Meediapäringud: 
+[email protected]
+Võta ühendust
+Vastamistähtajad
+Nõuandetelefon
+Selgitustaotlus
+Vaie avaliku teabe asjas
+Kaebus isikuandmete kaitse asjas
+Kaebus maksehäire asjas
+Teabenõue
+Saada kiri
+Rikkumisteade
+Vaide esitamine 
+EL õiguse rikkumisest teavitamine 
+AKI tegevus
+AKI otsused
+Kohtulahendid
+Seired
+Auditid
+Ringkirjad
+Podcast "Andmehääling"
+Aastaraamatud
+Uudiskiri
+Sündmused
+Koolitustingimused
+Koolitused
+Üritused
+Konverents "A²: avalik teave ja avaandmed – teadmine annab kindluse"
+Asutusest
+Avaandmed
+Andmekaitsetingimused
+Majandusteave 
+Õigusaktid
+Lobistidega kohtumised
+Strateegia
+Struktuur
+Statistika
+Dokumendiregister
+Projektid
+Liitu meiega
+Vabad töökohad 
+Tule praktikale
+Pressiruum
+Inspektsioonist
+Meediasuhtluse põhimõtted
+AKI kanalid
+Menetlusuudised
+Pressikontaktid
+Kõneisikud
+Kiirelt kätte
+Juhendid ja KKK
+Isikuandmete kaitse KKK
+Teabe avalikkuse KKK
+Andmekaitse ABC õppevideod
+Avaliku teabe õppevideod
+Andmekaitse lühivideod ettevõtjale
+Videovalve korraldajale
+Isikuandmete töötlemine töösuhetes
+Isikuandmete töötlemine korteriühistutes
+Aki otsused
+Ettekirjutused
+Vaideotsused
+Seisukohad
+Kaebuse esitamine
+Millal AKI ei sekku
+Teadlikkus
+Uudised
+Podcast
+Uudiskiri
+Koolitused
+Digivaldkonna koondpaketid (Digital Omnibus ja AI Omnibus)
+Digivaldkonna koondpakettide (Digital Omnibusi ja AI Omnibusi) ajakava
+Tehisaru ja andmekaitse
+Tehisintellekti määrus
+Isikuandmete kaitse
+Teadlikkus ja inimese õigused
+Tehisaru kasutusele võtjale
+Leivapuru
+                  Tehisaru
+                  Tehisaru ja andmekaitse
+Tehisintellekti määrus
+Tehisintellekti määrus
+Tehisaru kasutamine on kiiresti kasvanud ja sellel on suur mõju inimeste igapäevaelule. Kuigi enamik tehisaru lahendusi on kasulikud, võivad mõned neist tekitada riske inimeste tervisele, turvalisusele ja põhiõigustele. Näiteks ei pruugi olla võimalik aru saada, miks süsteem tegi konkreetse otsuse, mis võib mõjutada inimese tööle saamist või õigust saada avalikku teenust. Seetõttu otsustati luua kogu Euroopa Liidus ühtsed reeglid ja selge õigusraamistik, mis tagaks, et tehisaru arendatakse ja kasutatakse usaldusväärsel ja inimkesksel viisil, kaitstes samal ajal inimesi võimalike kahjude eest.
+Ava kõik
+Mis on tehisintellekti määrus ja miks peab tehisaru kasutamist reguleerima? 
+13. juunil 2024 võeti Euroopa Parlamendis vastu ja 12. juulist 2024 jõustus 
+Euroopa Liidu (EL) tehisintellekti käsitlev määrus 2024/1689
+ (Artificial Intelligence Act). 
+Määrus püüab leida tasakaalu kahe eesmärgi vahel: ühelt poolt soodustada uute tehnoloogiate arengut, teiselt poolt vältida olukordi, kus tehisaru kasutades tehakse otsuseid, mis võivad olla ebaõiglased, läbipaistmatud või inimesele kahjulikud. 
+Tehisintellekti määrus ei käsitle tehisaru kui midagi automaatselt ohtlikku. Vastupidi - see lubab ja soodustab tehisintellekti kasutamist, kuid seab piirid ja kohustused nendele kasutusviisidele, mis võivad oluliselt mõjutada inimeste elu, näiteks tööle saamist, haridust, toetuste või teenuste saamist, turvalisust või privaatsust. 
+Selleks jaotab määrus tehisintellekti kasutusviisid erineva tasemega kategooriatesse – alates lubatud ja madala riskiga kasutustest kuni sellisteni, mida Euroopa Liidus üldse ei tohi kasutada. Mida suurem on võimalik kahju või mõju inimese õigustele, seda täpsemad ja rangemad on nõuded tehisintellekti arendajatele ja kasutajatele. 
+Mis ajast alates tehisintellekti määruse nõudeid kohaldatakse? 
+Tehisintellekti määruse nõuded rakenduvad järk‑järgult mitme aasta jooksul. Selline lähenemine valiti selleks, et anda nii riikidele kui ka ettevõtjatele aega uute reeglitega kohanemiseks. 
+Esimesed siduvad nõuded hakkasid kehtima 2. veebruaril 2025. Sellest ajast alates on osa tehisintellekti kasutusviise täielikult keelatud ning organisatsioonidel on kohustus tagada, et inimesed, kes tehisintellekti kasutavad, mõistavad selle toimimist piisavalt hästi. 
+Esialgse plaani järgi pidi määruse peamine osa, st enamik nõudeid, hakkama kehtima 2. augustist 2026. Siinkohal toimus aga oluline muudatus. 2025. aasta lõpus esitas Euroopa Komisjon nn digivaldkonna koondpaketi ettepaneku reeglite lihtsustamiseks. 2026. aasta mais saavutati koondpaketi osas kokkulepe ja nii on osa määruse kohaldamisest edasi lükatud. 
+Kõige olulisem muudatus puudutab kõrge riskiga tehisintellekti süsteeme. Algselt pidi enamik nõudeid hakkama kohalduma 2026. aastal, kuid uue kokkuleppe järgi lükati tähtajad edasi. Eraldiseisvate suure riskiga tehisintellektisüsteemide puhul kehtivad nõuded alates 2. detsembrist 2027 ja toodetesse integreeritud suure riskiga tehisintellektisüsteemide puhul alates 2. augustist 2028. 
+Kokkuvõtlikult saab tehisintellekti määruse muudatustest lugeda Euroopa Liidu Nõukogu 07.05.2026 pressiteatest 
+Tehisintellekt: nõukogu ja parlament leppisid kokku normide lihtsustamises ja ühtlustamises - Consilium.
+Kohaldumise algus
+Kohalduvad reeglid
+2.11.2024
+Artikkel 77 (FRA määramine) 
+2.02.2025
+I ja II peatükk, väljaarvatud need artikli 5 sätted, mis jõustuvad 02.12.2026 
+2.08.2025
+III peatüki IV jagu, peatükid V, VII ja XII 
+2.08.2026
+Näiteks:  
+III ptk 5. jagu (standardid ja vastavushindamine) 
+Artikkel 50 lg-d 1, 3, 4, 5, 6, 7 
+VIII peatükk (EL andmebaas) 
+IX peatükk (pädevad asutused), va art 77 
+2.12.2026
+Artikli 5 lg 1 punktid ba ja bb; lg-d 1a ja 1b 
+Art 50 (2) nende pakkujate puhul, kes loovad sünteetilist sisu ja turul enne 02.08.2026 
+2.08.2027
+Artikkel 57 (liivakastid) 
+Artikkel 2 lg 13 (Komisjoni kohustus): asjaomased kõrge riskiga tehisintellekti süsteemid, nõuded või kohustused, mida võidakse piirata, tingimused, mille alusel selline piirang kehtib, ja piirangu ulatus 
+2.12.2027
+Artikkel 6 lg 2 ja Lisa III 
+2.08.2028
+Artikkel 6 lg 1 ja Lisa I 
+1.08.2029
+Komisjoni õigused koostada delegeeritud õigusaktid seoses õigustega artikli 6 lõikes 6 ja artikli 7 lõikes 4, artikli 7 lõigetes 1 ja 3, artikli 11 lõikes 3, artikli 43 lõigetes 5 ja 6, artikli 47 lõikes 5, artikli 51 lõikes 3, artikli 52 lõikes 4 ja artikli 53 lõigetes 5 ja 6, lõppevad 
+2.08.2030
+Avaliku sektori asutused kõrge riskiga süsteemide pakkumisel või juurutamisel 
+Millist tüüpi tehisintellektile kohaldub tehisintellekti määrus? 
+Tehisintellekti määrus ei puuduta kõiki tehisaru lahendusi, vaid ainult neid, mis vastavad tehisintellektisüsteemi mõistele (määruse artikkel 3 punkt 1). 
+Samuti on välistatud määruse kohaldamine teatud tüüpi TI-süsteemidele ja TI-mudelitele. Näiteks jäävad määruse kohaldamisalast välja tehisintellektisüsteemid ja -mudelid, mis on spetsiaalselt välja töötatud ja kasutusele võetud üksnes teadus- ja arendustegevuse eesmärgil. Samuti ei kuulu määruse kohaldamisalasse tehisintellekti kasutamine näiteks julgeoleku valdkonnas.
+Kuidas jagunevad tehisaru süsteemidele kehtivad nõuded? 
+Määrus lähtub põhimõttest, et tehisaru kasutamine võib olla erineva mõjuga. Nii järgitakse määruses riskipõhist lähenemist. Lahendused ja neile kohalduvad nõuded jagatakse vastavalt sellele, kui suurt ohtu need võivad inimestele kujutada ning seeläbi liigitatakse TI-süsteemid nelja erinevasse riskikategooriasse: 
+lubamatu ehk vastuvõetamatu risk,  
+suur risk,  
+läbipaistvusrisk ning  
+minimaalne kuni olematu risk. 
+Keelatud on sellised tehisaru kasutusviisid, mis kujutavad endast vastuvõetamatut riski inimeste tervisele, turvalisusele või põhiõigustele. Näiteks töötajate emotsioonide tuvastamine (v.a meditsiinilistel ja ohutusega seotud põhjustel), teatud sotsiaalse skoorimise praktikad ning massilise jälgimise lahendused. Euroopa Komisjon on avaldanud ka 
+juhised
+ keelatud tehisintellekti kasutusviiside kohta. 
+Suure riskiga tehisintellekti süsteemile kehtivad rangemad nõuded, et see oleks ohutu ja usaldusväärne. Sellisteks süsteemideks võivad olla lahendused, mida kasutatakse värbamisel, hariduses, piirihalduses ja õiguskaitses jne. 
+Teatud tehisaru süsteemidele kehtivad täiendavad läbipaistvuse nõuded. See tähendab, et inimest peab teavitama näiteks kui tegemist on juturoboti või tehislikult loodud pildi või videoga (deepfake).  
+Ülejäänud AI-süsteemidele määrus konkreetseid kohustusi ette ei näe, mistõttu võib neid kasutada vabamalt. Määruse koostamise ajal leiti, et hinnanguliselt kuulub sellesse kategooriasse umbes 85% tänapäeva tehisintellekti lahendustest. Nende süsteemide pakkujad võivad aga vabatahtlikult järgida usaldusväärse tehisaru põhimõtteid ja võtta kasutusele tegevusjuhendeid. 
+Lisainfot leiab Euroopa Komisjoni Tehisintellekti Ameti (AI Office) 
+korduma kippuvate küsimuste lehelt
+ (materjal inglise keeles). 
+Kas iga algoritmist süsteemi saab pidada tehisintellektiks? 
+Ei, iga algoritm ei tähenda tehisaru. 
+Tavaline algoritm on reeglipõhine lahendus, kus inimene on ette määranud täpsed sammud ja otsustusreeglid. Selline süsteem annab sama sisendi korral alati sama tulemuse ega õpi ega kohandu. Näiteks lihtsad arvutused, loogikareeglid või kindlate tingimustega otsustuspuud, kus iga tulemus on ette määratud.  
+Tehisintellektisüsteemi keskne tunnus on see, et süsteem suudab andmete põhjal teha järeldusi ja tuletada lahendusi ka olukordades, mida ei ole täpselt ette programmeeritud. See tähendab, et süsteem kasutab mudeleid või õpib andmetest mustreid ning ei tugine ainult fikseeritud reeglitele. Tehisintellekt võib aktsepteeritavates piirides ka kohaneda. 
+Kellele tehisintellekti määruse nõuded kohalduvad? 
+Tehisintellekti määrus kohaldub kogu tehisintellektisüsteemi väärtusahela osalistele. Neile kes neid arendavad, turule toovad või kasutavad ja kelle tegevusel on seos Euroopa Liiduga. Määrusest tulenevate nõuete kohaldumine sõltub nii osapoole rollist kui kasutusviisist. 
+Määruses eristatakse kolme peamist rolli, kellele nõuded kohalduvad. 
+Pakkujad (providers) 
+- isikud või organisatsioonid, kes arendavad tehisintellektisüsteemi või kes on väljatöötanud tehisintellektisüsteemi või üldotstarbelise tehisintellektimudeli ja kes laseb selle turule või võtab tehisintellektisüsteemi kasutusele oma nime või kaubamärgi all kas tasu eest või tasuta. 
+Importijad ja turustajad (importers, distributors)
+ - importija toob tehisintellektisüsteemi Euroopa Liidu turule väljastpoolt liitu, turustaja teeb süsteemi turul kättesaadavaks. 
+Juurutajad (deployers)
+ - isikud, kes kasutavad süsteemi oma tegevuses. Nendeks võivad olla nii ettevõtted, avaliku sektori asutused kui ka füüsilised isikud. Näiteks tööandja kes kasutab tehisintellekti töötajate valikul, või ametiasutus kes kasutab seda otsuste tegemisel. Juurutaks ei ole isik, kes kasutab tehisaru üksnes isiklikul eesmärgil. 
+Kui kuulute eespool kirjeldatud sihtrühma, soovitame tutvuda Euroopa Komisjoni tehisintellekti ameti (AI Office) loodud nõuetele vastavuse tööriistaga: 
+EU AI Act Compliance Checker | AI Act Service Desk.
+Mis on tehisintellektisüsteem (TI-süsteem)? 
+TI-süsteemi mõistet võidakse defineerida erinevates dokumentides ja organisatsioonide käsitlustes mõnevõrra erinevalt. Siinne selgitus lähtub Euroopa Liidu tehisintellekti määruses olevast määratlusest. 
+TI-süsteem on masinpõhine süsteem, mis kasutab andmeid ning suudab nende põhjal ise järeldusi teha ja tulemusi luua. Süsteem võib töötada osaliselt iseseisvalt ega vaja iga tegevuse jaoks inimese otsest sekkumist. TI-süsteem võib olla kohanemisvõimeline. 
+Tehisintellektisüsteem: 
+saab sisendandmeid (nt tekst, pildid, numbrid); 
+analüüsib neid (otsib mustreid või seoseid); 
+teeb järeldusi ja loob nende pinnalt väljundi, näiteks soovituse, otsuse, prognoosi, teksti või pildi; 
+võib mõjutada inimeste valikuid või teenuste toimimist nii päriselus kui ka digikeskkonnas; 
+võib olla kohanemisvõimeline, st omada iseõppimisvõimet, mis võimaldab süsteemil kasutamise ajal muutuda. 
+Näiteks võib tehisintellektisüsteemideks pidada juturoboteid ja lahendusi, mis hindavad inimese sobivust tööle või teenusele. Lisaks ka tööriistu mis loovad teksti või pilte. 
+Euroopa Komisjon on avaldanud juhised, mis aitavad ettevõtetel hinnata, kas konkreetne tarkvarasüsteem on käsitatav tehisintellektisüsteemina. See aitab paremini aru saada millal ja kuidas määruse nõudeid kohaldada. 
+Juhisega 
+saab tutvuda on komisjoni veebilehel.
+Mis on üldotstarbeline tehisintellekt? 
+Üldotstarbelist ehk generatiivset tehisaru saab kasutada väga erinevateks ülesanneteks, mitte ainult ühe kindla eesmärgi täitmiseks. Seda saab kohandada ja kasutada mitmesugustes olukordades. Näiteks saab sama süsteemi kasutada nii teksti kirjutamiseks, tõlkimiseks, andmete analüüsimiseks kui ka programmikoodi loomiseks. Selline tehisintellekt on sageli laialdaselt kasutatav ja seda saab integreerida paljudesse erinevatesse teenustesse ja toodetesse. 
+Erinevalt tavapärasest tehisarust, mis peamiselt analüüsib või liigitab olemasolevaid andmeid, õpib generatiivne tehisintellekt suurtest andmehulkadest mustreid ning kasutab neid, et luua midagi uut, mida varem ei eksisteerinud. 
+Näiteks võib generatiivne tehisaru: 
+kirjutada tekste või vastata küsimustele; 
+luua tekstikirjelduse põhjal pilte; 
+luua muusikat; 
+aidata kirjutada tarkvarakoodi. 
+Allikas: 
+What is Generative AI? | IBM;
+Mis on generatiivne tehisintellekt: tähendus ja kasutusalad – Adobe Firefly
+Mis on tehisintellektimudel (TI-mudel)? 
+Mis on üldotstarbeline tehisintellektimudel? 
+Üldotstarbeliste tehisintellektimudelite mõistet tuleb eristada tehisintellektisüsteemide mõistest. Üldotstarbelisi tehisintellektimudeleid treenitakse tavaliselt suurte andmehulkadega mitmesuguste meetodite abil, näiteks enesejärelevalve all toimuv õpe, juhendamata õpe ja stiimulõpe. Üldotstarbelisi tehisintellektimudeleid võib turule lasta mitmel viisil, sealhulgas raamatukogude, rakendusliideste (API), otse allalaadimise kaudu või füüsilise koopiana. Neid mudeleid võib omakorda muuta või peenhäälestada uuteks mudeliteks.  
+Mis vahe on tehisintellektimudelil ja -süsteemil? 
+Kuigi tehisintellektimudelid on tehisintellektisüsteemide olulised komponendid, ei ole need eraldiseisvad tehisintellektisüsteemid. Tehisintellektisüsteemideks saamiseks on tehisintellektimudelitele vaja lisada täiendavaid komponente, näiteks kasutajaliides. Tehisintellektimudelid on tavaliselt integreeritud tehisintellektisüsteemidesse ja moodustavad osa tehisintellektisüsteemist.  
+Millal kehtivad mudelitele määruse nõuded? 
+Määruses sätestatakse erinormid üldotstarbeliste tehisintellektimudelite ja süsteemseid riske kujutavate üldotstarbeliste tehisintellektimudelite kohta. Neid nõudeid tuleb kohaldada ka siis, kui mudelid on integreeritud tehisintellektisüsteemi või moodustavad sellest osa. 
+Seda tuleks mõista nii, et üldotstarbeliste tehisintellektimudelite pakkujate kohustused kehtivad alates hetkest, kui mudel lastakse turule. Kui üldotstarbelise tehisintellektimudeli pakkuja integreerib oma mudeli enda tehisintellektisüsteemi, mis tehakse turul kättesaadavaks või võetakse kasutusele, käsitatakse ka mudelit turule lastuna. Sellisel juhul kohaldatakse lisaks tehisintellektisüsteemide nõuetele jätkuvalt ka mudelitele kehtivaid nõudeid. 
+Mudelitele kehtestatud kohustusi ei pea üldjuhul kohaldama juhul, kui mudelit kasutatakse üksnes siseprotsessides, mis ei ole olulised toote või teenuse pakkumiseks kolmandatele isikutele ning ei mõjuta füüsiliste isikute õigusi. Süsteemse riskiga üldotstarbeliste tehisintellektimudelite puhul tuleb aga alati kohaldada tehisintellekti määrusest tulenevaid asjakohaseid nõudeid, arvestades nende võimalikku märkimisväärset mõju 
+Määruse kohaldamisalasse ei kuulu tehisintellektimudelid, mida kasutatakse enne turule laskmist üksnes teaduse, arenduse või prototüüpide loomise eesmärgil. See ei vabasta siiski kohustusest järgida määrust juhul, kui mudel pärast seda turule lastakse. 
+Millal käsitatakse süsteemi üldotstarbelise tehisintellektisüsteemina? 
+Kui üldotstarbeline tehisintellektimudel on integreeritud tehisintellektisüsteemi või on selle osa, siis tuleks seda süsteemi käsitada üldotstarbelise tehisintellektisüsteemina. 
+Millised tehisintellekti kasutusviisid on täielikult keelatud? 
+Tehisintellekti määrus keelab teatud kasutusviisid täielikult. Keelud on suunatud eelkõige olukordadele, kus tehisintellekt võib tõsiselt kahjustada inimeste õigusi või väärikust ning viia ebaõiglase kohtlemiseni või lubamatu mõjutamiseni. 
+Kognitiivne ja käitumuslik manipuleerimine. 
+Keelatud on tehisintellekt, mis kasutab varjatud või manipuleerivaid võtteid inimese käitumise mõjutamiseks viisil, mis võib tekitada kahju. Näiteks olukord, kus inimest suunatakse otsuseid tegema ilma, et ta seda ise teadvustaks. 
+Haavatavuste ärakasutamine.
+ Keelatud on süsteemid, mis kasutavad ära inimese haavatavust, näiteks vanust, puuet või rasket majanduslikku olukorda, eesmärgiga mõjutada tema käitumist kahjulikul viisil. 
+Inimeste „sotsiaalne hindamine“ (social scoring). 
+Keelatud on süsteemid, mis hindavad või järjestavad inimesi nende käitumise, omaduste või sotsiaalsete tunnuste alusel selliselt, et see toob kaasa ebasoodsa või ebaproportsionaalse kohtlemise. Näiteks punktisüsteemid, mis mõjutavad inimese ligipääsu teenustele või võimalustele. 
+Individuaalne kuriteo toimepanemise riski prognoosimine.
+ Keelatud on tehisaru kasutamine selleks, et hinnata inimese kuriteo toimepanemise riski üksnes tema profiili või isikuomaduste põhjal. Erandina on see lubatud juhul, kui see toetab inimeste tehtud hinnangut, mis põhineb objektiivsetel faktidel. 
+Kujutiste sihtimata kogumine.
+ Keelatud on näotuvastusandmebaaside loomine või laiendamine internetist või valvekaameratest kogutud kujutiste põhjal. 
+Emotsioonide tuvastamine.
+ Keelatud on tehisaru kasutamine inimeste emotsioonide tuvastamiseks töö- või hariduskeskkonnas. Erandina on see lubatud piiratud juhtudel, näiteks meditsiinilistel või ohutusega seotud eesmärkidel. 
+Biomeetriline kategoriseerimine.
+ Keelatud on inimeste liigitamine viisil, mille tulemusel järeldatakse tundlikke andmeid. Nt nagu rass, poliitilised vaated, ametiühingusse kuulumine, usulised veendumused või seksuaalne sättumus. 
+Reaalajas biomeetriline tuvastamine avalikus ruumis.
+ Üldreeglina on keelatud inimeste jälgimine avalikus ruumis reaalajas biomeetrilise tuvastuse abil, nt näotuvastuse kaudu. Õiguskaitse eesmärgil on lubatud vaid väga piiratud erandid. 
+Digivaldkonna koondpaketiga lisati eeltoodud nimekirja täiendavad keelatud kasutusviisid. 
+Nõusolekuta intiimpiltide loomine.
+ Keelatud on tehisaru kasutamine sellise sisu loomiseks, mis kujutab inimest intiimsel või seksuaalsel viisil ilma tema nõusolekuta. See puudutab näiteks nn „deepfake“ pilte või videoid, mis kujutavad päris inimest eksitavalt. 
+Lapsporno või sarnase kahjuliku sisu loomine. 
+Keelatud on tehisaru kasutamine lapsporno või muu sarnase äärmiselt kahjuliku sisu genereerimiseks või levitamiseks. 
+Nagu kirjeldusest võib märgata, siis kõik keelud ei ole absoluutsed. Erandeid võib esineda rangelt reguleeritud juhtudel, näiteks sõjalistes või kaitsevaldkonnas, teadus- ja arendustegevuses ning väga spetsiifilistes õiguskaitseasutuste tegevustes. Organisatsioonidel, kes arendavad või kasutavad tehisintellekti, soovitame tutvuda Euroopa Komisjoni juhistega keelatud tehisintellekti kasutusviiside kohta, et paremini mõista kohaldamisreegleid ja konkreetseid olukordi: 
+Commission publishes the Guidelines on prohibited artificial intelligence (AI) practices, as defined by the AI Act. | Shaping Europe’s digital future.
+Kas inimene, kes kasutab üldotstarbelist tehisintellekti isiklikel eesmärkidel, peab järgima tehisintellekti määruse nõudeid? 
+Tehisintellekti määrus on suunatud eelkõige organisatsioonidele ja isikutele, kes tehisintellektisüsteeme arendavad, turule toovad või kasutavad neid oma töö või teenuse osana. Tavaline inimene, kes kasutab üldotstarbelist tehisintellekti näiteks teksti kirjutamiseks, tõlkimiseks või küsimustele vastuste saamiseks, ei kuulu üldjuhul nende kohustustega isikute hulka. 
+Oluline on siin aga eristada kahte olukorda: 
+Kui inimene kasutab tehisintellekti puhtalt isiklikul eesmärgil, näiteks kodus või oma eraelus, siis määruse nõuded talle praktiliselt ei kohaldu. Sellist kasutust käsitatakse mitteprofessionaalse või eraviisilise tegevusena. 
+Kui inimene kasutab tehisintellekti oma töö raames või ettevõtte nimel, siis ei ole ta enam lihtsalt „tavaline kasutaja“, vaid tegutseb organisatsiooni nimel juurutajana. Sel juhul lasuvad kohustused küll peamiselt organisatsioonil, kuid ka töötaja peab järgima tööandja reegleid ja juhiseid, mis tulenevad tehisintellekti määrusest. 
+See, et inimene kasutab tehisintellekti oma isiklikel eesmärkidel, ei tähenda siiski, et tal oleks lubatud teha sellega kõike või et ühtegi reeglit ei peaks järgima. Ka isikliku kasutuse korral tuleb järgida kehtivaid õigusnorme, näiteks autoriõigusega seotud nõudeid. Millal isikuandmete kaitse reeglid kohalduvad ja millal mitte, saab lugeda inspektsiooni 
+korduma kippuvate küsimuste rubriigist.
+Last updated: 13.07.2026
+Püsi kursis!
+  Telli uudiskiri
+Andmekaitse Inspektsioon
+ Tatari 39, Tallinn 10134
+Pöördu meie poole
+Andmekaitsetingimused
+Juurdepääsetavus
+Küpsised
+Sisukaart
+Bürokratt
+Telli Andmekaitse Inspektsiooni uudiskiri
+          Uudiskirja tellimine toimub nõusoleku alusel, mida saab igal ajahetkel tagasi võtta. Uudiskirjast loobumiseks saatke kiri 
+[email protected]
+.
+Nõustun saama AKI uudiskirja. 
+Tutvu andmekaitsetingimustega
+Uudiskirjad
+AKI uudiskiri
+Telli uudiskiri
+
+--- /QQmarkoigusavalik9/ : 0 vastet ---
