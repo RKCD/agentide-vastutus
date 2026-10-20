@@ -1,0 +1,16 @@
+# jooks 45
+# urlid: https://ria.ee/en/cyber-security/handling-cyber-incidents-cert-ee/reporting-cyber-incident
+# otsi: hreflang="et"[^>]{0,200}|href="[^"]{0,120}intsident[^"]{0,80}" || cert@cert\.ee|mailto:[^"]{0,40}
+
+##### https://ria.ee/en/cyber-security/handling-cyber-incidents-cert-ee/reporting-cyber-incident
+kood=200 lõpp-URL=https://ria.ee/en/cyber-security/handling-cyber-incidents-cert-ee/reporting-cyber-incident tüüp=text/html; charset=utf-8 baite=104565 teksti=104509
+--- /hreflang="et"[^>]{0,200}|href="[^"]{0,120}intsident[^"]{0,80}"/ : 5 vastet ---
+…mage/vnd.microsoft.icon" /> ⏎ <link rel="alternate" hreflang="et" href="https://ria.ee/kuberturvalisus/kuberintsidentide-kasitlemine-cert-ee/kuberintsidendist-teavitamine" /> ⏎ <link rel="alternate" hreflang="en" href="https://ria.ee/en/cyber-security/ha…
+
+…anguages-vp d-none">      <li class="nav-item"><a href="/kuberturvalisus/kuberintsidentide-kasitlemine-cert-ee/kuberintsidendist-teavitamine" class="language-link nav-link" data-label="" hreflang="et" data-drupal-link-system-path="node/194">EST</a></…
+
+…ine" class="language-link nav-link" data-label="" hreflang="et" data-drupal-link-system-path="node/194">EST</a></li>                    <li class="nav-item active"><a href="/en/cyber-security/handling-cyber-incidents-cert-ee/reporting-cyber-incident"…
+
+…uage="et" data-drupal-link-system-path="node/194" href="/kuberturvalisus/kuberintsidentide-kasitlemine-cert-ee/kuberintsidendist-teavitamine" hreflang="et" class="dropdown-item font-weight-normal">EST</a><a data-drupal-language="en" data-drupal-link-…
+
+--- /cert@cert\.ee|mailto:[^"]{0,40}/ : 0 vastet ---
