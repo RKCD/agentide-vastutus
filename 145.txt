@@ -1,0 +1,749 @@
+# jooks 145
+# urlid: https://ria.ee/kuberturvalisus/kuberintsidentide-kasitlemine-cert-ee/kuberintsidendist-teavitamine https://www.aki.ee/meist/vota-uhendust/rikkumisteade https://www.aki.ee/uudised/rikkumine-juhtus-mis-nuud-kuidas-ja-millal-andmekaitse-rikkumisest-teavitada https://volinik.ee/kuidas-poorduda-voliniku-poole/
+# otsi: QQmarkoigus_andmed_turvalisus_too13
+
+##### https://ria.ee/kuberturvalisus/kuberintsidentide-kasitlemine-cert-ee/kuberintsidendist-teavitamine
+kood=200 lõpp-URL=https://ria.ee/kuberturvalisus/kuberintsidentide-kasitlemine-cert-ee/kuberintsidendist-teavitamine tüüp=text/html; charset=utf-8 baite=114383 teksti=6688
+--- algus ---
+
+Teavita küberintsidendist | RIA
+      Liigu edasi põhisisu juurde
+Juurdepääsetavus
+Rohkem infot juurdepääsetavuse kohta
+Teksti suurus
+Kõikides populaarsetes veebilehitsejates on võimalik lehte suurendada ja vähendada, kui hoida all Ctrl-klahvi (OS X operatsioonisüsteemis Cmd-klahvi) ja samal ajal vajutada kas "+"- või "-"-klahvi. Teine mugav võimalus on kasutada hiirt: hoides all Ctrl-klahvi ja samal ajal liigutades hiire kerimisrulli. Tagasi normaalsuurusesse saab, kui vajutada samaaegselt Ctrl- ja 0-klahvile.
+Kontrast
+                        Default settings
+                      Must ja kollane tekst
+Taasta algseaded
+Kinnita valik
+Juurdepääsetavus
+EST
+ENG
+        EST
+EST
+ENG
+ E-teenused
+        E-teenused
+E-teenused
+                Riigiportaal eesti.ee
+Koondab ja vahendab riiklikku informatsiooni ning isikustatud e-teenuseid nii eraisikule kui ka ettevõtjale.
+                X-tee iseteeninduskeskkond
+Võimaldab X-teega liituda ja X-tee turvaserverile sertifikaate taotleda.
+                Riigi infosüsteemi haldussüsteem RIHA
+Võimaldab infosüsteemi RIHAs kirjeldada ja RIHAsse sisestatud infosüsteeme sirvida.
+                ID tugiportaal
+Võimaldab paigaldada ID-tarkvara ning jagab abistavat infot ID-kaardi ja Mobiil-ID kasutamise kohta.
+                Portaal IT-vaatlik  
+Näitab, kuidas internetis ning nutiseadmetes turvalisemalt toimetada, just nagu päriselus.
+                Teavituskeskkond raport.cert.ee 
+Teavituskeskkonna kaudu saab RIA-le edastada teate küberintsidendi kohta. Raport on mõeldud eeskätt asutustele ja teenuseosutajatele detailsema teabe edastamiseks.
+Riigi infosüsteem
+Andmevahetuse platvormid
+ Andmevahetuskiht X-tee
+Euroopa Liidu ühtne digivärav (SDG)
+Dokumendivahetuskiht DHX
+Inimkeskne andmehaldus
+Andmejälgija
+Andmenõusolekuteenus
+Andmepõhine riigivalitsemine ja andmete taaskasutus
+Riigi infosüsteemi haldussüsteem RIHA ja RIHAKE
+Andmete teabevärav
+Digiriigi tehniliste komponentide taaskasutus
+Elektroonilise identiteedi teenused
+Elektrooniline identiteet eID
+Autentimisteenused
+Allkirjastamisteenused
+Krüpteerimisteenused
+DigiDoc rakendused ja Web-eID
+eID ökosüsteemi korraldamine
+Teadmusportaal id.ee
+Digikukkur (EUDI Wallet)
+Digikukruga seotud projektid
+EBSI Eestis
+Riigivõrk
+Valimistega seotud infosüsteemide arendus
+Personaalriik
+Riigiportaal eesti.ee
+Eesti äpp
+Riiklik postkast
+Sündmusteenused
+Keskne volituste haldamise infosüsteem Pääsuke
+Tehisaru
+Bürokratt
+Aruait
+Infoühiskonna teadlikkuse tõstmine
+Uuringud ja analüüsid
+Juhendid
+Küberturvalisus
+Küberturvalisuse keskus NCSC-EE
+Küberintsidentide käsitlemine CERT-EE
+Küberintsidendist teavitamine
+Soovitused organisatsioonile küberintsidendi käsitlemisel
+CERT-EE tööriistad ja teenused
+Riigi infoturbe meetmete haldus
+Eesti infoturbestandard (E-ITS)
+Teenuseosutaja, E-ITS auditi, ISO sertifikaadi ja pilvandmetöötluse teavitus
+Järelevalve
+Järelevalve otsused
+Küberruumi analüüs ja ennetus
+Olukord küberruumis
+Küberturvalisuse aastaraamatud
+Ennetustegevus
+Nõuanded internetikasutajatele
+Nõuanded asutustele ja ettevõtetele
+Ohuhinnangud
+Turvanõrkused
+Kübertest
+Fooriprotokoll
+Kriitilise infrastruktuuri küberkaitse
+Kriisivalmisolek ja õppused
+Riiklik koordinatsioonikeskus (NCC-EE)
+CyberWizards
+Küberkogukond
+Ettevõtluse edendamine
+EL rahastamis- ja koostöövõimalused
+Kvantarvutikindlus
+Rahvusvahelised projektid
+Uuringud ja analüüsid
+Juhendid
+ENNETUSPORTAAL IT-VAATLIK.EE
+Amet, uudised ja kontakt
+Riigi Infosüsteemi Amet (RIA) on riiklik kompetentsikeskus, kelle ülesanne on pakkuda digiriigi keskseid tehnoloogilisi platvorme ja teenuseid ning tagada riigi kõrge küberturvalisuse tase. RIA kuulub Justiits- ja Digiministeeriumi valitsemisalasse.
+Visioon
+Maailma usaldusväärseim digiriik – tagame Eestile kindluse ja oleme eeskujuks maailmale.
+Missioon
+Tagame digiriigi usaldusväärsuse ja mugavad teenused nii täna kui tulevikus.
+Dokumendiregister
+Isikuandmete töötlemine
+Amet ja juhtkond
+ Ameti ülesanded ja struktuur
+RIA strateegia
+Juhtkond
+Töötamine RIAs
+Eelarve
+Kohtumised huvirühmade ja lobistidega
+Korruptsioonivastane tegevus
+Tööalasest rikkumisest teavitamine
+Hanketeated
+Struktuuritoetust saanud RIA projektid
+Uudised, pressikontakt
+Uudised
+Sündmused
+Uuringud ja analüüsid
+Juhendid
+Pressikontakt
+Kontaktid
+Kõik kontaktid
+Kasutajatugi
+Teabenõue
+Ennetusportaal itvaatlik.ee
+Küberintsidentide käsitlemine CERT-EE
+Küberintsidendist teavitamine
+Soovitused organisatsioonile küberintsidendi käsitlemisel
+CERT-EE tööriistad ja teenused
+Breadcrumb
+                  Küberturvalisus
+Küberintsidentide käsitlemine CERT-EE
+Küberintsidendist teavitamine
+Teavita küberintsidendist
+Lihtsa intsidenditeavituse võib saata e-kirjaga. Asutused ja teenuseosutajad saavad detailsema info edastada teavituskeskkonnas Raport.
+Küberintsident on olukord, kus rikutakse organisatsiooni, asutuse või üksikisiku infosüsteemi ja/või selles oleva info konfidentsiaalsust, terviklust ja käideldavust.
+Küberintsidendid on ka olukorrad, kus kasutatakse omavoliliselt kellegi teise infosüsteemi või häiritakse tahtlikult selle toimivust.
+Teavituskeskkond raport.cert.ee:
+Esita teavitus
+Teavitamine
+Kasuta küberintsidendist teavitamiseks veebikeskkonda 
+raport.cert.ee
+. See on mõeldud eeskätt asutustele ja teenuseosutajatele detailsema teabe edastamiseks.
+Lihtsa intsidenditeavituse võib saata ka aadressil 
+[email protected]
+.
+Küberintsidendi teavituse vorm 
+| 35.17 KB | docx
+CERT-EE tunnistab küberintsidendi kohta jagatud info vastavalt küberturvalisuse seadusele ja avaliku teabe seadusele 
+asutusesiseseks kasutamiseks
+.
+Krüpteerimine
+Intsidenditeavituse krüpteerimiseks on võimalik kasutada:
+CERT-EE asutuse sertifikaati Riigi Infosüsteemi Amet: CERT-EE
+PGP avalikku võtit (0xA32AFB7D), mille KeyID on B05DBD10A32AFB7D ja sõrmejälg 7B96 A5C7 079D 0CAF 9BEA C713 B05D BD10 A32A FB7D.
+Võtme leiab lehelt 
+cert.ee/.well-known/team-key.txt
+.
+Intsidendi lahendamise koondraporti esitamine
+Koondraport esitatakse RIA-le iga kolme kuu järel.
+Alus: Vabariigi Valitsuse määrus 
+„Infoturbe juhtimise süsteem“
+ (vt ka 
+määruse seletuskirja
+).
+Küberintsidentide koondraporti vorm 
+| 10.83 KB | ods
+CERT-EE kontaktid
+663 0299
+[email protected]
+CERT-EE töötab ööpäev läbi
+CERT
+Küberintsidendist teavitamine
+Küberturvalisus
+    Seotud viited
+Keskkond intsidendiraporti esitamiseks
+    Seotud dokumendid
+Küberintsidendi teavituse vorm 
+| 35.17 KB | docx
+Küberintsidentide koondraporti vorm 
+| 10.83 KB | ods
+Viimati uuendatud 05.05.2026
+Püsi kursis!
+Sotsiaalmeedias ja RSS-voogude abil.
+RIA RSS-vood
+Riigi Infosüsteemi Amet
+Pärnu maantee 139a, 15169 Tallinn
++372 663 0200
+[email protected]
+Avatud E–N 8.30–17.00 ja R 8.30–15.45
+Kasutajatugi
+Privaatsussätted
+Ligipääsetavuse teatis
+Kasutusjuhis
+Küpsised
+
+--- /QQmarkoigus_andmed_turvalisus_too13/ : 0 vastet ---
+
+##### https://www.aki.ee/meist/vota-uhendust/rikkumisteade
+kood=200 lõpp-URL=https://www.aki.ee/meist/vota-uhendust/rikkumisteade tüüp=text/html; charset=UTF-8 baite=197742 teksti=17120
+--- algus ---
+
+Rikkumisteade | Andmekaitse Inspektsioon
+      Liigu edasi põhisisu juurde
+Juurdepääsetavus
+Juurdepääsetavuse teatis
+Kontrast
+                        Vaikesätted
+                      Must ja kollane tekst
+Taasta algseaded
+Kinnita valik
+Juurdepääsetavus
+EST
+ENG
+        EST
+EST
+ENG
+ PÖÖRDUMISVORMID
+        PÖÖRDUMISVORMID
+PÖÖRDUMISVORMID
+                Nõuandetelefon
+Andmekaitse Inspektsiooni nõuandetelefon 5620 2341 aitab jõuda pöördujal õigete vastusteni, esmaspäevast neljapäevani vahemikus 13.00-16.00.
+                Selgitustaotlus
+Selgitustaotlusega saate inspektsioonilt küsida asutuse seisukohti, tõlgendusi või praktilist infot. Selgitustaotlusele vastatakse üldjuhul 15 päeva jooksul.
+                Vaie avaliku teabe asjas
+Esitage vaie, kui teabevaldaja on jätnud teabenõudele vastamata, määranud õigusvastaselt juurdepääsupiirangu või keeldunud teabe väljastamisest.
+                Kaebus isikuandmete kaitse asjas
+Esitage enda eraelu kaitseks kaebus, kui leiate, et isikuandmete kaitse nõudeid rikutakse ja andmetöötleja poole pöördumine ei ole tulemusi andnud.
+                Kaebus maksehäire asjas
+Kaebuse maksehäire asjas saate esitada, kui isikuandmete töötlemine on seotud maksehäireregistriga ning leiate, et maksehäire andmeid on õigusvastaselt töödeldud.
+                Teabenõue
+Teabenõude saate meile esitada, kui soovite saada dokumenti, mis on Andmekaitse Inspektsioonis juba olemas. Teabenõudega võite küsida välja näiteks mingi varasema kirja või juba tehtud otsuse.
+                Saada kiri 
+Elektroonilised pöördumised palume digitaalallkirjastada ja saata info[at]aki.ee. Paberil pöördumised palume postitada aadressile:
+Andmekaitse Inspektsioon Tatari 39, 10134 Tallinn
+                Rikkumisteade
+Andmetöötleja peab rikkumisteate esitama hiljemalt 72 tundi pärast isikuandmetega seotud rikkumisest teada saamist.
+                Vaide esitamine 
+Saate esitada vaide inspektsiooni enda tegevuse peale, kui soovite, et vaadatakse üle inspektsiooni otsus või tegevus, mis puudutab Teie õigusi. Vaie tuleb esitada 30 päeva jooksul vaidlustatavast otsusest või tegevusest teada saamisest. Vaiet ei saa esitada, kui olete samas asjas kohtusse pöördunud.
+Isikuandmed
+Inimese õigused
+Teave isikuandmete kasutamise kohta
+Isikuandmetega tutvumine 
+Isikuandmete parandamine
+Isikuandmete kustutamine
+Isikuandmete töötlemise piiramine
+Isikuandmete ülekandmine
+Vastuväidete esitamine
+Automatiseeritud otsused ja profiilianalüüs
+Andmetöötlejale
+Andmetöötluse põhimõtted
+Töötlemise õiguslikud alused
+Andmetöötleja vastutus ja kohustused
+Inimese õiguste tagamine
+Andmekaitsespetsialist 
+Andmekaitsetingimuste koostamisest
+Andmeturve
+Isikuandmed uuringutes
+Isikuandmete edastamine välisriiki üldmääruse alusel
+Juhendid ja abimaterjalid
+Isikuandmete töötleja üldjuhend
+Õigustatud huvi
+Juhend kaamerate kasutamise kohta 
+Videovalve korraldajale
+Andmeturbe soovitused e-poodidele
+Isikuandmete töötlemine korteriühistus
+Isikuandmete töötlemine töösuhetes juhend (uuendamisel)
+Isikuandmete töötlemine töösuhetes
+Isikuandmete töötlemine tervishoius
+Isikuandmete töötlemine valimiskampaanias
+Ühisjuhend: Abivajavast lapsest teatamine ja andmekaitse
+Maksehäirete avaldamise juhend (avalik konsultatsioon)
+KKK
+Mõisted
+Kaamerad 
+Töösuhted
+Korteriühistu
+Interneti- ja veebitegevused
+Tervishoid
+Maksehäired
+Haridus ja lapsed
+Riik
+Ajakirjandus
+Varia
+Millal AKI ei sekku
+Teabe avalikkus
+Teabe soovijale
+Teabenõude esitamine
+Teabe avaldamise kohustus
+Teabe valdajale
+Teabenõude täitmine
+Dokumendiregistri pidamine
+Juurdepääsupiiranguga teave
+Andmekogude kooskõlastamine
+Avaliku teabe taaskasutamine (avaandmed)
+Juhendid
+Avaliku teabe seaduse üldjuhend
+Eraõiguslike avaliku teabe valdajate juhend
+Andmekogude juhend
+AKI menetluskord riigi infosüsteemi haldussüsteemis
+Avaliku teabe õppevideod
+KKK
+Avalik teave
+Teabenõue
+Juurdepääsupiirang
+Dokumendiregister
+Rahvusvaheline 
+Piiriülene koostöö
+Koostöö 
+Uudised
+Kohtupraktika ja suunised
+Kohtupraktika
+Euroopa Andmekaitsenõukogu suunised
+Andmete vaba liikumine
+Piiriülesed menetlused
+Isikuandmete edastamine välisriiki
+Andmed rahvusvahelistes infosüsteemides
+Viisainfosüsteem
+Schengeni infosüsteem 
+Tolliinfosüsteem
+Riigist lahkumise ja sisenemise süsteem EES
+Uued rahvusvahelised infosüsteemid
+Euroopa andmestrateegia
+Andmemäärus
+Digiturgude määrus
+Digivaldkonna koondpaketid (Digital Omnibus ja AI Omnibus)
+Digivaldkonna koondpakettide (Digital Omnibusi ja AI Omnibusi) ajakava
+Juhendid
+Isikuandmed
+Isikuandmete töötleja üldjuhend
+Isikuandmete töötlemine töösuhetes
+Õigustatud huvi
+Juhend kaamerate kasutamise kohta
+Andmeturbe soovitused e-poodidele
+Ühisjuhend: Abivajavast lapsest teatamine ja andmekaitse
+Teabe avalikkus
+Avaliku teabe seaduse üldjuhend
+Eraõiguslike avaliku teabe valdajate juhend
+Andmekogude juhend
+AKI menetluskord riigi infosüsteemi haldussüsteemis
+Avaliku teabe õppevideod
+Kõik juhendid
+Tehisaru
+Tehisaru ja andmekaitse
+Tehisintellekti määrus
+Isikuandmete kaitse
+Teadlikkus ja inimese õigused
+Tehisaru kasutusele võtjale
+Lisalugemist
+Tehisaru kasutuselevõtt tervishoius eeldab läbimõeldud andmetöötlust
+Tähelepanu juhtimine: Üldotstarbelise tehisintellekti kasutamine tervishoius
+Vastus selgitustaotlusele: Tehisintellektipõhine dokumenteerimistarkvara tervishoiuteenuste osutamisel
+Meist 
+Kontaktid
+Kõik kontaktid
+Küsi Bürokratilt
+Nõuandetelefon: 5620 2341 E-N 13.00-16.00  
+[email protected]
+Meediapäringud: 
+[email protected]
+Võta ühendust
+Vastamistähtajad
+Nõuandetelefon
+Selgitustaotlus
+Vaie avaliku teabe asjas
+Kaebus isikuandmete kaitse asjas
+Kaebus maksehäire asjas
+Teabenõue
+Saada kiri
+Rikkumisteade
+Vaide esitamine 
+EL õiguse rikkumisest teavitamine 
+AKI tegevus
+AKI otsused
+Kohtulahendid
+Seired
+Auditid
+Ringkirjad
+Podcast "Andmehääling"
+Aastaraamatud
+Uudiskiri
+Sündmused
+Koolitustingimused
+Koolitused
+Üritused
+Konverents "A²: avalik teave ja avaandmed – teadmine annab kindluse"
+Asutusest
+Avaandmed
+Andmekaitsetingimused
+Majandusteave 
+Õigusaktid
+Lobistidega kohtumised
+Strateegia
+Struktuur
+Statistika
+Dokumendiregister
+Projektid
+Liitu meiega
+Vabad töökohad 
+Tule praktikale
+Pressiruum
+Inspektsioonist
+Meediasuhtluse põhimõtted
+AKI kanalid
+Menetlusuudised
+Pressikontaktid
+Kõneisikud
+Kiirelt kätte
+Juhendid ja KKK
+Isikuandmete kaitse KKK
+Teabe avalikkuse KKK
+Andmekaitse ABC õppevideod
+Avaliku teabe õppevideod
+Andmekaitse lühivideod ettevõtjale
+Videovalve korraldajale
+Isikuandmete töötlemine töösuhetes
+Isikuandmete töötlemine korteriühistutes
+Aki otsused
+Ettekirjutused
+Vaideotsused
+Seisukohad
+Kaebuse esitamine
+Millal AKI ei sekku
+Teadlikkus
+Uudised
+Podcast
+Uudiskiri
+Koolitused
+Digivaldkonna koondpaketid (Digital Omnibus ja AI Omnibus)
+Digivaldkonna koondpakettide (Digital Omnibusi ja AI Omnibusi) ajakava
+Võta ühendust
+Vastamistähtajad
+Nõuandetelefon
+Selgitustaotlus
+Vaie avaliku teabe asjas
+Kaebus isikuandmete kaitse asjas
+Kaebus maksehäire asjas
+Teabenõue
+Saada kiri
+Rikkumisteade
+Vaide esitamine 
+EL õiguse rikkumisest teavitamine 
+Leivapuru
+                  Meist 
+                  Võta ühendust
+Rikkumisteade
+Rikkumisteade
+Isikuandmetega seotud rikkumisest peab Andmekaitse Inspektsiooni teavitama andmetöötleja, mitte rikkumise tagajärgedest puudutatud inimene. Rikkumise tagajärgedest teavitamiseks saab inimene esitada selleks ettenähtud vormi - esita kaebus. Andmetöötleja peab rikkumisteate esitama hiljemalt 72 tundi pärast isikuandmetega seotud rikkumisest teada saamist.
+Isikuandmetega seotud rikkumine tähendab andmete ebaseaduslikku või juhuslikku hävimist, kättesaamatuks muutumist või lubamatut juurdepääsu ja avalikuks saamist.
+Isikuandmete kaitse üldmääruse (EL) 2016/679 art 33 kohaselt on kõigil isikuandmete vastutavatel töötlejatel kohustus isikuandmete turvanõuete rikkumisest teada anda järelevalveasutusele. Seda juhul, kui rikkumise tagajärjeks võib olla oht füüsilise isiku õigustele ja vabadustele. Eestis tuleb sellisest rikkumisest teada anda Andmekaitse Inspektsioonile.
+Ava kõik
+Esita rikkumisteade e-keskkonnas
+Rikkumisteate saate esitada meie 
+e-keskkonnas
+Logige sisse ID-kaardi, Mobiil-ID või Smart-IDga.
+Täitke pöördumine otse ekraanil, lisades soovi korral ka manuse. Teie nime ja isikukoodi väljad täidetakse automaatselt.
+Ärge unustage sisestamast e-posti aadressi – praegu saadame vastuse teie pöördumisele ainult e-kirjaga. 
+Vajutage „Saada“ ning pöördumine jõuab meieni.
+E-keskkonna eelisena salvestuvad kõik teie pöördumised ka isiklikule töölauale. Nii omate alati ülevaadet, mida olete meile kirjutanud.
+Sisenege e-keskkonda
+Esita rikkumisteade meili teel 
+Soovi korral võite esitada rikkumisteate ka meili teel
+Alternatiivina on teil võimalus saata rikkumisteade meili teel, kasutades näiteks failipõhist näidisvormi. Sel juhul tuleb rikkumisteade saata aadressile info[at]aki.ee
+Rikkumisteate vorm andmetöötlejale.docx 
+| 33.34 KB | docx
+Rikkumisteate vorm andmetöötlejale inglise keelne.docx 
+| 29.88 KB | docx
+Kas teade tuleb krüpteerida?
+Andmekaitse Inspektsioon jätab andmetöötleja pädevusse otsustada, kas teatis edastatakse krüpteeritult 
+--- /QQmarkoigus_andmed_turvalisus_too13/ : 0 vastet ---
+
+##### https://www.aki.ee/uudised/rikkumine-juhtus-mis-nuud-kuidas-ja-millal-andmekaitse-rikkumisest-teavitada
+kood=200 lõpp-URL=https://www.aki.ee/uudised/rikkumine-juhtus-mis-nuud-kuidas-ja-millal-andmekaitse-rikkumisest-teavitada tüüp=text/html; charset=UTF-8 baite=160681 teksti=12849
+--- algus ---
+
+Rikkumine juhtus – mis nüüd? Kuidas ja millal andmekaitse rikkumisest teavitada? | Andmekaitse Inspektsioon
+      Liigu edasi põhisisu juurde
+Juurdepääsetavus
+Juurdepääsetavuse teatis
+Kontrast
+                        Vaikesätted
+                      Must ja kollane tekst
+Taasta algseaded
+Kinnita valik
+Juurdepääsetavus
+EST
+ENG
+        EST
+EST
+ENG
+ PÖÖRDUMISVORMID
+        PÖÖRDUMISVORMID
+PÖÖRDUMISVORMID
+                Nõuandetelefon
+Andmekaitse Inspektsiooni nõuandetelefon 5620 2341 aitab jõuda pöördujal õigete vastusteni, esmaspäevast neljapäevani vahemikus 13.00-16.00.
+                Selgitustaotlus
+Selgitustaotlusega saate inspektsioonilt küsida asutuse seisukohti, tõlgendusi või praktilist infot. Selgitustaotlusele vastatakse üldjuhul 15 päeva jooksul.
+                Vaie avaliku teabe asjas
+Esitage vaie, kui teabevaldaja on jätnud teabenõudele vastamata, määranud õigusvastaselt juurdepääsupiirangu või keeldunud teabe väljastamisest.
+                Kaebus isikuandmete kaitse asjas
+Esitage enda eraelu kaitseks kaebus, kui leiate, et isikuandmete kaitse nõudeid rikutakse ja andmetöötleja poole pöördumine ei ole tulemusi andnud.
+                Kaebus maksehäire asjas
+Kaebuse maksehäire asjas saate esitada, kui isikuandmete töötlemine on seotud maksehäireregistriga ning leiate, et maksehäire andmeid on õigusvastaselt töödeldud.
+                Teabenõue
+Teabenõude saate meile esitada, kui soovite saada dokumenti, mis on Andmekaitse Inspektsioonis juba olemas. Teabenõudega võite küsida välja näiteks mingi varasema kirja või juba tehtud otsuse.
+                Saada kiri 
+Elektroonilised pöördumised palume digitaalallkirjastada ja saata info[at]aki.ee. Paberil pöördumised palume postitada aadressile:
+Andmekaitse Inspektsioon Tatari 39, 10134 Tallinn
+                Rikkumisteade
+Andmetöötleja peab rikkumisteate esitama hiljemalt 72 tundi pärast isikuandmetega seotud rikkumisest teada saamist.
+                Vaide esitamine 
+Saate esitada vaide inspektsiooni enda tegevuse peale, kui soovite, et vaadatakse üle inspektsiooni otsus või tegevus, mis puudutab Teie õigusi. Vaie tuleb esitada 30 päeva jooksul vaidlustatavast otsusest või tegevusest teada saamisest. Vaiet ei saa esitada, kui olete samas asjas kohtusse pöördunud.
+Isikuandmed
+Inimese õigused
+Teave isikuandmete kasutamise kohta
+Isikuandmetega tutvumine 
+Isikuandmete parandamine
+Isikuandmete kustutamine
+Isikuandmete töötlemise piiramine
+Isikuandmete ülekandmine
+Vastuväidete esitamine
+Automatiseeritud otsused ja profiilianalüüs
+Andmetöötlejale
+Andmetöötluse põhimõtted
+Töötlemise õiguslikud alused
+Andmetöötleja vastutus ja kohustused
+Inimese õiguste tagamine
+Andmekaitsespetsialist 
+Andmekaitsetingimuste koostamisest
+Andmeturve
+Isikuandmed uuringutes
+Isikuandmete edastamine välisriiki üldmääruse alusel
+Juhendid ja abimaterjalid
+Isikuandmete töötleja üldjuhend
+Õigustatud huvi
+Juhend kaamerate kasutamise kohta 
+Videovalve korraldajale
+Andmeturbe soovitused e-poodidele
+Isikuandmete töötlemine korteriühistus
+Isikuandmete töötlemine töösuhetes juhend (uuendamisel)
+Isikuandmete töötlemine töösuhetes
+Isikuandmete töötlemine tervishoius
+Isikuandmete töötlemine valimiskampaanias
+Ühisjuhend: Abivajavast lapsest teatamine ja andmekaitse
+Maksehäirete avaldamise juhend (avalik konsultatsioon)
+KKK
+Mõisted
+Kaamerad 
+Töösuhted
+Korteriühistu
+Interneti- ja veebitegevused
+Tervishoid
+Maksehäired
+Haridus ja lapsed
+Riik
+Ajakirjandus
+Varia
+Millal AKI ei sekku
+Teabe avalikkus
+Teabe soovijale
+Teabenõude esitamine
+Teabe avaldamise kohustus
+Teabe valdajale
+Teabenõude täitmine
+Dokumendiregistri pidamine
+Juurdepääsupiiranguga teave
+Andmekogude kooskõlastamine
+Avaliku teabe taaskasutamine (avaandmed)
+Juhendid
+Avaliku teabe seaduse üldjuhend
+Eraõiguslike avaliku teabe valdajate juhend
+Andmekogude juhend
+AKI menetluskord riigi infosüsteemi haldussüsteemis
+Avaliku teabe õppevideod
+KKK
+Avalik teave
+Teabenõue
+Juurdepääsupiirang
+Dokumendiregister
+Rahvusvaheline 
+Piiriülene koostöö
+Koostöö 
+Uudised
+Kohtupraktika ja suunised
+Kohtupraktika
+Euroopa Andmekaitsenõukogu suunised
+Andmete vaba liikumine
+Piiriülesed menetlused
+Isikuandmete edastamine välisriiki
+Andmed rahvusvahelistes infosüsteemides
+Viisainfosüsteem
+Schengeni infosüsteem 
+Tolliinfosüsteem
+Riigist lahkumise ja sisenemise süsteem EES
+Uued rahvusvahelised infosüsteemid
+Euroopa andmestrateegia
+Andmemäärus
+Digiturgude määrus
+Digivaldkonna koondpaketid (Digital Omnibus ja AI Omnibus)
+Digivaldkonna koondpakettide (Digital Omnibusi ja AI Omnibusi) ajakava
+Juhendid
+Isikuandmed
+Isikuandmete töötleja üldjuhend
+Isikuandmete töötlemine töösuhetes
+Õigustatud huvi
+Juhend kaamerate kasutamise kohta
+Andmeturbe soovitused e-poodidele
+Ühisjuhend: Abivajavast lapsest teatamine ja andmekaitse
+Teabe avalikkus
+Avaliku teabe seaduse üldjuhend
+Eraõiguslike avaliku teabe valdajate juhend
+Andmekogude juhend
+AKI menetluskord riigi infosüsteemi haldussüsteemis
+Avaliku teabe õppevideod
+Kõik juhendid
+Tehisaru
+Tehisaru ja andmekaitse
+Tehisintellekti määrus
+Isikuandmete kaitse
+Teadlikkus ja inimese õigused
+Tehisaru kasutusele võtjale
+Lisalugemist
+Tehisaru kasutuselevõtt tervishoius eeldab läbimõeldud andmetöötlust
+Tähelepanu juhtimine: Üldotstarbelise tehisintellekti kasutamine tervishoius
+Vastus selgitustaotlusele: Tehisintellektipõhine dokumenteerimistarkvara tervishoiuteenuste osutamisel
+Meist 
+Kontaktid
+Kõik kontaktid
+Küsi Bürokratilt
+Nõuandetelefon: 5620 2341 E-N 13.00-16.00  
+[email protected]
+Meediapäringud: 
+[email protected]
+Võta ühendust
+Vastamistähtajad
+Nõuandetelefon
+Selgitustaotlus
+Vaie avaliku teabe asjas
+Kaebus isikuandmete kaitse asjas
+Kaebus maksehäire asjas
+Teabenõue
+Saada kiri
+Rikkumisteade
+Vaide esitamine 
+EL õiguse rikkumisest teavitamine 
+AKI tegevus
+AKI otsused
+Kohtulahendid
+Seired
+Auditid
+Ringkirjad
+Podcast "Andmehääling"
+Aastaraamatud
+Uudiskiri
+Sündmused
+Koolitustingimused
+Koolitused
+Üritused
+Konverents "A²: avalik teave ja avaandmed – teadmine annab kindluse"
+Asutusest
+Avaandmed
+Andmekaitsetingimused
+Majandusteave 
+Õigusaktid
+Lobistidega kohtumised
+Strateegia
+Struktuur
+Statistika
+Dokumendiregister
+Projektid
+Liitu meiega
+Vabad töökohad 
+Tule praktikale
+Pressiruum
+Inspektsioonist
+Meediasuhtluse põhimõtted
+AKI kanalid
+Menetlusuudised
+Pressikontaktid
+Kõneisikud
+Kiirelt kätte
+Juhendid ja KKK
+Isikuandmete kaitse KKK
+Teabe avalikkuse KKK
+Andmekaitse ABC õppevideod
+Avaliku teabe õppevideod
+Andmekaitse lühivideod ettevõtjale
+Videovalve korraldajale
+Isikuandmete töötlemine töösuhetes
+Isikuandmete töötlemine korteriühistutes
+Aki otsused
+Ettekirjutused
+Vaideotsused
+Seisukohad
+Kaebuse esitamine
+Millal AKI ei sekku
+Teadlikkus
+Uudised
+Podcast
+Uudiskiri
+Koolitused
+Digivaldkonna koondpaketid (Digital Omnibus ja AI Omnibus)
+Digivaldkonna koondpakettide (Digital Omnibusi ja AI Omnibusi) ajakava
+Leivapuru
+Uudised
+Rikkumine juhtus – mis nüüd? Kuidas ja millal andmekaitse rikkumisest teavitada?
+Rikkumine juhtus – mis nüüd? Kuidas ja millal andmekaitse rikkumisest teavitada?
+17.09.2025 | 15:08
+1 pilt
+Rikkumine juhtus – mis nüüd? Kuidas ja millal andmekaitse rikkumisest teavitada? 
+ Foto: Pexels.com
+Gallery
+Mikrofon
+Photo: Pexels.com
+Helesinisel arvuti kuvari taustal mikrofoni pilt
+      Allalaadimine
+Tänases saates keskenduvad AKI tehnoloogia valdkonnajuht Urmo Parm ja andmeturbe ekspert Eleri Karu IKÜM-ist tulenevalt rikkumisteatele ja selle esitamisele. Mis üldse on rikkumisteade, miks on oluline rikkumisest teavitada, kuidas AKI rikkumisi avastab ning millal ja kellele neist teatama peab. 
+Andmeturve kaitseb isikuandmeid volitamata juurdepääsu, muutmise, hävitamise, avalikustamise eest. Ettevõtte usaldusväärsus sõltub sellest, kuidas andmeid käsitletakse, ja õiguslikud tagajärjed võivad olla päris tõsised, kui andmeturvet eiratakse.
+Rikkumised ei vali ettevõtte suurust – need võivad juhtuda igas organisatsioonis. Seekordses saates keskendume sellele, mis juhtub siis, kui andmeturvet ei järgita ega võeta kasutusele vajalikke turvameetmeid, millest rääkisime ka eelmises Andmehäälingu episoodis.
+Mis on isikuandmete kaitse rikkumine?
+Isikuandmete kaitse rikkumiseks loetakse igasugust turvanõuete rikkumist ehk kõrvalekaldumist organisatsiooni tavapärasest praktikast. See võib kaasa tuua töödeldavate isikuandmete juhusliku või õigusvastase edastamise, loata juurdepääsu neile, avaldamise, kustutamise või muu sarnase olukorra, kus isikuandmed on ohustatud.
+Mis on rikkumisteade?
+Rikkumisteade on järgmine samm pärast rikkumise tuvastamist – see on ametlik teavitamine juhtunust. Näiteks tuleb Andmekaitse Inspektsiooni teavitada 72 tunni jooksul pärast rikkumise toimumist. Rikkumiseks võib olla andmeleke, aga ka olukord, kus süsteem on rivist väljas ja see võib mõjutada isiku õigusi ja vabadusi. Teavitamisvorm on leitav AKI kodulehelt. Lisaks peab vajadusel teavitama ka puudutatud isikuid, et nad saaksid enda kaitsmiseks samme astuda.
+Millal tuleb rikkumist käsitleda rikkumisena, mille kohta tuleb esitada rikkumisteade?
+Rikkumist tuleb käsitleda ja sellest teavitada organisatsiooni sisese
+--- /QQmarkoigus_andmed_turvalisus_too13/ : 0 vastet ---
+
+##### https://volinik.ee/kuidas-poorduda-voliniku-poole/
+kood=404 lõpp-URL=https://volinik.ee/kuidas-poorduda-voliniku-poole/ tüüp=text/html baite=200000 teksti=6
+--- algus ---
+
+Viga
+
+--- /QQmarkoigus_andmed_turvalisus_too13/ : 0 vastet ---
