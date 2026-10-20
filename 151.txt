@@ -1,0 +1,54 @@
+# jooks 151
+# urlid: http://publications.europa.eu/resource/cellar/04cc5bd5-196f-11ee-806b-01aa75ed71a1.0007.03/DOC_1
+# otsi: QQmarkoigus_tehingN6 || Maksja vastutus autoriseerimata || Makseteenuse pakkuja vastutus autoriseerimata || ettepanek[^\n]{0,200}maksete
+
+##### http://publications.europa.eu/resource/cellar/04cc5bd5-196f-11ee-806b-01aa75ed71a1.0007.03/DOC_1
+kood=200 lõpp-URL=http://publications.europa.eu/resource/cellar/04cc5bd5-196f-11ee-806b-01aa75ed71a1.0007.03/DOC_1 tüüp=application/xhtml+xml;charset=UTF-8 baite=577313 teksti=360968
+--- algus ---
+
+1_ET_ACT_part1_v2.docx
+EUROOPA KOMISJON
+Brüssel,28.6.2023
+COM(2023) 367 final
+2023/0210(COD)
+Ettepanek:
+EUROOPA PARLAMENDI JA NÕUKOGU MÄÄRUS,
+milles käsitletakse makseteenuseid siseturul ning millega muudetakse määrust (EL) nr 1093/2010
+(EMPs kohaldatav tekst)
+{COM(2023) 366 final} - {SEC(2023) 256 final} - {SWD(2023) 231 final} - {SWD(2023) 232 final}
+SELETUSKIRI
+1.
+ETTEPANEKU TAUST
+•
+Ettepaneku põhjused ja eesmärgid
+Teises makseteenuste direktiivis
+1
+ on sätestatud õigusraamistik kõigi ELis nii eurodes kui ka muus vääringus tehtavate riigisiseste ja piiriüleste jaemaksete kohta. Esimese makseteenuste direktiiviga,
+2
+ mis võeti vastu 2007. aastal, kehtestati ühtlustatud õigusraamistik ELi ühtse makseturu loomiseks. Esimesele makseteenuste direktiivile tuginedes kõrvaldati teise makseteenuste direktiiviga uut liiki makseteenuste turulepääsu tõkked ning parandati tarbijakaitse ja turvalisuse taset. Enamik teise makseteenuste direktiivi eeskirjadest on kohaldatavad alates 2018. aasta jaanuarist, kuid mõningaid eeskirju, näiteks neid, mis käsitlevad kliendi tugevat autentimist, on kohaldatud alles alates 2019. aasta septembrist.
+Teine makseteenuste direktiiv sisaldab norme makseteenuste osutamise ning norme makseteenuse pakkujate ühe kategooria, nimelt makseasutuste tegevuslubade ja järelevalve kohta. Makseteenuse pakkujate teiste kategooriate alla kuuluvad krediidiasutused, mille tegevust reguleeritakse ELi pangandusalaste õigusaktidega,
+3
+ ja e-raha asutused, mille tegevust reguleeritakse e-raha direktiiviga
+4
+.
+Komisjoni 2020. aasta teatises, milles käsitletakse ELi jaemaksete strateegiat,
+5
+ on sätestatud komisjoni prioriteedid jaemaksete valdkonnas praeguses koosseisus komisjonivolinike kolleegiumi ametiajaks (2019–2024). Sellega samal ajal võeti vastu digirahanduse 
+--- /QQmarkoigus_tehingN6/ : 0 vastet ---
+--- /Maksja vastutus autoriseerimata/ : 1 vastet ---
+…ralduslike ja tehniliste meetmete rakendamine side turvalisuse ja konfidentsiaalsuse tagamiseks kooskõlas direktiiviga 2002/58/EÜ, sealhulgas seoses helistaja liini numbrinäidu edastamise ja e-posti aadressiga.  ⏎ Artikkel 60  ⏎ Maksja vastutus autoriseerimata maksetehingu korral ⏎ 1. ⏎ Erandina artiklist 56 võib maksja olla kohustatud kandma kuni 50 euro ulatuses autoriseerimata maksetehinguga seotud kahju, mis on tekkinud kaotatud või varastatud makseinstrumendi kasutamisest või makseinstrumendi väärkasutamisest. ⏎ Esimest lõiku ei kohaldata, kui esineb ükskõik milline järgmistest asjaoludest: ⏎ a) ⏎ maksja ei olnud makseinstrumendi kaotusest, vargusest või väärkasutamisest enne makse tegemist teadlik, välja arvatud juhul, kui maksja ise pani toime pettuse, või ⏎ b) ⏎ kahju põhjustas makseteenuse pakkuja sellise töötaja, agendi, filiaali või üksuse tegevus või tegevusetus, kellele makseteenuse pakkuja tegevusega seotud ülesanded olid edasi antud. ⏎ Maksja kannab kogu autoriseerimata maksetehingutega seotud kahju, kui see kahju on tekkinud tulenevalt sellest, et maksja on toime pannud pettuse või pole tahtlikult või raske hool…
+
+--- /Makseteenuse pakkuja vastutus autoriseerimata/ : 2 vastet ---
+… mis tahes autoriseeritud kreeditkorraldusest, mis on tehtud nime ja kordumatu tunnuse vastavuse kontrolli teenuse ebakorrektse kohaldamise või teise isikuna esinemist hõlmava pettuse tulemusena,  ⏎ vastavalt artiklile 54; ⏎ vi) ⏎ makseteenuse pakkuja vastutus autoriseerimata maksetehingute puhul vastavalt artiklile 56, ⏎  nime ja kordumatu tunnuse vastavuse kontrolli teenuse ebakorrektse kohaldamise puhul vastavalt artiklile 57 ⏎  ning  ⏎ teise isikuna esinemist hõlmava pettuse puhul vastavalt artiklile 59 ⏎ ; ⏎ vii) ⏎ makseteenuse pakkuja vastutus maksetehingute algatamise või täitmise eest vastavalt artiklitele 75 ja 76;  ⏎ viii) ⏎ tagasimakse tingimused vastavalt artiklitele 62 ja 63; ⏎ f) ⏎ raamlepingu muutmise ja lõpetamise kohta: ⏎ i) ⏎ kui selles on kokku lepitud, artikli 22 kohane teave selle kohta, et makseteenuse kasutaja loetakse tingimuste muudatustega nõustunuks, kui ta ei ole makseteenuse pakkujale teatanud enne muudatuste jõustumise kavandatud kuupäeva, et ta ei ole muudatustega nõus; ⏎ ii) ⏎ raamlepingu kestus; ⏎ iii) ⏎ makseteenuse kasutaja õigus raamleping lõpetada ja kõik lõpetamisega seotud kokkulepped vastavalt artikli 22 l…
+
+…tust. Makseteenuse pakkuja, sealhulgas asjakohasel juhul makse algatamise teenuse pakkuja, peab tõendama, et pettuse on toime pannud makseteenuse kasutaja või et hooletust on üles näidanud makseteenuse kasutaja. ⏎ Artikkel 56  ⏎ Makseteenuse pakkuja vastutus autoriseerimata maksetehingu ⏎ korral ⏎ 1. ⏎ Ilma et see piiraks artikli 54 kohaldamist, teeb maksja makseteenuse pakkuja autoriseerimata maksetehingu puhul maksjale autoriseerimata maksetehingu summa ulatuses viivitamata ja igal juhul hiljemalt järgmise tööpäeva lõpuks alates autoriseerimata tehingu märkamisest või sellekohase teate saamisest tagasimakse, välja arvatud juhul, kui maksja makseteenuse pakkujal on mõistlik põhjus kahtlustada, et maksja on toime pannud pettuse, ja kui ta teavitab sellest põhjusest kirjalikult asjakohast riigiasutust. ⏎ 2. ⏎ Kui maksja makseteenuse pakkujal oli mõistlik põhjus kahtlustada, et maksja on toime pannud pettuse, teeb maksja makseteenuse pakkuja kümne tööpäeva jooksul pärast tehingu märkamist või sellekohase teate saamist üht järgmistest: ⏎ a) ⏎ maksab maksjale autoriseerimata maksetehingu summa tagasi, kui maksja makseteenuse pakk…
+
+--- /ettepanek[^\n]{0,200}maksete/ : 10 vastet ---
+…e makseteenuste direktiivi kohaldamise ja mõju põhjaliku läbivaatamise. See läbivaatamine toimus nõuetekohaselt, peamiselt 2022. aastal, ja selle tulemusel tegi komisjon otsuse esitada teise makseteenuste direktiivi muutmise ettepanekud, et parandada direktiivi toimimist. Need muudatusettepanekud on esitatud kahes ettepanekus: käesolev ettepanek võtta vastu määrus, mis käsitleb makseteenuseid ELis, ning ettepanek võtta vastu direktiiv, mis käsitleb makseteenuseid ja e-raha teenuseid (ning millega muudetakse teatavaid teisi direktiive), keskendudes makseasutuste tegevuslubade andmisele ja nende üle järelevalve tegemisele. ⏎ Teise makseteenuste direktiivi kavandatud läbivaatamine lisati komisjoni 2023. aasta tööprogrammi, nagu ka kavandatud seadusandlik algatus finantsandmetele juurdepääsu raamistiku kohta, millega laiendatakse juurdepääsu finantsandmetele ja nende kasutusvõimalusi muuks kui maksekontode tarvis suuremale hulgale finantsteenustele. ⏎ • ⏎ Kooskõla poliitikavaldkonnas praegu kehtivate õigusnormidega ⏎ Käesoleva algatuse seisukohast oluliste poliitikavaldkonnas praegu kehtivate õigusaktide hulgas on muud …
+
+…da teise makseteenuste direktiivi muutmise ettepanekud, et parandada direktiivi toimimist. Need muudatusettepanekud on esitatud kahes ettepanekus: käesolev ettepanek võtta vastu määrus, mis käsitleb makseteenuseid ELis, ning ettepanek võtta vastu direktiiv, mis käsitleb makseteenuseid ja e-raha teenuseid (ning millega muudetakse teatavaid teisi direktiive), keskendudes makseasutuste tegevuslubade andmisele ja nende üle järelevalve tegemisele. ⏎ Teise makseteenuste direktiivi kavandatud läbivaatamine lisati komisjoni 2023. aasta tööprogrammi, nagu ka kavandatud seadusandlik algatus finantsandmetele juurdepääsu raamistiku kohta, millega laiendatakse juurdepääsu finantsandmetele ja nende kasutusvõimalusi muuks kui maksekontode tarvis suuremale hulgale finantsteenustele. ⏎ • ⏎ Kooskõla poliitikavaldkonnas praegu kehtivate õigusnormidega ⏎ Käesoleva algatuse seisukohast oluliste poliitikavaldkonnas praegu kehtivate õigusaktide hulgas on muud finantsteenuseid reguleerivad õigusaktid, mis käsitlevad ka makseteenuse pakkujaid, ning horisontaalselt kohaldatavad ELi õigusaktid, mis mõjutavad maksete valdkonda. Käesoleva ettep…
+
+…tatute hõlmavad ühtset euromaksete piirkonda (SEPA) käsitlevat 2012. aasta määrust, millega ühtlustati eurodes tehtavate kreedit- ja otsekorralduste suhtes kohaldatavaid tehnilisi nõudeid ⏎ 6 ⏎ . Komisjon tegi 26. oktoobril 2022 ettepaneku muuta SEPA määrust, et kiirendada ja hõlbustada eurodes tehtavate välkmaksete kasutamist ELis ⏎ 7 ⏎ ; ettepanek hõlmab eurovälkmaksete teenust osutavatele  ⏎ makseteenuse pakkujatele  ⏎ esitatavat nõuet pakkuda kasutajatele IBANi ja nime vastavuse kontrollimise teenust ning käesoleva ettepanekuga laiendatakse selle nõude kohaldamisala, hõlmates mis tahes ELi vääringus kreeditkorraldusi võimaldavad makseteenuse pakkujad. Piiriüleseid makseid käsitleva määrusega võrdsustatakse eurodes tehtavate siseriiklike ja piiriüleste ülekannete teenustasud ⏎ 8 ⏎ . Vahendustasusid käsitlevas määruses on sätestatud selliste tasude ülemmäärad ⏎ 9 ⏎ . Käesolev ettepanek on kooskõlas eesmärgiga parandada sularaha kättesaadavust, võimaldades kaupmeestel väljastada füüsilistes kauplustes sularaha ka siis, kui klient ostu ei soorita. Sularaha kättesaadavuse nimel tegutsetakse ka komisjoni jaemaksete strateegia raa…
+
+…s tehtavate kreedit- ja otsekorralduste suhtes kohaldatavaid tehnilisi nõudeid ⏎ 6 ⏎ . Komisjon tegi 26. oktoobril 2022 ettepaneku muuta SEPA määrust, et kiirendada ja hõlbustada eurodes tehtavate välkmaksete kasutamist ELis ⏎ 7 ⏎ ; ettepanek hõlmab eurovälkmaksete teenust osutavatele  ⏎ makseteenuse pakkujatele  ⏎ esitatavat nõuet pakkuda kasutajatele IBANi ja nime vastavuse kontrollimise teenust ning käesoleva ettepanekuga laiendatakse selle nõude kohaldamisala, hõlmates mis tahes ELi vääringus kreeditkorraldusi võimaldavad makseteenuse pakkujad. Piiriüleseid makseid käsitleva määrusega võrdsustatakse eurodes tehtavate siseriiklike ja piiriüleste ülekannete teenustasud ⏎ 8 ⏎ . Vahendustasusid käsitlevas määruses on sätestatud selliste tasude ülemmäärad ⏎ 9 ⏎ . Käesolev ettepanek on kooskõlas eesmärgiga parandada sularaha kättesaadavust, võimaldades kaupmeestel väljastada füüsilistes kauplustes sularaha ka siis, kui klient ostu ei soorita. Sularaha kättesaadavuse nimel tegutsetakse ka komisjoni jaemaksete strateegia raames, milles seatud ühe poliitilise eesmärgi kohaselt peaks sularaha jääma laialdaselt kättesaadavaks. ⏎ Muude a…
+
