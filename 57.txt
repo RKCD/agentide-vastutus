@@ -1,0 +1,23 @@
+# jooks 57
+# urlid: rt:106072023031 rt:AvTS rt:HKMS
+# otsi: QQmarkoigusavalik6 || § 5\. Haldusmenetluse || § 56\. Haldusakti põhjendus || § 28\. Teabevaldaja kohustus || § 29\. || § 46\. Kaebuse esitamise tähtaeg || § 27\. Haldusakti vorm
+
+RT: Haldusmenetluse seadus (HMS), kehtiv redaktsioon 106072023031, kehtivuse algus 2023-12-31T22:00:00Z, staatus KEHTIV, vaata: https://www.riigiteataja.ee/akt/106072023031
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/106072023031/txt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/106072023031/txt tüüp=application/octet-stream;charset=UTF-8 baite=75485 teksti=72318
+--- /QQmarkoigusavalik6/ : 0 vastet ---
+--- /§ 5\. Haldusmenetluse/ : 0 vastet ---
+--- /§ 56\. Haldusakti põhjendus/ : 0 vastet ---
+--- /§ 28\. Teabevaldaja kohustus/ : 0 vastet ---
+--- /§ 29\./ : 1 vastet ---
+…RT I, 28.12.2017, 2 - jõust. 01.02.2018]  ⏎ (4) Dokument loetakse menetlusosalisele kättetoimetatuks ka siis, kui see on allkirja vastu kätte antud menetlusosalisega koos elavale vähemalt 10-aastasele perekonnaliikmele. ⏎ (5) Menetlusosalise ajutise äraoleku korral, kui dokumenti ei olnud võimalik kätte anda ka käesoleva paragrahvi lõikes 4 märgitud isikule, märgib dokumenti kättetoimetav haldusorgan dokumendile lisatud teatisele kellaaja ja kuupäeva, millal dokumendi kättetoimetamine ebaõnnestus. Kirjeldatud juhul võib menetlusosalise dokumendi kätteandmiseks välja kutsuda. ⏎ [RT I, 28.12.2017, 2 - jõust. 01.02.2018]  ⏎ § 29. Haldusorgani poolt kättetoimetamise aeg ⏎ (1) Haldusorgan võib dokumendi kätte toimetada tööpäeviti ajavahemikul kella 8.00-st 20.00-ni. ⏎ (2) Ajavahemikul kella 20.00-st 8.00-ni või puhkepäevadel võib dokumendi kätte toimetada adressaadi nõusolekul või viivitusest tuleneva kahju vältimiseks haldusorgani juhi loal. ⏎ (3) Dokumendi kättetoimetamisel ajavahemikul kella 20.00-st 8.00-ni või puhkepäevadel tuleb esitada käesoleva paragrahvi lõikes 2 nimetatud luba. ⏎ (4) Kui dokument toimetati kätte käesoleva paragrahvi sätteid rikkudes, kuid dokumendi vastuvõtja ei keeldunud dokumendi vastuvõtmisest, loetakse dokument kättetoimetatuks. ⏎ § 30. Dokumendi vastuvõtmisest keeldumise tagajärjed ⏎ Kui menetlusosaline keeldub dokumenti vastu võtmast, teeb dokumendi kättetoimetaja kindlaks keelduja isiku ning teeb dokumendile märke, mille kinnitab oma allkirjaga. Märkega dokumendi tagastab ta haldusorganile. Sel juhul loetakse dokument menetlusosalisele kätte toimetatuks, välja arvatud juhul, kui dokumendi vastuvõtmisest keelduti käesoleva seaduse § 29 lõigete 1–3 rikkumise tõttu. ⏎ § 31. Dokumendi avaldamine ajalehes ⏎ (1) Dokumendi resolutiivosa avaldatakse üleriigilise levikuga ajalehes või seaduses sätestatud juhtudel ametlikus väljaandes Ametlikud Teadaanded, kui: ⏎ 1) dokument on vaja kätte toimetada enam kui sajale isikule; ⏎ 2) puuduvad andmed menetlusosalise aadressi või elektronposti aadressi kohta või kui menetlusosaline ei ela teadaoleval aadressil ja tema tegelik viibimiskoht ei ole teada või kui füüsiline isik ei kinnita elektrooniliselt edastatud dokumendi kättesaamist ning dokumenti ei ole muul viisil võimalik kätte toimetada; ⏎ [RT I, 28.12.2017, 2 - jõust. 01.02.2018]  ⏎ 3) haldusakt on vaja avalikult teatavaks teha ja haldusakt ei kuulu avaldamisele Riigi Teatajas. ⏎ (2) Kui dokument puudutab ainult kohaliku elu küsimusi, võib dokumendi resolutiivosa avaldada kohalikus lehes. ⏎ (3) Dokumendi resolutiivosa loetakse avaldatuks pärast esimest avaldamise korda. ⏎ (4) Dokumendi avaldamise kulud kannab kättetoimetaja. ⏎ (5) Avaldamisega loetakse dokument kättetoimetatuks. ⏎ (6) Dokument avaldatakse ulatuses, mis ei sisalda käesoleva seaduse § 7 lõikes 3 nimetatud andmeid. ⏎ [RT I 2002, 61, 375 - jõust. 01.08.2002]  ⏎ § 32. Kättetoimetamine välisriigis ⏎ (1) Dokumendi kättetoimetamine välisriigis toimub välislepingus sätestatud korras. ⏎ (2) Kui käesoleva paragrahvi lõikes 1 nimetatud lepingut ei ole sõlmitud, toimub dokumendi kättetoimetamine diplomaatilisi kanaleid kau…
+
+--- /§ 46\. Kaebuse esitamise tähtaeg/ : 0 vastet ---
+--- /§ 27\. Haldusakti vorm/ : 0 vastet ---
+
+##### rt:AvTS
+VIGA: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+##### rt:HKMS
+VIGA: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
