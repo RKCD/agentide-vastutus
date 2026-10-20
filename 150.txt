@@ -1,0 +1,47 @@
+# jooks 150
+# urlid: https://www.fi.ee/sites/default/files/2026-04/Finantsinspektsiooni%20aastaaruanne%202025_0_0.pdf https://www.fi.ee/et/uudised/finantsteenuste-kohta-esitatud-kaebuste-arv-kasvas-huppeliselt
+# otsi: QQmarkoigus_tehingN5 || ei lahenda[^\n]{0,300} || [Tt]arbijavaidluste komisjon[^\n]{0,200}
+
+##### https://www.fi.ee/sites/default/files/2026-04/Finantsinspektsiooni%20aastaaruanne%202025_0_0.pdf
+kood=200 lõpp-URL=https://www.fi.ee/sites/default/files/2026-04/Finantsinspektsiooni%20aastaaruanne%202025_0_0.pdf tüüp=application/pdf baite=1208972 teksti=112341
+--- algus ---
+Finantsinspektsiooni 
+aastaaruanne 2025 
+2 
+Finantsinspektsioon 
+Sakala 4 
+15030 Tallinn 
++372 668 0500
++372 668 0501
+info@fi.ee 
+www.fi.ee 
+Majandusaasta algus: 1. jaanuar 2025 
+Majandusaasta lõpp: 31. detsember 2025 
+Põhitegevusala: finantsjärelevalve 
+Juhatus: Kerstin Pilt, Andres Kurgpõld, Andre
+--- /QQmarkoigus_tehingN5/ : 0 vastet ---
+--- /ei lahenda[^\n]{0,300}/ : 1 vastet ---
+…uti pöörduti  ⏎ Finantsinspektsiooni poole teenustasude, maksete tegemise, kontode sulgemise,  ⏎ teenustingimuste ning (reklaami)pakkumistega seotud küsimustes.  ⏎ Seaduse kohaselt ei lahenda Finantsinspektsioon tarbijavaidlusi ega anna konkreetsetes  ⏎ juhtumites hinnangut järelevalve all oleva ettevõtte tegevuse õiguspärasusele. Kaebuse alusel  ⏎ võib inspektsioon siiski pöörduda teenusepakkuja poole selgituste saamiseks ja kontrollida, kas  ⏎ tema tegevus üldiselt vastab seadusele ja sise-eeskirjadele. Kaebuste menetlemise peamine  ⏎ eesmärk on koguda teavet riskikeskkonna kohta ja kasutada seda järelevalvetegevuse  ⏎ suunamisel ja finantsvahendajate tegevuse hindamisel.  ⏎ Finantsinspektsioon aitas finantsteenuste tarbijatel pettusi vältida  ⏎ 2025. aastal avaldas Finantsinspektsioon oma veebilehel kokku 844 hoiatusteadet, et teavitada  ⏎ tarbijaid tegevusloata isikutest ja võimal…
+
+--- /[Tt]arbijavaidluste komisjon[^\n]{0,200}/ : 0 vastet ---
+
+##### https://www.fi.ee/et/uudised/finantsteenuste-kohta-esitatud-kaebuste-arv-kasvas-huppeliselt
+kood=200 lõpp-URL=https://www.fi.ee/et/uudised/finantsteenuste-kohta-esitatud-kaebuste-arv-kasvas-huppeliselt tüüp=text/html; charset=UTF-8 baite=92177 teksti=10267
+--- algus ---
+
+Finantsteenuste kohta esitatud kaebuste arv kasvas hüppeliselt | Finantsinspektsioon
+Info menüü
+Kontakt
+Sisene
+Otsingu võtmesõnad
+Põhinavigatsioon
+Pangandus ja krediit
+Krediidivaldkonna turuosalised
+Krediidiasutused
+Krediidiandjad
+Krediidivahendajad
+Krediidiinkassod
+Krediidivaldkonna tegevuslubade 
+--- /QQmarkoigus_tehingN5/ : 0 vastet ---
+--- /ei lahenda[^\n]{0,300}/ : 0 vastet ---
+--- /[Tt]arbijavaidluste komisjon[^\n]{0,200}/ : 0 vastet ---
