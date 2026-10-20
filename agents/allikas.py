@@ -55,6 +55,8 @@ def tekstiks(tüüp: str, keha: bytes) -> str:
         tekst = BeautifulSoup(keha, "html.parser").get_text("\n")
     else:
         tekst = keha.decode("utf-8", "replace")
+    # ELT 2024+ aktides on "Artikkel\xa050": normaliseeri sisetühik, et otsing töötaks.
+    tekst = tekst.replace("\xa0", " ").replace("\u202f", " ")
     return re.sub(r"\n\s*\n+", "\n", tekst)
 
 
