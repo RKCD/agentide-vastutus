@@ -1,0 +1,11 @@
+# jooks 37
+# urlid: rt:120062026018
+# otsi: § \d+\. [^\n]{0,60}autoriseerimata[^\n]{0,60} || § \d+\. Makseinstrumendi kasutaja kohustused[^\n]{0,40} || § \d+\. Maksja vastutus[^\n]{0,60}
+
+RT: Võlaõigusseadus (VÕS), kehtiv redaktsioon 120062026018, kehtivuse algus 2026-08-31T21:00:00Z, staatus KEHTIV, vaata: https://www.riigiteataja.ee/akt/120062026018
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/120062026018/txt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/120062026018/txt tüüp=application/octet-stream;charset=UTF-8 baite=1110125 teksti=1060574
+--- /§ \d+\. [^\n]{0,60}autoriseerimata[^\n]{0,60}/ : 0 vastet ---
+--- /§ \d+\. Makseinstrumendi kasutaja kohustused[^\n]{0,40}/ : 0 vastet ---
+--- /§ \d+\. Maksja vastutus[^\n]{0,60}/ : 0 vastet ---
