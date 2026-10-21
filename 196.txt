@@ -1,0 +1,23 @@
+# jooks 196
+# urlid: rt:120062026018
+# otsi: QQmarkoigus_tehing16 || [^\n]{0,200}733\^8[^\n]{0,300} || [^\n]{0,200}ei ole tarbija[^\n]{0,200}makse[^\n]{0,200}
+
+RT: Võlaõigusseadus (VÕS), kehtiv redaktsioon 120062026018, kehtivuse algus 2026-08-31T21:00:00Z, staatus KEHTIV, vaata: https://www.riigiteataja.ee/akt/120062026018
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/120062026018/txt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/120062026018/txt tüüp=application/octet-stream;charset=UTF-8 baite=1110125 teksti=1060574
+--- /QQmarkoigus_tehing16/ : 0 vastet ---
+--- /[^\n]{0,200}733\^8[^\n]{0,300}/ : 7 vastet ---
+…a 4; ⏎ [RT I, 07.12.2017, 1 - jõust. 13.01.2018]  ⏎ 16) teave kliendi vastutuse kohta tulenevalt käesoleva seaduse §-st 733^8 , mis peab sisaldama informatsiooni ka vastutuse summalise piirmäära kohta; ⏎ 17) teave teavitamiskohustuse ja selle täitmise t…
+
+…nto. ⏎ [RT I, 07.12.2017, 1 - jõust. 13.01.2018]  ⏎ § 733^8. Maksja vastutus seoses autoriseerimata maksetega ⏎ (1) Kui autoriseerimata makse on tehtud, kasutades kadunud või varastatud makseinstrumenti, kannab maksja riisikot, kuid mitte rohkem kui mak…
+
+…mat; ⏎ [RT I, 07.12.2017, 1 - jõust. 13.01.2018]  ⏎ 5) käesoleva seaduse § 733^8  lõikeid 3 ja 4, § 733^10  punkti 2 ning § 733^11  lõike 1 punkte 4 ja 5 ei kohaldata, kui väikemaksevahendit ei ole võimalik blokeerida või selle edasist kasutamist piira…
+
+…blokeerida või selle edasist kasutamist piirata; ⏎ 6) käesoleva seaduse § 733^2  ja 733^4  ning § 733^8  lõikeid 1 ja 2 ei kohaldata, kui ei ole võimalik omistada väikemaksevahendi kasutamist ühelegi makseteenuse pakkuja kliendile või ei ole makseteen…
+
+--- /[^\n]{0,200}ei ole tarbija[^\n]{0,200}makse[^\n]{0,200}/ : 2 vastet ---
+… et arvelduskrediidilepingu kestus on kolm kuud. ⏎ (8^1) Kui tagasimakse tegemise aega või tagasimakse summat ei ole tarbijakrediidilepingu ega käesoleva paragrahvi lõikes 4, 4^1 , 5, 6, 6^1 , 8, 11 või 12 sätestatud tingimuste põhjal võimalik kindlak…
+
+…akkuja juures avatud kontole kontol kasutatavas vääringus sularaha sissemakse, peab makseteenuse pakkuja tagama, et maksesumma oleks saajale kättesaadav viivitamata pärast raha kättesaamist makseteenuse pakkuja poolt. Kui makseteenuse pakkuja klient …
+
