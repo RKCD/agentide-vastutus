@@ -1,0 +1,11 @@
+# jooks 199
+# urlid: https://publications.europa.eu/resource/celex/32026R1744
+# otsi: QQmarkoigusC1 || Artiklit 113 muudetakse || artikli 86 || Artiklit 86 || Artikkel 2\s+Jõustumine
+
+##### https://publications.europa.eu/resource/celex/32026R1744
+kood=200 lõpp-URL=http://publications.europa.eu/resource/cellar/b459c07f-86fb-11f1-bf5e-01aa75ed71a1.0007.03/DOC_1 tüüp=application/xhtml+xml;charset=UTF-8 baite=351656 teksti=142419
+--- /QQmarkoigusC1/ : 0 vastet ---
+--- /Artiklit 113 muudetakse/ : 0 vastet ---
+--- /artikli 86/ : 0 vastet ---
+--- /Artiklit 86/ : 0 vastet ---
+--- /Artikkel 2\s+Jõustumine/ : 0 vastet ---
