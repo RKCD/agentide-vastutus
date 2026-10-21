@@ -1,0 +1,12 @@
+# jooks 180
+# urlid: rt:131122024048
+# otsi: QQmarkoigus_tehing3 || § 125\. [\s\S]{0,3000}
+
+RT: Tsiviilseadustiku üldosa seadus (TsÜS), kehtiv redaktsioon 131122024048, kehtivuse algus 2024-12-31T22:00:00Z, staatus KEHTIV, vaata: https://www.riigiteataja.ee/akt/131122024048
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/131122024048/txt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/131122024048/txt tüüp=application/octet-stream;charset=UTF-8 baite=98543 teksti=94156
+--- /QQmarkoigus_tehing3/ : 0 vastet ---
+--- /§ 125\. [\s\S]{0,3000}/ : 1 vastet ---
+…§ 124. Esindamine piiratud teovõimega isiku poolt ⏎ Esindajaks võib olla ka piiratud teovõimega isik, välja arvatud seadusjärgse esindusõiguse puhul. ⏎ § 125. Esindusõiguse lõppemise alused ⏎ (1) Seadusjärgne esindusõigus lõpeb seadusega ettenähtud alustel ja korras. ⏎ (2) Volitus lõpeb, kui: ⏎ 1) esindaja on teinud tehingu, milleks volitus oli antud; ⏎ 2) tehingu tegemine, milleks volitus oli antud, on muutunud võimatuks; ⏎ 3) volituse tähtaeg möödub; ⏎ 4) saabub äramuutev tingimus, millega on seotud volituse lõppemine; ⏎ 5) esindatav võtab volituse tagasi; ⏎ 6) esindaja loobub volitusest; ⏎ 7) see tuleneb volituse andmise aluseks olevast tehingust; ⏎ 8) volituse andmise aluseks olev leping lõpeb; ⏎ 9) esindatav sureb; ⏎ 10) esindatavaks või esindajaks …
+
