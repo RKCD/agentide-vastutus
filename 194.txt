@@ -1,0 +1,11 @@
+# jooks 194
+# urlid: rt:120062026018
+# otsi: QQmarkoigus_tehing14 || [Kk]ui (makseteenuse )?klient ei ole tarbija[^\n]{0,300} || § 7(1|2|3)\d(\^\d+)?\. Erisused[^\n]{0,80}
+
+RT: Võlaõigusseadus (VÕS), kehtiv redaktsioon 120062026018, kehtivuse algus 2026-08-31T21:00:00Z, staatus KEHTIV, vaata: https://www.riigiteataja.ee/akt/120062026018
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/120062026018/txt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/120062026018/txt tüüp=application/octet-stream;charset=UTF-8 baite=1110125 teksti=1060574
+--- /QQmarkoigus_tehing14/ : 0 vastet ---
+--- /[Kk]ui (makseteenuse )?klient ei ole tarbija[^\n]{0,300}/ : 0 vastet ---
+--- /§ 7(1|2|3)\d(\^\d+)?\. Erisused[^\n]{0,80}/ : 0 vastet ---
