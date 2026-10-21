@@ -1,0 +1,8 @@
+# jooks 208
+# urlid: https://www.aki.ee
+# otsi: QQmarkoigusL1 || href="[^"]{0,160}(rikkum|intsident|teavit|andmeleke)[^"]{0,100}"[^>]{0,40}>[^<]{0,80}
+
+##### https://www.aki.ee
+kood=200 lõpp-URL=https://www.aki.ee tüüp=text/html; charset=UTF-8 baite=172106 teksti=171776
+--- /QQmarkoigusL1/ : 0 vastet ---
+--- /href="[^"]{0,160}(rikkum|intsident|teavit|andmeleke)[^"]{0,100}"[^>]{0,40}>[^<]{0,80}/ : 0 vastet ---
