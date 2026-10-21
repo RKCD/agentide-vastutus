@@ -1,0 +1,11 @@
+# jooks 174
+# urlid: https://publications.europa.eu/resource/celex/32024R1689
+# otsi: QQmarkoigusvalein5 || \n3\.\s+Tehisintellektisüsteemi, mis tekitab emotsioone[^\n]{0,10}[\s\S]{0,3500} || Artikkel 25\s[\s\S]{0,3500}
+
+##### https://publications.europa.eu/resource/celex/32024R1689
+kood=200 lõpp-URL=http://publications.europa.eu/resource/cellar/dc8116a1-3fe6-11ef-865a-01aa75ed71a1.0007.03/DOC_1 tüüp=application/xhtml+xml;charset=UTF-8 baite=1264187 teksti=567497
+--- /QQmarkoigusvalein5/ : 0 vastet ---
+--- /\n3\.\s+Tehisintellektisüsteemi, mis tekitab emotsioone[^\n]{0,10}[\s\S]{0,3500}/ : 0 vastet ---
+--- /Artikkel 25\s[\s\S]{0,3500}/ : 1 vastet ---
+…sellest tulenevat riski. ⏎ Artikkel 25 ⏎ Vastutus tehisintellekti väärtusahelas ⏎ 1.   Turustajat, importijat, juurutajat või muud …
+
