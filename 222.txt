@@ -1,0 +1,12 @@
+# jooks 222
+# urlid: rt:131122024048
+# otsi: § 118\. Volituse andmine || QQmarkreproduceT11
+
+RT: Tsiviilseadustiku üldosa seadus (TsÜS), kehtiv redaktsioon 131122024048, kehtivuse algus 2024-12-31T22:00:00Z, staatus KEHTIV, vaata: https://www.riigiteataja.ee/akt/131122024048
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/131122024048/txt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/131122024048/txt tüüp=application/octet-stream;charset=UTF-8 baite=98543 teksti=94156
+--- /§ 118\. Volituse andmine/ : 1 vastet ---
+…ab, ja tehing on seotud sellise majandus- või kutsetegevusega, siis eeldatakse, et tehing on tehtud majandus- või kutsetegevuses tegutseva isiku nimel. ⏎ § 117. Esindusõigus ⏎ (1) Esindusõigus on õiguste kogum, mille piires esindaja saab tegutseda esindatava nimel. ⏎ (2) Esindusõiguse võib anda tehinguga (volitus) või see võib tuleneda seadusest (seadusjärgne esindusõigus). ⏎ § 118. Volituse andmine ⏎ (1) Volituse andmine toimub esindatava poolt vastava tahteavalduse tegemisega esindajale või isikule, kellega tehingu tegemiseks volitus antakse, või avalikkusele. ⏎ (2) Kui esindajana tegutseva isiku avaldused või käitumine mõjutavad teist isikut mõistlikult uskuma, et esindajana tegutsevale isikule on antud volitus tehingu tegemiseks, ning esindatav teab või peab teadma, et isik tegutseb tema nimel esindajana ja talub selle isiku sellist tegevust, siis loetakse, et esindatav on volituse andnud. ⏎ (3) Kui seaduses on tehingu tegemiseks ette nähtud teatud vorm, mille järgimata jätmise korral on tehing tühine, peab tehingu tegemiseks antud volitus olema samas vormis. ⏎ § 119. Edasivolitus ⏎ (1) Esindajal on edasivolitamise õigus, kui see tuleneb volitusest. Kui volitus on antud tehingu tegemiseks, mille puhul ei saa mõistlikult oodata selle tegemist esindaja poolt isiklikult, siis eeldatakse, et esindajal on edasivolitamise õigus. ⏎ (2) Seaduslik esindaja võib anda teisele isikule volituse tehingu tegemiseks. ⏎ § 120. Esindusõiguse ulatus ⏎ (1) Seadusjärgse esindusõiguse ulatus määratakse seadusega. ⏎ (2) Volituse ulatuse määrab esindatav. Volitust tõlgendatakse selliselt, nagu pidi esindatava tahteavaldust või käitumist mõistma isik, kellele volitus anti või kes avalikkusele suunatud tahteavaldusele või esindatava avaldusele või käitumisele tugineb. ⏎ § 121. Majandus- või kutsetegevuses tegutseva isiku esindamise erisused ⏎ (1) Kui isikul on volitus teha teise …
+
+--- /QQmarkreproduceT11/ : 0 vastet ---
