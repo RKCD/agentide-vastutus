@@ -1,0 +1,13 @@
+# jooks 184
+# urlid: https://publications.europa.eu/resource/celex/32015L2366
+# otsi: QQmarkoigus_tehing5 || Artikkel 64\s[\s\S]{0,1800} || Artikkel 73\s[\s\S]{0,2200}
+
+##### https://publications.europa.eu/resource/celex/32015L2366
+kood=200 lõpp-URL=http://publications.europa.eu/resource/cellar/dd85ef2e-a953-11e5-b528-01aa75ed71a1.0007.03/DOC_1 tüüp=application/xhtml+xml;charset=UTF-8 baite=842711 teksti=283606
+--- /QQmarkoigus_tehing5/ : 0 vastet ---
+--- /Artikkel 64\s[\s\S]{0,1800}/ : 1 vastet ---
+…ehingute autoriseerimine ⏎ Artikkel 64 ⏎ Nõusolek ja nõusoleku tagasivõtmine ⏎ 1.   Liikmesriigid tagavad, et maksetehing loetakse …
+
+--- /Artikkel 73\s[\s\S]{0,2200}/ : 1 vastet ---
+…teenuse kasutaja poolne. ⏎ Artikkel 73 ⏎ Makseteenuse pakkuja vastutus autoriseerimata maksetehingu korral ⏎ 1.   Ilma et see piira…
+
