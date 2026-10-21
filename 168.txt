@@ -1,0 +1,10 @@
+# jooks 168
+# urlid: https://www.riigiteataja.ee/public-api/api/v1/akt/130062026009/xml
+# otsi: QQmarkoigusavalik14 || 28\. Teabevaldaja[\s\S]{0,300} || 31<sup>3[\s\S]{0,400} || 58<sup>5[\s\S]{0,500}
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/130062026009/xml
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/130062026009/xml tüüp=application/octet-stream;charset=UTF-8 baite=407134 teksti=91904
+--- /QQmarkoigusavalik14/ : 0 vastet ---
+--- /28\. Teabevaldaja[\s\S]{0,300}/ : 0 vastet ---
+--- /31<sup>3[\s\S]{0,400}/ : 0 vastet ---
+--- /58<sup>5[\s\S]{0,500}/ : 0 vastet ---
