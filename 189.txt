@@ -1,0 +1,21 @@
+# jooks 189
+# urlid: https://publications.europa.eu/resource/celex/32026R1744
+# otsi: QQmarkoigusvalein11 || Artiklit 50[^\n]{0,200} || Artikkel 50[^\n]{0,100} || \n\d+\)\s+Artikli[t]? (49|50|51)[^\n]{0,200} || Artikli 111[^\n]{0,200}
+
+##### https://publications.europa.eu/resource/celex/32026R1744
+kood=200 lõpp-URL=http://publications.europa.eu/resource/cellar/b459c07f-86fb-11f1-bf5e-01aa75ed71a1.0007.03/DOC_1 tüüp=application/xhtml+xml;charset=UTF-8 baite=351656 teksti=142419
+--- /QQmarkoigusvalein11/ : 0 vastet ---
+--- /Artiklit 50[^\n]{0,200}/ : 0 vastet ---
+--- /Artikkel 50[^\n]{0,100}/ : 0 vastet ---
+--- /\n\d+\)\s+Artikli[t]? (49|50|51)[^\n]{0,200}/ : 1 vastet ---
+…nõutud I lisa A jaos loetletud asjakohastes liidu ühtlustamisõigusaktides.“ ⏎ 20) ⏎ Artikli 50 lõige 7 asendatakse järgmisega: ⏎ „7.   Komisjon julgustab ja hõlbustab tegevusjuhendite koostamist liidu tasandil, et lihtsustada kunstlikult loodud või manipuleeritud sisu avastamise, tähistamise ja märgistamisega seotud kohustuste tulemuslikku rakendamist. Komisjon, kes võtab täiel …
+
+--- /Artikli 111[^\n]{0,200}/ : 4 vastet ---
+…suhtes kohaldatavaid õigusnorme, on asjakohane selgitada kõnealuse määruse artikli 111 lõikes 2 sätestatud ajapikenduse kohaldamisala. Artikli 111 lõike 2 kohaldamisel tuleks ajapikendust kohaldada juba turule lastud tehisintellektisüsteemi liigi ja mudeli suhtes. See tähendab, et kui vähemalt üks suure riskiga tehisintellektisüsteemi üksikeksemplar on seaduslikult turule …
+
+…mi üksikeksemplar on seaduslikult turule lastud või kasutusele võetud enne artikli 111 lõikes 2 sätestatud kuupäeva, kohaldatakse suure riskiga tehisintellektisüsteemi muude sama liiki ja sama mudeli üksikeksemplaride suhtes artikli 111 lõikes 2 sätestatud ajapikendust ning seega võib neid jätkuvalt liidu turule lasta, seal kättesaadavaks teha või kasutusele võtta ilma lis…
+
+…imusel et selle suure riskiga tehisintellektisüsteemi projekt jääb samaks. Artikli 111 lõikes 2 sätestatud ajapikenduse kohaldamisel on otsustavaks teguriks kuupäev, mil suure riskiga tehisintellektisüsteemi seda liiki ja selle mudeli esimene eksemplar esimest korda liidu turule lasti või liidu turul kasutusele võeti. Iga oluline muudatus selle tehisintellektisüsteemi proj…
+
+…võeti. Iga oluline muudatus selle tehisintellektisüsteemi projektis pärast artikli 111 lõikes 2 sätestatud kuupäeva peaks tooma pakkujale kohustuse täita täielikult kõiki suure riskiga tehisintellektisüsteemide suhtes kohaldatavaid kõnealuse määruse asjakohaseid sätteid, sealhulgas vastavushindamisnõudeid. ⏎ (40) ⏎ Määruse (EL) 2024/1689 artiklis 113 on sätestatud kõnealuse mä…
+
