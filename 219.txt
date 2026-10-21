@@ -1,0 +1,317 @@
+# jooks 219
+# urlid: https://decisions.civilresolutionbc.ca/crt/crtd/en/525448/1/document.do https://eelnoud.valitsus.ee/main https://eur-lex.europa.eu/eli/dir/2015/2366/oj https://eur-lex.europa.eu/eli/dir/2022/2555/oj https://eur-lex.europa.eu/eli/dir/2024/2831/oj https://eur-lex.europa.eu/eli/dir/2024/2853/oj https://eur-lex.europa.eu/eli/reg/2016/679/oj https://eur-lex.europa.eu/eli/reg/2024/1183/oj https://eur-lex.europa.eu/eli/reg/2024/1689/oj https://eur-lex.europa.eu/eli/reg/2024/2847/oj https://eur-lex.europa.eu/eli/reg/2026/1744/oj https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:52025XC05423 https://ria.ee/kuberturvalisus/kuberintsidentide-kasitlemine-cert-ee/kuberintsidendist-teavitamine https://ttja.ee https://ttja.ee/ariklient/ohutus/tooted-teenused/tehisintellektisusteemid https://www.aki.ee https://www.aki.ee/ https://www.e-kaubanduseliit.ee/uudised/puudusega-toote-eest-vastutavate-ettevotjate-ring-laieneb https://www.edpb.europa.eu/ https://www.emta.ee https://www.fi.ee https://www.oiguskantsler.ee https://www.politsei.ee https://www.ria.ee/uudised https://www.riigiteataja.ee/ https://www.riigiteataja.ee/akt/103072026030?leiaKehtiv https://www.riigiteataja.ee/akt/106102026002?leiaKehtiv https://www.riigiteataja.ee/akt/108042025012?leiaKehtiv https://www.riigiteataja.ee/akt/109072026012 https://www.riigiteataja.ee/akt/116102026009?leiaKehtiv https://www.riigiteataja.ee/akt/117032026014?leiaKehtiv https://www.riigiteataja.ee/akt/120062026018?leiaKehtiv https://www.riigiteataja.ee/akt/130062026052?leiaKehtiv https://www.riigiteataja.ee/akt/131122024048?leiaKehtiv https://www.volinik.ee https://rkcd.github.io/agentide-vastutus/ https://rkcd.github.io/agentide-vastutus/favicon.svg
+# otsi: QQmarkLingid1 || Versioon 0\.\d || Viimati uuendatud || Juurutaja kontrollnimekiri || <html lang
+
+##### https://decisions.civilresolutionbc.ca/crt/crtd/en/525448/1/document.do
+kood=200 lõpp-URL=https://decisions.civilresolutionbc.ca/crt/crtd/en/525448/1/document.do tüüp=application/pdf baite=191298 teksti=14911
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://eelnoud.valitsus.ee/main
+kood=200 lõpp-URL=https://eelnoud.valitsus.ee/main tüüp=text/html;charset=UTF-8 baite=23215 teksti=4339
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://eur-lex.europa.eu/eli/dir/2015/2366/oj
+kood=202 lõpp-URL=https://eur-lex.europa.eu/eli/dir/2015/2366/oj tüüp=text/html; charset=UTF-8 baite=0 teksti=3
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://eur-lex.europa.eu/eli/dir/2022/2555/oj
+kood=202 lõpp-URL=https://eur-lex.europa.eu/eli/dir/2022/2555/oj tüüp=text/html; charset=UTF-8 baite=0 teksti=3
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://eur-lex.europa.eu/eli/dir/2024/2831/oj
+kood=202 lõpp-URL=https://eur-lex.europa.eu/eli/dir/2024/2831/oj tüüp=text/html; charset=UTF-8 baite=0 teksti=3
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://eur-lex.europa.eu/eli/dir/2024/2853/oj
+kood=202 lõpp-URL=https://eur-lex.europa.eu/eli/dir/2024/2853/oj tüüp=text/html; charset=UTF-8 baite=0 teksti=3
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://eur-lex.europa.eu/eli/reg/2016/679/oj
+kood=202 lõpp-URL=https://eur-lex.europa.eu/eli/reg/2016/679/oj tüüp=text/html; charset=UTF-8 baite=0 teksti=3
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://eur-lex.europa.eu/eli/reg/2024/1183/oj
+kood=202 lõpp-URL=https://eur-lex.europa.eu/eli/reg/2024/1183/oj tüüp=text/html; charset=UTF-8 baite=0 teksti=3
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://eur-lex.europa.eu/eli/reg/2024/1689/oj
+kood=202 lõpp-URL=https://eur-lex.europa.eu/eli/reg/2024/1689/oj tüüp=text/html; charset=UTF-8 baite=0 teksti=3
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://eur-lex.europa.eu/eli/reg/2024/2847/oj
+kood=202 lõpp-URL=https://eur-lex.europa.eu/eli/reg/2024/2847/oj tüüp=text/html; charset=UTF-8 baite=0 teksti=3
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://eur-lex.europa.eu/eli/reg/2026/1744/oj
+kood=202 lõpp-URL=https://eur-lex.europa.eu/eli/reg/2026/1744/oj tüüp=text/html; charset=UTF-8 baite=0 teksti=3
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:52025XC05423
+kood=202 lõpp-URL=https://eur-lex.europa.eu/legal-content/ET/TXT/?uri=CELEX:52025XC05423 tüüp=text/html; charset=UTF-8 baite=0 teksti=3
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://ria.ee/kuberturvalisus/kuberintsidentide-kasitlemine-cert-ee/kuberintsidendist-teavitamine
+kood=200 lõpp-URL=https://ria.ee/kuberturvalisus/kuberintsidentide-kasitlemine-cert-ee/kuberintsidendist-teavitamine tüüp=text/html; charset=utf-8 baite=113918 teksti=6688
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 1 vastet ---
+…m  ⏎ | 35.17 KB | docx ⏎ Küberintsidentide koondraporti vorm  ⏎ | 10.83 KB | ods ⏎ Viimati uuendatud 05.05.2026 ⏎ Püsi kursis! ⏎ Sotsiaalmeedias ja RSS-voogude abil. ⏎ RIA RSS-vood ⏎ Riigi Infosüsteemi Amet ⏎ Pärnu maantee 139a, 15169 Tallinn ⏎ +372 663 0200 ⏎ [email protected] ⏎ Avatud E–N 8.30–17.00 ja R 8.30–15.45 ⏎ Kasutajatugi ⏎ Privaatsussätted ⏎ Ligipääsetavuse teatis ⏎ Kasutusjuhis ⏎ Küpsised ⏎ …
+
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://ttja.ee
+kood=200 lõpp-URL=https://ttja.ee tüüp=text/html; charset=utf-8 baite=177056 teksti=9166
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://ttja.ee/ariklient/ohutus/tooted-teenused/tehisintellektisusteemid
+kood=200 lõpp-URL=https://ttja.ee/ariklient/ohutus/tooted-teenused/tehisintellektisusteemid tüüp=text/html; charset=utf-8 baite=211559 teksti=20422
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 1 vastet ---
+…amisel. ⏎ Küsimuste korral võtke meiega julgelt ühendust:  ⏎ [email protected] ⏎ Viimati uuendatud 10.09.2026 ⏎ Püsi kursis ja liitu meie infokirjaga!  ⏎ septembri infokiri ⏎   Liitu uudiskirjaga ⏎ Tarbijakaitse ja Tehnilise Järelevalve Amet ⏎ Endla 10A, 10122 Tallinn ⏎ +372 667 2000 ⏎ , E-R kell 10-15 ⏎ Tarbijate nõustamine E-N kell 10-14 telefonil  ⏎ +372 620 1707 ⏎ Kohapealne tarbijate nõustamin…
+
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://www.aki.ee
+kood=200 lõpp-URL=https://www.aki.ee tüüp=text/html; charset=UTF-8 baite=172253 teksti=9649
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://www.aki.ee/
+kood=200 lõpp-URL=https://www.aki.ee/ tüüp=text/html; charset=UTF-8 baite=172253 teksti=9649
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://www.e-kaubanduseliit.ee/uudised/puudusega-toote-eest-vastutavate-ettevotjate-ring-laieneb
+kood=200 lõpp-URL=https://www.e-kaubanduseliit.ee/uudised/puudusega-toote-eest-vastutavate-ettevotjate-ring-laieneb tüüp=text/html; charset=utf-8 baite=63866 teksti=7234
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://www.edpb.europa.eu/
+kood=200 lõpp-URL=https://www.edpb.europa.eu/home_en tüüp=text/html; charset=utf-8 baite=48045 teksti=5328
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://www.emta.ee
+kood=200 lõpp-URL=https://www.emta.ee tüüp=text/html; charset=utf-8 baite=203645 teksti=9307
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://www.fi.ee
+kood=200 lõpp-URL=https://www.fi.ee/et tüüp=text/html; charset=UTF-8 baite=105779 teksti=9208
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://www.oiguskantsler.ee
+kood=200 lõpp-URL=https://www.oiguskantsler.ee tüüp=text/html; charset=UTF-8 baite=65276 teksti=9445
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://www.politsei.ee
+kood=200 lõpp-URL=https://www.politsei.ee tüüp=text/html baite=64587 teksti=4036
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://www.ria.ee/uudised
+kood=404 lõpp-URL=https://www.ria.ee/uudised tüüp=text/html; charset=utf-8 baite=99150 teksti=4626
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://www.riigiteataja.ee/
+kood=200 lõpp-URL=https://www.riigiteataja.ee/ tüüp=text/html baite=61944 teksti=147
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://www.riigiteataja.ee/akt/103072026030?leiaKehtiv
+kood=200 lõpp-URL=https://www.riigiteataja.ee/akt/103072026030?leiaKehtiv tüüp=text/html baite=61944 teksti=147
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://www.riigiteataja.ee/akt/106102026002?leiaKehtiv
+kood=200 lõpp-URL=https://www.riigiteataja.ee/akt/106102026002?leiaKehtiv tüüp=text/html baite=61944 teksti=147
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://www.riigiteataja.ee/akt/108042025012?leiaKehtiv
+kood=200 lõpp-URL=https://www.riigiteataja.ee/akt/108042025012?leiaKehtiv tüüp=text/html baite=61944 teksti=147
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://www.riigiteataja.ee/akt/109072026012
+kood=200 lõpp-URL=https://www.riigiteataja.ee/akt/109072026012 tüüp=text/html baite=61944 teksti=147
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://www.riigiteataja.ee/akt/116102026009?leiaKehtiv
+kood=200 lõpp-URL=https://www.riigiteataja.ee/akt/116102026009?leiaKehtiv tüüp=text/html baite=61944 teksti=147
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://www.riigiteataja.ee/akt/117032026014?leiaKehtiv
+kood=200 lõpp-URL=https://www.riigiteataja.ee/akt/117032026014?leiaKehtiv tüüp=text/html baite=61944 teksti=147
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://www.riigiteataja.ee/akt/120062026018?leiaKehtiv
+kood=429 lõpp-URL=https://www.riigiteataja.ee/akt/120062026018?leiaKehtiv tüüp=text/html; charset=UTF-8 baite=8030 teksti=827
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://www.riigiteataja.ee/akt/130062026052?leiaKehtiv
+kood=200 lõpp-URL=https://www.riigiteataja.ee/akt/130062026052?leiaKehtiv tüüp=text/html baite=61944 teksti=147
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://www.riigiteataja.ee/akt/131122024048?leiaKehtiv
+kood=429 lõpp-URL=https://www.riigiteataja.ee/akt/131122024048?leiaKehtiv tüüp=text/html; charset=UTF-8 baite=8030 teksti=827
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://www.volinik.ee
+kood=429 lõpp-URL=https://www.volinik.ee tüüp=text/html; charset=UTF-8 baite=8015 teksti=812
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
+
+##### https://rkcd.github.io/agentide-vastutus/
+kood=200 lõpp-URL=https://rkcd.github.io/agentide-vastutus/ tüüp=text/html; charset=utf-8 baite=58764 teksti=31163
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 1 vastet ---
+…b ja kuhu teatada. Ülevaade on koostatud olukordade, mitte seaduste kaupa. ⏎ Versioon 0.3 ⏎ Viimati uuendatud 20.10.2026 ⏎ Hele / tume ⏎ See ei ole õigusnõuanne. ⏎  Kaart on orienteeriv ülevaade. Iga väite juures on link allikale. Iga normi juures on märgitud, kas see on esmaallikast kontrollitud (koos kuupäevaga) või  ⏎ kontrollimata ⏎ . Konkreetses olukorras pea nõu juristiga. ⏎ Kui age…
+
+--- /Viimati uuendatud/ : 8 vastet ---
+…tada. Ülevaade on koostatud olukordade, mitte seaduste kaupa. ⏎ Versioon 0.3 ⏎ Viimati uuendatud 20.10.2026 ⏎ Hele / tume ⏎ See ei ole õigusnõuanne. ⏎  Kaart on orienteeriv ülevaade. Iga väite juures on link allikale. Iga normi juures on märgitud, kas see on esmaallikast kontrollitud (koos kuupäevaga) või  ⏎ kontrollimata ⏎ . Konkreetses olukorras pea nõu juristiga. ⏎ Kui agent tegi sulle…
+
+…as teine pool peab teadma, et suhtleb agendiga, ja mis juhtub, kui ei tea? ⏎ Viimati uuendatud 20.10.2026. Kontrollitud 20.10.2026. ⏎ Agent töötleb või lekitab isikuandmeid ⏎ Agent saab ligipääsu isikuandmetele ja kasutab neid valel eesmärgil või saadab need valele saajale. ⏎ kontrollimata ⏎ 4 normi, 3 kontrollitud ⏎ 2 lahtist küsimust ⏎ Näide: Klienditoe agent saadab vastuse koos teise…
+
+…a saanud“, kui rikkumine on näha ainult agendi logides, mida keegi ei loe? ⏎ Viimati uuendatud 20.10.2026. Kontrollimata. ⏎ Agent osaleb avaliku sektori otsuses ⏎ Agent valmistab ette või teeb haldusotsuse: toetus, luba, menetluse käik. ⏎ 4 normi, 4 kontrollitud ⏎ 2 lahtist küsimust ⏎ Näide: Toetuse taotlus lükatakse tagasi automaatselt, sest agent luges taotluse lisa valesti. ⏎ Normid ⏎ …
+
+…se uue nõude kohaselt automaatse menetluse infosüsteemi toimimise loogika? ⏎ Viimati uuendatud 20.10.2026. Kontrollitud 20.10.2026. ⏎ Agent teeb tööalase otsuse inimese kohta ⏎ Agent sõelub kandidaate, hindab töötajate tulemusi või jagab ülesandeid. ⏎ 4 normi, 4 kontrollitud ⏎ 3 lahtist küsimust ⏎ Näide: Värbamisagent jätab kõrvale kõik kandidaadid, kelle CV-s on lünk. Kandidaat küsib…
+
+--- /Juurutaja kontrollnimekiri/ : 2 vastet ---
+…ga toimingu juures? ⏎ Viimati uuendatud 20.10.2026. Kontrollitud 20.10.2026. ⏎ Juurutaja kontrollnimekiri ⏎ Kokkuvõte kõigist olukordadest organisatsioonile, kes agenti kasutab. ⏎ Anna agendile ainult need õigused ja volitused, mida ülesanne vajab, ja vaata need regulaarselt üle. ⏎ Säilita agendi tegevuslogid ja nimeta, kes neid loeb ja kui tihti. ⏎ Nimeta, kes otsustab intsidendist t…
+
+…oiatus volituse kinnitamist küsivate linkide ja sõnumite eest. ⏎ Lehe lõpus "Juurutaja kontrollnimekiri". ⏎ Uued väited on kontrollimata. ⏎ v0.1 — 19.10.2026 ⏎ Esimene avalik versioon: kuus olukorda (tehing, isikuandmed, avalik sektor, tööalane otsus, turvaintsident, vale info). ⏎ Taustanormid: AI-määrus ja digi-omnibus, AI vastutuse direktiivi tagasivõtmine, uus tootevastutuse dire…
+
+--- /<html lang/ : 0 vastet ---
+
+##### https://rkcd.github.io/agentide-vastutus/favicon.svg
+kood=200 lõpp-URL=https://rkcd.github.io/agentide-vastutus/favicon.svg tüüp=image/svg+xml baite=246 teksti=1
+--- /QQmarkLingid1/ : 0 vastet ---
+--- /Versioon 0\.\d/ : 0 vastet ---
+--- /Viimati uuendatud/ : 0 vastet ---
+--- /Juurutaja kontrollnimekiri/ : 0 vastet ---
+--- /<html lang/ : 0 vastet ---
