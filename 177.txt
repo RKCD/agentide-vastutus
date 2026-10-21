@@ -1,0 +1,28 @@
+# jooks 177
+# urlid: rt:120062026018
+# otsi: QQmarkoigusvalein6 || \n§ 3[5-9]\. [^\n]{0,120}[\s\S]{0,900} || \n§ 1(03|04)\. [^\n]{0,100} || \n§ 127\. [^\n]{0,100}[\s\S]{0,900} || kolmanda isiku kasutamine[^\n]{0,200} || [Tt]äitmisel kasutab[^\n]{0,300}
+
+RT: Võlaõigusseadus (VÕS), kehtiv redaktsioon 120062026018, kehtivuse algus 2026-08-31T21:00:00Z, staatus KEHTIV, vaata: https://www.riigiteataja.ee/akt/120062026018
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/120062026018/txt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/120062026018/txt tüüp=application/octet-stream;charset=UTF-8 baite=1110125 teksti=1060574
+--- /QQmarkoigusvalein6/ : 0 vastet ---
+--- /\n§ 3[5-9]\. [^\n]{0,120}[\s\S]{0,900}/ : 4 vastet ---
+…, 1 - jõust. 13.06.2014]  ⏎ 2. jagu Tüüptingimused ⏎ § 35. Tüüptingimuse mõiste ⏎ (1) Tüüptingimuseks loetakse lepingutingimust, mis on eelnevalt välja töötatud tüüplepingutes kasutamiseks või mida lepingupooled muul põhjusel ei ole eraldi läbi rääkinud…
+
+…must kasutati, kõrvalekalduv kokkulepe on tühine. ⏎ § 36. Sätete kohaldamine ⏎ (1) Käesolevas jaos sätestatut ei kohaldata lepingutele pärimis- ja perekonnasuhete valdkonnas ning lepingutele äriühingute, muude juriidiliste isikute ja seltsingute asutam…
+
+…takse. ⏎ [RT I 2003, 78, 523 - jõust. 27.12.2003]  ⏎ § 37. Tüüptingimused lepingu osana ⏎ (1) Tüüptingimused on lepingu osaks, kui tingimuse kasutaja enne lepingu sõlmimist või sõlmimise ajal neile kui lepinguosale selgelt viitas ja teisel lepingupoolel…
+
+…ingimusega, kehtib eraldi kokku lepitud tingimus. ⏎ § 39. Tüüptingimuste tõlgendamine ⏎ (1) Tüüptingimust tuleb tõlgendada nii, nagu teise lepingupoolega sarnane mõistlik isik seda samadel asjaoludel mõistma pidi. Kahtluse korral tõlgendatakse tüüpting…
+
+--- /\n§ 1(03|04)\. [^\n]{0,100}/ : 2 vastet ---
+…ast seda, kui ta sai takistavast asjaolust teada. ⏎ § 103. Rikkumise vabandatavus ⏎ (1) Võlgnik vastutab kohustuse rikkumise eest, välja arvatud, kui rikkumine on vabandatav. Eeldatakse, et kohustuse rikkumine ei ole vabandatav. ⏎ (2) Kohustuse rikkumin…
+
+…kkumise eest rikkumise vabandatavusest sõltumata. ⏎ § 104. Vastutus süü puhul ⏎ (1) Seaduses või lepingus ettenähtud juhtudel vastutab isik oma kohustuse rikkumise eest üksnes süü olemasolu korral. ⏎ (2) Süü vormid on hooletus, raske hooletus ja tahtlus…
+
+--- /\n§ 127\. [^\n]{0,100}[\s\S]{0,900}/ : 1 vastet ---
+…us või õigus lõpeks. ⏎ 7. peatükk KAHJU HÜVITAMINE ⏎ § 127. Kahju hüvitamise eesmärk ja ulatus ⏎ (1) Kahju hüvitamise eesmärk on kahjustatud isiku asetamine olukorda, mis on võimalikult lähedane olukorrale, milles ta oleks olnud, kui kahju hüvitamise ko…
+
+--- /kolmanda isiku kasutamine[^\n]{0,200}/ : 0 vastet ---
+--- /[Tt]äitmisel kasutab[^\n]{0,300}/ : 0 vastet ---
