@@ -1,0 +1,31 @@
+# jooks 181
+# urlid: rt:116102026009
+# otsi: QQmarkoigus_tehing4 || \n§ 89\. [\s\S]{0,2800} || \n§ \d+\^?\d*\. (Intress|Viivis|Maksuintress)[^\n]{0,80}[\s\S]{0,900} || \n§ \d+\^?\d*\. Maksuvead[^\n]{0,40} || e-maksuamet[^\n]{0,200}
+
+RT: Maksukorralduse seadus (MKS), kehtiv redaktsioon 116102026009, kehtivuse algus 2026-10-16T21:00:00Z, staatus KEHTIV, vaata: https://www.riigiteataja.ee/akt/116102026009
+
+##### https://www.riigiteataja.ee/public-api/api/v1/akt/116102026009/txt
+kood=200 lõpp-URL=https://www.riigiteataja.ee/public-api/api/v1/akt/116102026009/txt tüüp=application/octet-stream;charset=UTF-8 baite=338122 teksti=325003
+--- /QQmarkoigus_tehing4/ : 0 vastet ---
+--- /\n§ 89\. [\s\S]{0,2800}/ : 1 vastet ---
+… tõttu tunnistab maksuhaldur selle kehtetuks ning teeb maksuotsuse (§ 95). ⏎ § 89. Deklaratsiooni parandamine ⏎ (1) Kui maksukohustuslane enne maksusumma määramise aegumist (§ 98) avastab, et tema või tema nimel esitatud deklaratsioonis esinevad vead või on andmed puudulikud ning seetõttu on deklareeritud maksusumma väiksem maksuseaduse alusel tasumisele kuuluvast maksusumma…
+
+--- /\n§ \d+\^?\d*\. (Intress|Viivis|Maksuintress)[^\n]{0,80}[\s\S]{0,900}/ : 4 vastet ---
+…kseks § 105 lõike 2 tähenduses. ⏎ [RT I 2008, 58, 323 - jõust. 01.01.2009]  ⏎ § 117. Intressimäär ⏎ (1) Käesoleva seaduse §-des 115 ja 116 sätestatud intressi määr on 0,06 protsenti päevas. ⏎ (1^1) Kaupade importimise ja eksportimisega seonduvalt ekspordi- ja imporditollimaksult tasumisele kuuluva intressimäära kindlaksmääramisel lähtutakse tolliseadustiku artikli 114 lõikes 1…
+
+…vi lõikes 1 sätestatud määras. ⏎ [RT I, 07.06.2013, 1 - jõust. 01.07.2013]  ⏎ § 118. Intressi arvestamise aegumine ⏎ (1)  Intressi arvestamise aegumistähtaeg on üks aasta alates deklaratsiooni alusel arvutatud, maksuotsusega määratud või vastutusotsusega sissenõutava maksusumma täieliku tasumise päevast või isikule alusetult tagastatud summa täieliku tasumise või tasaarvestam…
+
+… lõpliku lahendi jõustumiseni. ⏎ [RT I, 07.06.2013, 1 - jõust. 01.07.2013]  ⏎ § 119. Intressi mittearvestamine ⏎ (1) Intressi arvestamine peatub: ⏎ 1) krediidiasutuse poolt tähtpäevaks täitmata maksukohustuselt krediidiasutuse moratooriumi ajaks; ⏎ 2) [kehtetu -  RT I, 07.12.2018, 1 - jõust. 01.01.2019]  ⏎ 3) tähtpäevaks täitmata maksukohustuselt, mille täitmine toimub vastavalt…
+
+…õtjate ja isikute toetamiseks. ⏎ [RT I, 21.04.2020, 1 - jõust. 22.04.2020]  ⏎ § 168^16. Intressimäär eriolukorra lõppemisest kuni 2021. aasta 31. detsembrini ⏎ Käesoleva seaduse §-des 115 ja 116 sätestatud intressi määr on Vabariigi Valitsuse 2020. aasta 12. märtsil väljakuulutatud eriolukorra lõppemisest kuni 2021. aasta 31. detsembrini 0,03 protsenti päevas. ⏎ [RT I, 21.04.2…
+
+--- /\n§ \d+\^?\d*\. Maksuvead[^\n]{0,40}/ : 0 vastet ---
+--- /e-maksuamet[^\n]{0,200}/ : 6 vastet ---
+…kse: ⏎ 1) dokumendi üleslaadimist Maksu- ja Tolliameti e-teenuse keskkonda „e-maksuamet/e-toll” (edaspidi e-maksuamet) tingimusel, et dokumendi adressaat on e-maksuameti kasutaja ja ta on teatanud maksuhaldurile oma elektronposti aadressi või mobiiltelefoni numbri; ⏎ 2) dokumendi saatmist dokumendi adressaadi nõusolekul tema elektronposti aadressil, mille dokumendi adressaat…
+
+…lle dokumendi adressaat on maksuhaldurile teatavaks teinud. ⏎ (2) Dokumendi e-maksuametis kättesaadavaks tegemise kohta saadetakse dokumendi adressaadile sellekohane teade tema elektronposti aadressil või lühisõnumiga mobiiltelefoni numbril. ⏎ (2^1) Maksukohustuslase taotluse alusel antud automaatse haldusakti ja dokumendi kättetoimetamise ajaks loetakse dokumendi andmise he…
+
+…kohustuslase taotluse alusel koostatud automaatse haldusakti või dokumendi e-maksuameti kaudu kättesaadavaks viivitamata. Maksukohustuslase nõusolekul kättetoimetamise kohta teadet ei saadeta. ⏎ [RT I, 07.12.2018, 1 - jõust. 01.01.2019]  ⏎ (3) Elektronposti aadressil saadetud dokument loetakse kättetoimetatuks, kui adressaat saadab kinnituse dokumendi kättesaamise kohta. E-m…
+
+…etoimetatuks, kui adressaat saadab kinnituse dokumendi kättesaamise kohta. E-maksuametisse üleslaaditud dokument loetakse kättetoimetatuks selle avamisel, dokumendi kättetoimetamise registreerib infosüsteem automaatselt. ⏎ (4) Elektrooniliselt kättesaadavaks tehtud dokument toimetatakse kätte ka posti teel, kui: ⏎ 1) dokumendi adressaat seda soovib; ⏎ 2) dokumenti ei ole avat…
+
