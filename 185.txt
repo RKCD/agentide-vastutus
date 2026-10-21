@@ -1,0 +1,18 @@
+# jooks 185
+# urlid: https://publications.europa.eu/resource/celex/32015L2366
+# otsi: QQmarkoigus_tehing6 || Article 64\s[\s\S]{0,1800} || Article 73\s[\s\S]{0,2200} || Article 69\s[\s\S]{0,1300}
+
+##### https://publications.europa.eu/resource/celex/32015L2366
+kood=200 lõpp-URL=http://publications.europa.eu/resource/cellar/dd85ef2e-a953-11e5-b528-01aa75ed71a1.0006.03/DOC_1 tüüp=application/xhtml+xml;charset=UTF-8 baite=859273 teksti=307602
+--- /QQmarkoigus_tehing6/ : 0 vastet ---
+--- /Article 64\s[\s\S]{0,1800}/ : 1 vastet ---
+… of payment transactions ⏎ Article 64 ⏎ Consent and withdrawal of consent ⏎ 1.   Member States shall ensure that a payment transact…
+
+--- /Article 73\s[\s\S]{0,2200}/ : 1 vastet ---
+…he payment service user. ⏎ Article 73 ⏎ Payment service provider’s liability for unauthorised payment transactions ⏎ 1.   Member St…
+
+--- /Article 69\s[\s\S]{0,1300}/ : 2 vastet ---
+…ke appropriate measures. ⏎ Article 69 ⏎ Obligations of the payment service user in relation to payment instruments and personalis…
+
+…e obligations set out in Article 69 with intent or gross negligence. In such cases, the maximum amount referred to in the fir…
+
