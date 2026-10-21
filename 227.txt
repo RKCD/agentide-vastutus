@@ -1,0 +1,15 @@
+# jooks 227
+# urlid: https://publications.europa.eu/resource/celex/32026R1744
+# otsi: QQmarkreproOT02a || artikli 50 lõike 2 nõuded || Artikkel 111 || neljakuu || Artikkel 113
+
+##### https://publications.europa.eu/resource/celex/32026R1744
+kood=200 lõpp-URL=http://publications.europa.eu/resource/cellar/b459c07f-86fb-11f1-bf5e-01aa75ed71a1.0007.03/DOC_1 tüüp=application/xhtml+xml;charset=UTF-8 baite=351656 teksti=142419
+--- /QQmarkreproOT02a/ : 0 vastet ---
+--- /artikli 50 lõike 2 nõuded/ : 1 vastet ---
+…nne 2. augustit 2026 turule lastud sünteesitud audio-, pildi-, video- või tekstisisu genereerivate tehisintellektisüsteemide, sealhulgas üldotstarbeliste tehisintellektisüsteemide pakkujad võtavad vajalikud meetmed, et täita artikli 50 lõike 2 nõuded 2. detsembriks 2026.“ ⏎ 40) ⏎ Artikli 113 kolmandat lõiku muudetakse järgmiselt: ⏎ a) ⏎ punkt a asendatakse järgmisega: ⏎ „a) ⏎ I ja II peatükki kohaldatakse alates 2. veebruarist 2025, välja arvatud artikli 5 lõike 1 esimese lõigu punktid ba ja bb ning artikli 5 lõiked 1a ja 1b, mida kohaldatakse alates 2. detsembrist 2026;“ ⏎ ; ⏎ b) ⏎ punkt c asendatakse järgmisega: ⏎ „c) ⏎ III peatüki 1., 2. ja 3. jagu, välja arvatud artikli 6 lõige 5, kohaldatakse alates: ⏎ i) ⏎ 2. detsembrist 2027 tehisintellektisüsteemide puhul, mis on liigitatud suure riskiga tehisintellektisüsteemideks vastavalt artikli 6 lõikele 2 ja III lisale, ning ⏎ ii) ⏎ 2. augustist 2028 tehisintellektisüsteemide puhul, mis on liigitatud suure riskiga tehisintellektisüsteemideks vastavalt artikli 6 lõikele 1 ja I lisale;“ ⏎ ; ⏎ c) ⏎ lisatakse järgmine punkt: ⏎ „d) ⏎ artikleid 102–110 kohaldatakse alates 27. juulist 2026.“ ⏎ 41) ⏎ I lisa muud…
+
+--- /Artikkel 111/ : 0 vastet ---
+--- /neljakuu/ : 1 vastet ---
+… pakkujatele, kelle suhtes kohaldatakse määruse (EL) 2024/1689 artikli 50 lõikes 2 sätestatud märgistamiskohustust, piisavalt aega oma tavade kohandamiseks mõistliku aja jooksul ilma turgu häirimata, on asjakohane kehtestada neljakuuline üleminekuperiood pakkujatele, kes on oma süsteemid juba turule lasknud enne 2. augustit 2026. ⏎ (39) ⏎ Et anda suure riskiga tehisintellektisüsteemide pakkujatele piisavalt aega ja selgitada enne määruse (EL) 2024/1689 asjakohaste sätete kohaldamise algust juba turule lastud või kasutusele võetud tehisintellektisüsteemide suhtes kohaldatavaid õigusnorme, on asjakohane selgitada kõnealuse määruse artikli 111 lõikes 2 sätestatud ajapikenduse kohaldamisala. Artikli 111 lõike 2 kohaldamisel tuleks ajapikendust kohaldada juba turule lastud tehisintellektisüsteemi liigi ja mudeli suhtes. See tähendab, et kui vähemalt üks suure riskiga tehisintellektisüsteemi üksikeksemplar on seaduslikult turule lastud või kasutusele võetud enne artikli 111 lõikes 2 sätestatud kuupäeva, kohaldatakse suure riskiga tehisintellektisüsteemi muude sama liiki ja sama mudeli üksikeksemplaride suhtes artikli …
+
+--- /Artikkel 113/ : 0 vastet ---
