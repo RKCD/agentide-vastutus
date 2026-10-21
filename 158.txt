@@ -1,0 +1,13 @@
+# jooks 158
+# urlid: https://publications.europa.eu/resource/celex/32026R1744
+# otsi: QQmarkoigusavalik4 || 2\. detsembr[^\n]{0,10}2027 || artikli 113 [^\n]{0,40}asendatakse|Artikkel 113 asendatakse || Artikkel 6 [^\n]{0,10}muudetakse || III lisa [^\n]{0,200}2027
+
+##### https://publications.europa.eu/resource/celex/32026R1744
+kood=200 lõpp-URL=http://publications.europa.eu/resource/cellar/b459c07f-86fb-11f1-bf5e-01aa75ed71a1.0007.03/DOC_1 tüüp=application/xhtml+xml;charset=UTF-8 baite=351656 teksti=142419
+--- /QQmarkoigusavalik4/ : 0 vastet ---
+--- /2\. detsembr[^\n]{0,10}2027/ : 1 vastet ---
+…iselt: ⏎ a) ⏎ punkt a asendatakse järgmisega: ⏎ „a) ⏎ I ja II peatükki kohaldatakse alates 2. veebruarist 2025, välja arvatud artikli 5 lõike 1 esimese lõigu punktid ba ja bb ning artikli 5 lõiked 1a ja 1b, mida kohaldatakse alates 2. detsembrist 2026;“ ⏎ ; ⏎ b) ⏎ punkt c asendatakse järgmisega: ⏎ „c) ⏎ III peatüki 1., 2. ja 3. jagu, välja arvatud artikli 6 lõige 5, kohaldatakse alates: ⏎ i) ⏎ 2. detsembrist 2027 tehisintellektisüsteemide puhul, mis on liigitatud suure riskiga tehisintellektisüsteemideks vastavalt artikli 6 lõikele 2 ja III lisale, ning ⏎ ii) ⏎ 2. augustist 2028 tehisintellektisüsteemide puhul, mis on liigitatud suure riskiga tehisintellektisüsteemideks vastavalt artikli 6 lõikele 1 ja I lisale;“ ⏎ ; ⏎ c) ⏎ lisatakse järgmine punkt: ⏎ „d) ⏎ artikleid 102–110 kohaldatakse alates 27. juulist 2026.“ ⏎ 41) ⏎ I lisa muudetakse järgmiselt: ⏎ a) ⏎ A jao punkt 1 jäetakse välja; ⏎ b) ⏎ B jakku lisatakse järgmine punkt: ⏎ „21. ⏎ Euroopa Parlamendi ja nõukogu 14. juuni 2023. aasta määrus (EL) 2023/1230, mis käsitleb masinaid ning millega tunnistatakse kehtetuks Euroopa Parlamendi ja nõukogu direktiiv 2006/42/EÜ ja nõukogu direktiiv 73/361/EMÜ ( ⏎ ELT L 165, 29.6.2023, lk 1 ⏎ , ELI:  ⏎ http://data.europa.eu/eli/reg/2023/1230/oj ⏎ ).“ ⏎ 42) ⏎ VIII lisas jäetakse välja B jao punktid 7 ja 9. ⏎ 43) ⏎ Lisatakse järgmine lisa: ⏎ „XIV lisa ⏎ Tehisintellektisüsteemide koodide, kategooriate ja vastavate liikide loetelu artiklis 30 osutatud teavitamismenetluse jaoks, milles täpsustatakse teada antud asutuseks määramise ulatus ⏎ 1.    ⏎ Sissejuhatus ⏎ Suure riskiga tehisintellektisüsteemide vastavushindamine käesoleva määruse kohaselt võib eeldada vastavushindamisasutuste kaasamist. Vastavushindamist võivad teha üksnes käesoleva määruse kohaselt määratud vastavushindamisasutused ning üksnes asjaomaste tehisintellektisüsteemide liikidega seotud tegevuse puhul. Tehisintellektisüsteemide koodide, kategooriate ja vastavate liikid…
+
+--- /artikli 113 [^\n]{0,40}asendatakse|Artikkel 113 asendatakse/ : 0 vastet ---
+--- /Artikkel 6 [^\n]{0,10}muudetakse/ : 0 vastet ---
+--- /III lisa [^\n]{0,200}2027/ : 0 vastet ---
